@@ -1,7 +1,7 @@
 ---
 title: "Natural Gas vs Propane for Standby Generators: Which Fuel Wins?"
 description: "Natural gas vs propane for standby generators: cost-per-kWh math, outage reliability, install costs, and cold-weather performance head to head — which wins?"
-heroImage: "/images/articles/natural-gas-vs-propane-standby.jpg"
+heroImage: "https://files.catbox.moe/drojqr.jpg"
 pubDate: 2026-10-19
 keywords: ["natural gas vs propane generator", "standby generator fuel", "propane generator cost", "natural gas generator pros cons", "whole house generator fuel choice"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Whole House Generator Cost in 2026: Installed Price Breakdown"
 description: "What does a whole house generator cost in 2026? Real installed price ranges ($8k-$15k+), what drives the price, and where the quotes hide the padding."
-heroImage: "/images/articles/whole-house-generator-cost.jpg"
+heroImage: "https://files.catbox.moe/lafhq3.jpg"
 pubDate: 2026-10-19
 keywords: ["whole house generator cost", "standby generator installed cost", "generac installation cost"]
 ---

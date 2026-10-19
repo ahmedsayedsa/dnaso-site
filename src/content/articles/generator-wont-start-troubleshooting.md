@@ -1,7 +1,7 @@
 ---
 title: "Generator Won't Start? Troubleshooting in Order (15-Minute Fix)"
 description: "Generator won't start? Follow this ordered checklist — fuel, oil, battery, spark plug, choke, air filter, carburetor — and fix most no-starts in 15 minutes."
-heroImage: "/images/articles/generator-wont-start-troubleshooting.jpg"
+heroImage: "https://files.catbox.moe/wlejeo.jpg"
 pubDate: 2026-10-19
 keywords: ["generator won't start", "generator troubleshooting", "portable generator no start", "stale gas generator", "standby generator won't start"]
 ---

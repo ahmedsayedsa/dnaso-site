@@ -1,7 +1,7 @@
 ---
 title: "Dual-Fuel vs Gasoline vs Propane Generators: Running Costs Compared"
 description: "Dual-fuel vs gasoline vs propane generators: fuel cost per hour, storage life, availability in outages, and which fuel wins for your situation."
-heroImage: "/images/articles/dual-fuel-vs-gas-vs-propane-generator.jpg"
+heroImage: "https://files.catbox.moe/9imxz2.jpg"
 pubDate: 2026-10-19
 keywords: ["dual fuel vs gasoline generator", "propane vs gas generator", "generator fuel consumption"]
 ---

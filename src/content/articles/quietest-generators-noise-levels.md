@@ -1,7 +1,7 @@
 ---
 title: "Generator Noise Levels Compared: How Loud Is Too Loud?"
 description: "Generator noise levels explained: dB ratings by generator type, inverter vs conventional noise, distance drop-off math, and the quietest models worth buying."
-heroImage: "/images/articles/quietest-generators-noise-levels.jpg"
+heroImage: "https://files.catbox.moe/v08env.jpg"
 pubDate: 2026-10-19
 keywords: ["quietest generator", "generator noise levels", "generator decibels"]
 ---

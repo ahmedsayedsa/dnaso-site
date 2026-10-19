@@ -1,7 +1,7 @@
 ---
 title: "EcoFlow vs Anker vs Bluetti: Portable Power Stations for Home Backup"
 description: "Portable power stations for home backup compared: EcoFlow Delta Pro, Anker Solix F3800, Bluetti AC300/AC500 specs, runtime math, and when they beat a generator."
-heroImage: "/images/articles/portable-power-stations-home-backup.jpg"
+heroImage: "https://files.catbox.moe/74ossu.jpg"
 pubDate: 2026-10-19
 keywords: ["EcoFlow vs Anker vs Bluetti", "portable power station home backup", "solar generator for house", "Delta Pro vs Solix F3800"]
 ---
