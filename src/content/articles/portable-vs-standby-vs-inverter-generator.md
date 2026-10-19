@@ -1,6 +1,7 @@
 ---
 title: "Portable vs Standby vs Inverter Generator: Which Do You Actually Need?"
 description: "Portable vs standby vs inverter generator compared honestly: costs, noise, fuel use, and which type fits occasional outages vs whole-house backup."
+heroImage: "/images/articles/portable-vs-standby-vs-inverter-generator.jpg"
 pubDate: 2026-10-19
 keywords: ["portable vs standby generator", "inverter vs portable generator", "which generator do I need"]
 ---

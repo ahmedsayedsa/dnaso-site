@@ -1,6 +1,7 @@
 ---
 title: "How Much Fuel Does a Generator Use? Real Consumption Numbers"
 description: "Real generator fuel consumption numbers: gallons per hour by size and load, gasoline vs propane vs natural gas, runtime math, and daily outage costs."
+heroImage: "/images/articles/generator-fuel-consumption.jpg"
 pubDate: 2026-10-19
 keywords: ["generator fuel consumption", "how much gas does a generator use", "generator gallons per hour"]
 ---

@@ -1,6 +1,7 @@
 ---
 title: "What Size Generator Do I Need to Run My House?"
 description: "Find the right generator size for your house: running vs starting watts, a room-by-room wattage table, and worked examples for 1,500–3,000 sq ft homes."
+heroImage: "/images/articles/what-size-generator-run-house.jpg"
 pubDate: 2026-10-19
 keywords: ["what size generator do I need", "generator sizing calculator", "how many watts to run a house"]
 ---

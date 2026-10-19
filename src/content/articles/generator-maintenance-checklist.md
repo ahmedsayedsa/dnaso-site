@@ -1,6 +1,7 @@
 ---
 title: "Generator Maintenance Checklist: What to Do and When"
 description: "The generator maintenance checklist that actually matters: oil, filters, battery, fuel, and exercise schedules for standby and portable units."
+heroImage: "/images/articles/generator-maintenance-checklist.jpg"
 pubDate: 2026-10-19
 keywords: ["generator maintenance checklist", "standby generator maintenance schedule", "generator oil change"]
 ---

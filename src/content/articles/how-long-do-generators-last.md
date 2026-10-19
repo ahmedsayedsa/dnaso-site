@@ -1,6 +1,7 @@
 ---
 title: "How Long Do Standby Generators Last?"
 description: "Standby generator lifespan by type: realistic hour ratings (2,000-3,000 for air-cooled), what kills them early, and how maintenance extends life."
+heroImage: "/images/articles/how-long-do-generators-last.jpg"
 pubDate: 2026-10-19
 keywords: ["how long do standby generators last", "generator lifespan hours", "generac generator life expectancy"]
 ---

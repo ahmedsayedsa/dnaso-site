@@ -1,6 +1,7 @@
 ---
 title: "Transfer Switch vs Interlock Kit: Cost, Code, and Safety"
 description: "Transfer switch vs interlock kit for your generator: how each works, real costs ($200-$1,500+), what code requires, and which one fits your setup."
+heroImage: "/images/articles/transfer-switch-vs-interlock-kit.jpg"
 pubDate: 2026-10-19
 keywords: ["transfer switch vs interlock kit", "generator interlock kit cost", "automatic transfer switch cost"]
 ---

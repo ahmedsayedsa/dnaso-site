@@ -25,9 +25,10 @@ interface Props {
   toc: TocItem[];
   related: RelatedItem[];
   wordCount: number;
+  heroImage?: string;
 }
 
-const { title, description, slug, pubDate, updatedDate, keywords, lede, toc, related, wordCount } = Astro.props;
+const { title, description, slug, pubDate, updatedDate, keywords, lede, toc, related, wordCount, heroImage } = Astro.props;
 const canonical = `https://www.dnaso.com${Astro.url.pathname}`;
 const category = categoryFor(slug);
 const minutes = readingMinutes(wordCount);
@@ -86,6 +87,12 @@ const breadcrumbs = {
           </>
         )}
       </div>
+
+      {heroImage && (
+        <figure class="hero-image">
+          <img src={heroImage} alt={title} loading="eager" fetchpriority="high" />
+        </figure>
+      )}
 
       {toc.length > 0 && (
         <nav class="toc" aria-label="In this guide">

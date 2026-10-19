@@ -1,6 +1,7 @@
 ---
 title: "Hurricane & Storm Power Outage Checklist: Fuel, Safety, Generator Prep"
 description: "Storm outage checklist: fuel storage and rotation, generator placement and CO safety, fridge rules, safe refueling, and post-storm maintenance."
+heroImage: "/images/articles/storm-preparedness-checklist.jpg"
 pubDate: 2026-10-19
 keywords: ["hurricane power outage checklist", "storm generator safety", "carbon monoxide generator safety", "fuel storage generator"]
 ---

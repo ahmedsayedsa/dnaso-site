@@ -1,6 +1,7 @@
 ---
 title: "Home Backup Power Guide 2026: Generators vs Batteries"
 description: "Complete 2026 guide to home backup power: generator types, sizing math, installed costs, batteries vs generators, and what actually matters when the grid goes down."
+heroImage: "/images/articles/complete-home-backup-power-guide.jpg"
 pubDate: 2026-10-19
 keywords: ["home backup power", "whole house generator", "generator sizing", "home battery backup"]
 ---
