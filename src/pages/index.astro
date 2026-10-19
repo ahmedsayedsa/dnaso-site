@@ -1,0 +1,89 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { categoryFor, readingMinutes, formatDate } from '../lib/site';
+
+const articles = await getCollection('articles');
+const sorted = articles.sort((a, b) => {
+  if (a.slug === 'complete-home-backup-power-guide') return -1;
+  if (b.slug === 'complete-home-backup-power-guide') return 1;
+  return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+});
+const pillar = sorted.find((a) => a.slug === 'complete-home-backup-power-guide');
+const rest = sorted.filter((a) => a.slug !== 'complete-home-backup-power-guide');
+
+const wordsFor = (body: string | undefined) => (body ?? '').split(/\s+/).filter(Boolean).length;
+const totalWords = sorted.reduce((n, a) => n + wordsFor(a.body), 0);
+---
+
+<Base
+  title="Dnaso"
+  description="Practical, no-fluff guides to home backup power: generator sizing, standby costs, batteries vs generators, maintenance, and outage preparedness for US homeowners."
+  keywords={['home backup power', 'generator sizing', 'standby generator cost', 'home battery backup']}
+>
+  <section class="hero">
+    <div class="wrap-wide">
+      <span class="eyebrow">Independent guides &middot; No sales pitches</span>
+      <h1>Home backup power, <span class="hl">explained plainly.</span></h1>
+      <p class="lede">Generators, home batteries, sizing math, real installed costs — researched from manufacturer specs and electrician guidance, written so a homeowner can actually use it.</p>
+      <div class="hero-cta">
+        {pillar && <a class="btn btn-primary" href={`/articles/${pillar.slug}/`}>Start with the complete guide →</a>}
+        <a class="btn btn-ghost" href="#guides">Browse all guides</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><b>{sorted.length}<span>.</span></b><small>In-depth guides</small></div>
+        <div class="stat"><b>{Math.round(totalWords / 1000)}k<span>+</span></b><small>Words of research</small></div>
+        <div class="stat"><b>$0<span>.</span></b><small>Sponsored content</small></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap-wide">
+    {pillar && (
+      <a class="featured" href={`/articles/${pillar.slug}/`} aria-label={`Read: ${pillar.data.title}`}>
+        <div class="featured-body">
+          <span class="tag">Start here</span>
+          <h3>{pillar.data.title}</h3>
+          <p>{pillar.data.description}</p>
+          <span class="featured-cta">Read the guide →</span>
+        </div>
+      </a>
+    )}
+
+    <section id="guides" aria-label="All guides" style="scroll-margin-top: 84px;">
+      <div class="section-head">
+        <h2>All guides</h2>
+        <p>{rest.length} practical guides, newest first</p>
+      </div>
+      <div class="grid">
+        {rest.map((a) => (
+          <a class="card" href={`/articles/${a.slug}/`}>
+            <span class="tag">{categoryFor(a.slug)}</span>
+            <h3>{a.data.title}</h3>
+            <p>{a.data.description}</p>
+            <div class="card-meta">
+              <span>{readingMinutes(wordsFor(a.body))} min read</span>
+              <span class="dot" aria-hidden="true"></span>
+              <time datetime={a.data.pubDate.toISOString()}>{formatDate(a.data.pubDate)}</time>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="trust" aria-label="Why trust Dnaso">
+      <div class="trust-item">
+        <h3><span class="tick" aria-hidden="true">✓</span> Specific numbers, not fluff</h3>
+        <p>Real wattages, installed price ranges, and fuel costs — the figures you need to make a decision, sourced from specs and current US pricing.</p>
+      </div>
+      <div class="trust-item">
+        <h3><span class="tick" aria-hidden="true">✓</span> Safety first, always</h3>
+        <p>Carbon monoxide, backfeeding, fuel storage — where a mistake can kill, we say so clearly and tell you when to call a licensed professional.</p>
+      </div>
+      <div class="trust-item">
+        <h3><span class="tick" aria-hidden="true">✓</span> Independent &amp; ad-supported</h3>
+        <p>We don't sell generators or take installer commissions. The site is supported by display ads — advertisers never influence what we write.</p>
+      </div>
+    </section>
+  </div>
+</Base>

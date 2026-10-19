@@ -1,0 +1,125 @@
+---
+import Base from './Base.astro';
+import { formatDate, readingMinutes, categoryFor } from '../lib/site';
+
+interface TocItem {
+  slug: string;
+  text: string;
+}
+
+interface RelatedItem {
+  slug: string;
+  title: string;
+  description: string;
+  words: number;
+}
+
+interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  pubDate: Date;
+  updatedDate?: Date;
+  keywords?: string[];
+  lede: string;
+  toc: TocItem[];
+  related: RelatedItem[];
+  wordCount: number;
+}
+
+const { title, description, slug, pubDate, updatedDate, keywords, lede, toc, related, wordCount } = Astro.props;
+const canonical = `https://dnaso.com${Astro.url.pathname}`;
+const category = categoryFor(slug);
+const minutes = readingMinutes(wordCount);
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description: description,
+  datePublished: pubDate.toISOString(),
+  ...(updatedDate ? { dateModified: updatedDate.toISOString() } : {}),
+  author: { '@type': 'Organization', name: 'Dnaso', url: 'https://dnaso.com' },
+  publisher: { '@type': 'Organization', name: 'Dnaso', url: 'https://dnaso.com' },
+  mainEntityOfPage: canonical,
+};
+
+const breadcrumbs = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://dnaso.com/' },
+    { '@type': 'ListItem', position: 2, name: 'Guides', item: 'https://dnaso.com/#guides' },
+    { '@type': 'ListItem', position: 3, name: title, item: canonical },
+  ],
+};
+---
+
+<Base title={title} description={description} canonical={canonical} ogType="article" keywords={keywords}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbs)} />
+  </Fragment>
+
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Home</a><span class="sep" aria-hidden="true">/</span>
+      <a href="/#guides">Guides</a><span class="sep" aria-hidden="true">/</span>
+      <span aria-current="page">{category}</span>
+    </nav>
+
+    <article class="post">
+      <span class="tag">{category}</span>
+      <h1>{title}</h1>
+      <p class="article-lede">{lede}</p>
+      <div class="byline">
+        <span class="avatar" aria-hidden="true">D</span>
+        <span>By Dnaso Editorial Team</span>
+        <span class="dot" aria-hidden="true"></span>
+        <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
+        <span class="dot" aria-hidden="true"></span>
+        <span>{minutes} min read</span>
+        {updatedDate && (
+          <>
+            <span class="dot" aria-hidden="true"></span>
+            <span>Updated {formatDate(updatedDate)}</span>
+          </>
+        )}
+      </div>
+
+      {toc.length > 0 && (
+        <nav class="toc" aria-label="In this guide">
+          <h2>In this guide</h2>
+          <ol>
+            {toc.map((h) => (
+              <li><a href={`#${h.slug}`}>{h.text}</a></li>
+            ))}
+          </ol>
+        </nav>
+      )}
+
+      <div class="prose">
+        <slot />
+      </div>
+    </article>
+
+    {related.length > 0 && (
+      <section class="related" aria-label="Related guides">
+        <h2>Keep reading</h2>
+        <p>More practical guides from Dnaso:</p>
+        <div class="grid">
+          {related.map((r) => (
+            <a class="card" href={`/articles/${r.slug}/`}>
+              <span class="tag">{categoryFor(r.slug)}</span>
+              <h3>{r.title}</h3>
+              <p>{r.description}</p>
+              <div class="card-meta">
+                <span>{readingMinutes(r.words)} min read</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</Base>

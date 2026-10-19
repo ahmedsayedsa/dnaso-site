@@ -1,0 +1,1 @@
+{"dependencies":{"@astrojs/sitemap":"^3.7.4","astro":"^4.16.0"},"name":"dnaso-site","private":true,"scripts":{"build":"astro build","dev":"astro dev","preview":"astro preview"},"type":"module","version":"1.0.0"}
