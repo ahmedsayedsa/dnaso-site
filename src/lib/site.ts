@@ -10,6 +10,14 @@ export const CATEGORIES: Record<string, string> = {
   'dual-fuel-vs-gas-vs-propane-generator': 'Fuel',
   'generator-maintenance-checklist': 'Maintenance',
   'how-long-do-generators-last': 'Lifespan',
+  'generac-vs-kohler-vs-cummins': 'Generator Types',
+  'storm-preparedness-checklist': 'Safety',
+  'portable-power-stations-home-backup': 'Batteries',
+  'generator-fuel-consumption': 'Fuel',
+  'quietest-generators-noise-levels': 'Generator Types',
+  'what-can-7500-watt-generator-run': 'Sizing',
+  'generator-wont-start-troubleshooting': 'Maintenance',
+  'natural-gas-vs-propane-standby': 'Fuel',
 };
 
 export function categoryFor(slug: string): string {

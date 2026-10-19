@@ -11,7 +11,7 @@ interface Props {
 }
 
 const { title, description, canonical, ogType = 'website', publishedTime, keywords } = Astro.props;
-const siteUrl = 'https://dnaso.com';
+const siteUrl = 'https://www.dnaso.com';
 const canonicalUrl = canonical ?? `${siteUrl}${Astro.url.pathname}`;
 const fullTitle = title === 'Dnaso' ? 'Dnaso — Home Backup Power Guides' : `${title} | Dnaso`;
 const path = Astro.url.pathname;

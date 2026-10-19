@@ -1,5 +1,5 @@
 ---
-title: "Generac vs Kohler vs Cummins vs Briggs & Stratton: Standby Generator Brands Compared"
+title: "Generac vs Kohler vs Cummins: Standby Brands Compared"
 description: "Honest comparison of the four big standby generator brands: warranty terms, dealer networks, price positioning, noise levels, and which brand fits which buyer."
 pubDate: 2026-10-19
 keywords: ["Generac vs Kohler", "best standby generator brand", "Cummins standby generator", "Briggs Stratton generator reliability"]

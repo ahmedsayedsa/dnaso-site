@@ -28,7 +28,7 @@ interface Props {
 }
 
 const { title, description, slug, pubDate, updatedDate, keywords, lede, toc, related, wordCount } = Astro.props;
-const canonical = `https://dnaso.com${Astro.url.pathname}`;
+const canonical = `https://www.dnaso.com${Astro.url.pathname}`;
 const category = categoryFor(slug);
 const minutes = readingMinutes(wordCount);
 
@@ -39,8 +39,8 @@ const schema = {
   description: description,
   datePublished: pubDate.toISOString(),
   ...(updatedDate ? { dateModified: updatedDate.toISOString() } : {}),
-  author: { '@type': 'Organization', name: 'Dnaso', url: 'https://dnaso.com' },
-  publisher: { '@type': 'Organization', name: 'Dnaso', url: 'https://dnaso.com' },
+  author: { '@type': 'Organization', name: 'Dnaso', url: 'https://www.dnaso.com' },
+  publisher: { '@type': 'Organization', name: 'Dnaso', url: 'https://www.dnaso.com' },
   mainEntityOfPage: canonical,
 };
 
@@ -48,8 +48,8 @@ const breadcrumbs = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://dnaso.com/' },
-    { '@type': 'ListItem', position: 2, name: 'Guides', item: 'https://dnaso.com/#guides' },
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.dnaso.com/' },
+    { '@type': 'ListItem', position: 2, name: 'Guides', item: 'https://www.dnaso.com/#guides' },
     { '@type': 'ListItem', position: 3, name: title, item: canonical },
   ],
 };
