@@ -1,7 +1,7 @@
 ---
 title: "Home EV Charging Cost: 2026 kWh Math by State"
 description: "Home EV charging cost in 2026: the kWh math by state, from $0.10 to $0.45+ per kWh. What 1,000 miles a month costs vs gas, plus overnight time-of-use savings."
-heroImage: ""
+heroImage: "https://files.catbox.moe/bh91g6.jpg"
 pubDate: 2026-10-20
 keywords: ["home EV charging cost", "how much does it cost to charge an EV at home", "EV charging cost per mile", "cost to charge electric car at home 2026", "EV home charging kWh cost by state"]
 category: "EV Charging"

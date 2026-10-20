@@ -1,7 +1,7 @@
 ---
 title: "Cargador EV para Cochera Separada: Zanja y Costo"
 description: "Cargador EV para cochera separada: la zanja cuesta $5–12 por pie y el trabajo completo $1,500–$4,000. Tamaño real del cable, subpanel y costos de permiso."
-heroImage: ""
+heroImage: "https://files.catbox.moe/pgygpu.jpg"
 pubDate: 2026-10-20
 lang: "es"
 keywords: ["cargador ev para cochera separada", "costo instalar cargador ev cochera separada", "costo de zanja para cargador ev", "llevar electricidad a cochera separada", "subpanel para cargador ev"]

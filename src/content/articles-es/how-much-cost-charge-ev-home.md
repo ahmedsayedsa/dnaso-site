@@ -1,7 +1,7 @@
 ---
 title: "Costo de Cargar un VE en Casa: la Matemática del kWh"
 description: "Costo de cargar un VE en casa en 2026: la matemática del kWh por estado, de $0.10 a más de $0.45 por kWh. Lo que cuestan 1,000 millas al mes vs gasolina."
-heroImage: ""
+heroImage: "https://files.catbox.moe/bh91g6.jpg"
 pubDate: 2026-10-20
 lang: "es"
 keywords: ["costo cargar vehiculo electrico en casa", "cuanto cuesta cargar un ve en casa", "costo de carga ev por milla", "costo cargar auto electrico en casa 2026", "tarifa electrica por estado eeuu"]

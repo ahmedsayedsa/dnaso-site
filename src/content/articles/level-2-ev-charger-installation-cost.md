@@ -1,7 +1,7 @@
 ---
 title: "Level 2 EV Charger Installation Cost: 2026 Prices"
 description: "Level 2 EV charger installation cost in 2026: $800 to $3,000+ depending on your panel and wire run. An electrician's breakdown of charger, labor, permits."
-heroImage: ""
+heroImage: "https://files.catbox.moe/wq2cah.jpg"
 pubDate: 2026-10-20
 keywords: ["level 2 EV charger installation cost", "EV charger installation cost 2026", "how much to install EV charger at home", "Tesla wall connector installation cost", "EV charger electrician cost"]
 category: "EV Charging"

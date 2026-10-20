@@ -1,7 +1,7 @@
 ---
 title: "Can an EV Power Your House? V2H Explained (2026)"
 description: "Can an EV power your house? V2H bidirectional charging in 2026: real installed costs ($4,000–$8,000+), which trucks qualify, and 2–4 days of outage math."
-heroImage: ""
+heroImage: "https://files.catbox.moe/6h2bun.jpg"
 pubDate: 2026-10-20
 keywords: ["can an EV power your house", "V2H explained", "vehicle to home charging", "Ford F-150 Lightning home backup power cost", "bidirectional EV charger cost", "Tesla Powershare home backup"]
 category: "EV Charging"
