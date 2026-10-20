@@ -18,6 +18,8 @@ export const CATEGORIES: Record<string, string> = {
   'what-can-7500-watt-generator-run': 'Sizing',
   'generator-wont-start-troubleshooting': 'Maintenance',
   'natural-gas-vs-propane-standby': 'Fuel',
+  'backup-power-oxygen-concentrator': 'Medical Backup',
+  'backup-power-cpap-machine': 'Medical Backup',
 };
 
 export function categoryFor(slug: string): string {
@@ -43,6 +45,8 @@ export const CATEGORIES_ES: Record<string, string> = {
   'what-can-7500-watt-generator-run': 'Dimensionamiento',
   'generator-wont-start-troubleshooting': 'Mantenimiento',
   'natural-gas-vs-propane-standby': 'Combustible',
+  'backup-power-oxygen-concentrator': 'Respaldo médico',
+  'backup-power-cpap-machine': 'Respaldo médico',
   'can-ev-power-house-v2h': 'Baterías',
   'charging-ev-during-outage': 'Seguridad',
   'ev-charger-detached-garage': 'Instalación',
