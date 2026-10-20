@@ -20,6 +20,10 @@ export const CATEGORIES: Record<string, string> = {
   'natural-gas-vs-propane-standby': 'Fuel',
   'backup-power-oxygen-concentrator': 'Medical Backup',
   'backup-power-cpap-machine': 'Medical Backup',
+  'generator-for-sump-pump': 'Sizing',
+  'how-far-should-generator-be-from-house': 'Safety',
+  'can-you-run-generator-in-rain': 'Safety',
+  'how-long-will-20-lb-propane-tank-run-generator': 'Fuel',
 };
 
 export function categoryFor(slug: string): string {
@@ -47,6 +51,10 @@ export const CATEGORIES_ES: Record<string, string> = {
   'natural-gas-vs-propane-standby': 'Combustible',
   'backup-power-oxygen-concentrator': 'Respaldo médico',
   'backup-power-cpap-machine': 'Respaldo médico',
+  'generator-for-sump-pump': 'Dimensionamiento',
+  'how-far-should-generator-be-from-house': 'Seguridad',
+  'can-you-run-generator-in-rain': 'Seguridad',
+  'how-long-will-20-lb-propane-tank-run-generator': 'Combustible',
   'can-ev-power-house-v2h': 'Baterías',
   'charging-ev-during-outage': 'Seguridad',
   'ev-charger-detached-garage': 'Instalación',
