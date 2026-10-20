@@ -161,7 +161,7 @@ const footerGuides = [
       --surface: #ffffff;
       --ink: #1d242d;
       --ink-2: #45525f;
-      --muted: #707c89;
+      --muted: #5b6672;
       --line: #e8e1d1;
       --line-soft: #f0ebdd;
       --dark: #121922;
@@ -305,7 +305,7 @@ const footerGuides = [
     }
     .featured:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
     .featured-body { padding: 30px 32px; }
-    .featured-body h3 { margin: 0 0 10px; font-size: clamp(21px, 2.8vw, 27px); letter-spacing: -0.5px; line-height: 1.35; color: var(--ink); }
+    .featured-body h2, .featured-body h3 { margin: 0 0 10px; font-size: clamp(21px, 2.8vw, 27px); letter-spacing: -0.5px; line-height: 1.35; color: var(--ink); }
     .featured-body p { margin: 0 0 16px; color: var(--ink-2); font-size: 16px; }
     .featured-cta { font-weight: 700; color: var(--amber-deep); font-size: 15.5px; }
     .featured:hover .featured-cta { color: var(--amber); }
@@ -533,7 +533,7 @@ const footerGuides = [
 }
 .faq summary::before {
   content: "+ ";
-  color: #d97706;
+  color: var(--amber-deep);
   font-weight: 700;
 }
 .faq details[open] summary::before {
@@ -578,7 +578,7 @@ const footerGuides = [
 .author-role {
   display: block;
   font-size: 0.875rem;
-  color: #d97706;
+  color: var(--amber-deep);
   font-weight: 500;
 }
 .author-box p {

@@ -5,6 +5,7 @@ export default defineConfig({
   site: 'https://www.dnaso.com',
   output: 'static',
   build: {
-    format: 'directory'
+    format: 'directory',
+    inlineStylesheets: 'always'
   }
 });

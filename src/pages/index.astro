@@ -43,7 +43,7 @@ const totalWords = sorted.reduce((n, a) => n + wordsFor(a.body), 0);
       <a class="featured" href={`/articles/${pillar.slug}/`} aria-label={`Read: ${pillar.data.title}`}>
         <div class="featured-body">
           <span class="tag">Start here</span>
-          <h3>{pillar.data.title}</h3>
+          <h2>{pillar.data.title}</h2>
           <p>{pillar.data.description}</p>
           <span class="featured-cta">Read the guide →</span>
         </div>
