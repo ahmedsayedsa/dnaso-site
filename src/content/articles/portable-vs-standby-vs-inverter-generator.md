@@ -26,7 +26,7 @@ This is the classic blackout machine. Champion, Westinghouse, Predator (Harbor F
 
 A standby generator is a permanent installation. It sits on a concrete pad beside your house like an oversized AC condenser, wired directly into your electrical panel through an automatic transfer switch (ATS). When utility power drops, the ATS detects it, and the generator starts — typically within 10–30 seconds. When power returns, it switches back and shuts itself down. You do nothing. Most run on natural gas or propane.
 
-Generac and Kohler dominate this market. A 22–26 kW air-cooled standby unit costs roughly $4,500–$7,000 for the equipment; installed, most homeowners land between $10,000 and $15,000 once you count the transfer switch, gas line, pad, permits, and electrician. (The task brief anchors $2,000–$6,000+ as "unit-only" pricing, which is accurate before installation — the total bill is the number that matters.)
+Generac and Kohler dominate this market. A 22–26 kW air-cooled standby unit costs roughly $4,500–$7,000 for the equipment; installed, most homeowners land between $10,000 and $15,000 once you count the transfer switch, gas line, pad, permits, and electrician.
 
 **What it does well:** True hands-off backup. Sized right, it runs your whole house — central AC, well pump, electric range. It also adds resale value and, in outage-prone areas, some insurers care about it.
 
