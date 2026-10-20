@@ -136,6 +136,7 @@ This cuts daily consumption roughly in half versus continuous running, and your 
 
 ## Keep reading
 
+- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
 - [Dual-Fuel vs Gasoline vs Propane Generators: Running Costs Compared](/articles/dual-fuel-vs-gas-vs-propane-generator/)
 - [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)
 - [Home Battery Backup vs Generator: An Honest Comparison](/articles/home-battery-vs-generator/)

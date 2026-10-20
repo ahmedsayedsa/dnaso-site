@@ -186,6 +186,7 @@ If any of this is new to you, have an electrician install the transfer switch or
 
 ## Keep reading
 
+- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
 - [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)
 - [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/)
 - [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption/)

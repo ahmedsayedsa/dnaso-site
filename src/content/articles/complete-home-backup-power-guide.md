@@ -193,7 +193,24 @@ Don't forget the ongoing costs: fuel, annual maintenance, and for portables, the
 
 ## Where to go next
 
+**Sizing:**
 - [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/) — the full sizing walkthrough: running vs. starting watts, appliance tables, worked examples.
 - [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/) — AC is the hardest load to size for. Tonnage tables, the starting-watt trap, and how soft starters change the math.
+- [What Can a 7500 Watt Generator Run?](/articles/what-can-7500-watt-generator-run/) — the sweet spot for essentials-only backup, with real load combinations.
+
+**Costs & types:**
+- [Whole House Generator Cost in 2026](/articles/whole-house-generator-cost/) — installed price ranges, what drives the cost up, and the budget alternative.
+- [Portable vs Standby vs Inverter Generator](/articles/portable-vs-standby-vs-inverter-generator/) — the three types compared honestly, with who each one is for.
+- [Home Battery vs Generator](/articles/home-battery-vs-generator/) — when batteries win, when they don't, and the hybrid approach.
+- [Generac vs Kohler vs Cummins](/articles/generac-vs-kohler-vs-cummins/) — the big three standby brands compared.
+
+**Fuel & installation:**
+- [Dual-Fuel vs Gasoline vs Propane](/articles/dual-fuel-vs-gas-vs-propane-generator/) — running costs compared, storage life, and what to pick.
+- [Transfer Switch vs Interlock Kit](/articles/transfer-switch-vs-interlock-kit/) — how to connect it safely and legally.
+
+**Ownership:**
+- [Generator Maintenance Checklist](/articles/generator-maintenance-checklist/) — the routine that decides whether it works when you need it.
+- [How Long Do Generators Last?](/articles/how-long-do-generators-last/) — realistic lifespans by type and what kills them early.
+- [Generator Won't Start? Troubleshooting Guide](/articles/generator-wont-start-troubleshooting/) — the fixes for the most common no-start causes.
 
 Measure twice, buy once. A generator that's sized right and maintained is a boring appliance that saves your week once every couple of years. That's exactly what you want.

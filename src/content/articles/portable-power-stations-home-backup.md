@@ -165,6 +165,7 @@ Size it with the Wh ÷ W math, be honest about your outage history (how long do 
 
 ## Keep reading
 
+- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
 - [Home Battery vs Generator: Which Backup Is Right for You?](/articles/home-battery-vs-generator/)
 - [Portable vs Standby vs Inverter Generator: Which Type Is Right for You?](/articles/portable-vs-standby-vs-inverter-generator/)
 - [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)

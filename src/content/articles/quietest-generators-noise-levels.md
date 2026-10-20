@@ -146,6 +146,7 @@ What doesn't work: wrapping it in blankets (fire and CO hazard), running it in t
 
 ## Keep reading
 
+- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
 - [Portable vs Standby vs Inverter Generator: Which Do You Actually Need?](/articles/portable-vs-standby-vs-inverter-generator/)
 - [Transfer Switch vs Interlock Kit: Cost, Code, and Safety](/articles/transfer-switch-vs-interlock-kit/)
 - [Whole House Generator Cost in 2026: Installed Price Breakdown](/articles/whole-house-generator-cost/)

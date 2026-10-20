@@ -125,6 +125,7 @@ Honest talk: once you're comparing the big four at the same wattage, the brand i
 
 ## Keep reading
 
+- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
 - [How Much Does a Whole House Generator Cost?](/articles/whole-house-generator-cost/)
 - [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)
 - [Generator Maintenance Checklist: Keep It Running When It Matters](/articles/generator-maintenance-checklist/)

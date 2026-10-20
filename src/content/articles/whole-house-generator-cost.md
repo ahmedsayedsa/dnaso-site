@@ -2,6 +2,15 @@
 title: "Whole House Generator Cost in 2026: Installed Price Breakdown"
 description: "What does a whole house generator cost in 2026? Real installed price ranges ($8k-$15k+), what drives the price, and where the quotes hide the padding."
 heroImage: "https://files.catbox.moe/lafhq3.jpg"
+faq:
+  - question: "How much does a whole house generator cost installed in 2026?"
+    answer: "Expect $9,000–$15,000 installed for a typical 14–22kW air-cooled standby with automatic transfer switch. The generator itself runs $4,000–$6,500; the rest is the transfer switch ($1,000–$2,000), gas line work, electrical, permits, and concrete pad. Liquid-cooled units start around $18,000 installed and climb from there."
+  - question: "Is a whole house generator worth the money?"
+    answer: "It depends on your outage frequency and what's at stake. If you lose power multiple times a year, have a sump pump, well pump, or medical equipment, the math usually works — one flooded basement ($5,000–$10,000) or a freezer of spoiled food pays for a big chunk of the generator. If outages are rare and brief, a portable plus extension cords is the smarter spend."
+  - question: "What's the cheapest way to get whole-house backup power?"
+    answer: "The budget route is a large portable generator (9,500–12,000 watts, $1,200–$2,500) plus a manual transfer switch or interlock kit installed by an electrician ($500–$1,500). Total: roughly $2,000–$4,000. You give up automatic startup and have to be home to set it up, but it powers the same essential circuits for a fraction of standby cost."
+  - question: "Do whole house generators increase home value?"
+    answer: "Modestly — appraisers typically credit 50–70% of the installed cost, and it's a genuine selling point in outage-prone areas. It won't pay for itself at resale alone, but in markets where buyers expect backup power (hurricane zones, rural areas with well pumps), a house with a standby can sell faster than one without."
 pubDate: 2026-10-19
 keywords: ["whole house generator cost", "standby generator installed cost", "generac installation cost"]
 ---

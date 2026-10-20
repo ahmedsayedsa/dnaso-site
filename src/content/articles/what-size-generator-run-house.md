@@ -2,6 +2,15 @@
 title: "What Size Generator Do I Need to Run My House?"
 description: "Find the right generator size for your house: running vs starting watts, a room-by-room wattage table, and worked examples for 1,500–3,000 sq ft homes."
 heroImage: "https://files.catbox.moe/ng3fa0.jpg"
+faq:
+  - question: "What size generator do I need for a 2,000 sq ft house?"
+    answer: "Most 2,000 sq ft homes need a 14–18kW standby generator for whole-house coverage, or a 7,500–9,500 watt portable for essentials only (fridge, lights, well pump, and a window AC). The real answer depends on your specific loads — add up running watts for everything you want powered simultaneously, then check the biggest motor's starting surge."
+  - question: "Can a 7500 watt generator run a whole house?"
+    answer: "A 7,500-watt generator can run the essentials in most homes — refrigerator, lights, furnace blower, sump pump, and electronics — but not everything at once. It won't handle central AC (needs 3,000–5,500 running watts plus a massive starting surge) alongside other large loads. For true whole-house coverage including AC, you're looking at 14kW+ standby."
+  - question: "How do I calculate what size generator I need?"
+    answer: "List every appliance you want to run during an outage. Write down the running watts for each (check the nameplate), add them up, then add the highest starting-watt surge among your motor-driven appliances. Your generator's running-watt rating must cover the total, and its surge rating must cover the biggest single startup spike. When in doubt, round up — an overloaded generator trips when you need it most."
+  - question: "Is it bad to oversize a generator?"
+    answer: "Mildly oversizing (10–20%) is fine and gives you headroom. Grossly oversizing wastes money on purchase price and fuel — a 22kW unit powering a few lights burns more fuel per kWh than a right-sized unit. Standby generators also prefer to run at 30%+ load; chronic underloading can cause wet-stacking in diesel units."
 pubDate: 2026-10-19
 keywords: ["what size generator do I need", "generator sizing calculator", "how many watts to run a house"]
 ---

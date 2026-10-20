@@ -10,6 +10,10 @@ const articles = defineCollection({
     keywords: z.array(z.string()).optional(),
     ogImage: z.string().optional(),
     heroImage: z.string().optional(),
+    faq: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }),
 });
 

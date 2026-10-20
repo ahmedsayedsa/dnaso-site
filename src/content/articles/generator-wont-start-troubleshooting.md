@@ -2,6 +2,13 @@
 title: "Generator Won't Start? Troubleshooting in Order (15-Minute Fix)"
 description: "Generator won't start? Follow this ordered checklist — fuel, oil, battery, spark plug, choke, air filter, carburetor — and fix most no-starts in 15 minutes."
 heroImage: "https://files.catbox.moe/wlejeo.jpg"
+faq:
+  - question: "Why won't my generator start after sitting all winter?"
+    answer: "The most common culprit is stale fuel — gasoline starts breaking down in 30 days and can gum up the carburetor in a few months. Next most likely: a dead battery (they self-discharge over winter), followed by old spark plugs or a clogged fuel filter. Start with fresh fuel and a charged battery; those two fix the majority of no-start complaints."
+  - question: "My generator cranks but won't start — what's wrong?"
+    answer: "If it cranks, the battery and starter are working, so the problem is fuel, spark, or air. Check in order: fuel valve open and fresh fuel reaching the carburetor, spark plug firing (pull it, ground it, and look for spark while cranking), and air filter not clogged. On standby units, also check for fault codes on the controller — they often point straight at the problem."
+  - question: "How often should I run my generator if I'm not using it?"
+    answer: "Standby generators handle this automatically with a weekly 10–15 minute exercise cycle — just make sure it's enabled and actually running. For portable generators, run them under load for 20–30 minutes every month or two, and always use fuel stabilizer if gas will sit more than 30 days. The generators that fail during outages are almost always the ones that sat untouched for a year."
 pubDate: 2026-10-19
 keywords: ["generator won't start", "generator troubleshooting", "portable generator no start", "stale gas generator", "standby generator won't start"]
 ---

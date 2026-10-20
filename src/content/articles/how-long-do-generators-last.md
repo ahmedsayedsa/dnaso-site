@@ -2,6 +2,15 @@
 title: "How Long Do Standby Generators Last?"
 description: "Standby generator lifespan by type: realistic hour ratings (2,000-3,000 for air-cooled), what kills them early, and how maintenance extends life."
 heroImage: "https://files.catbox.moe/r46u2e.jpg"
+faq:
+  - question: "How many years does a Generac generator last?"
+    answer: "A well-maintained Generac air-cooled standby typically lasts 20–30 years in residential use, which works out to roughly 2,000–3,000 operating hours. The engine usually outlasts the electronics — controller boards and batteries are the parts that tend to fail first. Regular oil changes and letting the weekly exercise cycle run are what separate the 15-year units from the 30-year ones."
+  - question: "How many hours is a lot for a standby generator?"
+    answer: "For an air-cooled residential standby, anything past 2,000 hours is getting up there — though most homeowners only accumulate 50–100 hours per year between exercise cycles and outages, so the hour meter rarely tells the full story. Age, maintenance history, and environment (salt air, extreme heat) matter more than raw hours for residential units."
+  - question: "Should I repair or replace my old generator?"
+    answer: "Use the 50% rule: if the repair costs more than half of a new installed unit, replace it. Also lean toward replacement if the unit is 15+ years old and needs a major repair (engine, controller, or transfer switch), or if parts are discontinued. Repair makes sense for younger units with component-level failures like a battery charger, starter, or sensor."
+  - question: "Do generators wear out from sitting unused?"
+    answer: "Yes — sitting is harder on a generator than running. Fuel goes stale, batteries discharge, seals dry out, and moisture accumulates in the oil. That's exactly why standby units have a weekly exercise cycle: a 10–15 minute no-load run keeps the battery charged, circulates oil, and burns off moisture. A generator that never exercises is the one that won't start when you need it."
 pubDate: 2026-10-19
 keywords: ["how long do standby generators last", "generator lifespan hours", "generac generator life expectancy"]
 ---
