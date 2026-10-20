@@ -213,4 +213,8 @@ Don't forget the ongoing costs: fuel, annual maintenance, and for portables, the
 - [How Long Do Generators Last?](/articles/how-long-do-generators-last/) — realistic lifespans by type and what kills them early.
 - [Generator Won't Start? Troubleshooting Guide](/articles/generator-wont-start-troubleshooting/) — the fixes for the most common no-start causes.
 
+**EV charging & backup power:**
+- [Can an EV Power Your House? V2H Explained](/articles/can-ev-power-house-v2h/) — bidirectional charging: which trucks can back up a house, what the hardware costs, and the honest limits.
+- [Charging an EV During a Power Outage](/articles/charging-ev-during-outage/) — what actually works: generator charging, clean-power requirements, and real miles-per-gallon math.
+
 Measure twice, buy once. A generator that's sized right and maintained is a boring appliance that saves your week once every couple of years. That's exactly what you want.
