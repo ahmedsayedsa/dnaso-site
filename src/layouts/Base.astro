@@ -8,13 +8,95 @@ interface Props {
   ogType?: string;
   publishedTime?: string;
   keywords?: string[];
+  lang?: 'en' | 'es';
 }
 
 const { title, description, canonical, ogType = 'website', publishedTime, keywords } = Astro.props;
 const siteUrl = 'https://www.dnaso.com';
 const canonicalUrl = canonical ?? `${siteUrl}${Astro.url.pathname}`;
-const fullTitle = title === 'Dnaso' ? 'Dnaso — Home Backup Power Guides' : `${title} | Dnaso`;
+
+// Language / hreflang — derived from the URL path so every page (EN + ES) carries correct alternates.
+const rawPath = Astro.url.pathname;
+const onEs = rawPath === '/es/' || rawPath.startsWith('/es/');
+const lang: 'en' | 'es' = Astro.props.lang ?? (onEs ? 'es' : 'en');
+const enPath = onEs ? (rawPath.slice(3) || '/') : rawPath;
+const esPath = onEs ? rawPath : (rawPath === '/' ? '/es/' : `/es${rawPath}`);
+const enUrl = `${siteUrl}${enPath}`;
+const esUrl = `${siteUrl}${esPath}`;
+const altUrl = lang === 'es' ? enUrl : esUrl;
+const lp = lang === 'es' ? '/es' : '';
+
+const fullTitle = title === 'Dnaso'
+  ? (lang === 'es' ? 'Dnaso — Guías de energía de respaldo para el hogar' : 'Dnaso — Home Backup Power Guides')
+  : `${title} | Dnaso`;
 const path = Astro.url.pathname;
+
+// UI strings (EN / ES)
+const t = lang === 'es' ? {
+  tagline: 'Guías de energía de respaldo',
+  navStart: 'Empieza aquí',
+  navGuides: 'Guías',
+  navAbout: 'Nosotros',
+  navContact: 'Contacto',
+  navCta: 'Ver guías',
+  navAllGuides: 'Todas las guías',
+  langSwitch: 'English',
+  homeLabel: 'Inicio de Dnaso',
+  mainNavLabel: 'Navegación principal',
+  mobileNavLabel: 'Navegación móvil',
+  openMenu: 'Abrir menú',
+  closeMenu: 'Cerrar menú',
+  footerBlurb: 'Guías independientes y prácticas sobre energía de respaldo para el hogar: generadores, baterías, dimensionamiento y costos. Sin ventas disfrazadas, sin tecnicismos.',
+  footerTopGuides: 'Guías destacadas',
+  guideLabels: {
+    'complete-home-backup-power-guide': 'Guía completa de energía de respaldo',
+    'what-size-generator-run-house': 'Guía de dimensionamiento de generadores',
+    'whole-house-generator-cost': 'Costos de un generador para toda la casa',
+    'home-battery-vs-generator': 'Baterías vs generadores',
+    'generator-maintenance-checklist': 'Lista de mantenimiento',
+  } as Record<string, string>,
+  footerSite: 'Sitio',
+  footerAbout: 'Acerca de Dnaso',
+  footerLegal: 'Legal',
+  footerPrivacy: 'Política de privacidad',
+  footerDisclaimer: 'Aviso legal',
+  footerPrivacyShort: 'Privacidad',
+  footerDisclaimerShort: 'Aviso legal',
+  legalLabel: 'Enlaces legales',
+  rights: 'Guías prácticas de energía de respaldo para el hogar. Todos los derechos reservados. Hecho por',
+} : {
+  tagline: 'Backup Power Guides',
+  navStart: 'Start Here',
+  navGuides: 'Guides',
+  navAbout: 'About',
+  navContact: 'Contact',
+  navCta: 'Browse Guides',
+  navAllGuides: 'All Guides',
+  langSwitch: 'Español',
+  homeLabel: 'Dnaso home',
+  mainNavLabel: 'Main navigation',
+  mobileNavLabel: 'Mobile navigation',
+  openMenu: 'Open menu',
+  closeMenu: 'Close menu',
+  footerBlurb: 'Independent, practical guides to home backup power — generators, batteries, sizing, and costs. No sales pitches, no jargon.',
+  footerTopGuides: 'Top Guides',
+  guideLabels: {
+    'complete-home-backup-power-guide': 'Complete Backup Power Guide',
+    'what-size-generator-run-house': 'Generator Sizing Guide',
+    'whole-house-generator-cost': 'Whole-House Generator Costs',
+    'home-battery-vs-generator': 'Batteries vs Generators',
+    'generator-maintenance-checklist': 'Maintenance Checklist',
+  } as Record<string, string>,
+  footerSite: 'Site',
+  footerAbout: 'About Dnaso',
+  footerLegal: 'Legal',
+  footerPrivacy: 'Privacy Policy',
+  footerDisclaimer: 'Disclaimer',
+  footerPrivacyShort: 'Privacy',
+  footerDisclaimerShort: 'Disclaimer',
+  legalLabel: 'Legal',
+  rights: 'Practical guides to home backup power. All rights reserved. Built by',
+};
 
 // Footer guide links (top guides)
 const footerGuides = [
@@ -27,7 +109,7 @@ const footerGuides = [
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang={lang}>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -36,6 +118,11 @@ const footerGuides = [
   {keywords && <meta name="keywords" content={keywords.join(', ')} />}
   <link rel="canonical" href={canonicalUrl} />
   <meta name="robots" content="index, follow" />
+
+  <!-- hreflang: EN ⇄ ES alternates -->
+  <link rel="alternate" hreflang="en" href={enUrl} />
+  <link rel="alternate" hreflang="es" href={esUrl} />
+  <link rel="alternate" hreflang="x-default" href={enUrl} />
 
   <!-- Open Graph -->
   <meta property="og:type" content={ogType} />
@@ -505,32 +592,34 @@ const footerGuides = [
 <body>
   <header class="site-header">
     <div class="wrap-wide header-inner">
-      <a class="brand" href="/" aria-label="Dnaso home">
+      <a class="brand" href={lp + '/'} aria-label={t.homeLabel}>
         <span class="brand-mark" aria-hidden="true">
           <svg viewBox="0 0 32 32" fill="none"><path d="M18 3 8 17.5h6.6L13.5 29 24 14.5h-6.6L18 3z" fill="#fff"/></svg>
         </span>
         <span>
           <span class="brand-name">Dnaso<em>.</em></span>
-          <span class="brand-tag">Backup Power Guides</span>
+          <span class="brand-tag">{t.tagline}</span>
         </span>
       </a>
-      <nav class="nav-desktop" aria-label="Main navigation">
-        <a href="/articles/complete-home-backup-power-guide/" class={path.startsWith('/articles/complete-home-backup-power-guide') ? 'active' : ''}>Start Here</a>
-        <a href="/#guides" class={path === '/' ? 'active' : ''}>Guides</a>
-        <a href="/about/" class={path === '/about/' ? 'active' : ''}>About</a>
-        <a href="/contact/" class={path === '/contact/' ? 'active' : ''}>Contact</a>
-        <a href="/#guides" class="nav-cta">Browse Guides</a>
+      <nav class="nav-desktop" aria-label={t.mainNavLabel}>
+        <a href={`${lp}/articles/complete-home-backup-power-guide/`} class={path.startsWith(`${lp}/articles/complete-home-backup-power-guide`) ? 'active' : ''}>{t.navStart}</a>
+        <a href={`${lp}/#guides`} class={path === `${lp}/` || path === `${lp}/#guides` ? 'active' : ''}>{t.navGuides}</a>
+        <a href={`${lp}/about/`} class={path === `${lp}/about/` ? 'active' : ''}>{t.navAbout}</a>
+        <a href={`${lp}/contact/`} class={path === `${lp}/contact/` ? 'active' : ''}>{t.navContact}</a>
+        <a href={altUrl} class="nav-lang" title={t.langSwitch} style="border:1px solid rgba(255,255,255,0.22)">{t.langSwitch}</a>
+        <a href={`${lp}/#guides`} class="nav-cta">{t.navCta}</a>
       </nav>
-      <button class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu">
+      <button class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="mobile-nav" aria-label={t.openMenu}>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
       </button>
     </div>
-    <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
-      <a href="/articles/complete-home-backup-power-guide/">Start Here</a>
-      <a href="/#guides">All Guides</a>
-      <a href="/about/">About</a>
-      <a href="/contact/">Contact</a>
-      <a href="/#guides" class="nav-cta">Browse Guides</a>
+    <nav class="mobile-nav" id="mobile-nav" aria-label={t.mobileNavLabel}>
+      <a href={`${lp}/articles/complete-home-backup-power-guide/`}>{t.navStart}</a>
+      <a href={`${lp}/#guides`}>{t.navAllGuides}</a>
+      <a href={`${lp}/about/`}>{t.navAbout}</a>
+      <a href={`${lp}/contact/`}>{t.navContact}</a>
+      <a href={altUrl}>{t.langSwitch}</a>
+      <a href={`${lp}/#guides`} class="nav-cta">{t.navCta}</a>
     </nav>
   </header>
 
@@ -542,50 +631,50 @@ const footerGuides = [
     <div class="wrap-wide">
       <div class="footer-grid">
         <div class="footer-brand">
-          <a class="brand" href="/" aria-label="Dnaso home">
+          <a class="brand" href={lp + '/'} aria-label={t.homeLabel}>
             <span class="brand-mark" aria-hidden="true">
               <svg viewBox="0 0 32 32" fill="none"><path d="M18 3 8 17.5h6.6L13.5 29 24 14.5h-6.6L18 3z" fill="#fff"/></svg>
             </span>
             <span class="brand-name">Dnaso<em>.</em></span>
           </a>
-          <p>Independent, practical guides to home backup power — generators, batteries, sizing, and costs. No sales pitches, no jargon.</p>
+          <p>{t.footerBlurb}</p>
         </div>
         <div class="footer-col">
-          <h3>Top Guides</h3>
+          <h3>{t.footerTopGuides}</h3>
           <ul>
             {footerGuides.map((g) => (
-              <li><a href={`/articles/${g.slug}/`}>{g.label}</a></li>
+              <li><a href={`${lp}/articles/${g.slug}/`}>{t.guideLabels[g.slug] ?? g.label}</a></li>
             ))}
           </ul>
         </div>
         <div class="footer-col">
-          <h3>Site</h3>
+          <h3>{t.footerSite}</h3>
           <ul>
-            <li><a href="/articles/complete-home-backup-power-guide/">Start Here</a></li>
-            <li><a href="/#guides">All Guides</a></li>
-            <li><a href="/about/">About Dnaso</a></li>
-            <li><a href="/contact/">Contact</a></li>
+            <li><a href={`${lp}/articles/complete-home-backup-power-guide/`}>{t.navStart}</a></li>
+            <li><a href={`${lp}/#guides`}>{t.navAllGuides}</a></li>
+            <li><a href={`${lp}/about/`}>{t.footerAbout}</a></li>
+            <li><a href={`${lp}/contact/`}>{t.navContact}</a></li>
           </ul>
         </div>
         <div class="footer-col">
-          <h3>Legal</h3>
+          <h3>{t.footerLegal}</h3>
           <ul>
-            <li><a href="/privacy/">Privacy Policy</a></li>
-            <li><a href="/disclaimer/">Disclaimer</a></li>
+            <li><a href={`${lp}/privacy/`}>{t.footerPrivacy}</a></li>
+            <li><a href={`${lp}/disclaimer/`}>{t.footerDisclaimer}</a></li>
           </ul>
         </div>
       </div>
       <div class="footer-bottom">
-        <span>&copy; 2026 Dnaso. Practical guides to home backup power. All rights reserved. Built by <a href="https://dotsadv.com" rel="noopener">DOTS Growth</a>.</span>
-        <nav aria-label="Legal">
-          <a href="/privacy/">Privacy</a>
-          <a href="/disclaimer/">Disclaimer</a>
+        <span>&copy; 2026 Dnaso. {t.rights} <a href="https://dotsadv.com" rel="noopener">DOTS Growth</a>.</span>
+        <nav aria-label={t.legalLabel}>
+          <a href={`${lp}/privacy/`}>{t.footerPrivacyShort}</a>
+          <a href={`${lp}/disclaimer/`}>{t.footerDisclaimerShort}</a>
         </nav>
       </div>
     </div>
   </footer>
 
-  <script>
+  <script define:vars={{ openLabel: t.openMenu, closeLabel: t.closeMenu }}>
     // Mobile menu toggle — minimal, no framework
     (function () {
       var btn = document.getElementById('menu-btn');
@@ -594,7 +683,7 @@ const footerGuides = [
       btn.addEventListener('click', function () {
         var open = nav.classList.toggle('open');
         btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-        btn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+        btn.setAttribute('aria-label', open ? closeLabel : openLabel);
       });
       nav.addEventListener('click', function (e) {
         if (e.target && e.target.tagName === 'A') {

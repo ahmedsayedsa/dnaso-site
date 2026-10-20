@@ -1,0 +1,90 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { categoryForEs, readingMinutes, formatDate } from '../../lib/site';
+
+const articles = await getCollection('articles-es');
+const sorted = articles.sort((a, b) => {
+  if (a.slug === 'complete-home-backup-power-guide') return -1;
+  if (b.slug === 'complete-home-backup-power-guide') return 1;
+  return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+});
+const pillar = sorted.find((a) => a.slug === 'complete-home-backup-power-guide');
+const rest = sorted.filter((a) => a.slug !== 'complete-home-backup-power-guide');
+
+const wordsFor = (body: string | undefined) => (body ?? '').split(/\s+/).filter(Boolean).length;
+const totalWords = sorted.reduce((n, a) => n + wordsFor(a.body), 0);
+---
+
+<Base
+  title="Dnaso"
+  description="Guías prácticas y directas sobre energía de respaldo para el hogar: cómo calcular el tamaño de un generador, costos reales de instalación, baterías frente a generadores, mantenimiento y preparación ante apagones para propietarios en Estados Unidos."
+  keywords={['energía de respaldo para el hogar', 'tamaño del generador', 'costo de un generador de reserva', 'batería de respaldo para casa']}
+  lang="es"
+>
+  <section class="hero">
+    <div class="wrap-wide">
+      <span class="eyebrow">Guías independientes &middot; Sin ventas disfrazadas</span>
+      <h1>Energía de respaldo en casa, <span class="hl">explicada sin rodeos.</span></h1>
+      <p class="lede">Generadores, baterías para el hogar, cálculos de tamaño y costos reales de instalación: investigado a partir de especificaciones de fabricantes y la experiencia de electricistas, escrito para que cualquier propietario lo pueda usar.</p>
+      <div class="hero-cta">
+        {pillar && <a class="btn btn-primary" href={`/es/articles/${pillar.slug}/`}>Empieza con la guía completa →</a>}
+        <a class="btn btn-ghost" href="#guides">Ver todas las guías</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><b>{sorted.length}<span>.</span></b><small>Guías detalladas</small></div>
+        <div class="stat"><b>{Math.round(totalWords / 1000)}k<span>+</span></b><small>Palabras de investigación</small></div>
+        <div class="stat"><b>$0<span>.</span></b><small>Contenido patrocinado</small></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap-wide">
+    {pillar && (
+      <a class="featured" href={`/es/articles/${pillar.slug}/`} aria-label={`Leer: ${pillar.data.title}`}>
+        <div class="featured-body">
+          <span class="tag">Empieza aquí</span>
+          <h3>{pillar.data.title}</h3>
+          <p>{pillar.data.description}</p>
+          <span class="featured-cta">Leer la guía →</span>
+        </div>
+      </a>
+    )}
+
+    <section id="guides" aria-label="Todas las guías" style="scroll-margin-top: 84px;">
+      <div class="section-head">
+        <h2>Todas las guías</h2>
+        <p>{rest.length} guías prácticas, las más nuevas primero</p>
+      </div>
+      <div class="grid">
+        {rest.map((a) => (
+          <a class="card" href={`/es/articles/${a.slug}/`}>
+            <span class="tag">{categoryForEs(a.slug)}</span>
+            <h3>{a.data.title}</h3>
+            <p>{a.data.description}</p>
+            <div class="card-meta">
+              <span>{readingMinutes(wordsFor(a.body))} min de lectura</span>
+              <span class="dot" aria-hidden="true"></span>
+              <time datetime={a.data.pubDate.toISOString()}>{formatDate(a.data.pubDate, 'es-US')}</time>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="trust" aria-label="Por qué confiar en Dnaso">
+      <div class="trust-item">
+        <h3><span class="tick" aria-hidden="true">✓</span> Números concretos, no relleno</h3>
+        <p>Potencias reales, rangos de precios de instalación y costos de combustible: las cifras que necesitas para decidir, tomadas de especificaciones y precios actuales en Estados Unidos.</p>
+      </div>
+      <div class="trust-item">
+        <h3><span class="tick" aria-hidden="true">✓</span> Seguridad primero, siempre</h3>
+        <p>Monóxido de carbono, retroalimentación eléctrica, almacenamiento de combustible: donde un error puede matar, lo decimos con claridad y te indicamos cuándo llamar a un profesional con licencia.</p>
+      </div>
+      <div class="trust-item">
+        <h3><span class="tick" aria-hidden="true">✓</span> Independiente y financiado por anuncios</h3>
+        <p>No vendemos generadores ni cobramos comisiones de instaladores. El sitio se sostiene con anuncios; los anunciantes nunca influyen en lo que escribimos.</p>
+      </div>
+    </section>
+  </div>
+</Base>
