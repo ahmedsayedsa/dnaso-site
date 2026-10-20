@@ -1,6 +1,6 @@
 ---
 import Base from './Base.astro';
-import { formatDate, readingMinutes, categoryFor } from '../lib/site';
+import { formatDate, readingMinutes, categoryFor, categoryForEs } from '../lib/site';
 
 interface TocItem {
   slug: string;
@@ -27,12 +27,52 @@ interface Props {
   wordCount: number;
   heroImage?: string;
   faq?: Array<{ question: string; answer: string }>;
+  lang?: 'en' | 'es';
 }
 
-const { title, description, slug, pubDate, updatedDate, keywords, lede, toc, related, wordCount, heroImage, faq } = Astro.props;
+const { title, description, slug, pubDate, updatedDate, keywords, lede, toc, related, wordCount, heroImage, faq, lang = 'en' } = Astro.props;
 const canonical = `https://www.dnaso.com${Astro.url.pathname}`;
-const category = categoryFor(slug);
+const es = lang === 'es';
+const lp = es ? '/es' : '';
+const category = es ? categoryForEs(slug) : categoryFor(slug);
 const minutes = readingMinutes(wordCount);
+const locale = es ? 'es-US' : 'en-US';
+
+const t = es ? {
+  home: 'Inicio',
+  guides: 'Guías',
+  breadcrumbLabel: 'Ruta de navegación',
+  by: 'Por',
+  minRead: 'min de lectura',
+  updated: 'Actualizado',
+  tocLabel: 'En esta guía',
+  tocHeading: 'En esta guía',
+  faqLabel: 'Preguntas frecuentes',
+  relatedLabel: 'Guías relacionadas',
+  keepReading: 'Sigue leyendo',
+  relatedIntro: 'Más guías prácticas de Dnaso:',
+  authorRole: 'Electricista con licencia y propietario',
+  authorBio: 'Mike es un electricista con licencia con 18 años de experiencia en trabajos eléctricos residenciales en el Medio Oeste de Estados Unidos. Ha instalado más de 200 generadores de reserva, ha diagnosticado de todo, desde generadores portátiles que no arrancan hasta interruptores de transferencia quemados, y su propia casa funciona con un generador de reserva de 18 kW. Escribe como habla en una obra: directo, práctico y sin ningún discurso de ventas.',
+  jobTitle: 'Electricista con licencia y propietario',
+  aboutAuthor: 'Acerca del autor',
+} : {
+  home: 'Home',
+  guides: 'Guides',
+  breadcrumbLabel: 'Breadcrumb',
+  by: 'By',
+  minRead: 'min read',
+  updated: 'Updated',
+  tocLabel: 'In this guide',
+  tocHeading: 'In this guide',
+  faqLabel: 'Frequently asked questions',
+  relatedLabel: 'Related guides',
+  keepReading: 'Keep reading',
+  relatedIntro: 'More practical guides from Dnaso:',
+  authorRole: 'Licensed Electrician & Homeowner',
+  authorBio: "Mike is a licensed electrician with 18 years in residential electrical work across the Midwest. He's installed over 200 standby generators, troubleshot everything from dead portables to fried transfer switches, and runs his own home on a 18kW standby. He writes the way he talks on a job site — straight, practical, no sales pitch.",
+  jobTitle: 'Licensed Electrician & Homeowner',
+  aboutAuthor: 'About the author',
+};
 
 const schema = {
   '@context': 'https://schema.org',
@@ -44,9 +84,9 @@ const schema = {
   author: {
     '@type': 'Person',
     name: 'Mike Donovan',
-    jobTitle: 'Licensed Electrician & Homeowner',
-    description: "Mike is a licensed electrician with 18 years in residential electrical work across the Midwest. He's installed over 200 standby generators, troubleshot everything from dead portables to fried transfer switches, and runs his own home on a 18kW standby. He writes the way he talks on a job site — straight, practical, no sales pitch.",
-    url: 'https://www.dnaso.com/about/',
+    jobTitle: t.jobTitle,
+    description: t.authorBio,
+    url: `https://www.dnaso.com${lp}/about/`,
   },
   publisher: { '@type': 'Organization', name: 'Dnaso', url: 'https://www.dnaso.com' },
   mainEntityOfPage: canonical,
@@ -66,14 +106,14 @@ const breadcrumbs = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.dnaso.com/' },
-    { '@type': 'ListItem', position: 2, name: 'Guides', item: 'https://www.dnaso.com/#guides' },
+    { '@type': 'ListItem', position: 1, name: t.home, item: `https://www.dnaso.com${lp}/` },
+    { '@type': 'ListItem', position: 2, name: t.guides, item: `https://www.dnaso.com${lp}/#guides` },
     { '@type': 'ListItem', position: 3, name: title, item: canonical },
   ],
 };
 ---
 
-<Base title={title} description={description} canonical={canonical} ogType="article" keywords={keywords}>
+<Base title={title} description={description} canonical={canonical} ogType="article" keywords={keywords} lang={lang}>
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(schema)} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbs)} />
@@ -81,9 +121,9 @@ const breadcrumbs = {
   </Fragment>
 
   <div class="wrap">
-    <nav class="crumbs" aria-label="Breadcrumb">
-      <a href="/">Home</a><span class="sep" aria-hidden="true">/</span>
-      <a href="/#guides">Guides</a><span class="sep" aria-hidden="true">/</span>
+    <nav class="crumbs" aria-label={t.breadcrumbLabel}>
+      <a href={lp + '/'}>{t.home}</a><span class="sep" aria-hidden="true">/</span>
+      <a href={`${lp}/#guides`}>{t.guides}</a><span class="sep" aria-hidden="true">/</span>
       <span aria-current="page">{category}</span>
     </nav>
 
@@ -93,15 +133,15 @@ const breadcrumbs = {
       <p class="article-lede">{lede}</p>
       <div class="byline">
         <span class="avatar" aria-hidden="true">MD</span>
-        <span>By Mike Donovan</span>
+        <span>{t.by} Mike Donovan</span>
         <span class="dot" aria-hidden="true"></span>
-        <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
+        <time datetime={pubDate.toISOString()}>{formatDate(pubDate, locale)}</time>
         <span class="dot" aria-hidden="true"></span>
-        <span>{minutes} min read</span>
+        <span>{minutes} {t.minRead}</span>
         {updatedDate && (
           <>
             <span class="dot" aria-hidden="true"></span>
-            <span>Updated {formatDate(updatedDate)}</span>
+            <span>{t.updated} {formatDate(updatedDate, locale)}</span>
           </>
         )}
       </div>
@@ -113,8 +153,8 @@ const breadcrumbs = {
       )}
 
       {toc.length > 0 && (
-        <nav class="toc" aria-label="In this guide">
-          <h2>In this guide</h2>
+        <nav class="toc" aria-label={t.tocLabel}>
+          <h2>{t.tocHeading}</h2>
           <ol>
             {toc.map((h) => (
               <li><a href={`#${h.slug}`}>{h.text}</a></li>
@@ -128,8 +168,8 @@ const breadcrumbs = {
       </div>
 
       {faq && faq.length > 0 && (
-        <section class="faq" aria-label="Frequently asked questions">
-          <h2>Frequently asked questions</h2>
+        <section class="faq" aria-label={t.faqLabel}>
+          <h2>{t.faqLabel}</h2>
           {faq.map((f) => (
             <details>
               <summary>{f.question}</summary>
@@ -140,30 +180,30 @@ const breadcrumbs = {
       )}
 
 
-      <aside class="author-box" aria-label="About the author">
+      <aside class="author-box" aria-label={t.aboutAuthor}>
         <div class="author-header">
           <span class="avatar author-avatar" aria-hidden="true">MD</span>
           <div>
             <strong>Mike Donovan</strong>
-            <span class="author-role">Licensed Electrician & Homeowner</span>
+            <span class="author-role">{t.authorRole}</span>
           </div>
         </div>
-        <p>Mike is a licensed electrician with 18 years in residential electrical work across the Midwest. He's installed over 200 standby generators, troubleshot everything from dead portables to fried transfer switches, and runs his own home on a 18kW standby. He writes the way he talks on a job site — straight, practical, no sales pitch.</p>
+        <p>{t.authorBio}</p>
       </aside>
     </article>
 
     {related.length > 0 && (
-      <section class="related" aria-label="Related guides">
-        <h2>Keep reading</h2>
-        <p>More practical guides from Dnaso:</p>
+      <section class="related" aria-label={t.relatedLabel}>
+        <h2>{t.keepReading}</h2>
+        <p>{t.relatedIntro}</p>
         <div class="grid">
           {related.map((r) => (
-            <a class="card" href={`/articles/${r.slug}/`}>
-              <span class="tag">{categoryFor(r.slug)}</span>
+            <a class="card" href={`${lp}/articles/${r.slug}/`}>
+              <span class="tag">{es ? categoryForEs(r.slug) : categoryFor(r.slug)}</span>
               <h3>{r.title}</h3>
               <p>{r.description}</p>
               <div class="card-meta">
-                <span>{readingMinutes(r.words)} min read</span>
+                <span>{readingMinutes(r.words)} {t.minRead}</span>
               </div>
             </a>
           ))}
