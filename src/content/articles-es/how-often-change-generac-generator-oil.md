@@ -1,7 +1,7 @@
 ---
 title: "Cada cuánto cambiar el aceite de un Generac: el plan real"
 description: "Cada cuánto cambiar el aceite de un generador Generac: primer cambio a las 25 horas de rodaje, luego cada 200 horas o 2 años — el programa oficial, explicado."
-heroImage: ""
+heroImage: "/images/how-often-change-generac-generator-oil.webp"
 faq:
   - question: "¿Cada cuánto debo cambiar el aceite de mi generador Generac?"
     answer: "Según el programa publicado por Generac: el primer cambio de aceite y filtro a las 25 horas de funcionamiento (el cambio de rodaje), y después cada 200 horas o cada 2 años, lo que ocurra primero. El «lo que ocurra primero» importa — un generador que solo hace su ejercicio semanal puede tardar una década en llegar a 200 horas, pero el aceite se cambia igual con el reloj de los 2 años porque absorbe humedad y se oxida reposando en el cárter. La mayoría de los dueños encuentra que una visita anual de servicio es la forma más fácil de no pensar en ninguno de los dos relojes."

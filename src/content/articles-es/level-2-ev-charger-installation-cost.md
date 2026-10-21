@@ -1,7 +1,7 @@
 ---
 title: "Costo de Instalar Cargador Nivel 2: Precios 2026"
 description: "Costo de instalar un cargador EV de nivel 2 en 2026: $800 a $3,000+ según tu panel y el tramo de cable. El desglose real: cargador, mano de obra, permisos."
-heroImage: "https://files.catbox.moe/wq2cah.jpg"
+heroImage: "/images/level-2-ev-charger-installation-cost.webp"
 pubDate: 2026-10-20
 lang: "es"
 keywords: ["costo instalación cargador ev nivel 2", "cuanto cuesta instalar cargador ve en casa 2026", "tesla wall connector costo instalación", "costo electricista cargador ev", "precio instalar cargador electrico casa"]

@@ -1,7 +1,7 @@
 ---
 title: "Generador inverter vs generador convencional (y vs de reserva): ¿cuál necesitas?"
 description: "Generador inverter vs generador convencional comparados sin adornos — ruido, energía limpia, consumo y costo por vatio — y dónde encaja el generador de reserva según tus apagones y tu presupuesto."
-heroImage: "https://files.catbox.moe/h9b60s.jpg"
+heroImage: "/images/portable-vs-standby-vs-inverter-generator.webp"
 pubDate: 2026-10-19
 updatedDate: 2026-10-21
 lang: "es"

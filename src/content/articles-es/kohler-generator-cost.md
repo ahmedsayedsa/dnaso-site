@@ -1,7 +1,7 @@
 ---
 title: "¿Cuánto cuesta un generador Kohler? Precios por tamaño 2026"
 description: "Cuánto cuesta un generador Kohler en 2026, con desglose honesto: precios instalados por tamaño (10–26 kW), MSRP de Kohler, conceptos de instalación y veredicto."
-heroImage: ""
+heroImage: "/images/kohler-generator-cost.webp"
 faq:
   - question: "¿Cuánto cuesta un generador Kohler instalado en 2026?"
     answer: "La mayoría de los propietarios paga $10,500–$15,500 por un generador de reserva Kohler instalado profesionalmente en la popular clase de 20 kW, con el interruptor de transferencia incluido en la mayoría de los paquetes de distribuidor. Los sistemas más pequeños de 10–14 kW quedan en unos $7,500–$12,500 instalados, y el modelo insignia de 26 kW anda en $12,000–$16,500. El generador en sí es aproximadamente la mitad de la factura — el MSRP de Kohler para un 20 kW con interruptor es $6,984 — y el resto es el electricista, la línea de gas, la base y los permisos, que cuestan lo mismo para cualquier marca."

@@ -1,7 +1,7 @@
 ---
 title: "Los generadores más silenciosos en 2026: 6 modelos inverter comparados por dB"
 description: "Los generadores más silenciosos que puedes comprar, ordenados por sus valores de dB verificados del fabricante: Honda, Westinghouse, Champion, Yamaha, Generac y Predator desde 48 dB, y cómo la carga y la distancia cambian el ruido real."
-heroImage: "https://files.catbox.moe/v08env.jpg"
+heroImage: "/images/quietest-generators-noise-levels.webp"
 faq:
   - question: "¿Cuál es el generador más silencioso que se puede comprar?"
     answer: "El Honda EU2200i es el generador comercial más silencioso a la venta: Honda lo clasifica en 48 dB(A) a un cuarto de carga y 57 dB(A) a plena carga nominal, medidos a 7 metros. Eso es más silencioso que una conversación normal con carga ligera. El Westinghouse iGen2200 (52 dB) y el Champion 2500 de doble combustible (53 dB) vienen después, a más o menos la mitad del precio del Honda. Todo lo que esté por debajo de 55 dB a un cuarto de carga cuenta como genuinamente silencioso; 55–60 dB sigue siendo nivel de conversación y apto para campamentos."

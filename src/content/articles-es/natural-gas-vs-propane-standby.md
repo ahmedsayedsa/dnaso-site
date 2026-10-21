@@ -1,7 +1,7 @@
 ---
 title: "Gas natural vs propano para generador de reserva"
 description: "Gas natural vs propano para generadores de reserva: costo por kWh con números reales, confiabilidad en apagones, costos de instalación y rendimiento en frío."
-heroImage: "https://files.catbox.moe/drojqr.jpg"
+heroImage: "/images/natural-gas-vs-propane-standby.webp"
 pubDate: 2026-10-19
 keywords: ["gas natural vs propano para generador", "combustible para generador de reserva", "cuanto cuesta un generador a propano", "pros y contras del generador a gas natural", "que combustible conviene para generador"]
 lang: "es"

@@ -1,7 +1,7 @@
 ---
 title: "Cómo preparar un generador para el invierno: almacenamiento que evita fallas en primavera"
 description: "Cómo preparar un generador para el invierno: gasolina estabilizada o drenada, aceite antes de guardar, nebulizado, batería y arranque de primavera."
-heroImage: ""
+heroImage: "/images/how-to-winterize-a-generator.webp"
 faq:
   - question: "¿Debo guardar el generador con el tanque lleno o vacío?"
     answer: "Ambos funcionan si se hacen completos. El tanque lleno con estabilizador deja menos espacio para la condensación y conviene si puedes necesitarlo a mitad del invierno. Dejarlo seco — tanque y tazón drenados — es mejor para portátiles chicos que estarán seis meses o más sin tocarse. Lo peor es el punto medio: medio tanque sin tratar en el carburador todo el invierno. Eso tapa los surtidores y causa los no arranques de primavera."

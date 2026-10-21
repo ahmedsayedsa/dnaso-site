@@ -1,7 +1,7 @@
 ---
 title: "Cómo conectar a tierra un generador portátil: cuándo necesitas varilla y cuándo no"
 description: "Cómo conectar a tierra un generador portátil según su uso: cuándo hace falta varilla, cuándo basta el bastidor y qué es el neutro unido o flotante."
-heroImage: ""
+heroImage: "/images/how-to-ground-a-portable-generator.webp"
 faq:
   - question: "¿Necesito conectar mi generador portátil a una varilla de tierra?"
     answer: "Normalmente no. Si conectas extensiones directo a los enchufes del generador, el bastidor metálico es la referencia de tierra y tanto el NEC como OSHA aceptan esa instalación sin varilla. Si el generador alimenta tu casa por un transfer switch o un interlock, se conecta a tierra a través del sistema de electrodos que tu casa ya tiene. La varilla hace falta sobre todo en sistemas derivados por separado, algunas reglas de obra y ciertos códigos locales."

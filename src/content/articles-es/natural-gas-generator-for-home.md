@@ -1,7 +1,7 @@
 ---
 title: "Generador de gas natural para el hogar: conexión y costos"
 description: "Generador de gas natural para respaldo en casa: cómo funciona la conexión, dimensionamiento del medidor y la tubería, costos de instalación y consumo por hora."
-heroImage: ""
+heroImage: "/images/natural-gas-generator-for-home.webp"
 lang: "es"
 faq:
   - question: "¿Se puede hacer funcionar un generador con gas natural en casa?"

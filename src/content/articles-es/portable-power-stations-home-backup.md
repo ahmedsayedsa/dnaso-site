@@ -1,7 +1,7 @@
 ---
 title: "Las mejores estaciones de energía portátiles para respaldo en el hogar (2026)"
 description: "Estaciones de energía portátiles para respaldo en el hogar: Delta Pro 3, Solix F3800, Bluetti AC500 y Delta Pro Ultra — datos, autonomías y veredicto honesto."
-heroImage: "https://files.catbox.moe/74ossu.jpg"
+heroImage: "/images/portable-power-stations-home-backup.webp"
 pubDate: 2026-10-19
 keywords: ["mejores estaciones de energía portátiles para el hogar", "estación de energía portátil para respaldo en el hogar", "EcoFlow Delta Pro 3", "Anker Solix F3800", "generador solar para casa"]
 lang: "es"

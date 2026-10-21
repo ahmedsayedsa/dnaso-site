@@ -1,7 +1,7 @@
 ---
 title: "Cómo asentar un generador nuevo: procedimiento paso a paso"
 description: "Cómo asentar un generador nuevo: rodaje con cargas del 25% al 75%, ciclos de calor y el cambio de aceite a las 5 horas que define su vida útil."
-heroImage: ""
+heroImage: "/images/how-to-break-in-a-generator.webp"
 faq:
   - question: "¿Cuánto tiempo toma asentar un generador nuevo?"
     answer: "Calcula unas 5 horas de funcionamiento para la mayoría de los generadores portátiles, repartidas en varias sesiones con enfriamientos entre ellas — no 5 horas seguidas. Honda, Champion y Generac andan todos por ahí en sus manuales. Después del cambio de aceite de las 5 horas, trata el motor con suavidad hasta las 20–25 horas, y luego pasa al programa de mantenimiento normal."

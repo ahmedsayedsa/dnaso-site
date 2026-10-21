@@ -1,7 +1,7 @@
 ---
 title: "Cómo conectar un generador a tu casa: 3 formas legales"
 description: "Cómo conectar un generador a tu casa de forma legal: caja de entrada con interlock, interruptor de transferencia manual o ATS automático: pasos, costos y permisos."
-heroImage: ""
+heroImage: "/images/how-to-connect-a-generator-to-your-house.webp"
 faq:
   - question: "¿Es ilegal la retroalimentación (backfeeding) con un generador?"
     answer: "Sí. Alimentar el cableado de tu casa con un generador sin equipo de transferencia — la retroalimentación o backfeeding — viola el Artículo 702 del NEC, que exige un interruptor de transferencia o un interlock certificado que haga imposible que la energía del generador y la de la red se conecten al mismo tiempo. Además es genuinamente letal: la energía retroalimentada pasa por tu medidor y el transformador del poste la vuelve a elevar a voltaje de distribución, energizando líneas que las cuadrillas de la eléctrica creen muertas. Y si un incendio o una lesión se rastrea hasta una instalación sin permiso, tu aseguradora puede negar la reclamación."

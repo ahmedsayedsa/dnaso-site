@@ -1,7 +1,7 @@
 ---
 title: "El generador Predator no arranca: soluciones para el 3500, 4375 y 9000"
 description: "¿Tu generador Predator no arranca? Revisa en orden: llave de gasolina, sensor de aceite, carburador tapado, bujía y el cambio de carburador barato."
-heroImage: ""
+heroImage: "/images/predator-generator-wont-start.webp"
 faq:
   - question: "¿Por qué mi generador Predator no arranca después de estar guardado?"
     answer: "Casi siempre es el carburador. Los carburadores Predator tienen surtidores pequeños que se tapan rápido con la gasolina con etanol guardada: unos meses bastan para que el barniz cierre el surtidor principal. Drena la gasolina vieja; si el motor arranca con arrancador en aerosol pero muere, el carburador necesita limpieza o reemplazo. Uno nuevo cuesta $25–45."

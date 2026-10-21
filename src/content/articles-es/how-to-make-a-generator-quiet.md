@@ -1,7 +1,7 @@
 ---
 title: "Cómo hacer que un generador sea más silencioso: 7 formas"
 description: "Cómo hacer que un generador sea más silencioso: distancia, caja insonorizada ventilada, silenciador, soportes antivibración y deflector, con dB reales."
-heroImage: ""
+heroImage: "/images/how-to-make-a-generator-quiet.webp"
 faq:
   - question: "¿Cuál es el generador más silencioso que se puede comprar?"
     answer: "El Honda EU2200i — Honda lo clasifica a 48 dB(A) a un cuarto de carga y 57 dB(A) a plena carga nominal, medido a 7 metros, lo que es más silencioso que una conversación normal cuando trabaja holgado. El Westinghouse iGen2200 (52 dB) y el Champion 2500 de doble combustible (53 dB) le siguen a cerca de la mitad del precio del Honda. Para dar contexto, ese es el suelo de todo el mercado: ningún método de este artículo convierte un portátil de bastidor abierto de 74 dB en un Honda de 48 dB, y por eso comprar silencioso gana a construir silencioso cuando el silencio es el requisito real."
