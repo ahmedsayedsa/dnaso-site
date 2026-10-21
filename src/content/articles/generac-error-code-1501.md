@@ -1,7 +1,7 @@
 ---
 title: "Generac Error Code 1501: What It Means and How to Fix It"
 description: "Generac error code 1501 means RPM sense loss — usually a weak battery. The causes in order, the checks you can do yourself, and when to call a dealer."
-heroImage: ""
+heroImage: "/images/generac-error-code-1501.webp"
 faq:
   - question: "What does error code 1501 mean on a Generac generator?"
     answer: "Code 1501 is an RPM sense loss alarm. The controller watched for the engine to reach and hold running speed, and it didn't — the engine cranked too slowly, started and stumbled, or died during its exercise run or an outage start. The generator locks out until the alarm is cleared. In my experience, a weak battery causes the majority of 1501 alarms, followed by gas pressure problems."

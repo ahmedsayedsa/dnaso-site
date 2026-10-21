@@ -1,7 +1,7 @@
 ---
 title: "Generator Surging? Why It Hunts Up and Down (and How to Fix It)"
 description: "Generator surging or hunting up and down? The #1 cause is a clogged pilot jet. Here's how to diagnose each cause in order and fix most surges yourself."
-heroImage: ""
+heroImage: "/images/generator-surging.webp"
 faq:
   - question: "Why does my generator surge at idle but run smooth under load?"
     answer: "That's the classic signature of a partially clogged pilot jet. The pilot jet feeds the engine at idle and light load; when it's restricted, the mixture goes lean, RPM drops, the governor opens the throttle to compensate, and the cycle repeats. Under load the main jet takes over and flows enough fuel, so the surging disappears. Clean the pilot jet or the carburetor and the idle surge almost always goes away."

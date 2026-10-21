@@ -1,7 +1,7 @@
 ---
 title: "What Size Generator Do You Need for a Sump Pump?"
 description: "Sump pump sizing in watts: running and surge numbers for 1/3, 1/2, and 3/4 HP pumps, what generator size each one needs, and real battery backup options."
-heroImage: ""
+heroImage: "/images/generator-for-sump-pump.webp"
 faq:
   - question: "Can a 2,000-watt generator run a sump pump?"
     answer: "Yes — a 1/3 HP pump, and not much else. A 1/3 HP sump pump surges to about 1,300 watts on startup, which a 2,000-watt inverter generator can absorb, leaving only a few hundred watts for lights or a phone charger. A 1/2 HP pump surging past 2,100 watts will trip the overload on most 2,000-watt units. If the pump is your only critical load and it's 1/3 HP, 2,000 watts works. Anything bigger, step up."

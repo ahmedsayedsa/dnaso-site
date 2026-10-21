@@ -1,7 +1,7 @@
 ---
 title: "Generac Generator Oil Type: The 5W-20 GEO Answer, Explained"
 description: "What oil does a Generac generator take? Generac's current official spec: synthetic 5W-20 GEO after the 25-hour break-in, 5W-30 synthetic as the accepted stand-in."
-heroImage: ""
+heroImage: "/images/generac-generator-oil-type.webp"
 faq:
   - question: "What oil does a Generac 22kW generator take?"
     answer: "Per Generac's current official guidance, a 22kW Guardian takes conventional 5W-30 only for its first 25 break-in hours, then Generac's full synthetic 5W-20 Gaseous Engine Oil (GEO) at every change after that — roughly 1.9 quarts with a filter change. If the GEO oil isn't available, Generac accepts full synthetic 5W-30 as the stand-in, in any temperature. The older manuals printed a climate chart (SAE 30 in summer, 10W-30 in the cold), which is why you'll see three different answers online; the 5W-20 GEO spec is the current one."

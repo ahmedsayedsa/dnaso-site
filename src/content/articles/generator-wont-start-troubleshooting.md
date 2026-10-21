@@ -1,7 +1,7 @@
 ---
 title: "Generator Won't Start? Troubleshooting in Order (15-Minute Fix)"
 description: "Generator won't start? Follow this ordered checklist — fuel, oil, battery, spark plug, choke, air filter, carburetor — and fix most no-starts in 15 minutes."
-heroImage: "https://files.catbox.moe/wlejeo.jpg"
+heroImage: "/images/generator-wont-start-troubleshooting.webp"
 faq:
   - question: "Why won't my generator start after sitting all winter?"
     answer: "The most common culprit is stale fuel — gasoline starts breaking down in 30 days and can gum up the carburetor in a few months. Next most likely: a dead battery (they self-discharge over winter), followed by old spark plugs or a clogged fuel filter. Start with fresh fuel and a charged battery; those two fix the majority of no-start complaints."

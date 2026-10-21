@@ -1,7 +1,7 @@
 ---
 title: "Generac Generator Cost in 2026: Installed Prices by Size"
 description: "Generac generator cost in 2026, broken down honestly: installed prices by size (10–26 kW), line-item installation costs, fuel and maintenance, and the verdict."
-heroImage: ""
+heroImage: "/images/generac-generator-cost.webp"
 faq:
   - question: "How much does a Generac generator cost installed in 2026?"
     answer: "Most homeowners pay $8,000–$16,000 for a professionally installed Generac standby generator, generator included — that's the range Generac itself publishes, and it matches real quotes. The most common setup, a 22kW air-cooled unit with a whole-house transfer switch, typically lands at $10,000–$15,000 installed. Straightforward installs near the panel and gas meter come in at the low end; long gas runs, panel upgrades, or propane tank work push you toward the top. The generator itself is only about half the bill — installation labor and materials are the rest."

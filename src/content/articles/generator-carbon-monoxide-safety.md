@@ -1,7 +1,7 @@
 ---
 title: "Generator Carbon Monoxide Safety: Never in the Garage, Ever"
 description: "Generator carbon monoxide safety in plain numbers: why a garage kills even with the door open, the 20-foot rule, CO detectors, symptoms, and shutoff sensors."
-heroImage: ""
+heroImage: "/images/generator-carbon-monoxide-safety.webp"
 faq:
   - question: "Can I run a generator in the garage with the door open?"
     answer: "No. An open garage door does not make it safe. Carbon monoxide builds up faster than a wide-open door can clear it, pools in the enclosed space, and migrates into the house through the connecting door, wall gaps, and attic. The CPSC has documented fatal poisonings in exactly this setup — garage, door open, generator running. There is no door position, fan arrangement, or cracked window that changes the answer."

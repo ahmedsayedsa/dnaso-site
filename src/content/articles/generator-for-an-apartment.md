@@ -1,7 +1,7 @@
 ---
 title: "Generator for an Apartment: Why Fuel Is a No — and What Actually Works"
 description: "Shopping for a generator for an apartment? A fuel unit indoors or on a balcony can kill. Here's the battery setup that actually works, and what it costs."
-heroImage: ""
+heroImage: "/images/generator-for-an-apartment.webp"
 faq:
   - question: "Can I run a portable generator on my apartment balcony?"
     answer: "No. A balcony fails every safety test at once: it's far less than the 20 feet a fuel generator needs, the exhaust drifts into your windows and your neighbors', and carbon monoxide seeps through sliding doors, vents, and wall penetrations. It's also one of the most common setups in fatal CO cases after storms. If it burns fuel, it does not belong on a balcony — ever."

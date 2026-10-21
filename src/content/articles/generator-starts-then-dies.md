@@ -1,7 +1,7 @@
 ---
 title: "Generator Starts Then Dies? Fix It in Order (Most Likely Causes First)"
 description: "Generator starts then dies after a few seconds? Work through the causes in order — oil sensor, fuel starvation, carburetor, choke — and fix it fast."
-heroImage: ""
+heroImage: "/images/generator-starts-then-dies.webp"
 faq:
   - question: "Why does my generator start then die after a few seconds?"
     answer: "The most common cause is the low-oil shutdown sensor: the engine starts, the oil settles, the sensor reads low, and it kills the spark. Check the oil first, on level ground, filled to the top of the fill neck. Next most likely is fuel starvation — a clogged filter, pinched fuel line, or blocked tank vent."

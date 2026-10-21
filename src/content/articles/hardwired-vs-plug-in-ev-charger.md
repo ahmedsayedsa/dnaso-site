@@ -1,7 +1,7 @@
 ---
 title: "Hardwired vs Plug-In EV Charger: Which Is Better?"
 description: "Hardwired vs plug-in EV charger: honest 2026 comparison — 48A vs 40A limits, real install costs, and the $15 outlet fire hazard nobody mentions. Which wins?"
-heroImage: "https://files.catbox.moe/5d5zjs.jpg"
+heroImage: "/images/hardwired-vs-plug-in-ev-charger.webp"
 pubDate: 2026-10-20
 keywords: ["hardwired vs plug-in EV charger", "NEMA 14-50 EV charger", "48 amp vs 40 amp EV charger", "EV charger GFCI requirement", "hardwired EV charger vs plug-in installation cost", "best home EV charger installation"]
 category: "EV Charging"

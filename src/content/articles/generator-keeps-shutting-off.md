@@ -1,7 +1,7 @@
 ---
 title: "Generator Keeps Shutting Off? Diagnose It by How Long It Runs"
 description: "Generator keeps shutting off mid-run? Diagnose it by timing: overheating, tank-vent vacuum, hot coil, low oil, CO sensor. Fixes and real costs inside."
-heroImage: ""
+heroImage: "/images/generator-keeps-shutting-off.webp"
 faq:
   - question: "Why does my generator shut off after 10 to 20 minutes?"
     answer: "That short, repeatable runtime usually means heat or a vacuum in the fuel tank. A clogged cap vent stops air replacing drained fuel, the tank pulls a vacuum, and fuel flow starves. Overheating and oil that foams or thins hot can trip the low-oil switch in the same window. Loosen the fuel cap and listen for a hiss — if it then runs, the vent is your culprit."
