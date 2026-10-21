@@ -1,7 +1,7 @@
 ---
 title: "How to Winterize a Generator: Storage Steps That Prevent Spring No-Starts"
 description: "How to winterize a generator the right way: stabilized fuel or run-dry, oil changed before storage, fogging oil, battery care, and a spring wake-up plan."
-heroImage: ""
+heroImage: "/images/how-to-winterize-a-generator.webp"
 faq:
   - question: "Should I store my generator with a full tank of gas or an empty one?"
     answer: "Both work if you do them completely. A full tank with stabilizer leaves less room for condensation and suits owners who might need the generator mid-winter. Running it dry — tank and carburetor bowl drained — is better for small portables sitting untouched for six months or more. The worst option is the middle: half a tank of untreated fuel in the carburetor all winter. That is what clogs jets and causes spring no-starts."

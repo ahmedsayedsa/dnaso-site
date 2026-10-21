@@ -1,7 +1,7 @@
 ---
 title: "Quietest Generators in 2026: 6 Inverter Picks Ranked by dB Rating"
 description: "The quietest generators you can buy, ranked by verified manufacturer dB ratings: Honda, Westinghouse, Champion, Yamaha, Generac and Predator picks from 48 dB, plus how load and distance change real-world noise."
-heroImage: "https://files.catbox.moe/v08env.jpg"
+heroImage: "/images/quietest-generators-noise-levels.webp"
 faq:
   - question: "What is the quietest generator you can buy?"
     answer: "The Honda EU2200i is the quietest mainstream generator on sale: Honda rates it at 48 dB(A) at quarter load and 57 dB(A) at full rated load, measured at 23 feet. That's quieter than normal conversation at light load. The Westinghouse iGen2200 (52 dB) and Champion 2500 dual-fuel (53 dB) come next at roughly half the Honda's price. Anything rated under 55 dB at quarter load counts as genuinely quiet; 55–60 dB is still conversation-level and campground-friendly."

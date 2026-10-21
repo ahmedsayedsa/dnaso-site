@@ -1,7 +1,7 @@
 ---
 title: "Natural Gas Generator for Home: Hookup, Costs & Fuel Math"
 description: "A natural gas generator for home backup explained: how the hookup works, meter and pipe sizing, installed costs, fuel cost per hour, and the honest limits."
-heroImage: ""
+heroImage: "/images/natural-gas-generator-for-home.webp"
 faq:
   - question: "Can you run a generator on natural gas at home?"
     answer: "Yes — it's the most common standby setup in the US. Any residential standby generator from Generac, Kohler, or Cummins can be configured for natural gas at installation, and tri-fuel portable generators can also run on it through a quick-connect line and an inlet box. The generator connects to your home's existing gas service through a dedicated line run by a licensed plumber or gas fitter. There's no tank and nothing to refill: the fuel comes straight from the utility pipeline under your street, so as long as gas service is up, the generator can run indefinitely."

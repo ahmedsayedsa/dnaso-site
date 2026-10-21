@@ -1,7 +1,7 @@
 ---
 title: "Standby Generator Cost in 2026: Installed Prices by Size"
 description: "Standby generator cost in 2026 across all brands: installed prices by size (10–26 kW), Generac vs Kohler vs Cummins, installation line items, running costs."
-heroImage: ""
+heroImage: "/images/standby-generator-cost.webp"
 faq:
   - question: "How much does a standby generator cost to install?"
     answer: "Installation alone — electrician, gas line, pad, permits, and startup, not counting the generator — typically runs $3,000–$6,000, and Angi's national data puts the average install job at about $4,520. Add the generator and transfer switch and most homes land at $9,500–$15,000 fully installed for a 14–22kW system. Short gas runs on a modern 200-amp panel price at the low end; long trenches, panel upgrades, and propane tank work push a project toward $18,000 or beyond."

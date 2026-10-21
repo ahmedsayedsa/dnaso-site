@@ -1,7 +1,7 @@
 ---
 title: "Kohler Generator Cost in 2026: Installed Prices by Size"
 description: "Kohler generator cost in 2026, honestly broken down: installed prices by size (10–26 kW), Kohler MSRPs, installation line items, and Kohler vs Generac verdict."
-heroImage: ""
+heroImage: "/images/kohler-generator-cost.webp"
 faq:
   - question: "How much does a Kohler generator cost installed in 2026?"
     answer: "Most homeowners pay $10,500–$15,500 for a professionally installed Kohler standby generator in the popular 20kW class, transfer switch included in most dealer packages. Smaller 10–14kW systems land around $7,500–$12,500 installed, and the 26kW flagship runs $12,000–$16,500. The generator itself is roughly half the bill — Kohler's own MSRP for a 20kW with switch is $6,984 — and the rest is the electrician, gas line, pad, and permits, which cost the same for any brand."

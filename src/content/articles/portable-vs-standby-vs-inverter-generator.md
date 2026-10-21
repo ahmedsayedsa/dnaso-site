@@ -1,7 +1,7 @@
 ---
 title: "Inverter Generator vs Regular Generator (vs Standby): Which Do You Need?"
 description: "Inverter generator vs regular generator compared honestly — noise, clean power, fuel use and cost per watt — plus where standby generators fit, and which type matches your outages."
-heroImage: "https://files.catbox.moe/h9b60s.jpg"
+heroImage: "/images/portable-vs-standby-vs-inverter-generator.webp"
 pubDate: 2026-10-19
 updatedDate: 2026-10-21
 keywords: ["portable vs standby generator", "inverter vs portable generator", "which generator do I need"]

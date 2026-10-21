@@ -1,7 +1,7 @@
 ---
 title: "How to Ground a Generator: When You Need a Rod (and When You Don't)"
 description: "How to ground a generator depends on how you use it. When a ground rod is required, when the frame is enough, and bonded vs floating neutral, explained."
-heroImage: ""
+heroImage: "/images/how-to-ground-a-portable-generator.webp"
 faq:
   - question: "Do I need to ground my portable generator with a rod?"
     answer: "Usually not. Plugging extension cords directly into the generator's outlets? The frame is the grounding reference, and NEC and OSHA both accept that with no rod. Feeding your house through a transfer switch or interlock? It grounds through your home's existing grounding electrode system. A rod is mainly needed for separately derived setups, some jobsite rules, and certain local codes."

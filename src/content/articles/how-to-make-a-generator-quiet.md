@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Generator Quiet: 7 Methods That Work"
 description: "How to make a generator quiet: distance, a ventilated quiet box, muffler upgrades, anti-vibration pads and deflectors — with the realistic dB cut of each."
-heroImage: ""
+heroImage: "/images/how-to-make-a-generator-quiet.webp"
 faq:
   - question: "What is the quietest generator I can buy?"
     answer: "The Honda EU2200i — Honda rates it at 48 dB(A) at quarter load and 57 dB(A) at full rated load, measured at 23 feet, which is quieter than normal conversation when it's loafing. The Westinghouse iGen2200 (52 dB) and Champion 2500 dual-fuel (53 dB) are next at about half the Honda's price. For context, that's the floor of the whole market: no method in this article turns a 74 dB open-frame portable into a 48 dB Honda, which is why buying quiet beats building quiet when silence is the actual requirement."

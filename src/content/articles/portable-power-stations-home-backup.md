@@ -1,7 +1,7 @@
 ---
 title: "Best Portable Power Stations for Home Backup: 4 Picks Compared (2026)"
 description: "Portable power stations for home backup, ranked: Delta Pro 3, Anker Solix F3800, Bluetti AC500 and Delta Pro Ultra — specs, real runtimes, honest picks."
-heroImage: "https://files.catbox.moe/74ossu.jpg"
+heroImage: "/images/portable-power-stations-home-backup.webp"
 pubDate: 2026-10-19
 keywords: ["best portable power stations for home backup", "portable power station for home backup", "EcoFlow Delta Pro 3", "Anker Solix F3800", "Delta Pro Ultra"]
 faq:

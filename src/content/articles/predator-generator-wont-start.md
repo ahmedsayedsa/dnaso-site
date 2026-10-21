@@ -1,7 +1,7 @@
 ---
 title: "Predator Generator Won't Start? Fixes for the 3500, 4375 and 9000"
 description: "Predator generator won't start? Work these Harbor Freight-specific checks in order: petcock, low-oil sensor, clogged carb jets, plug, and the cheap carb swap."
-heroImage: ""
+heroImage: "/images/predator-generator-wont-start.webp"
 faq:
   - question: "Why won't my Predator generator start after sitting in storage?"
     answer: "Almost always the carburetor. Predator carburetors have small jets that clog fast on stored ethanol-blend fuel — a few months of sitting can varnish the main jet shut. Drain the old fuel; if the engine starts on starter fluid but dies, the carburetor needs cleaning or replacing. A replacement costs $25–45, which is why many owners swap instead of cleaning."
