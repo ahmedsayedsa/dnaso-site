@@ -1,7 +1,7 @@
 ---
 title: "Carga Nivel 1 vs Nivel 2: Velocidad y Costo"
 description: "Carga de VE nivel 1 vs nivel 2: matemática real de velocidad (3-5 vs 25-44 mi/hr), costo nocturno ($0 vs $1,200-2,500), y cuándo el cable gratis basta."
-heroImage: ""
+heroImage: "https://files.catbox.moe/s0v62l.jpg"
 pubDate: 2026-10-20
 lang: "es"
 keywords: ["carga nivel 1 vs nivel 2 ve", "nivel 1 es suficiente para cargar", "costo instalación cargador nivel 2", "velocidad de carga ev millas por hora", "autonomía nocturna carga nivel 1"]
