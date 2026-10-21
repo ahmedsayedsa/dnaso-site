@@ -1,7 +1,7 @@
 ---
 title: "Bluetti vs EcoFlow: Which Power Station Wins for Backup?"
 description: "Bluetti vs EcoFlow head to head: AC500 vs Delta Pro 3 on capacity, output, charging speed, expansion and price per kWh — with a clear verdict by use case."
-heroImage: ""
+heroImage: "/images/bluetti-vs-ecoflow.webp"
 faq:
   - question: "Which is better, Bluetti or EcoFlow?"
     answer: "For home backup on a budget, Bluetti — it sells watt-hours cheaper in most size classes, and the AC500's modular batteries let you buy capacity in slices. For output, charging speed, app polish, and ecosystem depth, EcoFlow — the Delta Pro 3 is the stronger single box. My honest split: if the station lives in a garage feeding essentials and every dollar counts, Bluetti. If it feeds a panel, a well pump, or a growing solar array, EcoFlow. Both are LiFePO4, both warranty at 4–5 years, and neither is a mistake at the right price."

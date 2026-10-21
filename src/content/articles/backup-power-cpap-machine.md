@@ -1,7 +1,7 @@
 ---
 title: "Backup Power for a CPAP Machine: Runtime Guide"
 description: "Keep your CPAP running in any power outage: true watt draws, battery runtime tables, why a DC converter beats an inverter, and how to double your runtime."
-heroImage: ""
+heroImage: "/images/backup-power-cpap-machine.webp"
 faq:
   - question: "Will a portable power station run my CPAP all night?"
     answer: "Yes, if you size it right. A typical CPAP draws about 50 watts with the humidifier on, so an 8-hour night needs roughly 500 usable watt-hours — a 500 Wh station just barely makes it, and a 1,000 Wh station covers two nights. Turn the heated humidifier off and the draw falls to around 30 watts, which nearly doubles your runtime on any battery."

@@ -1,7 +1,7 @@
 ---
 title: "Firman Generator Won't Start? 9 Checks in the Right Order"
 description: "Firman generator won't start? Run these 9 checks in order — fuel selector, stale gas, low-oil sensor, choke, spark plug — with specs from Firman's own manuals."
-heroImage: ""
+heroImage: "/images/firman-generator-wont-start.webp"
 faq:
   - question: "Why won't my Firman generator start even though it has gas?"
     answer: "In my experience it's usually one of three things: the fuel selector is still in the OFF position (the number-one step in Firman's own troubleshooting chart), the gasoline is stale from sitting, or the low-oil sensor is blocking the start because the unit isn't level or the sump isn't filled to the H mark on the dipstick. Work the checks in this guide in order — fuel, oil, choke, spark, carburetor — and you'll find it. Nine times out of ten it's one of the first four, and all four are five-minute fixes with no parts."

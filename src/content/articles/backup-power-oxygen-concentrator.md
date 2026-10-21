@@ -1,7 +1,7 @@
 ---
 title: "Backup Power for an Oxygen Concentrator: Full Guide"
 description: "Keep an oxygen concentrator running through any power outage: true watt draws, battery runtime math, generator safety, and a layered plan for long outages."
-heroImage: ""
+heroImage: "/images/backup-power-oxygen-concentrator.webp"
 faq:
   - question: "How long will a 1 kWh power station run an oxygen concentrator?"
     answer: "About 2.4 hours for a typical 5-liter stationary concentrator drawing 350 watts. The math: 1,000 watt-hours × 0.85 inverter efficiency ÷ 350 watts ≈ 2.4 hours. A 2 kWh station roughly doubles that to just under 5 hours, and a 5 kWh unit gets you around 12 hours. Portable concentrators draw far less and can run most of a day on the same battery."

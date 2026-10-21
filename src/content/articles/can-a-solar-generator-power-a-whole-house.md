@@ -1,7 +1,7 @@
 ---
 title: "Can a Solar Generator Power a Whole House? The Honest Math"
 description: "Can a solar generator power a whole house? Critical loads, yes. Central AC and everything at once, no. Here's the math, the costs, and the setup that works."
-heroImage: ""
+heroImage: "/images/can-a-solar-generator-power-a-whole-house.webp"
 faq:
   - question: "Can a solar generator run central air conditioning?"
     answer: "It can start and run a soft-started central AC, but it can't feed one for long. A 3-ton system draws about 3,000–3,500 watts running, and an AC burns 3–5 kWh for every hour it cools. A big 10 kWh battery bank gives you roughly 2–3 hours of AC, total. Two stations paired for 240V plus a soft starter makes it possible; the energy math makes it a short treat, not an all-day solution."

@@ -1,7 +1,7 @@
 ---
 title: "Charging an EV During a Power Outage: What Works"
 description: "Charging an EV during a power outage: a portable generator adds 4–5 miles per hour on Level 1. THD limits, floating-neutral errors, and fuel math explained."
-heroImage: "https://files.catbox.moe/m50hes.jpg"
+heroImage: "/images/charging-ev-during-outage.webp"
 pubDate: 2026-10-20
 keywords: ["charging an ev during a power outage", "can you charge an ev with a generator", "ev charging power outage", "charge tesla with portable generator", "ev backup power outage"]
 category: "EV Charging"

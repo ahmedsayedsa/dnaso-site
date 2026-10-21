@@ -1,7 +1,7 @@
 ---
 title: "Can a Solar Generator Run a Refrigerator? The Real Math"
 description: "Can a solar generator run a refrigerator? Yes, if the inverter handles the 600–1,200W surge. Runtime math by battery size, plus the solar recharge reality."
-heroImage: ""
+heroImage: "/images/can-a-solar-generator-run-a-refrigerator.webp"
 faq:
   - question: "Can a solar generator run a refrigerator?"
     answer: "Yes — most mid-size and large portable power stations run a modern refrigerator without trouble. The two numbers that decide it are the inverter's surge rating (a fridge compressor kicks on at 600–1,200 watts, so the station must handle that spike) and the battery size (a typical fridge uses 1–2 kWh per day, so a 1 kWh station buys you roughly 8–14 hours, a 2 kWh station about a full day)."

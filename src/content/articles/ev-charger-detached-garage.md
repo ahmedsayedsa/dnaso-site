@@ -1,7 +1,7 @@
 ---
 title: "EV Charger for Detached Garage: Trenching & Cost"
 description: "Installing an EV charger for a detached garage: trenching runs $5–12/ft and the full job is $1,500–$4,000. Real wire sizing, subpanel, and permit costs."
-heroImage: "https://files.catbox.moe/pgygpu.jpg"
+heroImage: "/images/ev-charger-detached-garage.webp"
 pubDate: 2026-10-20
 keywords: ["ev charger for detached garage", "install ev charger detached garage cost", "trenching cost for ev charger", "running power to detached garage for ev", "ev charger subpanel garage"]
 category: "EV Charging"

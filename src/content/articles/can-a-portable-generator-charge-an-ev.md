@@ -1,7 +1,7 @@
 ---
 title: "Can a Portable Generator Charge an EV? Speeds, Gotchas & Fuel Math"
 description: "Can a portable generator charge an EV? Yes — slowly. Level 1 vs 240V speeds, the THD and bonding-plug gotchas, and the honest fuel math."
-heroImage: ""
+heroImage: "/images/can-a-portable-generator-charge-an-ev.webp"
 faq:
   - question: "Can a portable generator charge an EV?"
     answer: "Yes. Any EV will charge at Level 1 (120V) from a portable generator, adding 3–5 miles of range per hour — roughly 40–60 miles overnight. A large 240V generator (7,500W class or bigger) can run a Level 2 charger dialed down to 24–32 amps for 20–30 miles per hour. The conditions: clean power from an inverter generator, and a neutral-ground bond many portables don't have by default."

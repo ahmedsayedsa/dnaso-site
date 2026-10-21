@@ -1,7 +1,7 @@
 ---
 title: "Best Portable Generator for Home Backup: 4 Picks for 2026"
 description: "Best portable generator for home backup in 2026: four verified picks — dual-fuel, inverter, budget, whole-home class — with watts, noise, runtime and prices."
-heroImage: ""
+heroImage: "/images/best-portable-generator-for-home-backup.webp"
 faq:
   - question: "What is the best portable generator for home backup?"
     answer: "For most homes, the Westinghouse WGen9500DFc: 9,500 running watts on gasoline, a 50-amp outlet for a transfer switch or inlet box, dual-fuel propane backup, remote start, and a street price that typically lands between $1,000 and $1,400. If your priority is quiet, clean power for electronics instead of raw watts, the Honda EU3200i inverter is the better machine. And if your budget is under $900, the WEN GN625i delivers 5,000 running watts of inverter power with 240V output — an unusual combination at that price."

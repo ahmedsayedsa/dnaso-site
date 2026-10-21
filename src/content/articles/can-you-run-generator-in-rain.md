@@ -1,7 +1,7 @@
 ---
 title: "Can You Run a Generator in the Rain? Safe Rules"
 description: "Yes — with the right setup. How to run a generator safely in rain and storms: running covers, GFCI protection, dry-hand rules, refueling, and what never to do."
-heroImage: ""
+heroImage: "/images/can-you-run-generator-in-rain.webp"
 faq:
   - question: "Can a generator get wet at all?"
     answer: "A running generator will survive weather it was placed in better than you'd think — engines are not delicate — but its outlets, control panel, and your plug connections should not be getting soaked. Water in the outlets risks tripping GFCI protection at best and shock or a short at worst. The generator itself can handle a storm from under a proper running cover; what it can't handle is sitting in pooled water or being drenched directly for hours."
