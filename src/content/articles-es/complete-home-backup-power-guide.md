@@ -1,7 +1,7 @@
 ---
 title: "Guía de energía de respaldo para el hogar 2026"
 description: "Guía 2026 de energía de respaldo eléctrica para el hogar: tipos de generador, cálculo de tamaño, costos reales y baterías vs generadores cuando se va la luz."
-heroImage: "https://files.catbox.moe/42yerq.jpg"
+heroImage: "/images/complete-home-backup-power-guide.webp"
 pubDate: 2026-10-19
 lang: "es"
 keywords: ["energía de respaldo hogar", "generador para casa", "calcular tamaño de generador", "batería de respaldo"]

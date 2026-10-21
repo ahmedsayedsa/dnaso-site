@@ -1,7 +1,7 @@
 ---
 title: "What Size Generator Do I Need? Complete Sizing Chart by Home Size"
 description: "What size generator do I need? Add up your running watts, cover the biggest starting surge, and use this sizing chart by home size — with worked examples for 1,500–3,000 sq ft homes."
-heroImage: "https://files.catbox.moe/ng3fa0.jpg"
+heroImage: "/images/what-size-generator-run-house.webp"
 faq:
   - question: "What size generator do I need for a 2,000 sq ft house?"
     answer: "Most 2,000 sq ft homes need a 14–18kW standby generator for whole-house coverage, or a 7,500–9,500 watt portable for essentials only (fridge, lights, well pump, and a window AC). The real answer depends on your specific loads — add up running watts for everything you want powered simultaneously, then check the biggest motor's starting surge."

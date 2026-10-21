@@ -1,7 +1,7 @@
 ---
 title: "Respaldo eléctrico para tu CPAP: guía de autonomía"
 description: "Mantén tu CPAP funcionando en cualquier apagón: consumo real en vatios, tablas de autonomía, por qué el convertidor DC gana y cómo duplicar tus horas de sueño."
-heroImage: ""
+heroImage: "/images/backup-power-cpap-machine.webp"
 faq:
   - question: "¿Una estación de energía portátil puede alimentar mi CPAP toda la noche?"
     answer: "Sí, si eliges el tamaño correcto. Un CPAP típico consume unos 50 vatios con el humidificador encendido, así que una noche de 8 horas necesita unos 500 vatios-hora útiles: una estación de 500 Wh apenas llega, y una de 1,000 Wh cubre dos noches. Apaga el humidificador con calor y el consumo cae a unos 30 vatios, lo que casi duplica la autonomía de cualquier batería."

@@ -1,7 +1,7 @@
 ---
 title: "Whole House Generator Cost in 2026: Installed Price Breakdown"
 description: "What does a whole house generator cost in 2026? Real installed price ranges ($8k-$15k+), what drives the price, and where the quotes hide the padding."
-heroImage: "https://files.catbox.moe/lafhq3.jpg"
+heroImage: "/images/whole-house-generator-cost.webp"
 faq:
   - question: "How much does a whole house generator cost installed in 2026?"
     answer: "Expect $9,000–$15,000 installed for a typical 14–22kW air-cooled standby with automatic transfer switch. The generator itself runs $4,000–$6,500; the rest is the transfer switch ($1,000–$2,000), gas line work, electrical, permits, and concrete pad. Liquid-cooled units start around $18,000 installed and climb from there."

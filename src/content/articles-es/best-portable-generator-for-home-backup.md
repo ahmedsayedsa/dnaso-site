@@ -1,7 +1,7 @@
 ---
 title: "El mejor generador portátil para casa: 4 opciones (2026)"
 description: "El mejor generador portátil para respaldo en casa en 2026: cuatro opciones verificadas — bicombustible, inverter, económico y clase casa completa — con precios."
-heroImage: ""
+heroImage: "/images/best-portable-generator-for-home-backup.webp"
 faq:
   - question: "¿Cuál es el mejor generador portátil para respaldo en casa?"
     answer: "Para la mayoría de las casas, el Westinghouse WGen9500DFc: 9,500 watts continuos con gasolina, un enchufe de 50 amperios para interruptor de transferencia o caja de entrada, respaldo bicombustible con propano, arranque remoto y un precio de calle que normalmente queda entre $1,000 y $1,400. Si tu prioridad es energía silenciosa y limpia para electrónica en vez de watts brutos, el Honda EU3200i inverter es la mejor máquina. Y si tu presupuesto es menor de $900, el WEN GN625i entrega 5,000 watts continuos de energía inverter con salida de 240V — una combinación rara a ese precio."

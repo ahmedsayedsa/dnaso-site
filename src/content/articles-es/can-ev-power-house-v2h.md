@@ -1,7 +1,7 @@
 ---
 title: "¿Un auto eléctrico puede alimentar tu casa? V2H explicado"
 description: "¿Un auto eléctrico puede alimentar tu casa? V2H con carga bidireccional en 2026: costos reales instalados, qué vehículos califican y cuántos días de respaldo."
-heroImage: "https://files.catbox.moe/6h2bun.jpg"
+heroImage: "/images/can-ev-power-house-v2h.webp"
 pubDate: 2026-10-20
 keywords: ["puede un auto eléctrico alimentar una casa", "V2H explicado", "carga vehículo a casa", "Ford F-150 Lightning respaldo para casa costo", "costo cargador bidireccional para auto eléctrico"]
 category: "EV Charging"

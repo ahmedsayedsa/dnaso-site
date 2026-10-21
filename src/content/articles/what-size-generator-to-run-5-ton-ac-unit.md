@@ -1,7 +1,7 @@
 ---
 title: "What Size Generator to Run a 5-Ton AC Unit? Start With the Surge"
 description: "What size generator to run a 5 ton AC unit? Running watts are the easy part — the 30,000W startup surge is not. Soft starter math, portable vs standby."
-heroImage: ""
+heroImage: "/images/what-size-generator-to-run-5-ton-ac-unit.webp"
 faq:
   - question: "Can a 10,000-watt generator run a 5-ton AC unit?"
     answer: "Not a stock one. A 5-ton compressor pulls 130–160 locked-rotor amps on startup — over 30,000 watts for a split second — and a 10,000-watt portable cannot deliver that, so the compressor stalls and the breaker trips. Add a soft starter (cuts inrush 65–75%) and the surge drops to roughly 8,000–10,000 watts. Now the 10,000-watt unit is borderline workable if almost nothing else is running — but a 12,000–14,000-watt portable gives you headroom to actually live in the house while it runs."

@@ -1,7 +1,7 @@
 ---
 title: "Doble combustible vs gasolina vs propano: costos comparados"
 description: "Generador de doble combustible vs gasolina vs propano: costo por hora, almacenamiento del combustible, disponibilidad en apagones y cuál te conviene más."
-heroImage: "https://files.catbox.moe/9imxz2.jpg"
+heroImage: "/images/dual-fuel-vs-gas-vs-propane-generator.webp"
 pubDate: 2026-10-19
 keywords: ["generador de doble combustible vs gasolina", "propano vs gasolina generador", "consumo de combustible generador"]
 lang: "es"

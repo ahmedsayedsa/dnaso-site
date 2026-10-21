@@ -1,7 +1,7 @@
 ---
 title: "Respaldo eléctrico para un concentrador de oxígeno"
 description: "Cómo mantener un concentrador de oxígeno funcionando en un apagón: consumo real en vatios, autonomía de baterías, generadores y un plan por capas completo."
-heroImage: ""
+heroImage: "/images/backup-power-oxygen-concentrator.webp"
 faq:
   - question: "¿Cuánto tiempo funciona un concentrador de oxígeno con una estación de energía de 1 kWh?"
     answer: "Unas 2.4 horas para un concentrador estacionario típico de 5 litros que consume 350 vatios. La cuenta: 1,000 vatios-hora × 0.85 de eficiencia del inversor ÷ 350 vatios ≈ 2.4 horas. Una estación de 2 kWh duplica eso a casi 5 horas, y una de 5 kWh llega a unas 12 horas. Los concentradores portátiles consumen mucho menos y pueden funcionar casi todo el día con la misma batería."

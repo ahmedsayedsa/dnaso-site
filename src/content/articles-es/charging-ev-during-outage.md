@@ -1,7 +1,7 @@
 ---
 title: "Cargar tu auto eléctrico durante un apagón"
 description: "Cargar tu auto eléctrico durante un apagón: un generador portátil agrega 4–5 millas por hora en Nivel 1. THD, neutro flotante y costos de gasolina explicados."
-heroImage: "https://files.catbox.moe/m50hes.jpg"
+heroImage: "/images/charging-ev-during-outage.webp"
 pubDate: 2026-10-20
 keywords: ["cargar un auto eléctrico durante un apagón", "se puede cargar un auto eléctrico con un generador", "carga de auto eléctrico en corte de energía", "cargar un Tesla con generador portátil", "respaldo para auto eléctrico en apagón"]
 category: "EV Charging"

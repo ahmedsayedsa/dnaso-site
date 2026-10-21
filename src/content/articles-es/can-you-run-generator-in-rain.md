@@ -1,7 +1,7 @@
 ---
 title: "¿Se puede usar un generador bajo la lluvia?"
 description: "Sí, con la configuración correcta. Cómo usar un generador con seguridad bajo la lluvia: cubiertas especiales, protección GFCI, reglas de manos secas y recarga."
-heroImage: ""
+heroImage: "/images/can-you-run-generator-in-rain.webp"
 faq:
   - question: "¿Un generador se puede mojar?"
     answer: "Un generador en marcha sobrevive al clima donde lo colocaste mejor de lo que crees — los motores no son delicados —, pero sus tomas, su panel de control y las uniones de tus enchufes no deberían empaparse. El agua en las tomas arriesga disparar la protección GFCI, en el mejor de los casos, y una descarga o un cortocircuito en el peor. El equipo mismo aguanta una tormenta bajo una cubierta de operación adecuada; lo que no aguanta es quedar en agua estancada ni recibir un chorro directo durante horas."

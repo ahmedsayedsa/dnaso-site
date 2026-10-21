@@ -1,7 +1,7 @@
 ---
 title: "¿Puede un generador solar alimentar un refrigerador? Las cuentas reales"
 description: "¿Puede un generador solar alimentar un refrigerador? Sí, si el inversor aguanta el pico de 600–1.200 W. Autonomía por tamaño de batería y la realidad solar."
-heroImage: ""
+heroImage: "/images/can-a-solar-generator-run-a-refrigerator.webp"
 faq:
   - question: "¿Puede un generador solar alimentar un refrigerador?"
     answer: "Sí. La mayoría de las estaciones de energía medianas y grandes alimentan un refrigerador moderno sin problemas. Los dos números que lo deciden son la potencia de pico del inversor (el compresor arranca con 600–1.200 vatios y la estación tiene que aguantar ese golpe) y el tamaño de la batería (un refrigerador típico consume 1–2 kWh al día, así que una estación de 1 kWh te da unas 8–14 horas y una de 2 kWh, cerca de un día completo)."

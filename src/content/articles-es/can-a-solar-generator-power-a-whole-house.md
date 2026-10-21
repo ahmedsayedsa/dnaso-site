@@ -1,7 +1,7 @@
 ---
 title: "¿Puede un generador solar alimentar toda una casa? Las cuentas honestas"
 description: "¿Puede un generador solar alimentar toda una casa? Lo esencial, sí. El aire central y todo a la vez, no. Aquí las cuentas, los costos y lo que sí funciona."
-heroImage: ""
+heroImage: "/images/can-a-solar-generator-power-a-whole-house.webp"
 faq:
   - question: "¿Puede un generador solar hacer funcionar el aire acondicionado central?"
     answer: "Puede arrancarlo y moverlo si lleva arranque suave, pero no puede alimentarlo por mucho tiempo. Un equipo de 3 toneladas consume unos 3.000–3.500 vatios trabajando, y el aire se come 3–5 kWh por cada hora de enfriamiento. Un banco de baterías grande de 10 kWh te da unas 2–3 horas de aire, en total. Dos estaciones en pareja a 240V con arranque suave lo hacen posible; la cuenta de energía lo convierte en un gusto corto, no en una solución para todo el día."

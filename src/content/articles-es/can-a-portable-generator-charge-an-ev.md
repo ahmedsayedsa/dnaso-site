@@ -1,7 +1,7 @@
 ---
 title: "¿Puede un generador portátil cargar un coche eléctrico? Velocidades y cuentas"
 description: "¿Puede un generador portátil cargar un coche eléctrico? Sí, despacio. Nivel 1 contra 240V, el truco del bonding plug y la cuenta real de gasolina."
-heroImage: ""
+heroImage: "/images/can-a-portable-generator-charge-an-ev.webp"
 faq:
   - question: "¿Puede un generador portátil cargar un coche eléctrico?"
     answer: "Sí. Cualquier coche eléctrico carga a Nivel 1 (120V) desde un generador portátil, sumando de 3 a 5 millas de autonomía por hora: unas 40–60 millas en una noche. Un generador grande de 240V (clase 7.500W o más) puede alimentar un cargador de Nivel 2 bajado a 24–32 amperios, a 20–30 millas por hora. Las condiciones: corriente limpia de un generador inverter y una unión neutro-tierra que muchos portátiles no traen de fábrica."

@@ -1,7 +1,7 @@
 ---
 title: "Bluetti vs EcoFlow: ¿qué estación gana para respaldo?"
 description: "Bluetti vs EcoFlow frente a frente: AC500 vs Delta Pro 3 en capacidad, potencia, velocidad de carga, expansión y precio por kWh — veredicto claro por uso."
-heroImage: ""
+heroImage: "/images/bluetti-vs-ecoflow.webp"
 faq:
   - question: "¿Qué es mejor, Bluetti o EcoFlow?"
     answer: "Para respaldo en casa con presupuesto, Bluetti — vende los watt-horas más baratos en la mayoría de las clases de tamaño, y las baterías modulares del AC500 te dejan comprar capacidad en rebanadas. Para potencia, velocidad de carga, pulido de la app y profundidad de ecosistema, EcoFlow — la Delta Pro 3 es la caja individual más fuerte. Mi división honesta: si la estación vive en un garaje alimentando esenciales y cada dólar cuenta, Bluetti. Si alimenta un tablero, una bomba de pozo o un arreglo solar creciente, EcoFlow. Ambas son LiFePO4, ambas garantizan 4–5 años, y ninguna es un error al precio correcto."
