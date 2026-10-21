@@ -1,7 +1,7 @@
 ---
 title: "Generador para aire acondicionado central: qué tamaño"
 description: "Dimensiona un generador para el aire central de casa: vatios por tonelaje (3, 4 y 5), por qué el arranque hunde generadores pequeños y el arrancador suave."
-heroImage: "https://files.catbox.moe/ooesqg.jpg"
+heroImage: "/images/what-size-generator-central-ac.webp"
 pubDate: 2026-10-19
 lang: "es"
 keywords: ["qué tamaño de generador para aire acondicionado", "generador para AC de 3 toneladas", "arrancador suave generador"]

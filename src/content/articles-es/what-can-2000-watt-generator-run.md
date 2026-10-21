@@ -1,7 +1,7 @@
 ---
 title: "¿Qué puede alimentar un generador de 2000 vatios? Guía real"
 description: "¿Qué puede alimentar un generador de 2000 vatios? Refrigerador, luces, TV, internet, CPAP y cargadores: tablas reales, tres combinaciones y lo que no arranca."
-heroImage: ""
+heroImage: "/images/what-can-2000-watt-generator-run.webp"
 faq:
   - question: "¿Un generador de 2000 vatios puede alimentar un refrigerador?"
     answer: "Sí — el refrigerador es la carga central para la que está hecho este tamaño. Un refrigerador moderno consume 150–250 vatios en continuo y pica a 800–1.200 vatios durante un segundo o dos cuando arranca el compresor. Frente a unos 1.800 vatios continuos y 2.000–2.200 de pico, cabe con margen, siempre que no apiles el arranque de otro motor en el mismo segundo. Refrigerador más luces, wifi y cargadores es el montaje clásico de apagón con 2.000 vatios."

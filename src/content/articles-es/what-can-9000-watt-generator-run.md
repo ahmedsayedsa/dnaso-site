@@ -1,7 +1,7 @@
 ---
 title: "¿Qué puede alimentar un generador de 9000 vatios? Casi todo"
 description: "¿Qué puede alimentar un generador de 9000 vatios? Casi todo entera: aire central con arrancador suave, calentador de agua y bomba de 1 HP, con tablas."
-heroImage: ""
+heroImage: "/images/what-can-9000-watt-generator-run.webp"
 faq:
   - question: "¿Un generador de 9000 vatios puede alimentar una casa entera?"
     answer: "Para la mayoría de las casas con calefacción de gas, sí — refrigerador, congelador, bomba de pozo, calefacción, luces, electrónica, un calentador de agua eléctrico en rotación, una secadora en rotación y aire central con arrancador suave instalado. El «casi» del titular cubre las casas totalmente eléctricas moviendo todo a la vez: calentador de agua más secadora más aire siguen superando cualquier portátil. Pero con una administración normal de cargas, una unidad de 9.000 vatios es el portátil más pequeño que se gana honestamente la frase «casa entera»."

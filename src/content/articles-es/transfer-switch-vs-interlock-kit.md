@@ -1,7 +1,7 @@
 ---
 title: "Interruptor de transferencia vs kit de interbloqueo"
 description: "Interruptor de transferencia vs kit de interbloqueo: cómo funciona cada uno, costos reales ($200–$1,500+), qué exige el código y cuál conviene a tu caso."
-heroImage: "https://files.catbox.moe/91nf0m.jpg"
+heroImage: "/images/transfer-switch-vs-interlock-kit.webp"
 pubDate: 2026-10-19
 lang: "es"
 keywords: ["interruptor de transferencia vs kit de interbloqueo", "costo de kit de interbloqueo", "costo de interruptor de transferencia automático"]

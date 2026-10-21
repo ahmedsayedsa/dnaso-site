@@ -1,7 +1,7 @@
 ---
 title: "¿Qué puede alimentar un generador de 5000 vatios? Cargas reales"
 description: "¿Qué puede alimentar un generador de 5000 vatios? Tablas de consumo, tres combinaciones con cálculos y lo que no puede mover junto."
-heroImage: ""
+heroImage: "/images/what-can-5000w-generator-run.webp"
 faq:
   - question: "¿Un generador de 5000 vatios puede alimentar una casa entera?"
     answer: "Puede alimentar lo esencial de la mayoría de las casas — refrigerador, congelador, bomba de sumidero o de pozo, soplador de la calefacción, luces, internet y un aire acondicionado de ventana — siempre que los aparatos grandes de calor sean de gas. No puede con una casa totalmente eléctrica con calentador de agua eléctrico, secadora eléctrica y aire central a la vez. Piensa en 5.000 vatios como «vivir cómodo administrando cargas», no como «subir todos los breakers y olvidarte»."

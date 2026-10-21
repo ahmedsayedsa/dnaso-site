@@ -1,7 +1,7 @@
 ---
 title: "Lista de apagón por tormenta: combustible, seguridad"
 description: "Lista de apagón por tormenta: almacenamiento y rotación de combustible, ubicación del generador, seguridad de CO, refrigerador, recarga segura y mantenimiento."
-heroImage: "https://files.catbox.moe/g2s7qv.jpg"
+heroImage: "/images/storm-preparedness-checklist.webp"
 pubDate: 2026-10-19
 keywords: ["lista de apagón por huracán", "seguridad del generador en tormentas", "monóxido de carbono generador", "almacenamiento de combustible generador"]
 lang: "es"

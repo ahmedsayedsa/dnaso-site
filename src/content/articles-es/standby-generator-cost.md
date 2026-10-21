@@ -1,7 +1,7 @@
 ---
 title: "Costo de un generador de reserva en 2026: precios instalados"
 description: "Costo de un generador de reserva (standby) en 2026, todas las marcas: precios instalados por tamaño (10–26 kW), Generac vs Kohler vs Cummins, instalación y operación."
-heroImage: ""
+heroImage: "/images/standby-generator-cost.webp"
 faq:
   - question: "¿Cuánto cuesta instalar un generador de reserva?"
     answer: "La instalación por sí sola — electricista, línea de gas, base, permisos y puesta en marcha, sin contar el generador — suele costar $3,000–$6,000, y los datos nacionales de Angi sitúan el trabajo de instalación promedio en unos $4,520. Sumando el generador y el interruptor de transferencia, la mayoría de las casas queda en $9,500–$15,000 totalmente instalado para un sistema de 14–22 kW. Los tramos cortos de gas con un tablero moderno de 200 amperios quedan en el extremo bajo; las zanjas largas, las actualizaciones de tablero y el tanque de propano llevan el proyecto a $18,000 o más."

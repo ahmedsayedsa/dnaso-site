@@ -1,7 +1,7 @@
 ---
 title: "¿Qué puede alimentar un generador de 3500 vatios? Guía real"
 description: "¿Qué puede alimentar un generador de 3500 vatios? Refrigerador, bomba de sumidero, calefacción y un aire de ventana: tablas, tres combinaciones y límites."
-heroImage: ""
+heroImage: "/images/what-can-3500-watt-generator-run.webp"
 faq:
   - question: "¿Un generador de 3500 vatios puede alimentar una casa?"
     answer: "Puede alimentar lo esencial de una casa — refrigerador, congelador, bomba de sumidero, soplador de la calefacción, luces, internet y un aire acondicionado de ventana — siempre que las cargas grandes de calor sean de gas. Es un montaje de apagón de verdad habitable. Lo que no puede es con una casa totalmente eléctrica: ni calentador de agua eléctrico (4.500 vatios superan el generador él solo), ni secadora eléctrica, ni aire central. Piensa en 3.500 vatios como «cómodo con administración ligera», un paso por debajo de la clase de 5.000 vatios."

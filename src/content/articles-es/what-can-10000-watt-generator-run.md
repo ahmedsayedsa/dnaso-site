@@ -1,7 +1,7 @@
 ---
 title: "¿Qué puede alimentar un generador de 10000 vatios? Guía real"
 description: "¿Qué puede alimentar un generador de 10000 vatios? Una casa entera con aire de 4 toneladas, calentador y secadora en juego: tablas y tres combinaciones."
-heroImage: ""
+heroImage: "/images/what-can-10000-watt-generator-run.webp"
 faq:
   - question: "¿Un generador de 10000 vatios puede alimentar una casa entera?"
     answer: "Sí — esta es la primera clase portátil donde «casa entera» casi no necesita asteriscos. Refrigerador, congelador, bomba de pozo de 1 HP, calefacción, luces, electrónica, calentador de agua eléctrico, secadora eléctrica y aire central pertenecen a este generador; la única habilidad que queda es no mover las tres cargas más grandes en el mismo minuto. Una casa totalmente eléctrica a plena demanda simultánea aún lo supera, pero ese perfil de demanda también supera la mayoría de las instalaciones estacionarias."

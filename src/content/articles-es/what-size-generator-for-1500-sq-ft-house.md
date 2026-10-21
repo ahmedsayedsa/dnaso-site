@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tamaño de generador para una casa de 1500 pies cuadrados?"
 description: "¿Qué tamaño de generador para una casa de 1500 pies cuadrados? Esenciales: 3.500–5.500 W. Comodidad: 7.500–10.000 W. Toda la casa: 14–18 kW. Cuentas reales."
-heroImage: ""
+heroImage: "/images/what-size-generator-for-1500-sq-ft-house.webp"
 faq:
   - question: "¿Qué tamaño de generador necesito para una casa de 1500 pies cuadrados?"
     answer: "Para la mayoría de las casas de 1.500 pies cuadrados (unos 139 m²): 3.500–5.500 vatios cubren lo esencial (refrigerador, luces, soplador, Wi-Fi, bomba de sumidero), 7.500–10.000 vatios añaden comodidad y aire por ventana o central con arranque suave, y un generador de reserva de 14–18 kW alimenta toda la casa, aire central incluido. Los pies cuadrados definen el tamaño del aire; el aire y tu calefacción definen el generador."

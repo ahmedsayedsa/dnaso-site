@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tamaño de generador para un servicio de 200 amperios? No son 48 kW"
 description: "¿Qué tamaño de generador para un servicio de 200 amperios? No 48 kW: una casa real consume 8–16 kW. El cálculo de carga y las opciones reales."
-heroImage: ""
+heroImage: "/images/what-size-generator-for-200-amp-service.webp"
 faq:
   - question: "¿Necesito un generador de 48 kW para un servicio de 200 amperios?"
     answer: "No. Los 200 amperios son el máximo que tu equipo de acometida puede soportar, no lo que tu casa consume en realidad. 200 A × 240 V = 48.000 W es un techo teórico que nunca vas a tocar: una casa típica con servicio de 200 amperios llega a picos reales de 8–16 kW. La mayoría de las instalaciones de casa completa quedan en 18–24 kW sin gestión de cargas, o en 10–14 kW con módulos de desconexión automática de cargas grandes."

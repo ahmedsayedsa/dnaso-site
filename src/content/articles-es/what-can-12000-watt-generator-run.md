@@ -1,7 +1,7 @@
 ---
 title: "¿Qué puede alimentar un generador de 12000 vatios? Guía real"
 description: "¿Qué puede alimentar un generador de 12000 vatios? Los portátiles más grandes mueven aire de 5 toneladas, calentador y secadora: tablas y combinaciones."
-heroImage: ""
+heroImage: "/images/what-can-12000-watt-generator-run.webp"
 faq:
   - question: "¿Un generador de 12000 vatios puede alimentar una casa entera?"
     answer: "Sí — un portátil de 12.000 vatios es lo más cerca que las ruedas llegan del comportamiento de un estacionario. Refrigerador, congelador, bomba de pozo de 1 HP, calefacción, luces, electrónica, calentador de agua eléctrico, secadora eléctrica y un aire central de 5 toneladas con arrancador suave pertenecen a esta máquina. Los límites restantes son las esquinas extremas: ni calentador de agua eléctrico instantáneo, ni calefacción eléctrica completa, ni todas las cargas grandes en el mismo minuto. Para la gran mayoría de las casas, las cuentas de carga simplemente dejan de ser la restricción."

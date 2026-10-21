@@ -1,7 +1,7 @@
 ---
 title: "¿Qué puede alimentar un generador de 4000 vatios? Guía real"
 description: "¿Qué puede alimentar un generador de 4000 vatios? Esenciales más un aire de ventana y bomba de pozo: tablas, tres combinaciones y lo que no puede mover."
-heroImage: ""
+heroImage: "/images/what-can-4000-watt-generator-run.webp"
 faq:
   - question: "¿Un generador de 4000 vatios puede alimentar una casa?"
     answer: "Puede alimentar lo esencial funcional de la mayoría de las casas — refrigerador, congelador, bomba de sumidero o de pozo, soplador de la calefacción, luces, internet y un aire acondicionado de ventana — siempre que los aparatos grandes de calor sean de gas. No puede con una casa con calentador de agua eléctrico, secadora eléctrica o aire central. Piensa en 4.000 vatios como «vivir cómodo con administración ligera» — un escalón por debajo de la clase de 5.000 vatios, donde la misma combinación funciona con un margen notablemente mayor."

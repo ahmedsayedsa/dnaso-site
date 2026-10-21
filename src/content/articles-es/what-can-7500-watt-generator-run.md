@@ -1,7 +1,7 @@
 ---
 title: "¿Qué puede alimentar un generador de 7500 vatios?"
 description: "Qué puede alimentar un generador de 7500 vatios: tablas de consumo por cuarto, tres escenarios reales con cálculos, lo que no puede mover y los mejores modelos."
-heroImage: "https://files.catbox.moe/t0e37p.jpg"
+heroImage: "/images/what-can-7500-watt-generator-run.webp"
 pubDate: 2026-10-19
 keywords: ["que puede alimentar un generador de 7500 vatios", "generador de 7500 vatios", "generador 7500w para casa", "vatios de arranque vs vatios continuos"]
 lang: "es"
