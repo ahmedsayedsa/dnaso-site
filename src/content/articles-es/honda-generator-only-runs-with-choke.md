@@ -1,7 +1,7 @@
 ---
 title: "El generador Honda solo funciona con el choke puesto: causas y soluciones"
 description: "¿Tu generador Honda solo funciona con el choke puesto? Le falta gasolina. Encuentra el surtidor tapado, la gasolina vieja o la fuga de aire y arréglalo."
-heroImage: ""
+heroImage: "/images/honda-generator-only-runs-with-choke.webp"
 faq:
   - question: "¿Por qué mi generador Honda solo funciona con el choke puesto?"
     answer: "Porque el choke está tapando una escasez de gasolina. El estrangulador corta el aire para enriquecer la mezcla, así que si el motor muere cuando abres el choke, es que no le llega suficiente gasolina por el carburador — casi siempre un surtidor piloto o principal parcialmente tapado, normalmente por gasolina vieja. Menos común: un filtro tapado, una fuga de aire en un empaque o poca presión de la bomba."

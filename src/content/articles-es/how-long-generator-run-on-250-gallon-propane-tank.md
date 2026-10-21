@@ -1,7 +1,7 @@
 ---
 title: "¿Cuánto tiempo funciona un generador con un tanque de propano de 250 galones?"
 description: "¿Cuánto tiempo funciona un generador con un tanque de propano de 250 galones? Galones útiles reales, consumo por tamaño y días de autonomía."
-heroImage: ""
+heroImage: "/images/how-long-generator-run-on-250-gallon-propane-tank.webp"
 faq:
   - question: "¿Cuántos galones útiles tiene un tanque de propano de 250 galones?"
     answer: "Unos 170–190 galones en términos reales de planeación. Un tanque de 250 galones solo se llena al 80% de su capacidad de agua, así que un tanque «lleno» lleva unos 200 galones. Y nunca lo trabajas hasta cero: por debajo del 10% el medidor se vuelve poco confiable, la presión de vapor cae con demandas grandes y te quedas sin reserva si el camión de reparto se retrasa. Parte de 200 galones, deja 15–25 de colchón y presupuesta unos 180 galones útiles."

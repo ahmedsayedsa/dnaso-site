@@ -1,7 +1,7 @@
 ---
 title: "¿Cuánto dura un tanque de propano de 20 lb en un generador?"
 description: "Un tanque de 20 lb guarda 4,6 galones de propano. Autonomía real al 25%, 50% y 100% de carga, cómo cambia con el tamaño del tanque y cuándo subir a 40 o 100 lb."
-heroImage: ""
+heroImage: "/images/how-long-will-20-lb-propane-tank-run-generator.webp"
 faq:
   - question: "¿Cuántos galones de propano tiene un tanque de 20 lb?"
     answer: "4,6 galones cuando está lleno de verdad. El propano pesa unas 4,2 libras por galón, y los tanques se llenan al 80% de su capacidad de agua para dejar espacio de expansión, así que un tanque de «20 libras» (llamado así por el peso de propano que guarda) lleva 20 ÷ 4,2 ≈ 4,7 galones, citados convencionalmente como 4,6. A unos 91.500 BTU por galón, son unos 420.000–430.000 BTU de energía a bordo."

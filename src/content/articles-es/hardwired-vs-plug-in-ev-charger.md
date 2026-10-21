@@ -1,7 +1,7 @@
 ---
 title: "Cargador EV Cableado vs con Enchufe: ¿Cuál Conviene?"
 description: "Cargador EV cableado vs con enchufe en casa: comparación real 2026 — límites de 48A vs 40A, costos de instalación y el riesgo del enchufe barato de $15."
-heroImage: "https://files.catbox.moe/5d5zjs.jpg"
+heroImage: "/images/hardwired-vs-plug-in-ev-charger.webp"
 pubDate: 2026-10-20
 lang: "es"
 keywords: ["cargador ev cableado vs con enchufe", "NEMA 14-50 para cargador ev", "cargador ev 48 amperios vs 40 amperios", "requisito GFCI cargador ev", "costo instalación cargador ev cableado"]

@@ -1,7 +1,7 @@
 ---
 title: "¿Cuánta gasolina consume un generador de 7.500 vatios? (Tabla por carga y costos)"
 description: "¿Cuánta gasolina consume un generador de 7.500 vatios? Unos 0,5 galones/hora al 25% de carga y 1,2 a plena carga. Tabla, autonomía y costo de 24 horas."
-heroImage: ""
+heroImage: "/images/how-much-gas-does-7500w-generator-use.webp"
 faq:
   - question: "¿Cuánta gasolina consume un generador de 7.500 vatios por hora?"
     answer: "Depende por completo de la carga. Un generador convencional típico de 7.500 vatios quema unos 0,5 galones por hora al 25% de carga (unos 1.875 vatios), 0,7–0,8 al 50%, alrededor de 1,0 al 75% y 1,1–1,3 a plena carga. La mayoría de las casas con energía de respaldo navega cerca de media carga, así que 0,75 galones por hora es la cifra honesta para planear."

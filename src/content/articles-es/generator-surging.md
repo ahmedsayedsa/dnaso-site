@@ -1,7 +1,7 @@
 ---
 title: "¿El generador sube y baja de revoluciones? Causas y cómo arreglarlo"
 description: "¿Tu generador sube y baja de revoluciones? La causa #1 es el surtidor piloto tapado. Diagnóstico en orden y cómo arreglar la oscilación tú mismo."
-heroImage: ""
+heroImage: "/images/generator-surging.webp"
 faq:
   - question: "¿Por qué mi generador oscila en ralentí pero trabaja bien con carga?"
     answer: "Es la señal clásica de un surtidor piloto parcialmente tapado. El piloto alimenta el motor en ralentí y con carga ligera; cuando está restringido, la mezcla se empobrece, las revoluciones caen, el gobernador abre el acelerador para compensar y el ciclo se repite. Con carga, el surtidor principal toma el relevo y fluye suficiente gasolina, así que la oscilación desaparece. Limpia el piloto y casi siempre se va."

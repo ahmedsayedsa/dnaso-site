@@ -1,7 +1,7 @@
 ---
 title: "El generador no arranca: solución de problemas en orden"
 description: "¿Tu generador no arranca? Sigue esta lista en orden: gasolina, aceite, batería, bujía, choke, filtro de aire, carburador. Resuelve todo en 15 minutos."
-heroImage: "https://files.catbox.moe/wlejeo.jpg"
+heroImage: "/images/generator-wont-start-troubleshooting.webp"
 faq:
   - question: "¿Por qué mi generador no arranca después de pasar todo el invierno guardado?"
     answer: "El culpable más común es la gasolina vieja: la gasolina empieza a degradarse en 30 días y puede tapar el carburador en unos meses. Lo segundo más probable: una batería muerta (se descargan solas durante el invierno), seguido de bujías viejas o un filtro de gasolina tapado. Empieza con gasolina fresca y una batería cargada; esas dos cosas resuelven la mayoría de las quejas de no arranque."

@@ -1,7 +1,7 @@
 ---
 title: "¿Cuánto tiempo funciona un generador con 5 galones de gasolina?"
 description: "¿Cuánto tiempo funciona un generador con 5 galones de gasolina? Tiempos reales por tamaño y carga, de un inverter de 2.000 W a un portátil de 7.500 W."
-heroImage: ""
+heroImage: "/images/how-long-generator-run-on-5-gallons-of-gas.webp"
 faq:
   - question: "¿Cuánto tiempo funciona un generador de 5.500 vatios con 5 galones de gasolina?"
     answer: "Calcula unas 11 horas a media carga, que es como la mayoría de la gente lo usa de verdad durante un apagón. Con una carga ligera del 25 % puedes estirar los 5 galones hasta unas 16 horas; trabajando casi a tope, quema alrededor de 0,7 galones por hora y se acaba el combustible en unas 7 horas. La variable que más manda es la carga, no la marca escrita en el tanque."

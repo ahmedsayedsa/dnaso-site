@@ -1,7 +1,7 @@
 ---
 title: "¿Cuánto dura un generador de reserva?"
 description: "Vida útil del generador de reserva por tipo: horas realistas (2,000–3,000 en enfriados por aire), qué los mata antes y cómo alargarla con mantenimiento."
-heroImage: "https://files.catbox.moe/r46u2e.jpg"
+heroImage: "/images/how-long-do-generators-last.webp"
 faq:
   - question: "¿Cuántos años dura un generador Generac?"
     answer: "Un generador de reserva Generac enfriado por aire, con buen mantenimiento, suele durar 20–30 años en uso residencial, lo que equivale a unas 2,000–3,000 horas de funcionamiento. El motor normalmente sobrevive a la electrónica — las tarjetas del controlador y las baterías son las piezas que tienden a fallar primero. Los cambios de aceite regulares y dejar correr el ciclo de ejercicio semanal es lo que separa las unidades de 15 años de las de 30."

@@ -1,7 +1,7 @@
 ---
 title: "¿A qué distancia debe estar un generador de la casa?"
 description: "La regla de los 20 pies explicada: por qué la distancia importa más que los trucos de ventilación, distancias a ventanas y rejillas, y la dirección del escape."
-heroImage: ""
+heroImage: "/images/how-far-should-generator-be-from-house.webp"
 faq:
   - question: "¿Puedo usar un generador en el garaje con la puerta abierta?"
     answer: "No. Nunca: ni con la puerta abierta, ni con un ventilador soplando, ni «solo unos minutos». El monóxido de carbono se acumula en espacios cerrados y semicerrados más rápido de lo que cualquier ventilador doméstico puede despejarlo, se filtra a la casa por la puerta y las penetraciones de la pared, y ha matado a personas con la puerta del garaje completamente abierta. El generador va afuera, a 20 pies como mínimo, con el escape apuntando lejos. No existe una versión de «adentro» que sea segura."

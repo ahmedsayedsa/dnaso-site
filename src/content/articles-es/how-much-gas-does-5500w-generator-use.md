@@ -1,7 +1,7 @@
 ---
 title: "¿Cuánta gasolina consume un generador de 5500 vatios? (Por carga)"
 description: "¿Cuánta gasolina consume un generador de 5.500 vatios? Unos 0,4 gal/h al 25% de carga y 0,6 a media carga. Tabla por carga, autonomía y costo en 24 horas."
-heroImage: ""
+heroImage: "/images/how-much-gas-does-5500w-generator-use.webp"
 faq:
   - question: "¿Cuánta gasolina consume un generador de 5500 vatios por hora?"
     answer: "Un generador convencional típico de 5.500 vatios quema unos 0,35–0,45 galones por hora al 25% de carga, 0,55–0,65 al 50%, alrededor de 0,75 al 75% y 0,85–1,0 a plena carga. El uso real durante un apagón se mueve entre el cuarto y la mitad de carga, así que calcula unos 0,5 galones por hora: unos 12 galones para un día completo de uso típico."

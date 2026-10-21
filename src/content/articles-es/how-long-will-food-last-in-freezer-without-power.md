@@ -1,7 +1,7 @@
 ---
 title: "¿Cuánto dura la comida en el congelador sin electricidad?"
 description: "¿Cuánto dura la comida en el congelador sin electricidad? Lleno, 48 horas; a la mitad, 24. La regla de los 4 °C, el hielo seco y qué tirar."
-heroImage: ""
+heroImage: "/images/how-long-will-food-last-in-freezer-without-power.webp"
 faq:
   - question: "¿Cuánto dura la comida en el congelador sin electricidad?"
     answer: "Según el USDA, un congelador lleno mantiene la comida a temperatura segura unas 48 horas si la puerta se queda cerrada, y uno lleno a la mitad, unas 24 horas. El refrigerador solo te da unas 4 horas. El número que decide es 4 °C (40 °F): la comida que se mantiene a esa temperatura o por debajo es segura, y la que pasa más de 2 horas por encima debe desecharse."

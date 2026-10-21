@@ -1,7 +1,7 @@
 ---
 title: "Batería doméstica vs generador: comparación honesta"
 description: "Batería doméstica vs generador en 2026: costos iniciales reales, costos de operación, crédito fiscal (30% ITC), y cuál conviene según tu patrón de apagones."
-heroImage: "https://files.catbox.moe/dc3h6v.jpg"
+heroImage: "/images/home-battery-vs-generator.webp"
 pubDate: 2026-10-19
 lang: "es"
 keywords: ["batería doméstica vs generador", "tesla powerwall vs generador", "crédito fiscal batería de respaldo"]
