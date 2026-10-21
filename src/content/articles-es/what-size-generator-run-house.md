@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tamaño de generador necesito? Tabla completa de cálculo por tamaño de casa"
 description: "¿Qué tamaño de generador necesito? Suma tus vatios de uso, cubre el pico de arranque más grande y usa esta tabla de cálculo por tamaño de casa, con ejemplos resueltos para casas de 1,500–3,000 pies cuadrados."
-heroImage: "https://files.catbox.moe/ng3fa0.jpg"
+heroImage: "/images/what-size-generator-run-house.webp"
 faq:
   - question: "¿Qué tamaño de generador necesito para una casa de 2,000 pies cuadrados?"
     answer: "La mayoría de las casas de 2,000 pies cuadrados necesitan un generador de reserva de 14–18 kW para cubrir toda la casa, o un portátil de 7,500–9,500 vatios solo para lo esencial (nevera, luces, bomba de pozo y un aire de ventana). La respuesta real depende de tus cargas específicas — suma los vatios de uso de todo lo que quieras encender al mismo tiempo, luego revisa el pico de arranque más grande de tus motores."

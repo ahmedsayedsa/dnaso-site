@@ -1,7 +1,7 @@
 ---
 title: "Costo de un generador para toda la casa en 2026"
 description: "¿Cuánto cuesta un generador para toda la casa en 2026? Precio instalado real ($8k–$15k+), qué eleva el costo y dónde esconden relleno las cotizaciones."
-heroImage: "https://files.catbox.moe/lafhq3.jpg"
+heroImage: "/images/whole-house-generator-cost.webp"
 faq:
   - question: "¿Cuánto cuesta un generador para toda la casa instalado en 2026?"
     answer: "Calcula $9,000–$15,000 instalado para un generador de reserva típico de 14–22 kW enfriado por aire con interruptor de transferencia automático. El generador en sí cuesta $4,000–$6,500; el resto es el interruptor de transferencia ($1,000–$2,000), el trabajo de la línea de gas, la electricidad, los permisos y la base de concreto. Las unidades enfriadas por líquido empiezan alrededor de $18,000 instaladas y suben desde ahí."

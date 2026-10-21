@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tamaño de generador necesitas para un aire acondicionado de 5 toneladas? Empieza por el pico"
 description: "¿Qué tamaño de generador para un aire acondicionado de 5 toneladas? El consumo es lo fácil: el pico de arranque de 30.000 W no. Portátil vs reserva."
-heroImage: ""
+heroImage: "/images/what-size-generator-to-run-5-ton-ac-unit.webp"
 faq:
   - question: "¿Un generador de 10.000 vatios puede con un aire acondicionado de 5 toneladas?"
     answer: "Con uno de serie, no. El compresor de 5 toneladas jala 130–160 amperios de rotor bloqueado al arrancar — más de 30.000 vatios por una fracción de segundo — y un portátil de 10.000 vatios no puede entregar eso, así que el compresor se atasca y salta el breaker. Agrega un arrancador suave (recorta el pico entre 65 y 75%) y el pico baja a unos 8.000–10.000 vatios. Ahí el de 10.000 vatios queda al límite si casi nada más está trabajando, pero un portátil de 12.000–14.000 vatios te da el margen para vivir en la casa mientras trabaja."

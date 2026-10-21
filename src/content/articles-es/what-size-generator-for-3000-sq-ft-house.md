@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tamaño de generador para una casa de 3000 pies cuadrados?"
 description: "¿Qué tamaño de generador para una casa de 3000 pies cuadrados? La mayoría termina en 22–26 kW de reserva o un portátil de 10.000–14.000 W."
-heroImage: ""
+heroImage: "/images/what-size-generator-for-3000-sq-ft-house.webp"
 faq:
   - question: "¿Qué tamaño de generador necesito para una casa de 3000 pies cuadrados?"
     answer: "Para cobertura de toda la casa, la mayoría de las casas de 3000 pies cuadrados (unos 279 m²) terminan en un generador de reserva de 22–26 kW: alcanza para un aire acondicionado de 4–5 toneladas (o dos sistemas más chicos con gestión de cargas), el calentador de agua y las cargas normales de la casa. Si solo quieres lo esencial — refrigerador, luces, un solo sistema de aire o ninguno, bomba de pozo y aparatos — un portátil de 10.000–14.000 W con toma de entrada e interlock lo resuelve por una fracción del costo."

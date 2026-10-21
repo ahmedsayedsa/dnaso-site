@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tamaño de generador para una casa de 5000 pies cuadrados?"
 description: "¿Qué tamaño de generador necesita una casa de 5000 pies cuadrados? La mayoría, 26–38 kW. La trampa del calentador sin tanque y un ejemplo real."
-heroImage: ""
+heroImage: "/images/what-size-generator-for-5000-sq-ft-house.webp"
 faq:
   - question: "¿Qué tamaño de generador necesito para una casa de 5.000 pies cuadrados?"
     answer: "La mayoría de las casas de 5.000 pies cuadrados quedan entre 26 kW y 38 kW. Con electrodomésticos de gas y una gestión de cargas disciplinada, una unidad de 26 kW enfriada por aire puede cubrir lo esencial y casi toda la casa. Una instalación de verdad «todo encendido» — varios sistemas de aire acondicionado, piscina, cocina eléctrica — normalmente requiere 30–38 kW, es decir, enfriamiento líquido. Una casa totalmente eléctrica de 5.000 pies cuadrados con calentador de agua eléctrico sin tanque puede necesitar 40 kW o más."

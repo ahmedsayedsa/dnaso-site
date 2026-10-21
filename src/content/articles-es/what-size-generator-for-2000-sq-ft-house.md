@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tamaño de generador necesitas para una casa de 2.000 pies cuadrados?"
 description: "¿Qué tamaño de generador para una casa de 2000 pies cuadrados? Tres niveles: 5.000–7.500 W, 10.000–14.000 W y 18.000–22.000 W con aire central."
-heroImage: ""
+heroImage: "/images/what-size-generator-for-2000-sq-ft-house.webp"
 faq:
   - question: "¿Qué tamaño de generador necesito para una casa de 2.000 pies cuadrados?"
     answer: "Depende de lo que quieras alimentar, no del plano. Solo para lo básico — refrigerador, luces, calefacción, bomba de pozo — sirve un portátil de 5.000–7.500 vatios. Para casi toda la casa con algo de gestión de carga, planea 10.000–14.000 vatios. Para cobertura total con aire acondicionado central, una casa de 2.000 pies cuadrados suele terminar en un fijo de 18.000–22.000 vatios."
