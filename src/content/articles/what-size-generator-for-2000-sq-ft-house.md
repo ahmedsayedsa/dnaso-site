@@ -1,7 +1,7 @@
 ---
 title: "What Size Generator Do You Need for a 2000 Sq Ft House?"
 description: "What size generator for a 2000 sq ft house? Three honest tiers: 5,000–7,500W essentials, 10,000–14,000W most of the house, 18,000–22,000W with AC."
-heroImage: ""
+heroImage: "/images/what-size-generator-for-2000-sq-ft-house.webp"
 faq:
   - question: "What size generator do I need for a 2000 sq ft house?"
     answer: "It depends on what you want to run, not the floor plan. For essentials only — fridge, lights, furnace blower, well pump — a 5,000–7,500 watt portable works. To run most of the house with some load management, plan on 10,000–14,000 watts. For true whole-house coverage including central air, a 2000 sq ft home typically lands on an 18,000–22,000 watt standby. Your actual loads set the generator size."

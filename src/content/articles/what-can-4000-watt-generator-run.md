@@ -1,7 +1,7 @@
 ---
 title: "What Can a 4000 Watt Generator Run? Combos With Math"
 description: "What can a 4000 watt generator run? Essentials plus a window AC and a well pump — wattage tables, three load combos with the math, and what it can't power."
-heroImage: ""
+heroImage: "/images/what-can-4000-watt-generator-run.webp"
 faq:
   - question: "Can a 4000 watt generator run a house?"
     answer: "It can run the working essentials of most houses — refrigerator, freezer, sump or well pump, furnace blower, lights, internet, and one window AC — provided the big heating appliances are gas. It cannot run a house with electric water heating, an electric dryer, or central AC. Think of 4,000 watts as 'live comfortably with light management' — one notch below the 5,000-watt class, where the same combo runs with noticeably more headroom."

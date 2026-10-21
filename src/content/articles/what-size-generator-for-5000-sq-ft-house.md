@@ -1,7 +1,7 @@
 ---
 title: "What Size Generator for a 5000 Sq Ft House? The Honest Ladder"
 description: "What size generator for a 5000 sq ft house? Most need 26–38kW. The tankless water heater trap, air-cooled limits, fuel math, and a worked example."
-heroImage: ""
+heroImage: "/images/what-size-generator-for-5000-sq-ft-house.webp"
 faq:
   - question: "What size generator do I need for a 5,000 sq ft house?"
     answer: "Most 5,000 sq ft homes land between 26kW and 38kW. With gas appliances and disciplined load management, a 26kW air-cooled unit can carry the essentials plus most of the house. A true run-everything setup — multiple AC systems, pool, electric cooking — usually takes 30–38kW, which means liquid-cooled. An all-electric 5,000 sq ft home with a tankless electric water heater can need 40kW or more."

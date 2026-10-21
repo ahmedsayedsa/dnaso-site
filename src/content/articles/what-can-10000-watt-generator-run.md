@@ -1,7 +1,7 @@
 ---
 title: "What Can a 10000 Watt Generator Run? Whole-House Loads"
 description: "What can a 10000 watt generator run? A whole house with 4-ton AC, water heater and dryer in play — wattage tables, three load combos, and the remaining limits."
-heroImage: ""
+heroImage: "/images/what-can-10000-watt-generator-run.webp"
 faq:
   - question: "Can a 10000 watt generator run a whole house?"
     answer: "Yes — this is the first portable class where 'whole house' needs almost no asterisk. Refrigerator, freezer, 1 HP well pump, furnace, lights, electronics, electric water heater, electric dryer, and central AC all belong to this generator; the only remaining skill is not running the three biggest loads in the same minute. An all-electric house at full simultaneous demand still exceeds it, but that demand profile exceeds most standby installations too."

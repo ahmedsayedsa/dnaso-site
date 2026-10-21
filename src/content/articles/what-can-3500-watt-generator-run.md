@@ -1,7 +1,7 @@
 ---
 title: "What Can a 3500 Watt Generator Run? Loads and Limits"
 description: "What can a 3500 watt generator run? Fridge, sump pump, furnace, a window AC and more — wattage tables, three load combos with the math, and its hard limits."
-heroImage: ""
+heroImage: "/images/what-can-3500-watt-generator-run.webp"
 faq:
   - question: "Can a 3500 watt generator run a house?"
     answer: "It can run the essentials of a house — refrigerator, freezer, sump pump, furnace blower, lights, internet, and one window AC — as long as the big heat loads are gas. That's a genuinely livable outage setup. What it can't do is run an all-electric house: no electric water heater (4,500 watts exceeds the generator by itself), no electric dryer, and no central AC. Think of 3,500 watts as 'comfortable with light management,' one step below the 5,000-watt class."

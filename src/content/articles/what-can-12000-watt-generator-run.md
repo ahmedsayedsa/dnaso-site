@@ -1,7 +1,7 @@
 ---
 title: "What Can a 12000 Watt Generator Run? Big Loads, Real Math"
 description: "What can a 12000 watt generator run? The largest portables run a 5-ton AC, water heater and dryer — wattage tables, three combos, and where portables end."
-heroImage: ""
+heroImage: "/images/what-can-12000-watt-generator-run.webp"
 faq:
   - question: "Can a 12000 watt generator run a whole house?"
     answer: "Yes — a 12,000-watt portable is as close as wheels get to standby behavior. Refrigerator, freezer, 1 HP well pump, furnace, lights, electronics, electric water heater, electric dryer, and a 5-ton central AC with a soft starter all belong to this machine. The remaining limits are the extreme corners: no tankless electric water heater, no full electric furnace, and not every big load in the same minute. For the large majority of houses, the load math simply stops being the constraint."

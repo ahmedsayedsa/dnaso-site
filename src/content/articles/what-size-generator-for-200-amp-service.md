@@ -1,7 +1,7 @@
 ---
 title: "What Size Generator for 200 Amp Service? It's Not 48kW"
 description: "What size generator for 200 amp service? Not 48kW. Real 200A homes run 8–16kW. The load-calc math, load-shed tiers, and portable options, explained."
-heroImage: ""
+heroImage: "/images/what-size-generator-for-200-amp-service.webp"
 faq:
   - question: "Do I need a 48kW generator for 200 amp service?"
     answer: "No. The 200-amp rating is the maximum your service equipment can carry, not what your house actually draws. 200A × 240V = 48,000W is a nameplate ceiling you'll never hit — a typical 200-amp home peaks at 8–16kW in real use. Most whole-house installs on 200-amp service land at 18–24kW with no load management, or 10–14kW with load-shedding modules handling the big appliances."

@@ -1,7 +1,7 @@
 ---
 title: "What Can a 5000 Watt Generator Run? Real Loads, Real Math"
 description: "What can a 5000 watt generator run? Wattage tables, three load combos with the math shown, what it can't power together, and who this size fits."
-heroImage: ""
+heroImage: "/images/what-can-5000w-generator-run.webp"
 faq:
   - question: "Can a 5000 watt generator run a whole house?"
     answer: "It can run the essentials of most houses — refrigerator, freezer, sump or well pump, furnace blower, lights, internet, and a window AC — as long as the big heating appliances are gas. It cannot run a whole house with electric water heating, an electric dryer, and central AC all in play. Think of 5,000 watts as 'live comfortably with management,' not 'flip every breaker and forget it.'"

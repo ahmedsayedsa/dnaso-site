@@ -1,7 +1,7 @@
 ---
 title: "What Can a 9000 Watt Generator Run? Almost a Whole House"
 description: "What can a 9000 watt generator run? Nearly a whole house — central AC with a soft starter, water heater, well pump — with wattage tables and three combos."
-heroImage: ""
+heroImage: "/images/what-can-9000-watt-generator-run.webp"
 faq:
   - question: "Can a 9000 watt generator run a whole house?"
     answer: "For most gas-heated homes, yes — refrigerator, freezer, well pump, furnace, lights, electronics, an electric water heater in rotation, a dryer in rotation, and central AC with a soft starter fitted. The 'almost' in the headline covers all-electric homes running everything at once: water heater plus dryer plus AC still exceeds any portable. But with ordinary load awareness, a 9,000-watt unit is the smallest portable that honestly earns the phrase 'whole house.'"

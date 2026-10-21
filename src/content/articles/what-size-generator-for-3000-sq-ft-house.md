@@ -1,7 +1,7 @@
 ---
 title: "What Size Generator for a 3000 Sq Ft House? Tiers, Loads & Real Math"
 description: "What size generator for a 3000 sq ft house? Most land on a 22–26 kW standby or a 10,000–14,000W portable for essentials. Here's the load math."
-heroImage: ""
+heroImage: "/images/what-size-generator-for-3000-sq-ft-house.webp"
 faq:
   - question: "What size generator do I need for a 3000 sq ft house?"
     answer: "For whole-house coverage, most 3000 sq ft homes land on a 22–26 kW standby generator — enough to run a 4–5 ton AC (or two smaller systems with load management), water heating, and normal household loads. If you only want the essentials — fridge, lights, one AC system or none, well pump, devices — a 10,000–14,000W portable with an inlet box and interlock gets it done for a fraction of the cost."

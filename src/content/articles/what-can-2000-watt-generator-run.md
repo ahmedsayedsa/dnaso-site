@@ -1,7 +1,7 @@
 ---
 title: "What Can a 2000 Watt Generator Run? Small Loads, Real Math"
 description: "What can a 2000 watt generator run? A fridge, lights, TV, internet, CPAP and chargers — real wattage tables, three load combos, and the loads it can't start."
-heroImage: ""
+heroImage: "/images/what-can-2000-watt-generator-run.webp"
 faq:
   - question: "Can a 2000 watt generator run a refrigerator?"
     answer: "Yes — a fridge is the anchor load this size is built around. A modern refrigerator runs at 150–250 watts and surges to 800–1,200 watts for a second or two when the compressor starts. Against roughly 1,800 running watts and 2,000–2,200 peak watts, that fits with room to spare, as long as you don't stack a second motor startup on the same second. Fridge plus lights, Wi-Fi, and chargers is the classic 2,000-watt outage setup."

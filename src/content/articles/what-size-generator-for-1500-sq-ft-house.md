@@ -1,7 +1,7 @@
 ---
 title: "What Size Generator for a 1500 Sq Ft House? (Skip the 22kW Pitch)"
 description: "What size generator for a 1500 sq ft house? Essentials run on 3,500–5,500W, comfort takes 7,500–10,000W, whole-house 14–18kW. Real load math inside."
-heroImage: ""
+heroImage: "/images/what-size-generator-for-1500-sq-ft-house.webp"
 faq:
   - question: "What size generator do I need for a 1500 sq ft house?"
     answer: "For most 1,500 sq ft homes: 3,500–5,500 watts covers essentials (fridge, lights, furnace blower, Wi-Fi, sump pump), 7,500–10,000 watts adds comfortable living plus window AC or a soft-started central AC, and a 14–18kW standby runs the whole house including central air. Square footage sets the AC size — the AC and your fuel type decide the generator size, not the floor plan."

@@ -1,7 +1,7 @@
 ---
 title: "What Size Generator Do I Need to Run Central AC?"
 description: "Sizing a generator for central air: wattage by tonnage (3, 4, 5-ton), why starting watts kill undersized generators, and how soft starters change the math."
-heroImage: "https://files.catbox.moe/ooesqg.jpg"
+heroImage: "/images/what-size-generator-central-ac.webp"
 pubDate: 2026-10-19
 keywords: ["what size generator for central ac", "generator for 3 ton ac", "soft starter generator"]
 ---
