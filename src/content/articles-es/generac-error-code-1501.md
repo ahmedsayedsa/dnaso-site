@@ -1,7 +1,7 @@
 ---
 title: "Código de error 1501 de Generac: qué significa y cómo corregirlo"
 description: "Código de error 1501 de Generac: pérdida de RPM, casi siempre la batería. Causas en orden, qué puedes revisar tú y cuándo llamar al distribuidor."
-heroImage: ""
+heroImage: "/images/generac-error-code-1501.webp"
 faq:
   - question: "¿Qué significa el código de error 1501 en un generador Generac?"
     answer: "El código 1501 es una alarma de pérdida de señal de RPM. El controlador estuvo vigilando que el motor alcanzara y mantuviera su velocidad de trabajo, y no lo logró: el motor dio marcha muy lento, arrancó y trastabilló, o se apagó durante su ejercicio semanal o en un arranque por apagón. El generador se bloquea hasta que borres la alarma. Por mi experiencia, una batería débil causa la mayoría de los 1501, seguida de problemas de presión de gas."

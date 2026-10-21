@@ -1,7 +1,7 @@
 ---
 title: "EcoFlow vs Jackery: ¿qué estación de energía comprar?"
 description: "EcoFlow vs Jackery, frente a frente: Delta Pro 3 vs Explorer 2000 Plus en capacidad, potencia, velocidad de carga, expansión y precio — veredicto por uso."
-heroImage: ""
+heroImage: "/images/ecoflow-vs-jackery.webp"
 faq:
   - question: "¿Qué es mejor, EcoFlow o Jackery?"
     answer: "Depende del trabajo. EcoFlow construye las máquinas de respaldo en casa más fuertes: más potencia por clase, carga de pared más rápida y opciones de 240V que Jackery solo iguala en su nivel más alto. Jackery construye las máquinas de camping y esenciales más simples, ligeras y a menudo más baratas, y su precio por kWh queda por debajo de EcoFlow en la mayoría de las clases. Para un kit de esenciales de refrigerador y luces con presupuesto, yo elegiría Jackery. Para cualquier cosa con bomba de pozo, interruptor de transferencia o respaldo de varios días, EcoFlow — la línea Delta — es la herramienta correcta."

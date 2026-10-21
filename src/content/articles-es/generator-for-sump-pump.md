@@ -1,7 +1,7 @@
 ---
 title: "¿Qué generador necesito para una bomba de sumidero?"
 description: "Vatios de una bomba de sumidero: consumo y arranque para bombas de 1/3, 1/2 y 3/4 HP, el generador que necesita cada una y opciones de respaldo a batería."
-heroImage: ""
+heroImage: "/images/generator-for-sump-pump.webp"
 faq:
   - question: "¿Un generador de 2.000 vatios puede alimentar una bomba de sumidero?"
     answer: "Sí: una bomba de 1/3 HP, y poco más. Una bomba de 1/3 HP pega un arranque de unos 1.300 vatios, que un generador inverter de 2.000 vatios puede absorber, dejando solo unos cientos de vatios para luces o un cargador. Una bomba de 1/2 HP, con un arranque de más de 2.100 vatios, disparará la protección de sobrecarga de la mayoría de los equipos de 2.000 vatios. Si la bomba es tu única carga crítica y es de 1/3 HP, 2.000 vatios alcanzan. Para algo mayor, sube de tamaño."

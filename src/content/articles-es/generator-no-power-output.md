@@ -1,7 +1,7 @@
 ---
 title: "El generador funciona pero no genera electricidad: solución en orden"
 description: "El generador funciona pero no genera electricidad: revisa el breaker, mide el voltaje, reactiva el campo y prueba el AVR en orden, con costos reales."
-heroImage: ""
+heroImage: "/images/generator-no-power-output.webp"
 faq:
   - question: "¿Por qué mi generador funciona pero no produce electricidad?"
     answer: "La causa más común es vergonzosamente simple: un breaker disparado o un GFCI en el propio panel del generador. Después, en orden: una sobrecarga disparada en una unidad inverter, pérdida de magnetismo residual tras un guardado largo, un AVR fallado, escobillas gastadas o un capacitor fallado. Recorre las revisiones en orden antes de comprar piezas."

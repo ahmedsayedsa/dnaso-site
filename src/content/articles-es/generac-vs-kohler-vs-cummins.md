@@ -1,7 +1,7 @@
 ---
 title: "Generac vs Kohler vs Cummins: marcas de reserva comparadas"
 description: "Comparación honesta de las cuatro grandes marcas de generadores de reserva: garantía, distribuidores, precios, ruido y qué marca conviene a cada comprador."
-heroImage: "https://files.catbox.moe/7ie4w8.jpg"
+heroImage: "/images/generac-vs-kohler-vs-cummins.webp"
 pubDate: 2026-10-19
 keywords: ["Generac vs Kohler", "mejor marca de generador de reserva", "generador de reserva Cummins", "confiabilidad generador Briggs Stratton"]
 lang: "es"

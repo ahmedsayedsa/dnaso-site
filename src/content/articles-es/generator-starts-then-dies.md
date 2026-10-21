@@ -1,7 +1,7 @@
 ---
 title: "El generador arranca y se apaga: solución en orden (de lo más probable a lo menos)"
 description: "¿El generador arranca y se apaga a los pocos segundos? Revisa las causas en orden: sensor de aceite, gasolina, carburador, choke. Arréglalo rápido."
-heroImage: ""
+heroImage: "/images/generator-starts-then-dies.webp"
 faq:
   - question: "¿Por qué mi generador arranca y se apaga a los pocos segundos?"
     answer: "La causa más común es el sensor de apagado por bajo nivel de aceite: el motor arranca, el aceite se asienta, el sensor lee bajo y corta la chispa. Revisa primero el aceite, en terreno nivelado, hasta arriba del cuello de llenado. Lo siguiente más probable es falta de gasolina: filtro tapado, manguera pellizcada o ventilación del tanque bloqueada."

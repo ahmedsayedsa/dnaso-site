@@ -1,7 +1,7 @@
 ---
 title: "¿Cuánto cuesta un generador Generac en 2026? Costo instalado"
 description: "Cuánto cuesta un generador Generac en 2026, con desglose honesto: precios instalados por tamaño (10–26 kW), costo de instalación por concepto, combustible y mantenimiento."
-heroImage: ""
+heroImage: "/images/generac-generator-cost.webp"
 faq:
   - question: "¿Cuánto cuesta un generador Generac instalado en 2026?"
     answer: "La mayoría de los propietarios paga $8,000–$16,000 por un generador de reserva Generac instalado, generador incluido — el rango que publica el propio Generac y que coincide con las cotizaciones reales. La configuración más común, una unidad de 22 kW enfriada por aire con interruptor de transferencia para toda la casa, queda en $10,000–$15,000 instalada. Las instalaciones sencillas quedan en el extremo bajo; los tramos largos de gas, las actualizaciones de tablero o el tanque de propano te llevan al alto. El generador en sí es solo la mitad de la factura; el resto es mano de obra y materiales."

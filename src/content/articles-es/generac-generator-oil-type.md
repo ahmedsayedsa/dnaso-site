@@ -1,7 +1,7 @@
 ---
 title: "Tipo de aceite para generador Generac: respuesta 5W-20 GEO"
 description: "¿Qué aceite lleva un generador Generac? Especificación oficial actual: sintético 5W-20 GEO tras el rodaje de 25 horas, 5W-30 sintético como alternativa."
-heroImage: ""
+heroImage: "/images/generac-generator-oil-type.webp"
 faq:
   - question: "¿Qué aceite lleva un generador Generac de 22 kW?"
     answer: "Según la guía oficial actual de Generac, un Guardian de 22 kW lleva 5W-30 convencional solo durante sus primeras 25 horas de rodaje, y después aceite de motor gaseoso (GEO) totalmente sintético 5W-20 de Generac en cada cambio posterior — unos 1.9 cuartos con cambio de filtro. Si el aceite GEO no está disponible, Generac acepta el 5W-30 totalmente sintético como sustituto, en cualquier temperatura. Los manuales antiguos imprimían una tabla por clima (SAE 30 en verano, 10W-30 en frío), por eso verás tres respuestas distintas en internet; la especificación 5W-20 GEO es la vigente."

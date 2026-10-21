@@ -1,7 +1,7 @@
 ---
 title: "Lista de mantenimiento del generador: qué hacer y cuándo"
 description: "La lista de mantenimiento del generador que sí importa: aceite, filtros, batería, combustible y rutinas de ejercicio para unidades de reserva y portátiles."
-heroImage: "https://files.catbox.moe/7xibkf.jpg"
+heroImage: "/images/generator-maintenance-checklist.webp"
 pubDate: 2026-10-19
 keywords: ["lista de mantenimiento del generador", "programa de mantenimiento generador de reserva", "cambio de aceite generador"]
 lang: "es"

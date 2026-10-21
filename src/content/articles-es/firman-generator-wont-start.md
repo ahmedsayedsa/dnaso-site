@@ -1,7 +1,7 @@
 ---
 title: "Generador Firman no arranca: 9 verificaciones en orden"
 description: "¿Tu generador Firman no arranca? Las 9 verificaciones en orden: selector de combustible, gasolina vieja, sensor de aceite, bujía. Datos de sus manuales."
-heroImage: ""
+heroImage: "/images/firman-generator-wont-start.webp"
 faq:
   - question: "¿Por qué mi generador Firman no arranca si tiene gasolina?"
     answer: "En mi experiencia suele ser una de tres cosas: el selector de combustible sigue en la posición OFF (el paso número uno en la propia tabla de fallos de Firman), la gasolina se echó a perder guardada, o el sensor de bajo nivel de aceite bloquea el arranque porque el equipo no está nivelado o el cárter no está lleno hasta la marca H de la varilla. Haz las verificaciones de esta guía en orden — combustible, aceite, ahogador, chispa, carburador — y lo encontrarás. Nueve de cada diez veces es una de las primeras cuatro, y las cuatro se arreglan en cinco minutos sin repuestos."

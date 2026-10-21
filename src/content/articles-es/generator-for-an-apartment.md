@@ -1,7 +1,7 @@
 ---
 title: "Generador para un apartamento: por qué el de gasolina es un no — y qué sí funciona"
 description: "¿Buscas un generador para un apartamento? Uno de gasolina adentro o en el balcón puede matar. La alternativa segura: estaciones de batería, tamaños y costos."
-heroImage: ""
+heroImage: "/images/generator-for-an-apartment.webp"
 faq:
   - question: "¿Puedo usar un generador portátil en el balcón de mi apartamento?"
     answer: "No. Un balcón falla en todo a la vez: está muy por debajo de los 20 pies de separación que necesita un generador de combustible, el escape entra directo a tus ventanas y a las de tus vecinos, y el monóxido de carbono se cuela por puertas corredizas, ventilas y pasos de tubería. Además, es una de las configuraciones más comunes en los casos fatales de CO después de las tormentas. Si quema combustible, no va en un balcón. Nunca."

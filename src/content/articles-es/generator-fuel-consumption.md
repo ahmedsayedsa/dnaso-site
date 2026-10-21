@@ -1,7 +1,7 @@
 ---
 title: "¿Cuánto combustible usa un generador? Cifras reales"
 description: "Consumo de combustible del generador en cifras reales: galones por hora por tamaño y carga, gasolina vs propano vs gas natural y costos diarios de apagón."
-heroImage: "https://files.catbox.moe/k6l95v.jpg"
+heroImage: "/images/generator-fuel-consumption.webp"
 pubDate: 2026-10-19
 keywords: ["consumo de combustible del generador", "cuánta gasolina usa un generador", "galones por hora generador"]
 lang: "es"

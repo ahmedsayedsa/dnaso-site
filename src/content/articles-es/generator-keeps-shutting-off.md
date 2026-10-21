@@ -1,7 +1,7 @@
 ---
 title: "¿El generador se apaga solo? Diagnostícalo por cuánto tiempo trabaja"
 description: "¿El generador se apaga solo en pleno uso? Diagnostícalo por el tiempo que dura: calor, vacío del tanque, bobina, aceite o sensor de CO. Causas y costos."
-heroImage: ""
+heroImage: "/images/generator-keeps-shutting-off.webp"
 faq:
   - question: "¿Por qué mi generador se apaga a los 10 o 20 minutos?"
     answer: "Ese tiempo corto y repetible suele significar calor o un vacío en el tanque. Si la ventilación de la tapa está tapada, el aire no reemplaza la gasolina que sale, el tanque genera vacío y el flujo se corta. El sobrecalentamiento y el aceite que se espuma o se adelgaza caliente también disparan el apagado por bajo aceite en ese lapso. Afloja la tapa y escucha si entra aire con un siseo: si luego trabaja, la ventilación es la culpable."

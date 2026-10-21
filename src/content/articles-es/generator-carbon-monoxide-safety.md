@@ -1,7 +1,7 @@
 ---
 title: "Seguridad con monóxido de carbono en generadores: nunca en el garage"
 description: "Seguridad con monóxido de carbono en generadores con números claros: por qué el garage mata aun con la puerta abierta, la regla de los 20 pies y los detectores."
-heroImage: ""
+heroImage: "/images/generator-carbon-monoxide-safety.webp"
 faq:
   - question: "¿Puedo usar el generador en el garage con la puerta abierta?"
     answer: "No. Una puerta de garage abierta no lo hace seguro. El monóxido de carbono se acumula más rápido de lo que una puerta abierta puede despejarlo, se estanca en el espacio cerrado y entra a la casa por la puerta de paso, las rendijas de las paredes y el ático. La CPSC ha documentado intoxicaciones mortales justo en esa configuración: garage, puerta abierta, generador encendido. No hay posición de la puerta, ventilador ni ventana entreabierta que cambie la respuesta."
