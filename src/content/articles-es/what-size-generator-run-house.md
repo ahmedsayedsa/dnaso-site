@@ -1,6 +1,6 @@
 ---
-title: "¿Qué tamaño de generador necesito para mi casa?"
-description: "Encuentra el tamaño correcto de generador para tu casa: vatios de uso vs arranque, tabla de consumo por aparato y ejemplos para casas de 1,500–3,000 pies."
+title: "¿Qué tamaño de generador necesito? Tabla completa de cálculo por tamaño de casa"
+description: "¿Qué tamaño de generador necesito? Suma tus vatios de uso, cubre el pico de arranque más grande y usa esta tabla de cálculo por tamaño de casa, con ejemplos resueltos para casas de 1,500–3,000 pies cuadrados."
 heroImage: "https://files.catbox.moe/ng3fa0.jpg"
 faq:
   - question: "¿Qué tamaño de generador necesito para una casa de 2,000 pies cuadrados?"
@@ -12,11 +12,12 @@ faq:
   - question: "¿Es malo sobredimensionar un generador?"
     answer: "Sobredimensionar un poco (10–20%) está bien y te da margen. Sobredimensionar en exceso desperdicia dinero en el precio de compra y en combustible — una unidad de 22 kW alimentando unas cuantas luces quema más combustible por kWh que una unidad del tamaño correcto. Los generadores de reserva también prefieren trabajar al 30%+ de carga; la subcarga crónica puede causar acumulación de humedad (wet-stacking) en unidades diésel."
 pubDate: 2026-10-19
+updatedDate: 2026-10-21
 lang: "es"
 keywords: ["tamaño de generador para casa", "calculadora de vatios generador", "cuántos vatios para una casa"]
 ---
 
-Esta es la pregunta número uno en energía de respaldo para el hogar, y la mayoría se equivoca siempre de la misma manera: compran muy pequeño y se enteran durante el apagón. La solución toma unos diez minutos con un lápiz. Así es como un electricista lo calcularía para tu casa.
+"¿Qué tamaño de generador necesito?" es la pregunta número uno en energía de respaldo para el hogar, y la mayoría se equivoca siempre de la misma manera: compran muy pequeño y se enteran durante el apagón. La solución toma unos diez minutos con un lápiz. Así es como un electricista lo calcularía para tu casa.
 
 ## Vatios de uso vs. vatios de arranque — los dos números que importan
 

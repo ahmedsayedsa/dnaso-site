@@ -7,15 +7,15 @@ const SITE = 'https://www.dnaso.com';
 
 const STATIC_PAGES = [
   '/',
-  '/es/',
-  '/about/',
-  '/contact/',
-  '/privacy/',
-  '/disclaimer/',
-  '/es/about/',
-  '/es/contact/',
-  '/es/privacy/',
-  '/es/disclaimer/',
+  '/es',
+  '/about',
+  '/contact',
+  '/privacy',
+  '/disclaimer',
+  '/es/about',
+  '/es/contact',
+  '/es/privacy',
+  '/es/disclaimer',
 ];
 
 function fmtDate(d: Date): string {
@@ -32,13 +32,13 @@ export const GET: APIRoute = async () => {
 
   for (const a of en) {
     urls.push({
-      loc: `${SITE}/articles/${a.slug}/`,
+      loc: `${SITE}/articles/${a.slug}`,
       lastmod: fmtDate(a.data.updatedDate ?? a.data.pubDate),
     });
   }
   for (const a of es) {
     urls.push({
-      loc: `${SITE}/es/articles/${a.slug}/`,
+      loc: `${SITE}/es/articles/${a.slug}`,
       lastmod: fmtDate(a.data.updatedDate ?? a.data.pubDate),
     });
   }

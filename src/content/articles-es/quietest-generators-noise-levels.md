@@ -1,154 +1,110 @@
 ---
-title: "Generadores silenciosos: niveles de ruido en dB comparados"
-description: "Ruido de generadores explicado: qué significan los decibeles, inverter vs convencional, cómo cae el ruido con la distancia y los modelos más silenciosos."
+title: "Los generadores más silenciosos en 2026: 6 modelos inverter comparados por dB"
+description: "Los generadores más silenciosos que puedes comprar, ordenados por sus valores de dB verificados del fabricante: Honda, Westinghouse, Champion, Yamaha, Generac y Predator desde 48 dB, y cómo la carga y la distancia cambian el ruido real."
 heroImage: "https://files.catbox.moe/v08env.jpg"
+faq:
+  - question: "¿Cuál es el generador más silencioso que se puede comprar?"
+    answer: "El Honda EU2200i es el generador comercial más silencioso a la venta: Honda lo clasifica en 48 dB(A) a un cuarto de carga y 57 dB(A) a plena carga nominal, medidos a 7 metros. Eso es más silencioso que una conversación normal con carga ligera. El Westinghouse iGen2200 (52 dB) y el Champion 2500 de doble combustible (53 dB) vienen después, a más o menos la mitad del precio del Honda. Todo lo que esté por debajo de 55 dB a un cuarto de carga cuenta como genuinamente silencioso; 55–60 dB sigue siendo nivel de conversación y apto para campamentos."
+  - question: "¿Cuántos decibeles tiene un generador silencioso?"
+    answer: "Un generador silencioso está clasificado en 60 dB o menos a 7 metros con un cuarto de carga — más o menos el nivel de una conversación normal. Los modelos inverter más silenciosos quedan entre 48–57 dB. Un portátil convencional de marco abierto, en cambio, trabaja a 72–78 dB, que es ruido de aspiradora y más o menos 50–80 veces la intensidad de sonido de un inverter de 52 dB. Revisa la letra chica antes de comparar: los valores honestos indican la carga y la distancia. Un número de dB sin condición de carga suele ser la cifra de modo eco, casi en ralentí."
+  - question: "¿Los generadores inverter son siempre más silenciosos que los normales?"
+    answer: "En la misma clase de tamaño, sí — típicamente por 10 a 20 dB, que es una diferencia grande en una escala logarítmica. El motor de un generador convencional gira a 3,600 RPM fijas, esté alimentando un solo foco o una carga completa, y su marco abierto irradia ruido en todas direcciones. Un generador inverter reduce las revoluciones del motor para igualar la carga, lo envuelve en un gabinete con aislamiento y usa un silenciador más grande y mejor afinado. Las contrapartes son el precio por vatio y un techo de potencia menor en tamaños portátiles."
+  - question: "¿A qué distancia de mi casa debe estar un generador para que no se oiga?"
+    answer: "La distancia es reducción de ruido gratis: el sonido baja unos 6 dB cada vez que duplicas la distancia, así que un generador de 60 dB se lee como unos 54 dB a 14 metros y 48 dB a 28 metros. Pero la seguridad pone el piso — nunca uses un generador a menos de 6 metros (20 pies) de la casa, con el escape apuntando lejos de ventanas y puertas, porque el monóxido de carbono es el peligro real. Nuestra guía sobre a qué distancia debe estar un generador de la casa cubre la ubicación, el calibre de los cables y las reglas de CO en detalle."
+  - question: "¿Puedo usar un generador de noche en un campamento o en mi vecindario?"
+    answer: "Depende de las reglas del lugar. Muchos campamentos imponen horas de silencio (a menudo de 10 p.m. a 6 o 7 a.m.) durante las cuales los generadores no pueden trabajar en absoluto, y los campamentos de los Parques Nacionales de EE. UU. limitan el ruido del generador a 60 dB medidos a 15 metros. Las ordenanzas residenciales suelen limitar el sonido a 55–65 dB en el límite de la propiedad, con límites nocturnos más estrictos. Un inverter de menos de 55 dB colocado bien dentro de tu lote normalmente cumple; un portátil de marco abierto de 72 dB normalmente no, lo pongas donde lo pongas."
 pubDate: 2026-10-19
-keywords: ["generador silencioso", "nivel de ruido de generadores", "generador en decibeles", "cuantos dB tiene un generador", "generador inverter silencioso"]
+updatedDate: 2026-10-21
 lang: "es"
+keywords: ["generador silencioso", "generadores más silenciosos", "nivel de ruido de generadores", "generador inverter silencioso", "generador en decibeles"]
 ---
 
-El ruido del generador es la queja que nunca desaparece. El equipo funciona bien, pero la ventana del cuarto de tu vecino está a 10 metros de donde lo quieres poner, tu condominio tiene una regla de 65 decibeles que nunca leíste, y a las 2 de la mañana cada decibel se siente como diez. Y hay algo que nadie te dice en la tienda: los decibeles son logarítmicos, lo que significa que un generador con 10 dB más que otro no es 10% más ruidoso. Es diez veces más intensidad de sonido.
+Si el ruido es la razón por la que estás comprando, ignora los adjetivos de mercadotecnia y mira un solo número: el valor de dB del fabricante a un cuarto de carga, medido a 7 metros (23 pies). Todo generador genuinamente silencioso es un modelo inverter, y los mejores trabajan a 48–60 dB — territorio de conversación normal. Los portátiles convencionales ruidosos que reemplazan quedan en 72–78 dB, lo cual en una escala logarítmica no es "un poco más fuerte". Es otra categoría de máquina.
 
-Así funciona en realidad el ruido de los generadores, qué significan los números y cómo elegir algo que tus vecinos no vayan a odiar.
+Aquí están los seis generadores más silenciosos que vale la pena comprar ahora mismo, ordenados por valor de ruido verificado, seguidos de la física que necesitas para leer esos valores con honestidad — porque la carga y la distancia mueven el número real más que la marca.
 
-## La escala de decibeles: por qué las diferencias pequeñas son enormes
+## Los generadores más silenciosos de un vistazo
 
-La escala de decibeles (dB) es logarítmica, no lineal. Ese solo dato explica casi todos los malentendidos sobre el ruido de los generadores:
+| Modelo | Ruido (dB a 25% de carga, 7 m) | Vatios (pico / uso) | Ideal para | Precio típico |
+|---|---|---|---|---|
+| Honda EU2200i | 48 dB | 2,200 / 1,800 | El más silencioso, confiabilidad a largo plazo | ~$1,100–1,300 |
+| Westinghouse iGen2200 | 52 dB | 2,200 / 1,800 | La opción silenciosa más económica | ~$450–550 |
+| Champion 2500 Dual Fuel (200962) | 53 dB | 2,500 / 1,850 (gasolina) | Flexibilidad de propano, ultraligero (39 lb) | ~$450–600 |
+| Yamaha EF2200iS | 57 dB | 2,200 / 1,800 | Mayor autonomía, contacto RV de 30A | ~$900–1,200 |
+| Predator 3500 (Harbor Freight) | 57 dB | 3,500 / 3,000 | Más potencia silenciosa por dólar | ~$800 |
+| Generac GP2500i | 60 dB | 2,500 / 2,200 | Más vatios de uso en la clase chica | ~$550–700 |
 
-- **+10 dB = 10 veces más intensidad de sonido.** Un generador de 70 dB no es "un poco" más ruidoso que uno de 60 dB — produce diez veces más energía acústica.
-- **+3 dB ≈ el doble de intensidad.** Hasta una diferencia de 3 dB se nota claramente.
-- **+10 dB se siente más o menos como el doble de volumen para el oído humano.** El volumen percibido y la intensidad medida no son lo mismo, pero ambas importan: tu vecino oye la percepción; la física es la intensidad.
+**Cómo leer estos números:** los seis son generadores inverter, y los seis valores siguen la convención de la industria — dB(A) a 7 metros con 25% de carga. Eso favorece a todas las máquinas. Espera unos 5–9 dB más a plena carga, y más todavía si te paras a menos de 7 metros. El orden se mantiene, porque todos se midieron igual — pero un generador de "48 dB" solo hace 48 dB mientras trabaja ligero.
 
-Para tener una referencia, estos son sonidos de todos los días en la misma escala:
+## Los modelos, uno por uno
 
-| Sonido | dB típicos |
-|---|---|
-| Cuarto silencioso de noche | 30 dB |
-| Conversación normal a 1 metro | 60–65 dB |
-| Aspiradora a 3 metros | 70 dB |
-| Cortadora de pasto a gasolina, al oído del operador | 85–90 dB |
-| Claxon de auto a 5 metros | 100 dB |
+### Honda EU2200i — el generador más silencioso que puedes comprar
 
-La conversación sobre generadores se mueve casi toda entre 50 y 80 dB. Ese rango de 30 dB se ve chico en papel. En la realidad es un rango de intensidad de 1,000 veces.
+La ficha oficial de Honda clasifica el EU2200i en **48 dB(A) a un cuarto de carga, 57 dB(A) a carga nominal** — las cifras publicadas más bajas de su clase, y las pruebas independientes lo mantienen consistentemente en la cima o cerca de ella. La salida es de 2,200 vatios pico / 1,800 de uso con el motor GXR120 de 121cc, con 8.1 horas de autonomía a un cuarto de carga en un tanque de 0.95 galones. Y lo pagas: más o menos el doble que el Westinghouse de abajo, por la misma potencia. Lo que compra ese dinero es el piso de ruido, la calidad de construcción, una garantía residencial de 3 años y la red de distribuidores más fuerte del negocio. Si va a trabajar toda la noche cerca de cuartos durante una década, este es el indicado.
 
-Un detalle más, crítico: **los fabricantes miden a 7 metros (23 pies) con carga parcial**, y ese es el número que viene en la caja. Si mides al lado de tu casa a 3 metros, la lectura es bastante más alta. Más abajo, las cuentas con la distancia.
+### Westinghouse iGen2200 — casi igual de silencioso, mitad de precio
 
-## Niveles de ruido típicos por tipo de generador
+Westinghouse clasifica el iGen2200 en **52 dBA** — apenas 4 dB detrás del Honda — con los mismos 2,200 vatios pico / 1,800 de uso, hasta 12 horas a un cuarto de carga con su tanque de 1.14 galones, y un peso de unas 46 lb. El gabinete con doble aislamiento y el silenciador de tono bajo hacen el trabajo silencioso. Se puede conectar en paralelo, trae garantía limitada de 3 años y suele venderse en $450–550. La variante actual iGen2200c agrega un sensor de CO. La advertencia honesta: la red de soporte y la disponibilidad de refacciones de Westinghouse no son las de Honda. Como opción de valor para campamentos, salidas y respaldo ligero en casa, nada más es tan silencioso a este precio.
 
-| Tipo de generador | dB nominales (a 23 pies) | A qué suena en realidad |
-|---|---|---|
-| Inverter portátil chico (clase 2,000W) | 52–60 dB | De conversación a oficina silenciosa |
-| Inverter mediano (3,500–4,500W) | 57–64 dB | Conversación normal, se nota |
-| Portátil convencional, 5,000W | 68–72 dB | Aspiradora, claramente ruidoso |
-| Portátil convencional, 7,500W+ | 72–78 dB | Ruidoso — cuesta hablar cerca |
-| Generador de reserva (toda la casa) | 62–70 dB | De conversación a aspiradora, pero más lejos de la casa |
-| Reserva diésel grande | 68–75 dB | Camión en ralentí |
+### Champion 2500 Dual Fuel — la forma más silenciosa de usar propano
 
-El patrón es obvio: **los generadores inverter son la categoría silenciosa**, los portátiles convencionales de marco abierto son la categoría ruidosa, y los de reserva quedan en el medio, pero ganan porque están instalados fijos lejos de las habitaciones (y dentro de gabinetes con aislamiento acústico).
+Champion clasifica el modelo 200962 en **53 dBA desde 7 metros**, y es el único de esta lista que trabaja con gasolina o propano desde la caja: 2,500 vatios de arranque con cualquiera de los dos, 1,850 vatios de uso con gasolina, 1,665 con propano, con hasta 11.5 horas con un galón de gasolina o unas 34 horas con un tanque de propano de 20 lb a un cuarto de carga. Con 39 lb también es el generador más ligero de esta tabla — de verdad se carga con una mano. El propano se almacena indefinidamente y quema más limpio, lo que lo hace la opción natural para respaldo en apartamentos y junto a balcones, uso en RV y cualquiera que odie la gasolina vieja. (Si estás sopesando los combustibles más a fondo, nuestra guía del [generador para un apartamento](/es/articles/generator-for-an-apartment/) cubre las reglas de almacenamiento que vienen con ellos.)
 
-Dos cosas que hay que mirar en la letra chica. Primero, algunos fabricantes anuncian dB a un cuarto de carga en vez de la medición estándar — el número se ve hermoso hasta que entra el compresor del aire acondicionado y el motor se acelera. Segundo, los números del "modo eco": los inverter en modo eco con carga ligera sí son así de silenciosos, pero el número sube 5–10 dB cuando sube la carga y el motor revoluciona.
+### Yamaha EF2200iS — la opción de autonomía
 
-## Inverter vs convencional: por qué uno es mucho más silencioso
+La especificación de Yamaha para el EF2200iS es **57 dB a un cuarto de carga** (subiendo hacia 65 dB a plena carga), así que no es el más silencioso aquí — pero responde con el tanque más grande (1.24 galones) y la mayor autonomía a un cuarto de carga de la clase de 2,200W: **10.5 horas**. La salida es de 2,200 vatios pico / 1,800 de uso, y es el único del grupo que incluye un contacto RV de 30A, así que es apto para RV sin adaptadores. El Smart Throttle de Yamaha hace el mismo truco de ajuste a la carga que el Eco-Throttle de Honda. La calidad de construcción es excelente y la garantía es de 3 años. Elígelo sobre el Honda cuando la autonomía y el contacto RV importen más que los últimos decibeles.
 
-No es solo el gabinete. Tres diferencias de ingeniería se suman:
+### Predator 3500 — silencioso, con potencia de verdad
 
-1. **Velocidad del motor.** Un generador convencional gira a 3,600 RPM fijas pase lo que pase — carga completa o un solo foco, el motor ruge igual. Un generador inverter baja las revoluciones con carga ligera (a veces hasta ~2,000 RPM o menos), y el ruido del motor sigue de cerca a las RPM. La mitad de velocidad es dramáticamente más silencioso.
+El Predator 3500 es el paso siguiente cuando 1,800 vatios de uso no alcanzan. Harbor Freight lo clasifica en **57 dB a 25% de carga** (su manual del propietario especifica 56 dB(A) a 7 metros), entregando 3,500 vatios pico / 3,000 de uso — suficiente para un refrigerador, luces, un microondas y un aire de ventana chico juntos, algo que ningún otro de esta lista puede decir. Arranque eléctrico, 11 horas de autonomía a un cuarto de carga con el tanque de 2.6 galones, y un precio de calle de unos $800 lo hacen el líder en vatios por dólar. Los compromisos: pesa unas 100 lb, y la garantía de 2 años y la red de servicio de Harbor Freight son más delgadas que las de Honda o Yamaha.
 
-2. **El gabinete.** Los portátiles inverter vienen envueltos en carcasas plásticas con aislamiento acústico. Los convencionales de marco abierto tienen el motor y el alternador totalmente expuestos, irradiando ruido en todas direcciones. El gabinete solo vale unos 5–10 dB.
+### Generac GP2500i — el más ruidoso de la lista, y aun así más silencioso que la mayoría
 
-3. **Diseño del escape.** Los inverter suelen traer silenciadores más grandes y mejor afinados en relación con el tamaño del motor, y como trabajan a menos RPM, los pulsos del escape son menos agresivos.
+Con **60 dB a 25% de carga**, el GP2500i es el generador más ruidoso de esta lista — y aun así está 12+ dB completos por debajo de un portátil convencional. Se gana su lugar con la salida más fuerte de la clase chica (2,500 vatios pico / 2,200 de uso), el apagado por monóxido de carbono COsense de Generac, y 8 horas de autonomía a un cuarto de carga. Es una opción intermedia sensata: más músculo que el grupo de 2,200W, del nombre más grande en energía de reserva para el hogar, a precio intermedio. Solo no lo compres específicamente por silencio — el Honda, el Westinghouse y el Champion son todos notablemente más silenciosos por dinero parecido.
 
-La diferencia práctica: un inverter de 2,000W a 53 dB y un convencional de 5,000W a 72 dB se separan por 19 dB — eso es más o menos 80 veces la intensidad de sonido. Es la diferencia entre "lo oigo si pongo atención" y "toda la cuadra lo sabe".
+## Por qué los generadores inverter son mucho más silenciosos
 
-La contraparte es potencia y precio. Los inverter cuestan más por vatio y llegan hasta unos 7,000–9,000W en el rango portátil. Si necesitas 12,000W de potencia portátil, estás en territorio convencional y el ruido es el precio. La comparación completa está en [Generador portátil vs de reserva vs inverter: ¿cuál necesitas en realidad?](/es/articles/portable-vs-standby-vs-inverter-generator/).
+Tres diferencias de ingeniería se suman. Primero, **la velocidad del motor**: un generador convencional gira a 3,600 RPM fijas sin importar la carga, mientras un inverter baja las revoluciones — a veces hasta ~2,000 RPM — cuando la demanda es ligera, y el ruido del motor sigue de cerca a las RPM. Segundo, **el gabinete**: los portátiles inverter vienen envueltos en carcasas con aislamiento; los convencionales de marco abierto irradian ruido en todas direcciones. El gabinete solo vale unos 5–10 dB. Tercero, **la afinación del escape**: los inverter traen silenciadores más grandes y mejor adaptados, y las RPM bajas suavizan cada pulso del escape. La contraparte es el costo por vatio y un techo de unos 7,500W en tamaños inverter portátiles. El desglose completo de tres vías está en nuestra comparación [generador inverter vs generador convencional](/es/articles/portable-vs-standby-vs-inverter-generator/).
+
+## La escala de decibeles, en 30 segundos
+
+Los decibeles son logarítmicos, no lineales — y ese solo dato explica la mayoría de la confusión sobre el ruido de los generadores:
+
+- **+10 dB = 10 veces más intensidad de sonido**, y se siente más o menos como el doble de volumen para el oído humano.
+- **+3 dB ≈ el doble de intensidad** — una brecha chica en papel, claramente audible en persona.
+- Toda la conversación sobre generadores se mueve entre 48 y 78 dB — un rango de 30 dB que representa un **rango de intensidad de 1,000 veces**.
+
+Como referencia: un cuarto silencioso de noche está en ~30 dB, una conversación normal a 1 metro en 60–65 dB, una aspiradora a 3 metros en ~70 dB, y una cortadora de pasto a gasolina al oído del operador en 85–90 dB. Cuando el Honda de 48 dB y un portátil convencional de 72 dB están separados por 24 dB, eso es más o menos 250 veces la intensidad de sonido. "Un poco más fuerte", no es.
 
 ## La distancia: la reducción de ruido gratis
 
-El sonido baja unos **6 dB cada vez que duplicas la distancia** (ley del cuadrado inverso, en campo libre). Esta es la estrategia más barata de control de ruido que existe: aleja el generador.
+El sonido baja unos **6 dB cada vez que duplicas la distancia** a la fuente. Eso hace de la ubicación el control de ruido más barato que tienes:
 
-| Distancia del generador | Cambio respecto al valor nominal (23 pies) | Ejemplo: una unidad de 70 dB se lee como |
+| Distancia del generador | Cambio vs. el valor a 7 m | Una unidad de 60 dB se lee como |
 |---|---|---|
-| 12 pies | +6 dB | ~76 dB |
-| 23 pies (nominal) | 0 | 70 dB |
-| 46 pies | −6 dB | ~64 dB |
-| 92 pies | −12 dB | ~58 dB |
-| 184 pies | −18 dB | ~52 dB |
+| 3.5 m | +6 dB | ~66 dB |
+| 7 m (distancia nominal) | 0 | 60 dB |
+| 14 m | −6 dB | ~54 dB |
+| 28 m | −12 dB | ~48 dB |
+| 56 m | −18 dB | ~42 dB |
 
-Pasar de 23 pies a 92 pies baja un portátil convencional de 70 dB a unos 58 dB — más silencioso que su primo inverter estacionado a la distancia estándar. Claro, necesitas un cable de extensión grueso y largo (o una conexión de entrada adecuada — ver [Transfer switch vs kit de interlock: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit/)), y el cable tiene que estar dimensionado para el amperaje. La caída de voltaje con la distancia es real; usa calibre 10 para tramos de más de 50 pies a 30 amperios.
+Este truco tiene dos límites. Uno es la seguridad: las reglas del monóxido de carbono van primero, así que el generador se queda **a por lo menos 6 metros (20 pies) de la casa** con el escape apuntando lejos — nuestra guía de ubicación sobre [a qué distancia debe estar un generador de la casa](/es/articles/how-far-should-generator-be-from-house/) tiene todo el razonamiento y las cuentas de calibre de cable (la caída de voltaje es real; usa calibre 10 para tramos de más de 15 metros a 30 amperios). El otro es la física: la regla de los 6 dB supone espacio abierto. Entre casas, los reflejos en las paredes pueden devolver 2–3 dB. Mide en el límite de tu propiedad con una app de dB en el teléfono en vez de confiar en la aritmética.
 
-Las paredes y las cercas también ayudan, pero menos de lo que la gente cree. Una cerca sólida de 6 pies quita unos 5 dB para el vecino que está detrás. La pared de tu casa con las ventanas cerradas vale 15–20 dB — por eso el mismo generador que molesta a los vecinos apenas se oye dentro de tu propio cuarto. Las barreras solo bloquean el sonido en línea directa; el retumbe grave del motor difracta alrededor de los obstáculos y viaja por el suelo.
+## Reglas de campamentos, condominios y ordenanzas que sí muerden
 
-Y ojo: la regla de los 6 dB supone espacio abierto. Entre casas, el sonido rebota en las paredes y puede leerse 2–3 dB más alto de lo que dice la matemática. Mide siempre con una app de dB en el teléfono en el límite de tu propiedad, en vez de confiar solo en las cuentas.
+- **Campamentos:** la mayoría impone horas de silencio — comúnmente de 10 p.m. a 6 o 7 a.m. — cuando los generadores no pueden trabajar en absoluto, sin importar su clasificación. Los campamentos del Servicio de Parques Nacionales de EE. UU. además limitan el ruido del generador a **60 dB medidos a 15 metros**. Todos los modelos de arriba pasan ese tope con carga moderada; un portátil convencional no.
+- **Ordenanzas locales:** los límites residenciales suelen estar en 55–65 dB en el límite de la propiedad, con números nocturnos más estrictos. Un convencional de 72 dB a 7 metros viola la mayoría; un inverter de 48–53 dB colocado dentro de tu lote normalmente cumple.
+- **Condominios (HOA):** a menudo más estrictos que la ciudad — algunos prohíben los portátiles por completo, limitan las horas de uso o exigen que las unidades de reserva queden ocultas a la vista. Revisa tus reglamentos antes de comprar, no después.
+- **Estrategia con los vecinos:** avísales antes de la tormenta, apunta el escape lejos de sus ventanas, ofréceles un cable de extensión para su refrigerador y sus teléfonos, y respeta las horas de silencio enfriando el refrigerador antes de dormir. La buena voluntad también es una tecnología de control de ruido.
 
-## Los modelos más silenciosos que vale la pena comprar, por categoría
+## ¿Ya tienes uno ruidoso? Se puede bajar el volumen
 
-Estas son las unidades que consistentemente miden en el rango bajo de su clase en pruebas independientes y mediciones de dueños. Todos los números son valores del fabricante a 23 pies, salvo que se indique otra cosa.
-
-**Inverter chico (clase 2,000W): los reyes del silencio**
-
-| Modelo | dB nominales | Notas |
-|---|---|---|
-| Honda EU2200i | 48–57 dB | El estándar de referencia; el más silencioso de su clase con carga ligera, confiabilidad legendaria, precio premium (~$1,100+) |
-| Yamaha EF2200iS | 57–65 dB | Un cercano segundo; un poco más ruidoso con carga, excelente construcción |
-| WEN 56203i / 56200i | 51–53 dB | Opción económica (~$400–500); no es silencioso como el Honda con carga, pero notable por el precio |
-
-**Inverter mediano (3,500–4,500W): territorio casi-toda-la-casa**
-
-| Modelo | dB nominales | Notas |
-|---|---|---|
-| Champion inverter dual fuel 2500W (200962) | 53 dB | Chiquito, silencioso, también funciona con propano; se empareja en paralelo para 5,000W |
-| Generac IQ3500 | 60 dB | Más silencioso que la mayoría de su clase de potencia; arranque eléctrico |
-| Predator 3500 (Harbor Freight) | 57 dB | La opción valor (~$800–900); ruido a la par de unidades que cuestan el doble |
-
-**Portátil grande (7,500W+): la clase ruidosa, los más silenciosos del grupo**
-
-| Modelo | dB nominales | Notas |
-|---|---|---|
-| Westinghouse iGen11000DFc (inverter) | ~64 dB | Tecnología inverter a 11,000W — el raro portátil grande y silencioso |
-| Champion 100520 (7,500W marco abierto) | 74 dB | Típico de la clase; funciona si hay distancia disponible |
-| Predator 9500 inverter | ~67 dB | Silencio de inverter a 9,500W; gran valor |
-
-**Generadores de reserva**
-
-| Modelo | dB nominales | Notas |
-|---|---|---|
-| Generac Guardian 24kW | ~66 dB | Mitad de tabla; el gabinete hace el trabajo pesado |
-| Kohler 20RCA | ~62 dB | De los de reserva enfriados por aire más silenciosos |
-| Cummins QuietConnect 20kW | ~62 dB | Diseñado pensando en bajo ruido |
-
-El patrón se mantiene: si el silencio es lo más importante y tus cargas lo permiten, un inverter de 2,000–4,500W es la respuesta. Para el lado de costos de las unidades de reserva, ver [Costo de un generador para toda la casa en 2026: desglose de precio instalado](/es/articles/whole-house-generator-cost/).
-
-## Vecinos, condominios y ordenanzas de ruido
-
-Esta es la parte que mete a la gente en problemas después de la compra, así que va antes de comprar.
-
-**Las ordenanzas locales de ruido** suelen fijar límites residenciales alrededor de 55–65 dB en el límite de la propiedad, a menudo con límites nocturnos más estrictos (comúnmente de 10 p.m. a 7 a.m.). Un portátil convencional de 72 dB a 23 pies va a violar la mayoría de las ordenanzas nocturnas a cualquier distancia razonable. Durante una emergencia declarada, la aplicación suele relajarse — pero "suele" no es una defensa legal, y la paciencia de tu vecino no es una ordenanza.
-
-**Los condominios (HOA)** son más estrictos que las ciudades en muchos casos. Algunos prohíben los generadores portátiles por completo; otros limitan las horas de uso o exigen que las unidades de reserva queden ocultas a la vista. Revisa tus reglamentos antes de comprar — un equipo de reserva de $9,000 que no puedes instalar es una lección cara.
-
-**Estrategia práctica con los vecinos**, de gente que ya vivió apagones de varios días:
-
-- **Avísales antes de la tormenta**, no durante. "Vamos a usar el generador durante el apagón, lo pondré al fondo del patio" compra una buena voluntad enorme.
-- **Ofrece un cable de extensión.** Un vecino que puede cargar sus teléfonos y mantener su refrigerador con tu generador jamás se va a quejar del ruido.
-- **La posición importa.** Apunta el escape lejos de las casas vecinas. Cada giro de 90 grados lejos de una ventana de cuarto ayuda.
-- **Respeta las horas de silencio.** Apágalo de ~10 p.m. a ~7 a.m. si puedes — enfría el refrigerador antes de dormir y reenciende en la mañana. Tu reserva de gasolina también dura más.
-
-## Cómo reducir el ruido del que ya tienes
-
-¿Atascado con una unidad convencional ruidosa? Algunas cosas sí ayudan de verdad:
-
-- **La distancia primero** — la regla de los 6 dB de arriba es gratis.
-- **Una carpa o gabinete para generador** (diseñada para eso, ventilada) corta 5–10 dB. Jamás encierres un generador en nada hermético — el monóxido de carbono mata, y el sobrecalentamiento destruye motores. Los gabinetes diseñados tienen flujo de aire calculado; una caja de madera contrachapada no.
-- **Apunta el escape lejos** de casas y paredes reflectantes.
-- **Ponlo sobre pasto**, no sobre concreto — la vibración se transfiere por superficies duras y resuena.
-- **Los silenciadores adicionales** (los "silenciadores silenciosos" del mercado de accesorios) recortan 2–5 dB en algunos modelos, pero verifica que no restrinjan el flujo de escape hasta causar sobrecalentamiento.
-
-Lo que no funciona: envolverlo en cobijas (peligro de incendio y de CO), usarlo en el garage con la puerta "entreabierta" (el CO llega a niveles letales en minutos — esto mata gente cada año), o suponer que a los vecinos "no les va a molestar". Les molesta.
+Primero la distancia (la regla de los 6 dB de arriba es gratis), luego: pon la unidad sobre pasto o tierra en vez de concreto, que transmite la vibración; apunta el escape lejos de casas y paredes reflectantes; usa un gabinete para generador diseñado para eso y ventilado, por 5–10 dB — jamás nada hermético, porque la acumulación de CO y el sobrecalentamiento son letales y destructivos respectivamente; y considera un silenciador de accesorios por 2–5 dB, verificando que no ahogue el flujo de escape. Lo que no funciona: cobijas (peligro de incendio y de CO) y "el garaje con la puerta entreabierta" (el CO llega a niveles letales en minutos — esto mata gente cada año).
 
 ## Sigue leyendo
 
+- [Generador inverter vs generador convencional (y vs de reserva): ¿cuál necesitas?](/es/articles/portable-vs-standby-vs-inverter-generator/)
+- [¿A qué distancia debe estar un generador de la casa?](/es/articles/how-far-should-generator-be-from-house/)
+- [El mejor generador para un apartamento](/es/articles/generator-for-an-apartment/)
 - [Guía completa de energía de respaldo para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide/)
-- [Generador portátil vs de reserva vs inverter: ¿cuál necesitas en realidad?](/es/articles/portable-vs-standby-vs-inverter-generator/)
-- [Transfer switch vs kit de interlock: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit/)
-- [Costo de un generador para toda la casa en 2026: desglose de precio instalado](/es/articles/whole-house-generator-cost/)
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/)
+- [¿Qué tamaño de generador necesito? Tabla completa de cálculo por tamaño de casa](/es/articles/what-size-generator-run-house/)

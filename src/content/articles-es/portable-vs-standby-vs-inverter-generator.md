@@ -1,15 +1,16 @@
 ---
-title: "Portátil vs de reserva vs inversor: qué generador elegir"
-description: "Portátil vs de reserva vs inversor, comparados sin adornos: costos, ruido, combustible y qué tipo conviene según tus apagones y tu presupuesto familiar."
+title: "Generador inverter vs generador convencional (y vs de reserva): ¿cuál necesitas?"
+description: "Generador inverter vs generador convencional comparados sin adornos — ruido, energía limpia, consumo y costo por vatio — y dónde encaja el generador de reserva según tus apagones y tu presupuesto."
 heroImage: "https://files.catbox.moe/h9b60s.jpg"
 pubDate: 2026-10-19
+updatedDate: 2026-10-21
 lang: "es"
 keywords: ["generador portátil vs de reserva", "inversor vs generador portátil", "qué generador necesito"]
 ---
 
-No necesitas memorizar tres categorías. Necesitas responder una pregunta: cuando se va la luz en tu casa, ¿qué quieres que pase después? Si la respuesta es "voy a sacar una máquina del garaje y conecto unos cables de extensión", eres una persona de generador portátil. Si la respuesta es "no quiero hacer nada — debería encenderse solo", eres una persona de generador de reserva. La pregunta del inversor es una capa encima de eso.
+La primera decisión con un generador no es en realidad portátil vs de reserva. Es inverter vs convencional (el generador "normal") — porque esa sola elección define tu nivel de ruido, tu calidad de energía y tu precio por vatio antes que cualquier otra cosa. Un portátil convencional es vatios baratos y ruidosos. Un inverter es energía silenciosa y limpia que cuesta más o menos el doble por vatio. Solo después de resolver eso entra en escena la tercera opción — la unidad de reserva que arranca sola.
 
-Aquí está cada tipo, explicado derecho, con números reales.
+Esta guía empieza con el contraste inverter vs convencional, y después mete al de reserva, para que veas los tres tipos lado a lado, con números reales.
 
 ## Qué es realmente cada tipo
 

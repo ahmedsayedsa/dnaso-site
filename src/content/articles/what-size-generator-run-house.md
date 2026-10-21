@@ -1,6 +1,6 @@
 ---
-title: "What Size Generator Do I Need to Run My House?"
-description: "Find the right generator size for your house: running vs starting watts, a room-by-room wattage table, and worked examples for 1,500–3,000 sq ft homes."
+title: "What Size Generator Do I Need? Complete Sizing Chart by Home Size"
+description: "What size generator do I need? Add up your running watts, cover the biggest starting surge, and use this sizing chart by home size — with worked examples for 1,500–3,000 sq ft homes."
 heroImage: "https://files.catbox.moe/ng3fa0.jpg"
 faq:
   - question: "What size generator do I need for a 2,000 sq ft house?"
@@ -12,10 +12,11 @@ faq:
   - question: "Is it bad to oversize a generator?"
     answer: "Mildly oversizing (10–20%) is fine and gives you headroom. Grossly oversizing wastes money on purchase price and fuel — a 22kW unit powering a few lights burns more fuel per kWh than a right-sized unit. Standby generators also prefer to run at 30%+ load; chronic underloading can cause wet-stacking in diesel units."
 pubDate: 2026-10-19
+updatedDate: 2026-10-21
 keywords: ["what size generator do I need", "generator sizing calculator", "how many watts to run a house"]
 ---
 
-This is the number-one question in home backup power, and most people get it wrong in the same way: they buy too small and find out during the outage. The fix takes about ten minutes with a pencil. Here's how an electrician would size it for your house.
+"What size generator do I need?" is the number-one question in home backup power, and most people get it wrong in the same way: they buy too small and find out during the outage. The fix takes about ten minutes with a pencil. Here's how an electrician would size it for your house.
 
 ## Running watts vs. starting watts — the two numbers that matter
 
