@@ -1,7 +1,7 @@
 ---
 title: "How Long Will a Generator Run on 5 Gallons of Gas?"
 description: "How long will a generator run on 5 gallons of gas? Real runtimes by size and load — 2,000W inverters to 7,500W portables — plus the simple math behind them."
-heroImage: ""
+heroImage: "/images/how-long-generator-run-on-5-gallons-of-gas.webp"
 faq:
   - question: "How long will a 5,500-watt generator run on 5 gallons of gas?"
     answer: "Plan on roughly 11 hours at half load, which is how most people actually run one during an outage. At a light 25% load you can stretch 5 gallons to about 16 hours; running flat-out near full load burns around 0.7 gallons per hour and empties your 5 gallons in about 7 hours. The single biggest variable is load, not the brand on the side of the tank."

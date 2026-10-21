@@ -1,7 +1,7 @@
 ---
 title: "How Long Will Food Last in a Freezer Without Power?"
 description: "How long will food last in a freezer without power? A full freezer holds 48 hours, a half-full one 24. The 40°F rule, dry ice math, and what to toss."
-heroImage: ""
+heroImage: "/images/how-long-will-food-last-in-freezer-without-power.webp"
 faq:
   - question: "How long will food last in a freezer without power?"
     answer: "Per the USDA, a full freezer keeps food at a safe temperature for about 48 hours if the door stays closed, and a half-full freezer for about 24 hours. A refrigerator only buys you about 4 hours. The deciding number is 40°F: food that stays at or below 40°F is safe, and food that spends more than 2 hours above 40°F should be discarded."

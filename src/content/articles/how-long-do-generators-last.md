@@ -1,7 +1,7 @@
 ---
 title: "How Long Do Standby Generators Last?"
 description: "Standby generator lifespan by type: realistic hour ratings (2,000-3,000 for air-cooled), what kills them early, and how maintenance extends life."
-heroImage: "https://files.catbox.moe/r46u2e.jpg"
+heroImage: "/images/how-long-do-generators-last.webp"
 faq:
   - question: "How many years does a Generac generator last?"
     answer: "A well-maintained Generac air-cooled standby typically lasts 20–30 years in residential use, which works out to roughly 2,000–3,000 operating hours. The engine usually outlasts the electronics — controller boards and batteries are the parts that tend to fail first. Regular oil changes and letting the weekly exercise cycle run are what separate the 15-year units from the 30-year ones."

@@ -1,7 +1,7 @@
 ---
 title: "How to Connect a Generator to Your House: 3 Legal Ways"
 description: "How to connect a generator to your house the legal way — inlet box and interlock, manual transfer switch, or standby ATS: steps, installed costs, and permits."
-heroImage: ""
+heroImage: "/images/how-to-connect-a-generator-to-your-house.webp"
 faq:
   - question: "Is backfeeding a generator illegal?"
     answer: "Yes. Feeding generator power into your home's wiring without transfer equipment — backfeeding — violates NEC Article 702, which requires a transfer switch or listed interlock that makes it impossible for generator and utility power to connect at the same time. It is also genuinely lethal: backfed power passes through your meter and the pole transformer steps it back up to distribution voltage, energizing lines that utility crews believe are dead. Beyond the legal exposure, an injury or fire traced to an unpermitted backfeed setup can void your homeowner's insurance claim."

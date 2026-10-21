@@ -1,7 +1,7 @@
 ---
 title: "How Much Gas Does a 5500 Watt Generator Use? (By Load)"
 description: "How much gas does a 5500 watt generator use? About 0.4 gal/hr at quarter load and 0.6 at half load. Full by-load table, tank runtime, and 24-hour costs."
-heroImage: ""
+heroImage: "/images/how-much-gas-does-5500w-generator-use.webp"
 faq:
   - question: "How much gas does a 5500 watt generator use per hour?"
     answer: "A typical 5500-watt conventional generator burns about 0.35–0.45 gallons per hour at 25% load, 0.55–0.65 at 50% load, roughly 0.75 at 75%, and 0.85–1.0 at full load. Most real outage use sits between quarter and half load, so plan on about half a gallon an hour — call it 12 gallons for a full day of typical running."

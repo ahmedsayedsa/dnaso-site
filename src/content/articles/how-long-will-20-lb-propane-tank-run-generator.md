@@ -1,7 +1,7 @@
 ---
 title: "How Long Will a 20-lb Propane Tank Run a Generator?"
 description: "A 20-lb tank holds 4.6 gallons of propane. Real runtime math at 25%, 50%, and full load, how tank size changes the answer, and when to step up to 40 or 100 lb."
-heroImage: ""
+heroImage: "/images/how-long-will-20-lb-propane-tank-run-generator.webp"
 faq:
   - question: "How many gallons of propane are in a 20-lb tank?"
     answer: "4.6 gallons when it's genuinely full. Propane weighs about 4.2 pounds per gallon, and tanks are filled to 80% of their water capacity for expansion room — so a '20-pound' tank (named for the weight of propane it holds) carries 20 ÷ 4.2 ≈ 4.7 gallons, conventionally quoted as 4.6. At roughly 91,500 BTU per gallon, that's about 420,000–430,000 BTU of energy on board."

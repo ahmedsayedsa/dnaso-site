@@ -1,7 +1,7 @@
 ---
 title: "How Long Will a Generator Run on a 250-Gallon Propane Tank?"
 description: "How long will a generator run on a 250 gallon propane tank? Usable gallons, burn rates for 10–22 kW standbys, and realistic days of runtime."
-heroImage: ""
+heroImage: "/images/how-long-generator-run-on-250-gallon-propane-tank.webp"
 faq:
   - question: "How many usable gallons are in a 250-gallon propane tank?"
     answer: "About 170–190 gallons in real planning terms. A 250-gallon tank is only filled to 80% of its water capacity, so a \"full\" tank holds roughly 200 gallons. You also never run it to zero — below about 10% the gauge gets unreliable, vapor pressure sags on big draws, and you have no reserve if the delivery truck is late. Start from a full 200, leave 15–25 gallons as your floor, and budget around 180 usable gallons."

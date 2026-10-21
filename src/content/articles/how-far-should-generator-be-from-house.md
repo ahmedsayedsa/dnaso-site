@@ -1,7 +1,7 @@
 ---
 title: "How Far Should a Generator Be From Your House?"
 description: "The 20-foot rule explained: why distance matters more than ventilation tricks, window and vent clearances, generator code distances, and exhaust direction."
-heroImage: ""
+heroImage: "/images/how-far-should-generator-be-from-house.webp"
 faq:
   - question: "Can I run a generator in my garage with the door open?"
     answer: "No. Never — not with the door open, not with a fan blowing, not 'just for a few minutes.' Carbon monoxide pools in enclosed and semi-enclosed spaces faster than any household fan can clear it, seeps into the house through the door and wall penetrations, and has killed people who had the garage door wide open. The generator goes outside, at least 20 feet away, exhaust pointed away. There is no version of 'inside' that is safe."

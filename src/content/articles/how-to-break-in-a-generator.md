@@ -1,7 +1,7 @@
 ---
 title: "How to Break In a Generator: Step-by-Step (Plus the 5-Hour Oil Change)"
 description: "How to break in a generator properly: load steps from 25% to 75%, heat cycles, and the first oil change at 5 hours that sets engine life."
-heroImage: ""
+heroImage: "/images/how-to-break-in-a-generator.webp"
 faq:
   - question: "How long does it take to break in a new generator?"
     answer: "Plan on about 5 hours of running time for most portable generators, split across several sessions with cool-downs between them — not 5 hours straight. Honda, Champion, and Generac all land in that neighborhood in their manuals. After the 5-hour oil change, treat the engine gently until roughly 20–25 hours, then switch to the normal maintenance schedule."

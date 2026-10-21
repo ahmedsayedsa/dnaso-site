@@ -1,7 +1,7 @@
 ---
 title: "Home Battery Backup vs Generator: An Honest Comparison"
 description: "Home battery vs generator in 2026: upfront costs, running costs, tax credits (30% ITC), and which makes sense for your outage pattern."
-heroImage: "https://files.catbox.moe/dc3h6v.jpg"
+heroImage: "/images/home-battery-vs-generator.webp"
 pubDate: 2026-10-19
 keywords: ["home battery backup vs generator", "tesla powerwall vs generator", "battery backup tax credit"]
 ---

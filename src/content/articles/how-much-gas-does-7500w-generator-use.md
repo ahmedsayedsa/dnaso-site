@@ -1,7 +1,7 @@
 ---
 title: "How Much Gas Does a 7500 Watt Generator Use? (Load Table + Costs)"
 description: "How much gas does a 7500 watt generator use? Roughly 0.5 gal/hr at quarter load and 1.2 at full. Load table, tank runtime, and 24-hour fuel costs."
-heroImage: ""
+heroImage: "/images/how-much-gas-does-7500w-generator-use.webp"
 faq:
   - question: "How much gas does a 7500 watt generator use per hour?"
     answer: "It depends entirely on load. A typical 7500 watt conventional generator burns about 0.5 gallons per hour at 25% load (roughly 1,875 watts), 0.7–0.8 at 50%, around 1.0 at 75%, and 1.1–1.3 running flat-out. Most homes on backup power cruise near half load, so 0.75 gallons per hour is the honest planning number."

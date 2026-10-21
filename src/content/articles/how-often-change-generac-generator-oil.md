@@ -1,7 +1,7 @@
 ---
 title: "How Often to Change Generac Generator Oil: The Real Schedule"
 description: "How often to change Generac generator oil: first change at 25 break-in hours, then every 200 hours or 2 years — the official Generac schedule, explained."
-heroImage: ""
+heroImage: "/images/how-often-change-generac-generator-oil.webp"
 faq:
   - question: "How often should I change the oil in my Generac generator?"
     answer: "On Generac's published schedule: the first oil and filter change at 25 hours of runtime (the break-in change), then every 200 hours of runtime or every 2 years, whichever comes first. The 'whichever comes first' matters — a standby generator that only exercises and rides out two short outages may take a decade to reach 200 hours, but the oil still gets changed on the 2-year clock because it absorbs moisture and oxidizes sitting in the sump. Most owners find an annual dealer service visit the easiest way to never think about either clock."
