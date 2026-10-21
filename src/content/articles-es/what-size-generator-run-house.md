@@ -75,6 +75,8 @@ Este es el proceso exacto:
 
 Ese número final es tu objetivo de capacidad de uso. Verifica que la capacidad de arranque del generador cubra tu pico individual más grande con margen de sobra.
 
+**¿Prefieres que la cuenta se haga sola?** Nuestra [calculadora de tamaño de generador](/tools/generator-size-calculator) (en inglés) aplica este mismo método de forma interactiva — marcas tus aparatos y ella suma los vatios de uso, cubre el pico de arranque más grande y agrega el 20% de margen automáticamente.
+
 ### Ejemplo resuelto 1: Solo lo esencial (cualquier tamaño de casa)
 
 Nevera + congelador, algunas luces LED, Wi-Fi, cargadores de teléfono/laptop, y el ventilador de la calefacción de gas para el calor en invierno.

@@ -1,0 +1,546 @@
+---
+import Base from '../../layouts/Base.astro';
+
+const title = 'Generator Size Calculator: Find the Right Size in Watts';
+const description =
+  'Free generator size calculator: check your appliances, total the running and starting watts, and get the right generator size for your home in seconds.';
+const keywords = ['generator size calculator', 'generator sizing calculator', 'how many watts to run a house', 'what size generator do I need'];
+
+// FAQPage schema — same pattern as Article.astro (frontmatter faq -> JSON-LD).
+const faq = [
+  {
+    question: 'How accurate is this generator size calculator?',
+    answer:
+      'It uses the same mid-range wattage figures electricians use for a first-pass sizing, taken from our appliance wattage table. Your exact appliances can draw 10–20% more or less — check the nameplate on the back or bottom of each unit for its real running watts, and use the higher number if it differs. The built-in 20% headroom absorbs most of that variation.',
+  },
+  {
+    question: 'Why does the calculator add 20% headroom?',
+    answer:
+      'Three reasons: motors draw more starting current as they age, everyone forgets a load or two (the garage fridge, the dehumidifier), and generators lose output in heat and at altitude. A generator running at 50–80% load also lasts longer and burns less fuel per kilowatt-hour than one pinned at maximum.',
+  },
+  {
+    question: 'Can a 7,500-watt generator run central air conditioning?',
+    answer:
+      'Not reliably. A 3-ton central AC draws about 3,250 running watts but needs roughly 10,500 watts to start its compressor — on top of everything else already running. That pushes you into 20kW standby territory. A soft starter ($300–$400 installed) cuts the AC starting surge by 60–70% and can bring a large portable back into play.',
+  },
+  {
+    question: 'Should I add up the starting watts of every appliance?',
+    answer:
+      'No — motors almost never start at the exact same second. Correct sizing covers your total running watts plus the single largest starting surge. Adding every surge together oversizes the generator, wastes fuel, and costs you hundreds of dollars for capacity you will never use.',
+  },
+  {
+    question: 'My result falls between two generator sizes. Which should I buy?',
+    answer:
+      'Round up — especially if a well pump, sump pump, or AC compressor is on your list, because a stalled motor start is the failure that matters. The exception is standby generators: the price jump between sizes (say 14kW to 22kW) is often only $800–$1,200 installed, so rounding up there buys real capability cheaply.',
+  },
+];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer },
+  })),
+};
+
+// Appliance data — running/starting watts are the verified figures from
+// /articles/what-size-generator-run-house/ (its appliance wattage table and worked examples).
+const groups = [
+  {
+    name: 'Kitchen',
+    items: [
+      { id: 'fridge', label: 'Refrigerator', run: 200, start: 1200, qty: true, checked: true },
+      { id: 'freezer', label: 'Chest freezer', run: 180, start: 1180, qty: true, checked: true },
+      { id: 'microwave', label: 'Microwave', run: 1100, start: 1100 },
+      { id: 'range', label: 'Electric range (one burner)', run: 1750, start: 1750 },
+    ],
+  },
+  {
+    name: 'Heating & Cooling',
+    items: [
+      { id: 'furnace', label: 'Furnace blower (gas/oil heat)', run: 800, start: 2300, checked: true },
+      { id: 'ac3', label: 'Central AC — 3-ton', run: 3250, start: 10500, exclusive: 'central-ac' },
+      { id: 'ac4', label: 'Central AC — 4-ton', run: 4250, start: 12500, exclusive: 'central-ac' },
+      { id: 'ac5', label: 'Central AC — 5-ton', run: 5250, start: 14500, exclusive: 'central-ac' },
+      { id: 'windowac', label: 'Window AC (10,000 BTU)', run: 1000, start: 2600, qty: true },
+      { id: 'portableac', label: 'Portable AC (12,000 BTU)', run: 1200, start: 2750 },
+    ],
+  },
+  {
+    name: 'Pumps & Water',
+    items: [
+      { id: 'sump', label: 'Sump pump (1/3 HP)', run: 900, start: 2200 },
+      { id: 'well', label: 'Well pump (1/2 HP)', run: 1050, start: 2750 },
+      { id: 'waterheater', label: 'Electric water heater', run: 4250, start: 4250 },
+    ],
+  },
+  {
+    name: 'Laundry',
+    items: [
+      { id: 'dryer', label: 'Clothes dryer (electric)', run: 5000, start: 5000 },
+    ],
+  },
+  {
+    name: 'Living',
+    items: [
+      { id: 'led', label: 'LED lights (per bulb)', run: 10, start: 10, qty: true, qtyDefault: 10, checked: true },
+      { id: 'tv', label: 'TV (55")', run: 125, start: 125, qty: true },
+      { id: 'chargers', label: 'Laptop & phone chargers', run: 75, start: 75, qty: true, checked: true },
+      { id: 'wifi', label: 'Wi-Fi router + modem', run: 25, start: 25, checked: true },
+    ],
+  },
+  {
+    name: 'Other',
+    items: [
+      { id: 'cpap', label: 'CPAP machine', run: 45, start: 45 },
+      { id: 'garage', label: 'Garage door opener', run: 550, start: 1300 },
+    ],
+  },
+];
+
+const fmt = (n: number) => n.toLocaleString('en-US');
+---
+
+<Base title={title} description={description} keywords={keywords}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  </Fragment>
+
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Home</a><span class="sep" aria-hidden="true">/</span>
+      <a href="/#guides">Guides</a><span class="sep" aria-hidden="true">/</span>
+      <span aria-current="page">Generator Size Calculator</span>
+    </nav>
+
+    <article class="post">
+      <span class="tag">Sizing</span>
+      <h1>Generator Size Calculator</h1>
+      <p class="article-lede">
+        Check everything you want to keep running during an outage. The calculator totals your
+        running watts, covers the biggest motor surge, adds 20% headroom, and lands on a standard
+        generator size — the same math an electrician would do on paper.
+      </p>
+
+      <div class="calc" id="calc">
+        <div class="calc-actions">
+          <button type="button" class="calc-btn" id="calc-essentials">Essentials preset</button>
+          <button type="button" class="calc-btn calc-btn-ghost" id="calc-clear">Clear all</button>
+        </div>
+
+        {groups.map((g) => (
+          <fieldset class="calc-group">
+            <legend>{g.name}</legend>
+            <ul>
+              {g.items.map((it) => (
+                <li class="calc-item">
+                  <label class="calc-label">
+                    <input
+                      type="checkbox"
+                      class="calc-check"
+                      data-id={it.id}
+                      data-run={it.run}
+                      data-start={it.start}
+                      data-exclusive={it.exclusive ?? ''}
+                      checked={it.checked ? true : undefined}
+                    />
+                    <span class="calc-name">{it.label}</span>
+                  </label>
+                  <span class="calc-watts">
+                    {fmt(it.run)} W run{it.start > it.run && <> · {fmt(it.start)} W start</>}
+                  </span>
+                  {it.qty && (
+                    <span class="calc-qtywrap">
+                      <label class="calc-qtylabel" for={`qty-${it.id}`}>Qty</label>
+                      <input
+                        type="number"
+                        class="calc-qty"
+                        id={`qty-${it.id}`}
+                        data-for={it.id}
+                        min="1"
+                        max="30"
+                        step="1"
+                        value={it.qtyDefault ?? 1}
+                      />
+                    </span>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </fieldset>
+        ))}
+
+        <div class="calc-results" aria-live="polite">
+          <div class="calc-stat">
+            <span class="calc-stat-label">Total running watts</span>
+            <strong class="calc-stat-value" id="calc-running">1,380 W</strong>
+          </div>
+          <div class="calc-stat">
+            <span class="calc-stat-label">Peak starting watts</span>
+            <strong class="calc-stat-value" id="calc-peak">2,880 W</strong>
+            <span class="calc-stat-sub" id="calc-surge">Biggest surge: furnace blower (+1,500 W)</span>
+          </div>
+          <div class="calc-stat calc-stat-rec">
+            <span class="calc-stat-label">Recommended generator size</span>
+            <strong class="calc-stat-value" id="calc-rec">3,500 W</strong>
+            <span class="calc-stat-sub">Peak + 20% headroom, rounded up to a standard size</span>
+          </div>
+          <p class="calc-verdict" id="calc-verdict">
+            A small portable or inverter generator in this class covers the essentials — fridge,
+            heat, lights, and communications — for most homes.
+          </p>
+          <p class="calc-fuel" id="calc-fuel">
+            Fuel note: at this size, a gasoline or dual-fuel inverter is the usual pick. Propane
+            stores indefinitely and runs cleaner; gasoline is cheaper per hour and easier to refill
+            mid-storm.
+          </p>
+        </div>
+
+        <noscript>
+          <p class="calc-noscript">
+            This calculator needs JavaScript to total your selections. You can do the same math by
+            hand in five minutes with our <a href="/articles/what-size-generator-run-house">generator
+            sizing guide</a>: add up running watts, add the single biggest starting surge, then add
+            20% headroom. The pre-checked essentials above (fridge, freezer, furnace blower, lights,
+            Wi-Fi, chargers) total 1,380 running watts and 2,880 peak watts — a 3,500 W generator
+            covers them.
+          </p>
+        </noscript>
+      </div>
+
+      <div class="prose">
+        <h2>How generator sizing actually works</h2>
+        <p>
+          Generators are sized in watts, but a single watt number hides the thing that actually
+          trips people up: there are <strong>two</strong> wattages in play. <strong>Running
+          watts</strong> are the steady draw of everything operating at once. <strong>Starting
+          watts</strong> are the brief spike — two to three times the running draw, for a few
+          seconds — when a motor kicks on. A compressor, pump, or blower that cannot get its
+          starting watts simply stalls, and the generator bogs down with it.
+        </p>
+        <p>
+          So the sizing rule has two conditions. The generator's running-watt rating must cover
+          everything you run simultaneously, and its starting (surge) rating must cover your
+          biggest single motor start <em>on top of</em> the loads already running. The calculator
+          above applies exactly that: it sums your running watts, finds the appliance with the
+          largest gap between its starting and running watts, adds that one surge to the total,
+          and then applies 20% headroom before rounding up to a standard size.
+        </p>
+        <p>
+          Why only one surge? Because motors almost never start at the same instant. Sizing for
+          every surge added together is the most common way people overspend — you end up paying
+          for, and feeding fuel to, capacity that exists for a coincidence that never happens.
+          Our full <a href="/articles/what-size-generator-run-house">generator sizing guide</a>
+          walks through the same method with worked examples for 1,500 to 3,000 sq ft homes,
+          including the wattage table this calculator's figures come from.
+        </p>
+
+        <h2>Why the 20% headroom is not optional padding</h2>
+        <p>
+          The headroom looks like a fudge factor. It is not. Motors draw more starting current as
+          they age, so the ten-year-old well pump on your list is hungrier than its nameplate
+          suggests. Everyone forgets a load — the second fridge in the garage, the dehumidifier,
+          the aquarium heater — and discovers it during the outage. And a generator's rated output
+          assumes mild conditions: heat and altitude both derate it. Running at 50–80% of capacity
+          is also where generators are happiest — quieter, more fuel-efficient per kilowatt-hour,
+          and longer-lived than a unit pinned at 100% whenever the AC cycles.
+        </p>
+        <p>
+          Going too far the other way has a real cost too. A 22kW standby loafing along at 4kW of
+          load still burns roughly 1.5–2 gallons of propane an hour, while a right-sized portable
+          at the same load sips about half a gallon of gasoline. Size to your math plus the
+          headroom — not double your math.
+        </p>
+
+        <h2>Portable, inverter, or standby? Let your number decide</h2>
+        <p>
+          If your recommended size lands at <strong>5,500 W or under</strong>, you are in
+          essentials territory: a portable or inverter generator keeps food cold, the furnace
+          blower turning, lights on, and phones charged. Between <strong>7,500 and 12,000
+          W</strong>, a large portable adds a window AC, a sump pump, and a microwave to the
+          picture — the sweet spot for most suburban homes without central air. Past roughly
+          <strong>14,000–15,000 W</strong>, or the moment central AC enters your list, you are
+          pricing standby generators: permanently installed, automatic, and fueled by natural gas
+          or a large propane tank so there is nothing to refuel at 2 a.m. Our
+          <a href="/articles/standby-generator-cost">standby generator cost guide</a> breaks down
+          what those systems run installed, by size and brand.
+        </p>
+        <p>
+          One lever worth knowing about before you jump a size class: a <strong>soft starter</strong>
+          on a central AC cuts its starting surge by 60–70% for about $300–$400 installed. On the
+          calculator, try your list with the AC included, note the recommended size, then imagine
+          that surge mostly gone — for many homes it is the difference between a large portable
+          and a five-figure standby install.
+        </p>
+        <p>
+          Finally, however you power the house, the connection matters as much as the generator.
+          Anything wired into your panel goes through a transfer switch or interlock kit,
+          installed by a licensed electrician — never a backfed dryer outlet. Our guide to
+          <a href="/articles/how-to-connect-a-generator-to-your-house">connecting a generator to
+          your house</a> covers the three legal methods and what each costs installed.
+        </p>
+      </div>
+
+      <section class="faq" aria-label="Frequently asked questions">
+        <h2>Frequently asked questions</h2>
+        {faq.map((f) => (
+          <details>
+            <summary>{f.question}</summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </section>
+
+      <aside class="author-box" aria-label="About the author">
+        <div class="author-header">
+          <span class="avatar author-avatar" aria-hidden="true">MD</span>
+          <div>
+            <strong>Mike Donovan</strong>
+            <span class="author-role">Licensed Electrician &amp; Homeowner</span>
+          </div>
+        </div>
+        <p>
+          Mike is a licensed electrician with 18 years in residential electrical work across the
+          Midwest. He's installed over 200 standby generators, troubleshot everything from dead
+          portables to fried transfer switches, and runs his own home on a 18kW standby. He writes
+          the way he talks on a job site — straight, practical, no sales pitch.
+        </p>
+      </aside>
+    </article>
+  </div>
+
+  <style>
+    .calc {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 26px 28px;
+      margin: 0 0 40px;
+    }
+    .calc-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 8px; }
+    .calc-btn {
+      font: inherit; font-size: 14.5px; font-weight: 700; cursor: pointer;
+      background: var(--amber); color: #1d1405; border: 1.5px solid var(--amber);
+      border-radius: var(--radius-sm); padding: 9px 18px;
+      transition: background 0.15s, transform 0.15s;
+    }
+    .calc-btn:hover { background: #e8930c; transform: translateY(-1px); }
+    .calc-btn-ghost { background: transparent; color: var(--amber-deep); border-color: var(--amber-line); }
+    .calc-btn-ghost:hover { background: var(--amber-soft); }
+    .calc-group {
+      border: 0; border-top: 1px solid var(--line-soft);
+      margin: 18px 0 0; padding: 16px 0 0; min-width: 0;
+    }
+    .calc-group legend {
+      font-size: 12.5px; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 1.4px; color: var(--amber-deep); padding: 0; margin-bottom: 6px;
+    }
+    .calc-group ul { list-style: none; margin: 0; padding: 0; }
+    .calc-item {
+      display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+      padding: 9px 10px; border-radius: var(--radius-sm);
+    }
+    .calc-item:hover { background: #fffdf8; }
+    .calc-item:has(.calc-check:checked) { background: var(--amber-soft); }
+    .calc-label { display: inline-flex; align-items: center; gap: 10px; cursor: pointer; flex: 1 1 240px; }
+    .calc-check { width: 19px; height: 19px; accent-color: var(--amber); cursor: pointer; flex: none; }
+    .calc-name { font-weight: 600; font-size: 16px; color: var(--ink); }
+    .calc-watts { font-size: 13.5px; color: var(--muted); font-weight: 600; white-space: nowrap; }
+    .calc-qtywrap { display: inline-flex; align-items: center; gap: 6px; }
+    .calc-qtylabel { font-size: 12.5px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.6px; }
+    .calc-qty {
+      font: inherit; font-size: 14.5px; font-weight: 600; width: 62px;
+      padding: 5px 8px; border: 1px solid var(--line); border-radius: var(--radius-sm);
+      background: var(--surface); color: var(--ink);
+    }
+    .calc-qty:disabled { opacity: 0.4; }
+    .calc-results {
+      margin-top: 24px; border-top: 2px solid var(--amber-line);
+      padding-top: 20px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;
+    }
+    .calc-stat { display: flex; flex-direction: column; gap: 2px; }
+    .calc-stat-label { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.1px; color: var(--muted); }
+    .calc-stat-value { font-size: 27px; font-weight: 800; letter-spacing: -0.5px; color: var(--ink); }
+    .calc-stat-rec .calc-stat-value { color: var(--amber-deep); }
+    .calc-stat-sub { font-size: 13px; color: var(--muted); line-height: 1.5; }
+    .calc-verdict { grid-column: 1 / -1; margin: 4px 0 0; font-size: 16.5px; color: var(--ink-2); line-height: 1.65; }
+    .calc-fuel {
+      grid-column: 1 / -1; margin: 0; font-size: 15px; color: var(--ink-2); line-height: 1.65;
+      background: var(--amber-soft); border: 1px solid var(--amber-line);
+      border-radius: var(--radius-sm); padding: 13px 17px;
+    }
+    .calc-noscript {
+      margin: 18px 0 0; font-size: 15px; color: var(--ink-2); line-height: 1.65;
+      background: var(--danger-soft); border: 1px solid var(--danger-line);
+      border-radius: var(--radius-sm); padding: 13px 17px;
+    }
+    @media (max-width: 640px) {
+      .calc { padding: 20px 18px; }
+      .calc-results { grid-template-columns: 1fr; }
+      .calc-watts { white-space: normal; }
+    }
+  </style>
+
+  <script is:inline>
+    (function () {
+      var STANDARD_SIZES = [2200, 3500, 5500, 7500, 9500, 12000, 15000, 20000, 24000];
+      var ESSENTIALS = ['fridge', 'freezer', 'furnace', 'led', 'chargers', 'wifi'];
+
+      var root = document.getElementById('calc');
+      if (!root) return;
+      var checks = Array.prototype.slice.call(root.querySelectorAll('.calc-check'));
+      var qtys = Array.prototype.slice.call(root.querySelectorAll('.calc-qty'));
+      var elRunning = document.getElementById('calc-running');
+      var elPeak = document.getElementById('calc-peak');
+      var elSurge = document.getElementById('calc-surge');
+      var elRec = document.getElementById('calc-rec');
+      var elVerdict = document.getElementById('calc-verdict');
+      var elFuel = document.getElementById('calc-fuel');
+
+      function fmt(n) {
+        return n.toLocaleString('en-US');
+      }
+
+      function qtyFor(id) {
+        for (var i = 0; i < qtys.length; i++) {
+          if (qtys[i].getAttribute('data-for') === id) {
+            var v = parseInt(qtys[i].value, 10);
+            if (isNaN(v) || v < 1) return 1;
+            return Math.min(v, 30);
+          }
+        }
+        return 1;
+      }
+
+      function syncQtyStates() {
+        checks.forEach(function (c) {
+          var id = c.getAttribute('data-id');
+          qtys.forEach(function (q) {
+            if (q.getAttribute('data-for') === id) q.disabled = !c.checked;
+          });
+        });
+      }
+
+      function verdictFor(rec, hasAC) {
+        if (rec === 0) {
+          return 'Check at least one appliance above and your recommended size will appear here. Start with what actually matters in an outage: fridge, heat, sump pump, lights, and communications.';
+        }
+        if (rec <= 2200) {
+          return 'A small inverter generator covers this list. It will sip fuel and run quietly — just know it is an essentials-only setup with no room for heating or cooling loads.';
+        }
+        if (rec <= 5500) {
+          return 'A mid-size portable or inverter generator covers the essentials — fridge, heat, lights, and communications — for most homes. This is the most common real-world setup.';
+        }
+        if (rec <= 9500) {
+          return 'A large portable is your sweet spot: essentials plus a sump pump, microwave, and window AC. Most suburban homes without central AC land here.';
+        }
+        if (rec <= 12000) {
+          return 'You are at the top of portable territory. A large portable or small standby both work — the standby wins if outages are long or frequent, because it starts itself and never needs refueling.';
+        }
+        var v = 'This is standby generator territory. No portable will reliably carry this list' + (hasAC ? ', especially the central AC compressor start' : '') + ' — plan on a permanently installed standby unit.';
+        if (hasAC) {
+          v += ' Before you commit, price a soft starter for the AC ($300–$400): cutting its surge by 60–70% can pull a large portable back into play.';
+        }
+        return v;
+      }
+
+      function fuelFor(rec, hasAC) {
+        if (rec === 0) {
+          return 'Fuel note: pick your appliances first — the right fuel depends on the size class you land in and how long your outages run.';
+        }
+        if (rec >= 15000) {
+          return 'Fuel note: at this size you are buying a standby generator, and natural gas is the default where a gas line exists — unlimited runtime, no refueling. Propane is the off-gas-grid alternative (plan on a 250-gallon tank for multi-day outages); diesel is rare in residential standby.';
+        }
+        if (rec >= 7500) {
+          return 'Fuel note: a dual-fuel portable earns its keep at this size — gasoline for cheap, easy runtime, propane for long storage without stale-fuel problems. Plan roughly 10–18 gallons of gasoline per 24 hours of runtime at half load.';
+        }
+        return 'Fuel note: at this size, a gasoline or dual-fuel inverter is the usual pick. Propane stores indefinitely and runs cleaner; gasoline is cheaper per hour and easier to refill mid-storm.';
+      }
+
+      function calculate() {
+        var running = 0;
+        var maxExtra = 0;
+        var maxName = '';
+        var any = false;
+        var hasAC = false;
+
+        checks.forEach(function (c) {
+          if (!c.checked) return;
+          any = true;
+          var id = c.getAttribute('data-id');
+          var run = parseInt(c.getAttribute('data-run'), 10);
+          var start = parseInt(c.getAttribute('data-start'), 10);
+          var q = qtyFor(id);
+          running += run * q;
+          var extra = start - run; // surge of a single unit — motors do not all start at once
+          if (extra > maxExtra) {
+            maxExtra = extra;
+            var label = c.closest('.calc-item').querySelector('.calc-name');
+            maxName = label ? label.textContent : id;
+          }
+          if (c.getAttribute('data-exclusive') === 'central-ac') hasAC = true;
+        });
+
+        var peak = any ? running + maxExtra : 0;
+        var target = peak * 1.2;
+        var rec = 0;
+        for (var i = 0; i < STANDARD_SIZES.length; i++) {
+          if (STANDARD_SIZES[i] >= target) { rec = STANDARD_SIZES[i]; break; }
+        }
+        var overMax = any && rec === 0;
+
+        elRunning.textContent = fmt(running) + ' W';
+        elPeak.textContent = fmt(peak) + ' W';
+        elSurge.textContent = any
+          ? (maxExtra > 0
+              ? 'Biggest surge: ' + maxName.toLowerCase() + ' (+' + fmt(maxExtra) + ' W)'
+              : 'No motor surge in your list — resistive loads only')
+          : 'Check an appliance to see your surge load';
+        elRec.textContent = overMax ? '24,000 W+' : (any ? fmt(rec) + ' W' : '—');
+        elVerdict.textContent = overMax
+          ? 'Your list exceeds a 24kW residential unit even with headroom — think 26kW+ standby, or split the load: drop the electric dryer and water heater to generator circuits only when needed, and let the calculator re-run.'
+          : verdictFor(rec, hasAC);
+        elFuel.textContent = fuelFor(overMax ? 24001 : rec, hasAC);
+        syncQtyStates();
+      }
+
+      checks.forEach(function (c) {
+        c.addEventListener('change', function () {
+          var ex = c.getAttribute('data-exclusive');
+          if (c.checked && ex) {
+            checks.forEach(function (o) {
+              if (o !== c && o.getAttribute('data-exclusive') === ex) o.checked = false;
+            });
+          }
+          calculate();
+        });
+      });
+      qtys.forEach(function (q) {
+        q.addEventListener('input', calculate);
+        q.addEventListener('change', calculate);
+      });
+
+      var btnEss = document.getElementById('calc-essentials');
+      var btnClear = document.getElementById('calc-clear');
+      if (btnEss) {
+        btnEss.addEventListener('click', function () {
+          checks.forEach(function (c) {
+            c.checked = ESSENTIALS.indexOf(c.getAttribute('data-id')) !== -1;
+          });
+          calculate();
+        });
+      }
+      if (btnClear) {
+        btnClear.addEventListener('click', function () {
+          checks.forEach(function (c) { c.checked = false; });
+          calculate();
+        });
+      }
+
+      calculate();
+    })();
+  </script>
+</Base>

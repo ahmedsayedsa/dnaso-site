@@ -16,6 +16,7 @@ const STATIC_PAGES = [
   '/es/contact',
   '/es/privacy',
   '/es/disclaimer',
+  '/tools/generator-size-calculator',
 ];
 
 function fmtDate(d: Date): string {

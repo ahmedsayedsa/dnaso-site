@@ -74,6 +74,8 @@ Here's the exact process:
 
 That final number is your target running-watt rating. Check that the generator's starting-watt rating covers your biggest single surge with room to spare.
 
+**Rather have the math done for you?** Our [generator size calculator](/tools/generator-size-calculator) runs this exact method interactively — check off your appliances and it totals the running watts, covers the biggest surge, and adds the 20% headroom automatically.
+
 ### Worked example 1: Essentials only (any size home)
 
 Fridge + freezer, some LED lights, Wi-Fi, phone/laptop chargers, and a gas furnace blower for winter heat.
