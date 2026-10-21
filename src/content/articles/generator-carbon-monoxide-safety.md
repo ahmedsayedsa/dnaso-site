@@ -126,7 +126,7 @@ None of that changes the physics. So decide **now**, in daylight, with the power
 
 Shorter answers, same physics:
 
-- **Apartments and condos:** A gasoline generator on a balcony is a garage scenario with neighbors. Balconies are enclosed on multiple sides, exhaust enters through the sliding door and into the units above and beside you, and most leases and fire codes prohibit it outright. There is no safe balcony placement. The realistic renter option is a battery power station indoors — no combustion, no CO — covered in our guide to [portable power stations for home backup](/articles/portable-power-stations-home-backup/).
+- **Apartments and condos:** A gasoline generator on a balcony is a garage scenario with neighbors. Balconies are enclosed on multiple sides, exhaust enters through the sliding door and into the units above and beside you, and most leases and fire codes prohibit it outright. There is no safe balcony placement. The realistic renter option is a battery power station indoors — no combustion, no CO — covered in our [guide to generators for an apartment](/articles/generator-for-an-apartment/) and our guide to [portable power stations for home backup](/articles/portable-power-stations-home-backup/).
 - **RVs and camping:** Never run a generator inside an RV, a tent, or a truck bed with a camper shell, and never sleep with one running next to an open RV window — exhaust drifts in at concentrations that don't care that you're "outdoors." A portable beside the rig needs the same distance-and-direction respect as at home, aimed away from the rig and the next campsite.
 
 ## The bottom line
