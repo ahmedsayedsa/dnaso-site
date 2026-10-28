@@ -2,9 +2,22 @@
 title: "Home Backup Power Guide 2026: Generators vs Batteries"
 description: "Complete 2026 guide to home backup power: generator types, sizing math, installed costs, batteries vs generators, and what actually matters when the grid goes down."
 heroImage: "/images/complete-home-backup-power-guide.webp"
+faq:
+  - question: "How do I size a generator for my house?"
+    answer: "Add up the running watts of everything you want to power, add the extra starting surge of the appliance with the biggest motor kick, then add 20% headroom. In the worked example in this guide — a fridge at 200 running and 1,200 starting watts, lights, Wi-Fi, an 800-watt furnace blower and a 900-watt sump pump — the running total is 2,010 watts, the biggest surge adds 1,500 watts, and the target lands near 4,200 watts, so a 5,500-watt portable covers it comfortably without running maxed out."
+  - question: "How much does home backup power cost in 2026?"
+    answer: "At the low end, a portable with extension cords totals about $500–$1,300, and adding a manual transfer switch brings it to $1,300–$2,500. A large inverter with a transfer switch runs $2,000–$3,500. Installed standby systems cost $8,000–$14,000 for 14–20 kW and $10,000–$17,000 for 22–26 kW, while a 13–14 kWh home battery totals $11,000–$18,000 installed. Regional labor, a propane tank at $1,000–$2,500, and ongoing fuel and annual maintenance all move the final number."
+  - question: "Is a home battery or a standby generator better for backup power?"
+    answer: "Choose by outage length and the loads you must keep. A battery such as a 13.5 kWh Powerwall is silent, switches over instantly and needs almost no maintenance, but it runs essentials for only about 12–18 hours and central air conditioning for just 2–3 hours. A standby generator costs $8,000–$15,000 installed, starts automatically in 10–30 seconds, powers the whole house including central AC, and can run for days on natural gas, at the price of noise, fuel use and annual service."
+  - question: "Do I need a transfer switch for a generator?"
+    answer: "Yes, the moment you want a generator feeding your breaker panel instead of extension cords. A manual transfer switch costs about $300–$600 installed plus roughly $200–$400 for the switch itself, while an automatic transfer switch runs $500–$1,500 as part of a standby installation. The switch disconnects your house from the grid before connecting the generator, preventing dangerous backfeed onto utility lines. Backfeeding through a dryer outlet is illegal in most jurisdictions and can kill a lineworker."
+  - question: "How much fuel does a generator use during a multi-day outage?"
+    answer: "Fuel use depends heavily on type and load. A 7,500-watt portable burns roughly 0.75–1 gallon of gasoline per hour at half load, so a 5-gallon tank lasts about 6–8 hours and a three-day outage can mean 20 or more gallons. A 22 kW standby at full load burns about 2.5–3.5 gallons of propane per hour, while natural gas removes refueling entirely. Propane also stores indefinitely, whereas gasoline goes stale in 3–6 months without stabilizer."
 pubDate: 2026-10-19
 keywords: ["home backup power", "whole house generator", "generator sizing", "home battery backup"]
 ---
+
+**Quick answer:** The right home backup system depends on the loads you cannot lose, not your square footage. A $500–$1,500 portable covers essentials through extension cords, a quiet $1,000–$2,500 inverter suits a fridge, lights and electronics, an $8,000–$15,000 installed standby runs the whole house automatically on natural gas or propane, and a $10,000–$18,000 battery such as a 13.5 kWh Powerwall gives silent backup for 12–18 hours of essentials. Size by running and starting watts and add 20% headroom — the worked example here lands near 4,200W, covered comfortably by a 5,500W portable.
 
 Power goes out. It's 9pm, the fridge is warming up, the kids are asking questions you don't want to answer, and your phone is at 12%. Every homeowner hits that moment and thinks: *I should have handled this already.*
 

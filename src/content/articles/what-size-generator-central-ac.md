@@ -2,9 +2,22 @@
 title: "What Size Generator Do I Need to Run Central AC?"
 description: "Sizing a generator for central air: wattage by tonnage (3, 4, 5-ton), why starting watts kill undersized generators, and how soft starters change the math."
 heroImage: "/images/what-size-generator-central-ac.webp"
+faq:
+  - question: "What size generator do I need to run a 3-ton central AC?"
+    answer: "Plan around starting watts, not running watts. A 3-ton unit typically runs at 3,000–3,500 watts but needs 9,000–12,000 watts to start, so look for a generator that can deliver at least 12,000 starting watts once your other household loads are counted. For most homes that means a 20–22 kW standby generator. The alternative is a soft starter: cutting the surge to roughly 3,500–4,500 watts makes a 9,000–10,000-watt portable workable, provided you shed other large loads whenever the compressor cycles on."
+  - question: "Why won't my 7,500-watt portable generator start my 3-ton AC?"
+    answer: "Because the rating that matters is starting watts, and the math is already short before real life gets a vote. A typical 7,500-watt portable delivers about 9,500 starting watts, while a 3-ton compressor wants roughly 10,500 watts to start — with the fridge, lights, and blower already drawing power. During the surge the generator's voltage also sags, so the compressor can stall, retry, and overheat its windings. Heat and altitude derate the generator further on exactly the hot days when you need the AC most."
+  - question: "Does a soft starter really let a smaller generator run central AC?"
+    answer: "Yes — it is the single change that moves the math the most. A soft starter such as the MicroAir EasyStart, at roughly $300–$400 plus about an hour of HVAC labor, ramps the compressor up gradually and cuts the starting surge by 60–70%: a 3-ton start falls from 9,000–12,000 watts to about 3,500–4,500 watts. It does not reduce running watts — the AC still draws its normal 3,000–3,500 watts while cooling — but it turns a load most portables cannot start into one a 9,000–10,000-watt portable can handle with load management."
+  - question: "What size generator do I need for a 5-ton central AC?"
+    answer: "A 5-ton unit typically runs at 5,000–5,500 watts and needs 13,000–16,000 watts to start, before any other household load is added. That combination pushes the honest answer to a 22–26 kW standby generator, even though a soft starter can cut the surge to roughly 5,500–7,000 watts. At this size the price gap between a mid-size and a large standby is small compared with the total project, so fighting the math with a portable and aggressive load management rarely pays. Size once, with the 20% headroom included, and be done."
+  - question: "How do I find my AC's exact starting watts from the nameplate?"
+    answer: "Read the data plate on the outdoor condenser unit. It lists the RLA (running-load amps) and the LRA (locked-rotor amps); multiply each by your voltage — usually 240V — to convert amps into running and starting watts for your specific unit rather than a typical one. Compare the result with the tonnage table in this guide: older or less efficient units often sit at the high end of their range. Then keep at least 20% headroom in the generator size, because hot weather derates the generator while the heat-soaked compressor draws more."
 pubDate: 2026-10-19
 keywords: ["what size generator for central ac", "generator for 3 ton ac", "soft starter generator"]
 ---
+
+**Quick answer:** To run central AC, size for starting watts, not running watts: a 3-ton unit runs at 3,000–3,500 watts but needs 9,000–12,000 watts to start, a 4-ton needs 11,000–14,000 starting watts, and a 5-ton needs 13,000–16,000. Without help, that points to a 20–22 kW standby for a 3-ton system and 22–26 kW for a 5-ton. A soft starter such as the MicroAir EasyStart (~$300–$400) cuts the surge by 60–70%, dropping a 3-ton start to 3,500–4,500 watts and making a 9,000–10,000-watt portable workable with careful load management.
 
 Here's a conversation I've seen play out hundreds of times: someone buys a 7,500-watt portable generator, wires it up during an outage, flips on the central AC, and the generator groans, sags, and trips. "But it's 7,500 watts and the AC only uses 3,500!" They aren't wrong about the numbers. They're wrong about which number matters.
 
@@ -97,9 +110,23 @@ Even with a soft starter, a 5-ton surges at ~6,000–7,000 W and runs at 5,500 W
 
 Two compressors rarely start at exactly the same moment — but "rarely" isn't "never," and thermostats do synchronize more than you'd think on a hot day. Size for **both running + the larger unit's surge**, then add headroom. Two 3-ton units: (3,500 × 2) + 10,500 surge = 17,500 W → ~21,000 with headroom → **24–26 kW standby**. With soft starters on both, the surge math drops dramatically and a 20kW standby works.
 
+### Scenario 5: 4-ton AC, with and without a soft starter
+
+The 4-ton case sits between the two worked paths above, so here it is in full. Without a soft starter, the unit runs at 4,000–4,500 W and starts at 11,000–14,000 W. Add the same 2,000 W of other household loads used in the earlier scenarios:
+
+- Running load: 4,000–4,500 (AC) + 2,000 = 6,000–6,500 W
+- Surge requirement: ~11,000–14,000 + 2,000 = ~13,000–16,000 W
+- With 20% headroom: a surge capacity beyond what large portables honestly deliver
+
+**Answer: 22 kW standby** — the same answer the quick decision guide gives, now with the arithmetic behind it. Fit a soft starter and the surge falls to 4,500–5,500 W: the surge requirement drops to roughly 6,500–7,500 W against the same 6,000–6,500 W running load, and a **10,000+ watt portable** becomes workable — with the same discipline as Scenario 2: no microwave, no dryer, no second big motor starting while the compressor cycles.
+
 ## The heat-wave trap
 
 The cruelest detail: you need AC most on the hottest days, and hot days are when generators produce the least power. Air-cooled standby generators derate roughly 1–2% per 10°F above 77°F, and the AC's own starting current is higher when the compressor is heat-soaked. Your 20% headroom isn't optional for AC sizing — it's the margin that keeps the system working on the 98°F day when you actually need it.
+
+## Reading your own nameplate before you buy
+
+Every figure in this guide is a typical range, and the table itself says where the exact numbers live: the data plate on your outdoor condenser. Before you order anything, find the RLA and LRA printed there and multiply each by your voltage — usually 240V — to get your unit's real running and starting watts. Older, less efficient units tend to land at the high end of their tonnage row, which is why two houses with "a 3-ton AC" can need different generators. Run your nameplate numbers through the scenario math above, keep the 20% headroom, and the size you land on is sized for your compressor — not for a typical one. That five-minute check costs nothing, and it prevents the most expensive sizing mistake in this guide: buying for a typical compressor that you do not actually own.
 
 ## Quick decision guide
 

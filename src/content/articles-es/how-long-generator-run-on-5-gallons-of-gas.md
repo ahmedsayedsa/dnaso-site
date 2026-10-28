@@ -11,10 +11,14 @@ faq:
     answer: "Porque el tiempo de funcionamiento grande de la caja casi siempre se mide al 25 % de carga: un refrigerador, unas luces y un cargador de teléfono. Trabaja el mismo generador al 50 % y espera más o menos dos tercios de las horas anunciadas; a plena carga, cerca de la mitad. No es publicidad falsa, exactamente, pero está medido con la carga más amable que el departamento de marketing pudo defender."
   - question: "¿Es seguro rellenar el tanque con el generador encendido?"
     answer: "No. Jamás. El vapor de gasolina más un mofle caliente — que puede pasar de 260 °C — es la receta de los incendios de garage. Apaga el generador, déjalo enfriar por lo menos de 5 a 10 minutos (más es mejor) y rellena afuera, lejos de la casa, con el motor apagado. Vi las consecuencias de rellenar en caliente exactamente una vez, y fue suficiente."
+  - question: "¿Cuántos galones al día debo presupuestar para un apagón de varios días?"
+    answer: "Para un portátil mediano de 3.500–5.500 W trabajando la mayor parte del día con cargas reales mezcladas, presupuesta unos 5 galones por día: más o menos $15–18 de combustible a $3,00–3,50 el galón. Dos días de apagón son dos bidones; tres días, tres bidones, comprados antes de la tormenta, porque cada dueño de generador del condado hace la misma cuenta el primer día. Una unidad de 7.500 W trabajando duro las 24 horas es otro presupuesto por completo: de 15 a 24 galones al día, o $45–80."
 pubDate: 2026-10-21
 keywords: ["cuánto tiempo funciona un generador con 5 galones de gasolina", "autonomía de generador con 5 galones", "consumo de gasolina de un generador por hora", "cuánto dura la gasolina de un generador", "tiempo de funcionamiento de generador según carga"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Cinco galones duran unas **40 horas al 25% de carga, 25 a media carga y 16 a plena carga** en un inverter de 2.000 W — pero solo unas **16, 11 y 7 horas** respectivamente en un portátil de 3.500–5.500 W, y unas **12, 8 y 5 horas** en una máquina de 7.500 W. La autonomía es una sola división — galones ÷ galones por hora a tu carga — y ciclar el refrigerador estira el bidón de un portátil mediano a día y medio de cobertura real.
 
 Alguien me pregunta esto en casi cada llamada de apagón: ¿cuánto tiempo funciona un generador con 5 galones de gasolina? Normalmente es el segundo día de limpieza tras una tormenta, están mirando el único bidón lleno que queda en el garage y quieren saber si les alcanza para esta noche. La respuesta honesta: depende casi por completo de dos números — qué tan grande es el generador y qué tan duro le estás pidiendo que trabaje. Cinco galones pueden ser una tarde. También pueden ser casi una semana de energía parcial y bien administrada. Aquí va cómo saber cuál de los dos tienes en la mano.
 

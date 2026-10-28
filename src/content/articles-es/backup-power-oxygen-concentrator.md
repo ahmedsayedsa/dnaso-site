@@ -18,6 +18,8 @@ keywords: ["respaldo eléctrico para concentrador de oxígeno", "batería para c
 lang: "es"
 ---
 
+**Respuesta rápida:** Un concentrador estacionario típico de 5 litros consume unos 350 vatios (300–600 según el modelo), así que las cuentas de batería no perdonan: una estación de 1 kWh lo alimenta solo unas 2.4 horas después de las pérdidas del inversor, y una noche de 8 horas necesita unos 3.3 kWh de batería. El sistema que de verdad funciona es por capas: una estación de 1–2 kWh junto a la cama como puente instantáneo silencioso, un generador inversor de 2,000 W afuera para varios días, y un cilindro de respaldo que no necesita electricidad: el tipo E guarda unos 680 litros, como 5.5 horas a 2 L/min.
+
 Para la mayoría de la gente, un apagón es una molestia. Si tú o alguien en tu casa usa un concentrador de oxígeno, es otra cosa por completo — porque un concentrador no guarda oxígeno. Lo produce del aire de la habitación, de forma continua, y en el momento en que se corta la energía, el oxígeno se detiene unos minutos después.
 
 La buena noticia es que un concentrador es una carga eléctrica modesta, y mantenerlo funcionando durante un apagón es un problema resuelto. Solo necesitas saber tres cosas: cuánta energía consume realmente tu equipo, cuánto dura de verdad cada opción de respaldo, y cómo combinarlas para que un apagón de tres días se sienta igual que uno de tres horas. Llevo años instalando sistemas de respaldo en casas con cargas médicas, y este es el mismo plan que les doy a esos clientes.

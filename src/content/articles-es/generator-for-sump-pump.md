@@ -18,6 +18,8 @@ keywords: ["qué generador necesito para una bomba de sumidero", "vatios de una 
 lang: "es"
 ---
 
+**Respuesta rápida:** Dimensiona para el arranque, no para el consumo. Una bomba de **1/3 HP** (~800 W, ~1.300 W de arranque) funciona con un inverter de 2.000 vatios; una de **1/2 HP** (~1.050 W, ~2.150 W) pide 3.500 vatios; una de **3/4 HP** (~1.500 W, ~3.000 W) empieza en 5.000 vatios, y una bomba de respaldo a batería cubre las primeras horas.
+
 Una bomba de sumidero es la única carga de tu casa que no puede esperar hasta mañana. Cuando se va la luz en medio de una tormenta — que es exactamente cuando ocurren los apagones — el agua subterránea no se detiene. El pozo se llena, el flotador sube, y si nada saca esa agua, la recibe tu sótano. He estado en suficientes sótanos inundados para saber que las cuentas son brutales: una bomba que mueve 40 galones por minuto es lo único entre un piso mojado y una limpieza de cinco cifras.
 
 Así que la pregunta del tamaño no es académica. Si te equivocas, el generador que tienes no podrá arrancar la bomba de la que dependes. Esta guía repasa las cifras reales — vatios de consumo, vatios de arranque y el generador que cada bomba común necesita de verdad — además de las alternativas a batería y a presión de agua que vale la pena considerar.

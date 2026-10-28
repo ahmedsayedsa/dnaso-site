@@ -11,10 +11,14 @@ faq:
     answer: "Usa la regla del 50%: si la reparación cuesta más de la mitad de una unidad nueva instalada, reemplázala. Inclínate también por el reemplazo si la unidad tiene 15+ años y necesita una reparación mayor (motor, controlador o interruptor de transferencia), o si las piezas están descontinuadas. La reparación tiene sentido en unidades más jóvenes con fallas a nivel de componentes como el cargador de batería, el arranque o un sensor."
   - question: "¿Los generadores se desgastan por estar parados sin usar?"
     answer: "Sí — estar parado es más duro para un generador que funcionar. El combustible se echa a perder, las baterías se descargan, los sellos se resecan y la humedad se acumula en el aceite. Por eso exactamente las unidades de reserva tienen un ciclo de ejercicio semanal: 10–15 minutos sin carga mantienen la batería cargada, circulan el aceite y queman la humedad. Un generador que nunca se ejercita es el que no arrancará cuando lo necesites."
+  - question: "¿Cuál es la causa más común de que un generador de reserva no arranque?"
+    answer: "Una batería muerta o débil: es la causa individual más común de no-arranque en las unidades de reserva. El calor, la edad y las fallas del cargador de mantenimiento suelen matar la batería en 2–4 años, y por eso el consejo estándar es reemplazarla de forma preventiva cada 2–3 años. Una batería nueva cuesta unos $80–$150, un seguro barato contra una unidad muerta en plena tormenta. El ciclo de ejercicio semanal ayuda manteniendo la batería cargada y mostrando las advertencias de batería baja en el controlador antes de que lo haga un apagón."
 pubDate: 2026-10-19
 keywords: ["cuánto dura un generador de reserva", "vida útil del generador en horas", "cuántos años dura un generador generac"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Un generador de reserva enfriado por aire y bien mantenido dura **2.000–3.000 horas — unos 20–30 años** de uso residencial típico, a unas 100 horas al año entre apagones y ejercicio semanal. Las unidades enfriadas por líquido superan las **10.000 horas**, mientras que los portátiles alcanzan **1.000–2.000 horas**. Casi nunca manda la cifra de horas: el aceite descuidado, las baterías muertas (cámbialas cada 2–3 años) y un ciclo de ejercicio desactivado matan generadores años antes de que el motor se desgaste. Cambia el aceite cada año y presupuesta $200–$400 anuales de servicio profesional.
 
 La respuesta honesta: la vida de un generador de reserva se mide en **horas, no en años** — y para un dueño típico, la clasificación en horas se traduce en décadas. Un reserva enfriado por aire clasificado para 2,500 horas normalmente sobrevive al techo que lo cubre. Las unidades que mueren jóvenes casi siempre mueren por descuido, no por acabarse las horas.
 
@@ -110,6 +114,12 @@ Repara cuando:
 - El motor está sano (buena compresión, historial de aceite limpio) y el problema es eléctrico
 
 Un matiz: un reserva enfriado por aire de 20 años bien mantenido con pocas horas todavía puede tener mucha vida por delante. La edad sola no es el disparador — es la edad **más** una falla mayor **más** la disponibilidad de piezas. Revisa el horómetro antes de decidir; una unidad de 20 años con 400 horas apenas está asentada.
+
+## Un ejemplo práctico: el mismo generador, dos vidas muy distintas
+
+Toma dos unidades idénticas enfriadas por aire de 14kW, cada una clasificada en torno a 2.500 horas, instaladas en la misma calle. La primera casa sigue el patrón típico de las cuentas de arriba — unas 100 horas al año entre apagones y ejercicio — y cumple la lista de mantenimiento: aceite anual, una batería nueva de $80–$150 cada 2–3 años y la visita de servicio anual de $200–$400. A 100 horas al año, ese motor apenas va a mitad de su clasificación en el año 12, y la expectativa realista es la completa de 20–30 años, con un controlador o un cargador de batería reemplazados en el camino.
+
+La segunda casa desactiva el ciclo de ejercicio, se salta los cambios de aceite porque «casi nunca funciona» e ignora una advertencia de batería baja. Esa unidad puede no arrancar en su primera tormenta seria — no porque se le acabaran las horas, sino porque el estar parada, el aceite viejo y una batería muerta hicieron lo que el funcionamiento nunca tuvo oportunidad de hacer. Mismo motor, misma clasificación, resultados opuestos: las horas ponen el techo, pero el mantenimiento decide el suelo.
 
 ## La conclusión
 

@@ -17,6 +17,8 @@ pubDate: 2026-10-20
 keywords: ["backup power for oxygen concentrator", "oxygen concentrator battery backup", "how many watts does an oxygen concentrator use", "power outage oxygen patient", "generator for oxygen concentrator"]
 ---
 
+**Quick answer:** A typical 5-liter stationary oxygen concentrator draws about 350 watts (300–600 watts across models), so the battery math is unforgiving: a 1 kWh power station runs one for only about 2.4 hours after inverter losses, and an 8-hour overnight run needs roughly 3.3 kWh of battery. The setup that actually works is layered — a 1–2 kWh power station by the bed as an instant, silent bridge, a 2,000 W inverter generator outdoors for multi-day coverage, and a backup oxygen cylinder that needs no electricity at all: a standard E cylinder holds about 680 liters, roughly 5.5 hours at 2 L/min.
+
 For most people, a power outage is an inconvenience. If you or someone in your house uses an oxygen concentrator, it's something else entirely — because a concentrator doesn't store oxygen. It makes oxygen from room air, continuously, and the moment the power stops, the oxygen stops a few minutes later.
 
 The good news is that a concentrator is a modest electrical load, and keeping one running through an outage is a solved problem. You just need to know three things: how much power your machine actually draws, how long each backup option really lasts, and how to layer them so a three-day outage looks the same as a three-hour one. I've wired backup systems in homes with medical loads for years, and this is the same plan I give those customers.

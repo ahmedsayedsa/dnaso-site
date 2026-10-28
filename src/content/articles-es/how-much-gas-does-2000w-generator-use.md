@@ -11,10 +11,14 @@ faq:
     answer: "Sí: en un generador inverter es la palanca de ahorro más grande que controlas. El modo eco permite que el motor baje de revoluciones cuando cae la carga, en vez de gritar a 3.600 RPM fijas como un generador convencional. Con una carga de 300 vatios, el modo eco puede cortar el consumo casi a la mitad frente a trabajar sin él. Apágalo solo para arranques de motores grandes que ahogan al motor."
   - question: "¿Cuánto cuesta tener encendido un generador de 2000 vatios toda la noche?"
     answer: "A $3,50 el galón, una noche de 8 horas en modo eco con un CPAP, cargadores de teléfono y un refrigerador chico ciclando quema típicamente 0,8–1,2 galones: unos $3–4. Las mismas cargas en un generador convencional grande de 5.500 vatios pueden quemar 3–4 galones en la misma noche, $10–14, porque el motor grande consume mucho solo para mantenerse girando."
+  - question: "¿Cuánto duran 5 galones de gasolina en un generador de 2000 vatios?"
+    answer: "Mucho más que en cualquier clase más grande. Con cargas ligeras en modo eco de 0,08–0,12 galones por hora, 5 galones son 40 horas o más de funcionamiento; con el promedio nocturno de un apagón en casa, de 400–700 vatios (unos 1,2–1,6 galones por noche de 8 horas), un bidón de 5 galones cubre aproximadamente dos noches, y una carga de campamento disciplinada de 300–500 vatios estira un bidón a lo largo de un fin de semana de tres días y sobra. El bidón dura más que el tanque: rellenarás el tanque chico de a bordo, no la reserva."
 pubDate: 2026-10-21
 keywords: ["cuánta gasolina consume un generador de 2000 vatios", "consumo de gasolina generador inverter", "consumo de combustible Honda EU2200i", "autonomía de generador por galón", "generador de 2000 vatios consumo por hora"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Un generador inverter de 2.000 vatios quema unos **0,08–0,12 galones por hora** en modo eco con carga ligera de 200–500 vatios, **0,25–0,3 gal/h a media carga** (~1.000 vatios) y **0,45–0,55 gal/h a plena carga**. Por eso un tanque de ~1 galón dura 7–9 horas de noche en eco y apenas unas 3 a fondo: una noche de 8 horas en eco cuesta unos $3–4 a $3,50 el galón.
 
 Cuando me preguntan cuánta gasolina consume un generador de 2000 vatios, mi primera respuesta es siempre la misma: ¿cuáles 2.000 vatios, haciendo qué? Me dedico a instalar y dar servicio a energía de respaldo, y la variación en esta clase de máquinas es más amplia que en cualquier otro tamaño con el que trabajo, porque casi todo generador de 2000 vatios que se vende hoy es inverter, y el apetito de un inverter cambia muchísimo con la carga. Con una carga mínima puede pasar la noche entera con menos gasolina de la que usa tu podadora en una tarde. Cargado hasta el tope, bebe como una máquina del doble de tamaño.
 

@@ -18,9 +18,9 @@ keywords: ["cómo hacer que un generador sea más silencioso", "caja insonorizad
 lang: "es"
 ---
 
-«¿Cómo hacer que un generador sea más silencioso?» es la pregunta que me hacen dos tipos de propietarios: los cuyo portátil nuevo de bastidor abierto hace temblar las ventanas a 74 dB, y los cuyos vecinos han abierto un chat grupal sobre ellos. Ambos quieren un número, así que aquí va el honesto por adelantado: apilar todos los métodos legítimos de este artículo le compra a un portátil típico de bastidor abierto unos **10–15 dB** — de ruido de aspiradora a algo más cercano a una conversación alta en el límite de la propiedad. No compra el silencio de un Honda EU2200i. Debajo va cada método con su recorte realista de decibeles, lo que cuesta, y las líneas de seguridad que están por encima de todo.
-
 **Respuesta rápida:** Primero la distancia — el sonido baja **~6 dB cada vez que la doblas**, y es gratis. Después una **caja insonorizada ventilada (5–10 dB)**, un **silenciador de posventa (2–5 dB)**, **montaje antivibración y una superficie blanda** para matar el retumbo, y un **deflector de escape** para apuntar lo que queda lejos de los oídos. Apilado honestamente, son 10–15 dB menos en un portátil convencional. Nada aquí hace segura una caja hermética, una manta o un garaje — las reglas del monóxido de carbono van antes que las reglas del ruido, siempre.
+
+«¿Cómo hacer que un generador sea más silencioso?» es la pregunta que me hacen dos tipos de propietarios: los cuyo portátil nuevo de bastidor abierto hace temblar las ventanas a 74 dB, y los cuyos vecinos han abierto un chat grupal sobre ellos. Ambos quieren un número, así que aquí va el honesto por adelantado: apilar todos los métodos legítimos de este artículo le compra a un portátil típico de bastidor abierto unos **10–15 dB** — de ruido de aspiradora a algo más cercano a una conversación alta en el límite de la propiedad. No compra el silencio de un Honda EU2200i. Debajo va cada método con su recorte realista de decibeles, lo que cuesta, y las líneas de seguridad que están por encima de todo.
 
 ## ¿Cuánto silencio da cada método, en serio?
 

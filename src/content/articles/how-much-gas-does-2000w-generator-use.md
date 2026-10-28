@@ -11,9 +11,13 @@ faq:
     answer: "Yes — on an inverter generator it's the single biggest fuel lever you control. Eco mode lets the engine slow down when the load drops, instead of screaming at a fixed 3,600 RPM like a conventional generator. At a 300 watt load, eco mode can cut fuel use nearly in half compared to running with eco off. Turn it off only for big motor-starting loads that bog the engine down."
   - question: "How much does it cost to run a 2000 watt generator overnight?"
     answer: "At $3.50 a gallon, an 8-hour night on eco mode with a CPAP, phone chargers, and a small fridge cycling typically burns 0.8–1.2 gallons — roughly $3–4. Running the same loads on a big 5,500 watt conventional generator can burn 3–4 gallons in the same night, $10–14, because the big engine guzzles fuel just idling itself."
+  - question: "How long will 5 gallons of gas last in a 2000 watt generator?"
+    answer: "Far longer than in any bigger class. At eco-mode light loads of 0.08–0.12 gallons per hour, 5 gallons is 40 or more hours of run time; at the 400–700-watt average of a home outage night (about 1.2–1.6 gallons per 8-hour night), one 5-gallon can covers roughly two nights, and a disciplined camping load of 300–500 watts stretches a can across a three-day weekend with gas to spare. The can outlasts the tank — you will be refilling the small onboard tank, not replacing the supply."
 pubDate: 2026-10-21
 keywords: ["how much gas does a 2000 watt generator use", "2000 watt generator fuel consumption", "inverter generator gas usage", "Honda EU2200i fuel consumption", "generator runtime per gallon"]
 ---
+
+**Quick answer:** A 2,000-watt inverter generator burns about **0.08–0.12 gallons per hour** on eco mode at a light 200–500-watt load, **0.25–0.3 gph at half load** (~1,000 watts), and **0.45–0.55 gph at full load**. That spread is why one roughly 1-gallon tank lasts 7–9 hours overnight on eco but barely 3 hours flat-out. At $3.50 a gallon, an 8-hour eco-mode night costs roughly $3–4 — a fraction of what a 5,500-watt conventional burns doing the same job.
 
 Ask me how much gas does a 2000 watt generator use, and my first answer is always the same: which 2000 watts, doing what? I install and service backup power for a living, and the spread on this class of machine is wider than on any other size I work on — because nearly every 2000 watt generator sold today is an inverter, and an inverter's fuel appetite changes dramatically with load. At a whisper of a load it can run all night on less gas than your lawn mower uses in an afternoon. Loaded to the rails, it drinks like a machine twice its size.
 

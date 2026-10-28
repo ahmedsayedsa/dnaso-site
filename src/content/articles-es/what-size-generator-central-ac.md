@@ -2,10 +2,23 @@
 title: "Generador para aire acondicionado central: qué tamaño"
 description: "Dimensiona un generador para el aire central de casa: vatios por tonelaje (3, 4 y 5), por qué el arranque hunde generadores pequeños y el arrancador suave."
 heroImage: "/images/what-size-generator-central-ac.webp"
+faq:
+  - question: "¿Qué tamaño de generador necesito para un aire acondicionado central de 3 toneladas?"
+    answer: "Planifica según los vatios de arranque, no los de uso. Una unidad de 3 toneladas trabaja normalmente a 3,000–3,500 vatios pero necesita 9,000–12,000 vatios para arrancar, así que busca un generador capaz de entregar por lo menos 12,000 vatios de arranque una vez contadas las demás cargas de la casa. Para la mayoría de los hogares eso significa un generador de reserva de 20–22 kW. La alternativa es un arrancador suave: al bajar el pico a unos 3,500–4,500 vatios, un portátil de 9,000–10,000 vatios se vuelve viable, siempre que desconectes otras cargas grandes cuando el compresor entre en ciclo."
+  - question: "¿Por qué mi generador portátil de 7,500 vatios no arranca mi aire de 3 toneladas?"
+    answer: "Porque la cifra que importa es la de vatios de arranque, y el cálculo ya queda corto antes de que la vida real opine. Un portátil típico de 7,500 vatios entrega unos 9,500 vatios de arranque, mientras un compresor de 3 toneladas quiere unos 10,500 vatios para arrancar — con la nevera, las luces y el ventilador ya consumiendo energía. Durante el pico el voltaje del generador también cae, así que el compresor puede atascarse, reintentar y sobrecalentar sus devanados. El calor y la altitud reducen aún más la potencia justo en los días calurosos en que más necesitas el aire."
+  - question: "¿Un arrancador suave de verdad permite que un generador más pequeño alimente el aire central?"
+    answer: "Sí — es el cambio individual que más mueve el cálculo. Un arrancador suave como el MicroAir EasyStart, de unos $300–$400 más una hora aproximada de mano de obra de HVAC, sube el compresor gradualmente y recorta el pico de arranque un 60–70%: el arranque de 3 toneladas cae de 9,000–12,000 vatios a unos 3,500–4,500 vatios. No reduce los vatios de uso — el aire sigue consumiendo sus 3,000–3,500 vatios normales mientras enfría — pero convierte una carga que la mayoría de los portátiles no puede arrancar en una que un portátil de 9,000–10,000 vatios maneja con administración de cargas."
+  - question: "¿Qué tamaño de generador necesito para un aire acondicionado central de 5 toneladas?"
+    answer: "Una unidad de 5 toneladas trabaja normalmente a 5,000–5,500 vatios y necesita 13,000–16,000 vatios para arrancar, antes de sumar cualquier otra carga de la casa. Esa combinación lleva la respuesta honesta a un generador de reserva de 22–26 kW, aunque un arrancador suave puede bajar el pico a unos 5,500–7,000 vatios. En este tamaño la diferencia de precio entre un reserva mediano y uno grande es pequeña comparada con el proyecto total, así que pelear el cálculo con un portátil y una administración agresiva de cargas rara vez compensa. Dimensiona una vez, con el margen del 20% incluido, y listo."
+  - question: "¿Cómo encuentro los vatios de arranque exactos de mi aire en la placa de datos?"
+    answer: "Lee la placa de datos de la unidad condensadora exterior. Ahí aparecen el RLA (amperaje de carga de uso) y el LRA (amperaje de rotor bloqueado); multiplica cada uno por tu voltaje — normalmente 240 V — para convertir los amperios en vatios de uso y de arranque de tu unidad específica en vez de una típica. Compara el resultado con la tabla por tonelaje de esta guía: las unidades viejas o menos eficientes suelen quedar en el extremo alto de su rango. Y conserva por lo menos un 20% de margen en el tamaño del generador, porque el calor reduce la potencia del generador mientras el compresor recalentado consume más."
 pubDate: 2026-10-19
 lang: "es"
 keywords: ["qué tamaño de generador para aire acondicionado", "generador para AC de 3 toneladas", "arrancador suave generador"]
 ---
+
+**Respuesta rápida:** Para alimentar un aire acondicionado central, dimensiona por los vatios de arranque, no por los de uso: una unidad de 3 toneladas trabaja a 3,000–3,500 vatios pero necesita 9,000–12,000 vatios para arrancar, una de 4 toneladas necesita 11,000–14,000 de arranque y una de 5 toneladas, 13,000–16,000. Sin ayuda, eso apunta a un generador de reserva de 20–22 kW para 3 toneladas y de 22–26 kW para 5 toneladas. Un arrancador suave como el MicroAir EasyStart (~$300–$400) reduce el pico un 60–70%, baja el arranque de 3 toneladas a 3,500–4,500 vatios y hace viable un portátil de 9,000–10,000 vatios con una administración cuidadosa de cargas.
 
 Esta conversación la he visto suceder cientos de veces: alguien compra un generador portátil de 7,500 vatios, lo conecta durante un apagón, enciende el aire acondicionado central, y el generador gime, se hunde y se dispara. "¡Pero son 7,500 vatios y el aire solo usa 3,500!" No están equivocados en los números. Están equivocados en qué número importa.
 
@@ -98,9 +111,22 @@ Aun con arrancador suave, un aire de 5 toneladas tiene un pico de ~6,000–7,000
 
 Dos compresores rara vez arrancan exactamente al mismo momento — pero "rara vez" no es "nunca", y los termostatos sí se sincronizan más de lo que crees en un día caluroso. Dimensiona para **ambos en uso + el pico de la unidad más grande**, luego agrega margen. Dos unidades de 3 toneladas: (3,500 × 2) + 10,500 de pico = 17,500 W → ~21,000 con margen → **generador de reserva de 24–26 kW**. Con arrancadores suaves en ambos, el cálculo del pico cae dramáticamente y un reserva de 20 kW funciona.
 
+### Escenario 5: AC de 4 toneladas, con y sin arrancador suave
+
+Aquí va completo el caso de 4 toneladas. Sin arrancador suave, la unidad trabaja a 4,000–4,500 W y arranca a 11,000–14,000 W. Suma los mismos 2,000 W de otras cargas de la casa usados en los escenarios anteriores:
+
+- Carga de uso: 4,000–4,500 (aire) + 2,000 = 6,000–6,500 W
+- Requisito de pico: ~11,000–14,000 + 2,000 = ~13,000–16,000 W
+
+**Respuesta: generador de reserva de 22 kW** — la misma respuesta de la guía rápida de decisión, ahora con el cálculo detrás. Instala un arrancador suave y el pico cae a 4,500–5,500 W: el requisito de pico baja a unos 6,500–7,500 W, y un **portátil de más de 10,000 vatios** se vuelve viable — con la misma disciplina del Escenario 2: sin microondas, sin secadora y sin otro motor grande arrancando mientras el compresor entra en ciclo.
+
 ## La trampa de la ola de calor
 
 El detalle más cruel: necesitas el aire más en los días más calurosos, y los días calurosos es cuando los generadores producen menos energía. Los generadores de reserva enfriados por aire pierden más o menos 1–2% por cada 10°F por encima de 77°F, y la corriente de arranque del propio aire es mayor cuando el compresor está recalentado. Tu margen del 20% no es opcional para dimensionar el aire — es el colchón que mantiene el sistema funcionando el día de 98°F cuando de verdad lo necesitas.
+
+## Lee tu propia placa de datos antes de comprar
+
+Cada cifra de esta guía es un rango típico, y la propia tabla dice dónde viven los números exactos: la placa de datos de tu condensador exterior. Antes de pedir nada, busca el RLA y el LRA impresos ahí y multiplica cada uno por tu voltaje — normalmente 240 V — para obtener los vatios reales de uso y de arranque de tu unidad. Las unidades viejas suelen quedar en el extremo alto de su renglón. Pasa los números de tu placa por el cálculo de los escenarios de arriba, conserva el margen del 20%, y el tamaño al que llegues estará dimensionado para tu compresor — no para uno típico.
 
 ## Guía rápida de decisión
 

@@ -17,6 +17,8 @@ pubDate: 2026-10-20
 keywords: ["cpap battery backup", "cpap power outage", "how many watts does a cpap use", "cpap portable power station", "cpap camping battery"]
 ---
 
+**Quick answer:** A CPAP draws far less than its power brick suggests — about 50 watts in a standard setup with the heated humidifier on, and around 30 watts with the humidifier off. At 50 watts, an 8-hour night needs roughly 500 usable watt-hours, so a 500 Wh station barely covers one night and a 1,000 Wh station covers about two. Two changes stretch any battery much further: run the machine through a machine-specific DC converter instead of the AC inverter (worth roughly 15–25% more runtime), and turn the heated humidifier and heated tube off, using the water chamber in passover mode instead.
+
 A CPAP is one of the easiest medical devices to keep running in a blackout — and one of the easiest to get wrong. The machine itself sips power, less than a bright light bulb. But every year I talk to people whose brand-new battery died at 3 a.m. on the first night of an outage, and in almost every case the same two culprits did it: the heated humidifier and the inverter.
 
 This guide walks through the real numbers: what a CPAP actually draws, how long common battery sizes honestly last, and the two changes — a DC converter and humidifier discipline — that can double your runtime without buying a bigger battery.
@@ -109,6 +111,10 @@ Do the same tape trick I recommend for generators: label the station with its te
 ## What If You Already Have Whole-House Backup?
 
 Then your CPAP is already covered, and your job is simpler: confirm it, don't assume it. A whole-home battery like a Powerwall holds 13.5 kWh — a CPAP at 50 W is a rounding error in that budget, roughly 200+ hours of runtime. A standby generator covers it trivially too. Our [home battery vs generator comparison](/articles/home-battery-vs-generator) walks through both. The one check worth doing: make sure the bedroom outlet your CPAP uses is actually on the backed-up circuits panel. In split-panel installs, I've seen the master bedroom left on the grid side more than once — discovered, of course, during the first real outage.
+
+## Worked Example: Two CPAPs in One House
+
+Everything above assumes one machine; plenty of bedrooms run two. The math scales cleanly, because the draws simply add. Two standard setups at roughly 50 W each pull about 100 W together: at the roughly 80% AC delivery efficiency this guide uses, a 1,000 Wh station delivers about 800 usable watt-hours, which is roughly 8 hours at 100 W — exactly one night for the pair, with nothing left over for a phone charge or a slow start. Turn both humidifiers off and the combined draw falls to around 60 W, stretching the same station to roughly 13 hours — a full night plus a real safety margin. Run both machines through DC converters and the 15–25% efficiency gain from skipping the double conversion stacks on top of the humidifier saving, which is how a single 1,000 Wh station can honestly cover two sleepers for a night and part of a second one. The lesson generalises beyond couples: in a two-CPAP house, accessories and settings discipline buy more runtime than the next battery size up. Price the two converters first, then size the station to whatever load is left.
 
 ## The Bottom Line
 

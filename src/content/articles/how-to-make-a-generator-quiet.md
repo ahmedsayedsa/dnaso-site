@@ -17,9 +17,9 @@ pubDate: 2026-10-21
 keywords: ["how to make a generator quiet", "generator quiet box", "how to make a generator quieter", "generator muffler silencer", "generator noise reduction"]
 ---
 
-"How to make a generator quiet" is the question I get from two kinds of owners: the ones whose new open-frame portable is shaking the windows at 74 dB, and the ones whose neighbors have started a group chat about them. Both want a number, so here's the honest one up front: stacking every legitimate method in this article buys a typical open-frame portable roughly **10–15 dB** — from vacuum-cleaner loud to something closer to a loud conversation at the property line. It does not buy Honda EU2200i silence. Below is each method with its realistic decibel cut, what it costs, and the safety lines that outrank all of it.
-
 **Quick answer:** Distance first — sound drops **~6 dB every time you double it**, and it's free. Then a **ventilated quiet box (5–10 dB)**, an **aftermarket muffler (2–5 dB)**, **anti-vibration mounting and a soft ground surface** to kill rumble, and an **exhaust deflector** to aim what's left away from ears. Stacked honestly, that's 10–15 dB off a conventional portable. Nothing here makes an airtight box, a blanket, or a garage safe — carbon monoxide rules come before noise rules, always.
+
+"How to make a generator quiet" is the question I get from two kinds of owners: the ones whose new open-frame portable is shaking the windows at 74 dB, and the ones whose neighbors have started a group chat about them. Both want a number, so here's the honest one up front: stacking every legitimate method in this article buys a typical open-frame portable roughly **10–15 dB** — from vacuum-cleaner loud to something closer to a loud conversation at the property line. It does not buy Honda EU2200i silence. Below is each method with its realistic decibel cut, what it costs, and the safety lines that outrank all of it.
 
 ## How much quieter is each method, really?
 
@@ -78,6 +78,12 @@ More than their price suggests — for the noise you *feel* as much as hear. A g
 ## What does an exhaust deflector do?
 
 A deflector is a simple angled fitting on the tailpipe that redirects the exhaust stream — usually upward. It doesn't absorb sound, so there's no honest dB rating to quote; what it does is aim the loudest, most directional component of the noise away from ground-level ears and toward the sky, where it disperses. Combined with pointing the exhaust away from houses in the first place (already mandatory for CO), a deflector is a cheap directional improvement — the last few percent of politeness, not a foundation. Some owners pair it with the muffler upgrade above, since both live on the same exhaust path.
+
+## A worked example: quieting a 74 dB portable, step by step
+
+Start with the open-frame portable from the table, rated **74 dB at 23 feet**. Move it from the patio to the far corner of the lot at 92 feet and distance alone does the first job: two doublings, roughly **−12 dB**, for a reading near **62 dB** before you spend a cent. Add the ventilated quiet box for another **5–10 dB** of radiated-noise cut, then an aftermarket muffler for **2–5 dB** off the exhaust bark. Put anti-vibration pads under the frame and set the unit on grass instead of the concrete slab, and the rumble your walls were amplifying fades even where the meter barely moves.
+
+Notice what that stack does *not* do: the reductions overlap, because each method attacks a different noise source, so you cannot simply add the headline numbers and promise 50 dB. The honest landed result for this machine is the **60–64 dB at 23 feet** range given below — conversation-level at the property line, and as far as accessories take an open-frame portable. Everything past that point is a different generator, which is exactly the decision the next section walks through.
 
 ## When should you stop quieting and just buy quiet?
 

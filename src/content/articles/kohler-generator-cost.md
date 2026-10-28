@@ -81,6 +81,17 @@ Run the sanity check we use on every standby quote in our [standby generator cos
 
 Two uses for this math. First, it exposes padded quotes: a standard 20kW Kohler install quoted at $900+/kW needs a site condition to justify it (panel upgrade, propane tank, a long trench) — if the dealer can't name one, the number is margin. Second, it explains why stepping up a size is usually smart money: moving from 14kW to 20kW adds roughly $1,500 to the project but cuts the per-kW cost by about a quarter, and the extra capacity is headroom you'll want the first time the AC starts while the well pump is running. Per-kW is a quote-checking tool, never a sizing tool — the load calculation still picks the size.
 
+
+## Worked examples: what three buyers actually pay
+
+**The 14kW on an easy site.** A small home with gas heat, a short gas run, and a modern panel buys the 14RCA at its $5,098 MSRP starting point. Add the low ends of the installation table above — electrical work near $1,800, gas work near $700, a $300 pad, $250 in permits, and $150 of battery and miscellaneous materials — and the project lands around $9,000–$9,500, the low end of the $9,000–$12,500 installed range for this size. Nothing about the quote is discounted; the site is simply cheap to work on.
+
+**The typical 20kW.** This is the table above, lived: a 20RCAL package at $6,300–$7,000, electrical at $1,800–$3,000, gas at $700–$1,800, pad, permits, and materials on top — $10,500–$14,500 all-in, inside the $10,500–$15,500 installed range. Most Kohler quotes in America look like this one, and the generator itself is only about half the check you write.
+
+**The 26kW with one complication.** Start from street pricing — the 26RCA around $7,699 at Norwall or $7,949 at Home Depot, with the switch-bundled 26RCAL listing at $8,515 MSRP — then give the house a long gas run and a panel that needs work. The installation block climbs past its usual $3,000–$6,000, a needed panel upgrade alone adds $2,000–$4,000, and the project walks to the top of its $12,000–$16,500 installed range or just beyond it. The lesson repeats the one from the line-item table: the complication costs more than the flagship generator's premium over the 20kW ever did.
+
+**The same 20kW, ten years on.** Ownership decides whether the install price was the real price. Add the decade math from the running-cost section — professional maintenance at $200–$450 a year, a battery at $120–$300 every 3–5 years, and fuel at roughly $2–$3.50 an hour on natural gas — and the guide's $4,000–$6,500 ten-year ownership figure takes the all-in decade cost of that typical 20kW to roughly $14,500–$21,000. That total, not the install quote, is the honest number to compare against a Generac quote built the same way — and built the same way, the two brands land within the same few-hundred-to-$1,500 gap the equipment prices predict. Three different houses, three different totals — and in each one, the generator itself was the predictable half of the bill; the site wrote the rest.
+
 ## Kohler or Generac: which should you buy?
 
 **Buy the Kohler if** you're in a coastal or corrosive environment (that aluminum enclosure is a real 10-year advantage), your loads are motor-heavy and you want the PowerBoost starting capacity, a strong Kohler dealer serves your area, or the quieter exercise cycle matters because the unit sits near a bedroom or a neighbor's fence line.

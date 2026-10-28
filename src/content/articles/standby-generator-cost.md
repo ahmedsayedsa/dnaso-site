@@ -106,6 +106,11 @@ The price follows the coverage, not the word. An essential-circuits standby — 
 
 Our [whole house generator cost breakdown](/articles/whole-house-generator-cost) goes deeper on reading quotes line by line and spotting padding; this guide is the map, that one is the magnifying glass.
 
+
+## Worked example: why two quotes for the same 22kW differ by $4,000
+
+Take two itemized quotes for the same 22kW-class generator on natural gas. The first house has a modern 200-amp panel and a meter with spare capacity a short run from the pad: the gas work prices as a few hundred dollars of pipe inside the standard $3,000–$6,000 installation block, and the project lands near the low end of the $9,500–$15,000 installed range. The second house needs a 60-foot trenched gas run with a meter upgrade — $2,500–$3,500 on its own — plus a $2,000–$4,000 panel upgrade before the generator work starts. Same generator, same switch, roughly $4,000–$5,000 more, and every extra dollar is in the site work, itemized where you can see it. That is the comparison to demand from any dealer: not a lower total, but the line items that explain the total.
+
 ## The bottom line
 
 Budget **$9,500–$15,000 installed** for a mainstream standby generator in the 14–22kW class, from any of the major brands. One timing note: quotes and wait times both climb in the weeks after a major storm, when every dealer in the region is booked out — the same system bought in a calm season is often scheduled faster, and occasionally priced keener, than one bought in a panic. Pick the brand on dealer quality, warranty structure, and noise — the installed prices overlap too much for brand to be a money decision. Pick the size from a written load calculation, not a guess. And judge every quote by its line items: the generator is the commodity, the installation is the purchase, and the gap between a $10,000 quote and a $15,000 quote for the same box is almost always sitting in the gas run, the panel, and the permits.

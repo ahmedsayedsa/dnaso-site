@@ -18,9 +18,9 @@ keywords: ["qué puede alimentar un generador de 2000 vatios", "generador de 200
 lang: "es"
 ---
 
-«¿Qué puede alimentar un generador de 2000 vatios?» es la pregunta que me hacen inquilinos, campistas y propietarios que quieren que el refrigerador sobreviva un apagón sin una máquina de 45 kilos en el garaje. La respuesta honesta sorprende en los dos sentidos: un inverter de 2.000 vatios mueve en silencio más de tu vida diaria de lo que esperas — y se niega en redondo a algunas cargas que en el papel parecen pequeñas. La diferencia, como siempre, es si alguien hizo las cuentas de carga antes de la tormenta. Así que hagámoslas.
-
 **Respuesta rápida:** Un generador de 2.000 vatios alimenta un refrigerador (150–250 W), luces LED, wifi, cargadores de teléfono y laptop, un televisor, ventiladores y una máquina CPAP — unos **450 vatios de esenciales** — todo a la vez y toda la noche. Puede con un microondas o una cafetera de uno en uno. No puede arrancar un aire acondicionado de ventana, una bomba de pozo ni una bomba de sumidero, y un calefactor de 1.500 vatios se come casi todo su presupuesto él solo.
+
+«¿Qué puede alimentar un generador de 2000 vatios?» es la pregunta que me hacen inquilinos, campistas y propietarios que quieren que el refrigerador sobreviva un apagón sin una máquina de 45 kilos en el garaje. La respuesta honesta sorprende en los dos sentidos: un inverter de 2.000 vatios mueve en silencio más de tu vida diaria de lo que esperas — y se niega en redondo a algunas cargas que en el papel parecen pequeñas. La diferencia, como siempre, es si alguien hizo las cuentas de carga antes de la tormenta. Así que hagámoslas.
 
 ## ¿Esos 2.000 vatios son continuos o de arranque?
 

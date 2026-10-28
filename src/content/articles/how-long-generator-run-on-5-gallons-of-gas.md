@@ -11,9 +11,13 @@ faq:
     answer: "Because the headline runtime on the box is almost always measured at 25% load — a fridge, a few lights, and a phone charger. Run the same generator at 50% load and expect roughly two-thirds of the advertised hours; at full load, about half. It's not false advertising, exactly, but it's measured on the gentlest workload the marketing department could defend."
   - question: "Is it safe to refuel a generator while it's running?"
     answer: "No. Never. Gasoline vapor plus a hot muffler — which can run 500°F or more — is how garage fires start. Shut the generator down, let it cool for at least 5 to 10 minutes (longer is better), then refuel outdoors, away from the house, with the engine off. I have seen the aftermath of a hot refuel exactly once, and that was enough."
+  - question: "How many gallons a day should I budget for a multi-day outage?"
+    answer: "For a mid-size 3,500–5,500-watt portable run most of the day at mixed real-world loads, budget about 5 gallons per day — roughly $15–18 in fuel at $3.00–3.50 a gallon. Two days of outage means two cans; three days, three cans, bought before the storm, because every other generator owner in the county does the same math on day one. A 7,500-watt unit run hard around the clock is a different budget entirely: 15–24 gallons a day, or $45–80."
 pubDate: 2026-10-21
 keywords: ["how long will a generator run on 5 gallons of gas", "generator runtime 5 gallons", "generator fuel consumption per hour", "how long does generator gas last", "generator run time by load"]
 ---
+
+**Quick answer:** Five gallons lasts about **40 hours at 25% load, 25 hours at half load, and 16 hours at full load** in a 2,000-watt inverter — but only about **16, 11, and 7 hours** respectively in a 3,500–5,500-watt portable, and roughly **12, 8, and 5 hours** in a 7,500-watt machine. Runtime is one division — gallons ÷ gallons-per-hour at your load — and duty-cycling the fridge stretches a mid-size portable's can to about a day and a half of real coverage.
 
 Somebody asks me this on almost every outage call: how long will a generator run on 5 gallons of gas? It's usually day two of a storm cleanup, they're looking at one full gas can in the garage, and they want to know if it gets them through tonight. The honest answer is: it depends almost entirely on two numbers — how big the generator is, and how hard you're asking it to work. Five gallons can be an evening. It can also be most of a week of careful, part-time power. Here's how to tell which one you're holding.
 

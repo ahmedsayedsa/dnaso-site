@@ -18,6 +18,8 @@ keywords: ["batería de respaldo para CPAP", "CPAP en un apagón", "cuántos vat
 lang: "es"
 ---
 
+**Respuesta rápida:** Un CPAP consume mucho menos de lo que sugiere su bloque de alimentación: unos 50 vatios en una configuración estándar con el humidificador con calor encendido, y alrededor de 30 vatios con el humidificador apagado. A 50 vatios, una noche de 8 horas necesita unos 500 vatios-hora útiles, así que una estación de 500 Wh apenas cubre una noche y una de 1,000 Wh cubre unas dos. Dos cambios estiran cualquier batería: usa un convertidor DC específico para tu modelo en vez del inversor AC (vale como 15–25% más de autonomía), y apaga el humidificador con calor y el tubo calefactado, con el depósito en modo pasivo.
+
 Un CPAP es uno de los dispositivos médicos más fáciles de mantener funcionando en un apagón — y uno de los más fáciles de calcular mal. El equipo en sí consume poco, menos que un foco brillante. Pero cada año hablo con gente cuya batería nueva murió a las 3 a.m. en la primera noche del apagón, y en casi todos los casos los culpables fueron los mismos dos: el humidificador con calor y el inversor.
 
 Esta guía repasa las cifras reales: cuánto consume un CPAP de verdad, cuánto duran honestamente los tamaños comunes de batería, y los dos cambios — un convertidor DC y disciplina con el humidificador — que pueden duplicar tu autonomía sin comprar una batería más grande.

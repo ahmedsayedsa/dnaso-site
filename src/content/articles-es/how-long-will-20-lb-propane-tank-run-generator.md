@@ -18,6 +18,8 @@ keywords: ["cuánto dura un tanque de propano de 20 lb en un generador", "autono
 lang: "es"
 ---
 
+**Respuesta rápida:** Un tanque de propano de 20 lb lleno guarda **4,6 galones (unos 430.000 BTU)** y alimenta un generador bicombustible típico de 5.000 vatios durante unas **9 horas al 25% de carga, 5,5–6 horas al 50% y 3,5–4 horas a plena carga**. Las máquinas más chicas lo estiran mucho más — un inverter de 2.000 vatios a media carga dura unas 15–18 horas por tanque —, mientras que los portátiles de 7.500–9.000 vatios lo agotan en unas 3–3,5 horas. Recarga tus propios tanques en vez de intercambiarlos: los de intercambio suelen traer solo unas 15 lb.
+
 El tanque de propano de 20 libras es el depósito de combustible más común del país: es el tanque de la parrilla, el que está en cada garaje y bajo cada patio. Así que cuando el dueño de un generador bicombustible pregunta por la autonomía en un apagón, este es el tanque que imagina. Pregunta justa, respuesta concreta: depende casi por completo de la carga, y el rango honesto para un generador bicombustible típico de 5.000 vatios es **unas 9 horas tranquilo al cuarto de carga, hasta menos de 4 horas trabajando a toda máquina**.
 
 Esta guía muestra las cuentas, la tabla completa y los dos detalles que cambian las cifras en la vida real: los tanques de intercambio que en realidad no vienen llenos, y la disciplina de carga que estira cualquier tanque.

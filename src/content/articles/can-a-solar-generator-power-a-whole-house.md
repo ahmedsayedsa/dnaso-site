@@ -11,9 +11,13 @@ faq:
     answer: "For a critical-loads budget of 5–8 kWh a day, figure 1,600–2,400 watts of panels. In average US sun (about 4–5 peak sun hours) that harvests 6–10 kWh on a clear day. Double the array if your winters are gray, and expect a heavily overcast day to produce a quarter of the rated output or less — which is why battery capacity still matters."
   - question: "Is a solar generator cheaper than a standby generator for whole-house backup?"
     answer: "At small scale, yes — a single station is $2,000–3,500 with no install. At true whole-house scale, the gap closes: $5,000–12,000 in stations, expansion batteries, and panels versus $10,000–15,000 for an installed standby generator. The standby wins on raw capacity and runtime on fuel. The solar setup wins on silence, zero fuel, no maintenance, and the fact that you can take it with you when you move."
+  - question: "How do you connect a solar generator to your house safely?"
+    answer: "You have three options. Extension cords cost nothing and work for a short outage, but they cannot reach hardwired loads such as a furnace or well pump. A manual transfer switch or inlet box, at $500–1,200 installed, lets the station feed 6–10 chosen circuits through your own wiring and is the setup installed most often. A branded smart home panel costs $1,500–2,500 installed and automates the switchover. Never backfeed through a dryer outlet with a male-to-male cord, and have any panel work done by a licensed electrician."
 pubDate: 2026-10-21
 keywords: ["can a solar generator power a whole house", "solar generator for whole house", "whole house solar generator", "power station whole house backup", "solar generator vs standby generator"]
 ---
+
+**Quick answer:** Yes for the loads that matter, no for everything at once. A disciplined critical-loads budget — fridge, lights, furnace blower, Wi-Fi and a CPAP — totals roughly 5–8 kWh per day, which a 3.6 kWh station covers for most of a day and an expanded 10 kWh setup for about a day and a half, stretched indefinitely by 1,600–2,400 watts of panels. Everything at once fails on two walls: a single station tops out near 3,600 watts of output, and an average all-electric home burns 30–50 kWh per day, far beyond any practical battery bank.
 
 Can a solar generator power a whole house? I get this question on almost every backup-power consult now, usually while the homeowner points at a glossy ad showing a power station next to a smiling family with every light in the house blazing. The honest answer is: it depends entirely on which "whole house" you mean. There are two, and they lead to opposite answers.
 

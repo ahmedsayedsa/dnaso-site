@@ -17,6 +17,8 @@ pubDate: 2026-10-21
 keywords: ["what size generator for sump pump", "sump pump watts", "sump pump generator sizing", "battery backup sump pump", "generator for basement flooding"]
 ---
 
+**Quick answer:** Size for the surge, not the running watts. A **1/3 HP** sump pump (~800W running, ~1,300W surge) runs on a 2,000-watt inverter; a **1/2 HP** pump (~1,050W running, ~2,150W surge) needs a 3,500-watt generator in the real world; a **3/4 HP** pump (~1,500W running, ~3,000W surge) starts at 5,000 watts. Because the pump cycles — often averaging under 200 watts across an hour — fuel burn stays modest, and a battery backup pump covers the first hours automatically.
+
 A sump pump is the one load in your house that cannot wait until morning. When the power dies in the middle of a storm — which is exactly when outages happen — groundwater doesn't pause. The pit fills, the float rises, and if nothing lifts that water out, your basement takes it instead. I've stood in enough flooded basements to know the math is brutal: a pump moving 40 gallons a minute is the only thing between a wet floor and a five-figure cleanup.
 
 So the sizing question isn't academic. Get it wrong and the generator you own can't start the pump you depend on. This guide works through the real numbers — running watts, starting watts, and the generator size each common pump actually needs — plus the battery and water-powered alternatives worth considering.

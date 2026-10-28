@@ -81,6 +81,21 @@ Lógica de decisión, en orden:
 
 Una nota más de almacenamiento: el aceite no caduca en tu estante como la gasolina, pero una garrafa abierta en un garaje húmedo durante tres años no es lo que yo vertería en un motor de reserva. Fecha la garrafa al abrirla, e integra el aceite al ritmo de mantenimiento anual de nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist).
 
+
+## Ejemplos resueltos: elegir el aceite en tres situaciones reales
+
+La especificación cabe en una línea, pero los dueños aun así dudan frente al estante porque su situación parece una excepción. Normalmente no lo es. Tres casos comunes, resueltos con las cifras de las tablas anteriores:
+
+**Un Guardian de 22 kW nuevo en Minnesota, instalado en octubre.** La unidad aún está dentro de sus primeras 25 horas, así que el 5W-30 convencional de fábrica se queda — aun con enero en camino, cuando un sintético fluiría mejor en el frío. La regla del rodaje va primero. En el cambio de las 25 horas, ese llenado sale y entra el 5W-20 GEO — unos 1.9 cuartos con cambio de filtro en este tamaño — y el mismo aceite sigue siendo correcto en cada invierno y verano posterior, porque Generac lo clasifica para todo el rango de temperaturas. Nunca más se programa un cambio por temporada.
+
+**Una unidad enfriada por aire de cinco años en Texas, mantenida por su dueño.** El aceite GEO no se vende localmente, así que el dueño compra un 5W-30 totalmente sintético de marca reconocida que cumple API SJ, SL o superior — el sustituto aceptado por Generac — en una garrafa de 5 cuartos. Entran unos 1.7–2.2 cuartos con el filtro, y el resto se queda fechado en el estante del garaje para rellenos durante un corte largo de verano. Lo que el dueño no compra es el SAE 30 de la tabla heredada: es un recurso de emergencia sobre 32°F, y un sintético que cubre cada temperatura está en el mismo estante por unos dólares más.
+
+**Una unidad antigua enfriada por líquido cuyo manual dice 15W-40.** Esta es la única excepción genuina de esta guía. La página de soporte actual y el manual que vino con el motor discrepan, así que nada cambia solo por la fuerza de la página más nueva. El dueño sigue ese manual y plantea la pregunta del cambio con un distribuidor en el próximo servicio, manual en mano.
+
+Ninguno de estos casos necesitó una tabla de temperaturas pegada dentro del gabinete ni un aceite distinto para verano e invierno. Escribe el aceite elegido — 5W-20 GEO o 5W-30 sintético — en el interior de la puerta del gabinete, anótalo en el registro de mantenimiento, y cada cambio futuro se vuelve una copia del anterior.
+
+También hay un ángulo de costo escondido en estos ejemplos. Un cambio lleva unos dos cuartos, así que incluso el aceite GEO en empaque de distribuidor es una partida pequeña junto a la visita de servicio anual profesional de $200–$450 de nuestra [guía de costos de generadores de reserva](/es/articles/standby-generator-cost) — dominan la mano de obra y la inspección, no el aceite. Los dueños que cambian de aceite persiguiendo unos dólares de ahorro por cambio están optimizando el número más pequeño del presupuesto de mantenimiento y renunciando a lo que la especificación realmente compra: el mismo aceite conocido en el cárter en cada arranque sin supervisión.
+
 ## Conclusión
 
 La historia del aceite de Generac es más simple de lo que los foros la pintan: el 5W-30 convencional sale a las 25 horas, y entra el sintético total — el 5W-20 GEO de Generac según el libro, o el 5W-30 sintético por la alternativa ampliamente aceptada — y sigue siendo la respuesta en cada temperatura que tu casa verá jamás. Las tablas heredadas de temperatura no están mal, solo retiradas. Elige un sintético, escríbelo con marcador en el interior de la tapa del gabinete, y la única pregunta de aceite que queda es el intervalo — exactamente lo que responde la guía complementaria: [cada cuánto cambiar el aceite de un generador Generac](/es/articles/how-often-change-generac-generator-oil).

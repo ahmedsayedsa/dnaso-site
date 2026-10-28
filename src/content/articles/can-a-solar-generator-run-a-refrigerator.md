@@ -11,9 +11,13 @@ faq:
     answer: "Plan on 8–14 hours. A fridge doesn't run constantly — the compressor cycles on 30–50% of the time, so a typical modern fridge averages 40–80 watts across the day. After the inverter's 10–15% efficiency loss, a 1,000Wh station delivers roughly 850–900 usable watt-hours — about half a day of fridge duty. Hot garages and frequent door openings push it toward the low end."
   - question: "Can a 200-watt solar panel keep a refrigerator running?"
     answer: "Not by itself in most cases. A 200W panel in real sun produces roughly 600–800Wh on a good day, while a fridge needs 1,000–2,000Wh per day. The panel slows the drain and adds hours, but running a fridge indefinitely generally takes 400W or more of panel in a sunny climate, an efficient fridge, and a battery big enough to bridge the night."
+  - question: "What size solar generator should I buy to run a refrigerator during an outage?"
+    answer: "For short outages of a few hours to overnight, buy a 1 kWh station with a surge rating of 1,500 watts or more — it runs a typical fridge with room left for lights and phones. A 500Wh station you already own can bridge one night if the door stays shut. For one-to-three-day outages, step up to 2 kWh minimum or 3.6 kWh for comfort, ideally with 400 watts of panels, and for frequent multi-day outages pair the station with a fuel generator in a hybrid setup."
 pubDate: 2026-10-21
 keywords: ["can a solar generator run a refrigerator", "solar generator for refrigerator", "how long will a power station run a fridge", "refrigerator startup surge watts", "best battery backup for refrigerator"]
 ---
+
+**Quick answer:** Yes — a solar generator can run a refrigerator if its inverter surge rating clears the compressor spike and its battery is sized for the day, not the hour. A modern fridge runs at 100–200 watts but surges to 600–1,200 watts at startup and uses 1–2 kWh per day. After the inverter's 10–15% efficiency loss, a 1 kWh station runs it about 8–14 hours, a 2 kWh station roughly a full day, and a 3.6 kWh station 1.5–2.5 days. Keeping it running indefinitely generally takes 400W or more of solar panels.
 
 Every time a storm knocks out a neighborhood, I get the same two calls. The first is about the generator that won't start. The second, usually a day later, is from someone staring at a warming refrigerator full of groceries asking: can a solar generator run a refrigerator, or did I waste my money on this battery box? Eighteen years of installing backup power and I can tell you the honest answer is yes — but the fridge is the one appliance that exposes sloppy math faster than any other in the house.
 

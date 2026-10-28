@@ -2,10 +2,23 @@
 title: "Guía de energía de respaldo para el hogar 2026"
 description: "Guía 2026 de energía de respaldo eléctrica para el hogar: tipos de generador, cálculo de tamaño, costos reales y baterías vs generadores cuando se va la luz."
 heroImage: "/images/complete-home-backup-power-guide.webp"
+faq:
+  - question: "¿Cómo calculo el tamaño del generador para mi casa?"
+    answer: "Suma los vatios de uso de todo lo que quieres alimentar, agrega el pico de arranque extra del aparato con el golpe de motor más grande y después añade un 20% de margen. En el ejemplo resuelto de esta guía — nevera de 200 vatios de uso y 1,200 de arranque, luces, Wi-Fi, un ventilador de calefacción de 800 vatios y una bomba de achique de 900 vatios — el total de uso es 2,010 vatios, el pico mayor agrega 1,500 vatios y el objetivo llega a unos 4,200 vatios, así que un portátil de 5,500 vatios lo cubre con comodidad."
+  - question: "¿Cuánto cuesta la energía de respaldo para el hogar en 2026?"
+    answer: "En el extremo bajo, un portátil con cables de extensión suma unos $500–$1,300, y agregar un interruptor de transferencia manual lo lleva a $1,300–$2,500. Un inversor grande con interruptor de transferencia cuesta $2,000–$3,500. Los sistemas de reserva instalados cuestan $8,000–$14,000 en 14–20 kW y $10,000–$17,000 en 22–26 kW, mientras una batería doméstica de 13–14 kWh suma $11,000–$18,000 instalada. La mano de obra regional, un tanque de propano de $1,000–$2,500 y el combustible y mantenimiento anual mueven la cifra final."
+  - question: "¿Es mejor una batería doméstica o un generador de reserva?"
+    answer: "Elige según la duración del apagón y las cargas que debes mantener. Una batería como un Powerwall de 13.5 kWh es silenciosa, cambia al instante y casi no necesita mantenimiento, pero alimenta lo esencial solo unas 12–18 horas y el aire acondicionado central apenas 2–3 horas. Un generador de reserva cuesta $8,000–$15,000 instalado, arranca automáticamente en 10–30 segundos, alimenta toda la casa incluido el aire central y puede trabajar por días con gas natural, a cambio de ruido, consumo de combustible y servicio anual."
+  - question: "¿Necesito un interruptor de transferencia para un generador?"
+    answer: "Sí, en el momento en que quieres que un generador alimente tu tablero eléctrico en lugar de usar cables de extensión. Un interruptor de transferencia manual cuesta unos $300–$600 instalado, más unos $200–$400 del propio interruptor, mientras uno automático cuesta $500–$1,500 como parte de una instalación de reserva. El interruptor desconecta tu casa de la red antes de conectar el generador y evita la peligrosa retroalimentación hacia las líneas de la compañía. Retroalimentar por un enchufe de secadora es ilegal en la mayoría de las jurisdicciones y puede matar a un técnico."
+  - question: "¿Cuánto combustible consume un generador en un apagón de varios días?"
+    answer: "El consumo depende mucho del tipo y de la carga. Un portátil de 7,500 vatios quema aproximadamente 0.75–1 galón de gasolina por hora a media carga, así que un tanque de 5 galones dura unas 6–8 horas y un apagón de tres días puede significar más de 20 galones. Un generador de reserva de 22 kW a plena carga quema unos 2.5–3.5 galones de propano por hora, mientras el gas natural elimina por completo las recargas. El propano además se almacena indefinidamente, mientras la gasolina se echa a perder en 3–6 meses sin estabilizador."
 pubDate: 2026-10-19
 lang: "es"
 keywords: ["energía de respaldo hogar", "generador para casa", "calcular tamaño de generador", "batería de respaldo"]
 ---
+
+**Respuesta rápida:** El sistema de respaldo adecuado depende de las cargas que no puedes perder, no de los pies cuadrados. Un portátil de $500–$1,500 cubre lo esencial con cables de extensión, un inversor de $1,000–$2,500 sirve para la nevera, las luces y los electrónicos, un generador de reserva instalado de $8,000–$15,000 alimenta toda la casa con gas natural o propano, y una batería de $10,000–$18,000 como un Powerwall de 13.5 kWh da respaldo silencioso para 12–18 horas de lo esencial. Dimensiona por vatios de uso y de arranque y agrega 20% de margen: el ejemplo aquí llega a unos 4,200 W, cubiertos por un portátil de 5,500 vatios.
 
 Se fue la luz. Son las 9 de la noche, la nevera se está calentando, los niños hacen preguntas que no quieres contestar y tu teléfono está en 12%. Todo dueño de casa ha vivido ese momento y ha pensado: *debí haber resuelto esto antes.*
 

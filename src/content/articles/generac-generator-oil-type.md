@@ -84,6 +84,21 @@ Decision logic, in order:
 
 One more storage note: oil doesn't expire on your shelf the way gasoline does, but an opened jug in a damp garage for three years isn't what I'd pour into a standby engine. Date the jug when you open it, and fold oil into the annual maintenance rhythm in our [generator maintenance checklist](/articles/generator-maintenance-checklist).
 
+
+## Worked examples: choosing the oil for three real situations
+
+The spec fits in one line, but owners still hesitate at the shelf because their situation feels like an exception. It usually is not. Three common cases, worked through with the figures from the tables above:
+
+**A new 22kW Guardian in Minnesota, installed in October.** The unit is still inside its first 25 hours, so the factory conventional 5W-30 stays in — even with January coming, when a synthetic would flow better in the cold. The break-in rule comes first. At the 25-hour change, that fill comes out and 5W-20 GEO goes in — roughly 1.9 quarts with a filter change at this size — and the same oil stays correct through every winter and summer that follows, because Generac rates it for the full temperature range. No seasonal swap is ever scheduled again.
+
+**A five-year-old air-cooled unit in Texas, maintained by its owner.** The GEO oil is not stocked locally, so the owner buys a name-brand full synthetic 5W-30 meeting API SJ, SL, or better — Generac's accepted stand-in — in a 5-quart jug. Roughly 1.7–2.2 quarts go in with the filter, and the rest stays dated on the garage shelf for top-ups during a long summer outage. What the owner does not buy is the SAE 30 from the legacy chart: it is an emergency fallback above 32°F, and a synthetic covering every temperature sits on the same shelf for a few dollars more.
+
+**An older liquid-cooled unit whose manual says 15W-40.** This is the one genuine exception in this guide. The current support page and the manual that shipped with the engine disagree, so nothing changes on the strength of the newer page alone. The owner keeps following that manual and raises the switch question with a dealer at the next service, manual in hand.
+
+None of these cases needed a temperature chart taped inside the enclosure or a different oil for summer and winter. Write the chosen oil — 5W-20 GEO or 5W-30 synthetic — inside the enclosure door, note it in the maintenance log, and every future change becomes a copy of the last one.
+
+There is also a cost angle hiding in these examples. A change takes roughly two quarts, so even the dealer-packaged GEO oil is a small line item next to the $200–$450 professional annual service visit in our [standby generator cost guide](/articles/standby-generator-cost) — the labor and inspection dominate, not the oil. Owners who switch oils chasing a few dollars of savings per change are optimizing the smallest number in the maintenance budget while giving up the one thing the spec actually buys: the same, known oil in the sump at every unattended start.
+
 ## The bottom line
 
 Generac's oil story is simpler than the forums make it: conventional 5W-30 comes out at 25 hours, and full synthetic goes in — Generac's 5W-20 GEO by the book, or 5W-30 synthetic by the widely accepted alternative — and stays the answer in every temperature your house will ever see. The legacy temperature charts aren't wrong, just retired. Pick one synthetic, write it on the inside of the enclosure door with a paint pen, and the only oil question left is the interval — which is exactly what the companion guide answers: [how often to change Generac generator oil](/articles/how-often-change-generac-generator-oil).

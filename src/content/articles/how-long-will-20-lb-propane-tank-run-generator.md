@@ -17,6 +17,8 @@ pubDate: 2026-10-21
 keywords: ["how long will a 20 lb propane tank run a generator", "propane tank generator runtime", "20 lb propane tank gallons", "dual fuel generator propane runtime", "propane vs gasoline generator"]
 ---
 
+**Quick answer:** One full 20-lb propane tank holds **4.6 gallons (about 430,000 BTU)** and runs a typical 5,000-watt dual-fuel generator for roughly **9 hours at 25% load, 5.5–6 hours at 50% load, and 3.5–4 hours at full load**. Smaller machines stretch it much further — a 2,000-watt inverter at half load runs about 15–18 hours per tank — while 7,500–9,000-watt portables drain it in about 3–3.5 hours. Refill your own tanks instead of swapping: exchange tanks often hold only about 15 lb, cutting runtime by roughly a quarter.
+
 The 20-pound propane tank is the most common fuel canister in America — it's the grill tank, the one in every garage and under every patio. So when a dual-fuel generator owner asks about outage runtime, this is the tank they're picturing. Fair question, concrete answer: it depends almost entirely on load, and the honest range for a typical 5,000-watt dual-fuel generator is **about 9 hours loafing along at quarter load, down to under 4 hours working at full tilt.**
 
 This guide shows the math, the full table, and the two gotchas that change the numbers in real life — exchange tanks that aren't actually full, and the load discipline that stretches any tank further.
@@ -112,6 +114,12 @@ One hard rule when switching: let the engine stop and cool a moment between fuel
 - **Give the fridge hours off.** A closed fridge holds safe temperatures for about 4 hours, a full freezer for 24–48. Cycling the generator — two hours on, two off — can nearly double your tank's calendar life during a long outage.
 - **Keep the tank honest.** Weigh it before storm season; top it up at a refill station, not a swap cage; store it upright, outdoors, never in a basement or garage (a leaking tank indoors pools an invisible, explosive gas at floor level).
 - **Mind the placement rules** while you're at it: generator at least [20 feet from the house](/articles/how-far-should-generator-be-from-house), tank connected where it sits — never bring the generator closer to shorten the hose.
+
+## A worked example: stretching two tanks across a weekend outage
+
+Say a storm drops power Friday evening and the forecast says restoration Sunday. Your load is the realistic cruising mix from the table — fridge, lights, TV, chargers, the [sump pump](/articles/generator-for-sump-pump) cycling — averaging close to 50% load on a 5,000-watt dual-fuel machine. Two full 20-lb tanks give you about 11–12 hours of generator run time in total. Run continuously, that is gone by Saturday morning.
+
+Run in blocks, the same two tanks cover the weekend: two hours on to pull the fridge down and charge everything, two hours off while the closed fridge coasts, and propane saved for the overnight stretch when you want quiet, steady power. Cycling roughly doubles the calendar coverage of the same gallons, which is why the load discipline in this guide matters as much as the tank count. Weigh both tanks before the season starts, so the plan rests on gallons you actually have, not gallons the label promises. If outages like this are your normal, that math is the argument for the 100-lb tank's roughly 29 hours at half load.
 
 ## The bottom line
 

@@ -11,10 +11,14 @@ faq:
     answer: "Para un presupuesto de cargas críticas de 5–8 kWh al día, calcula 1.600–2.400 vatios de paneles. Con un sol promedio de EE. UU. (unas 4–5 horas pico) eso cosecha 6–10 kWh en un día despejado. Duplica el arreglo si tus inviernos son grises, y espera que un día muy nublado produzca la cuarta parte de la potencia nominal o menos — por eso la capacidad de batería sigue importando."
   - question: "¿Un generador solar sale más barato que uno de reserva para toda la casa?"
     answer: "A escala chica, sí: una sola estación cuesta $2.000–3.500 sin instalación. A escala de casa completa la diferencia se cierra: $5.000–12.000 en estaciones, baterías de expansión y paneles contra $10.000–15.000 de un generador de reserva instalado. El de reserva gana en capacidad bruta y autonomía con combustible. El solar gana en silencio, cero combustible, cero mantenimiento y en que te lo llevas cuando te mudas."
+  - question: "¿Cómo se conecta un generador solar a tu casa de forma segura?"
+    answer: "Tienes tres opciones. Los cables de extensión no cuestan nada y sirven para un apagón corto, pero no llegan a cargas cableadas fijas como una calefacción o una bomba de pozo. Un transfer switch manual o caja de entrada, de $500–1.200 instalado, permite que la estación alimente de 6 a 10 circuitos elegidos a través del propio cableado de tu casa y es la instalación más frecuente. Un panel inteligente de marca cuesta $1.500–2.500 instalado y automatiza el cambio. Nunca retroalimentes por el contacto de la secadora con un cable macho-macho, y deja todo trabajo en el panel a un electricista licenciado."
 pubDate: 2026-10-21
 keywords: ["puede un generador solar alimentar toda una casa", "generador solar para toda la casa", "generador solar casa completa", "estación de energía respaldo casa", "generador solar vs generador de reserva"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Sí para las cargas que importan, no para todo a la vez. Un presupuesto disciplinado de cargas críticas — refrigerador, luces, soplador de la calefacción, Wi-Fi y un CPAP — suma unos 5–8 kWh al día, que una estación de 3,6 kWh cubre durante parte de un día y un sistema de 10 kWh durante día y medio, estirado sin límite con 1.600–2.400 vatios de paneles. Todo a la vez choca con dos muros: una sola estación llega hasta unos 3.600 vatios de salida, y una casa promedio totalmente eléctrica quema 30–50 kWh al día, muy por encima de cualquier banco de baterías práctico.
 
 ¿Puede un generador solar alimentar toda una casa? Esa pregunta me llega en casi cada consulta de energía de respaldo últimamente, normalmente mientras el dueño señala un anuncio brillante con una estación de energía junto a una familia sonriente y todas las luces de la casa encendidas. La respuesta honesta: depende por completo de cuál "toda la casa" quieres decir. Hay dos, y llevan a respuestas opuestas.
 

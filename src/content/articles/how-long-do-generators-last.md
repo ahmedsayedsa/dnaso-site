@@ -11,9 +11,13 @@ faq:
     answer: "Use the 50% rule: if the repair costs more than half of a new installed unit, replace it. Also lean toward replacement if the unit is 15+ years old and needs a major repair (engine, controller, or transfer switch), or if parts are discontinued. Repair makes sense for younger units with component-level failures like a battery charger, starter, or sensor."
   - question: "Do generators wear out from sitting unused?"
     answer: "Yes — sitting is harder on a generator than running. Fuel goes stale, batteries discharge, seals dry out, and moisture accumulates in the oil. That's exactly why standby units have a weekly exercise cycle: a 10–15 minute no-load run keeps the battery charged, circulates oil, and burns off moisture. A generator that never exercises is the one that won't start when you need it."
+  - question: "What is the most common reason a standby generator fails to start?"
+    answer: "A dead or weak battery — it is the single most common no-start cause on standby units. Heat, age, and trickle-charger failures typically kill the battery in 2–4 years, which is why proactive replacement every 2–3 years is the standard advice. A replacement costs roughly $80–$150, cheap insurance against a dead unit in a storm. The weekly exercise cycle helps by keeping the battery charged and surfacing low-battery warnings on the controller before an outage does."
 pubDate: 2026-10-19
 keywords: ["how long do standby generators last", "generator lifespan hours", "generac generator life expectancy"]
 ---
+
+**Quick answer:** A well-maintained air-cooled standby generator lasts **2,000–3,000 hours — about 20–30 years** of typical residential use at roughly 100 hours a year of outages plus weekly exercise. Liquid-cooled standby units run **10,000+ hours**, while portables manage **1,000–2,000 hours**. The hour rating rarely decides the outcome: neglected oil, dead batteries (replace every 2–3 years), and a disabled exercise cycle kill generators years before the engine wears out. Change the oil yearly, keep the exercise cycle on, and budget $200–$400 a year for professional service.
 
 The honest answer: a standby generator's life is measured in **hours, not years** — and for a typical homeowner, the hour rating translates to decades. An air-cooled standby rated for 2,500 hours will usually outlast the roof over it. The units that die young almost always die from neglect, not from running out of hours.
 
@@ -109,6 +113,14 @@ Repair when:
 - The engine is healthy (good compression, clean oil history) and the problem is electrical
 
 One nuance: a well-maintained 20-year-old air-cooled unit with low hours can still have plenty of life left. Age alone isn't the trigger — it's age **plus** a major failure **plus** parts availability. Check the hour meter before you decide; a 20-year-old unit with 400 hours on it is barely broken in.
+
+## A worked example: the same generator, two very different lives
+
+Take two identical 14kW air-cooled units, each rated around 2,500 hours, installed on the same street. The first household averages the typical pattern from the math above — about 100 hours a year between outages and exercise — and follows the maintenance list: yearly oil, a fresh $80–$150 battery every 2–3 years, and the $200–$400 annual service visit. At 100 hours a year, that engine is barely halfway through its rating at year 12, and the realistic expectation is the full 20–30 years, with a controller or battery charger replaced along the way.
+
+The second household disables the exercise cycle, skips oil changes because 'it hardly ever runs,' and ignores a low-battery warning. That unit can fail to start in its first serious storm — not because it ran out of hours, but because sitting, stale oil, and a dead battery did what running never got the chance to. Same engine, same rating, opposite outcomes.
+
+The contrast is sharper at the extremes of the table. A liquid-cooled standby at 10,000+ hours would need a century of typical residential use to wear out its engine, which is why those units almost always retire on electronics, corrosion, or parts support instead. A gasoline portable at the other end — 1,000–2,000 hours, with fuel going stale in 3–6 months — lives or dies on storage habits between storms. Across every type, the pattern holds: hours set the ceiling, maintenance decides the floor, and the habits in the [generator maintenance checklist](/articles/generator-maintenance-checklist) are what move a given unit from one end of its range to the other. Before you buy or judge any used unit, read its hour meter the way you would read a car's odometer, and ask for the service records to go with it. A low-hour unit with documented yearly oil changes is a safer bet than a younger unit with no history at all.
 
 ## Bottom line
 
