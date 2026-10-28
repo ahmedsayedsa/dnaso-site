@@ -11,9 +11,13 @@ faq:
     answer: "Because the tank vent in the cap is blocked. As fuel drains, a vacuum builds in the sealed tank until fuel stops flowing and the engine dies. Loosening the cap breaks the vacuum. Clean the vent or replace the cap (usually $10–20)."
   - question: "How much does it cost to fix a generator that starts then dies?"
     answer: "Most causes are cheap: oil top-off about $5, fuel filter $5–12, gas cap $10–20, spark plug $3–8, aftermarket carburetor $15–35. At a shop, expect $100–175 for diagnosis and $150–350 total for common repairs."
+  - question: "How can I keep my generator from starting and then dying again after I fix it?"
+    answer: "Store it the way the article recommends testing it: after the repair, run the generator under load for 20 minutes to prove the fix, then store it with fresh, stabilized fuel instead of untreated gasoline. Gasoline can degrade in as little as 30 days, and ethanol blends leave gum in the carburetor bowl, which is how the main jet clogs again. Keep the oil at the correct level, checked on level ground, and keep a spare spark plug in the toolkit, because those simple checks prevent the most common repeat shutdowns."
 pubDate: 2026-10-21
 keywords: ["generator starts then dies", "generator starts and dies", "generator dies after starting", "generator runs then stalls", "generator low oil sensor"]
 ---
+
+**Quick answer:** Time how long it runs before it dies: a few seconds points to the low-oil sensor, a minute or two to fuel starvation, and dying when the choke comes off to a clogged main jet. Check oil on level ground first, then fuel flow and the loose gas-cap test, then the carburetor. Most fixes cost under $20 in parts.
 
 Your generator starts then dies — almost more frustrating than one that won't start at all. It catches, it revs, you think you're back in business — and three seconds later it's silent again. I've been a licensed electrician for 18 years, and I get this exact call after nearly every storm: "Mike, it starts, so it can't be serious, right?" Usually it isn't. But the fix depends entirely on *when* it dies, so watch the timing before you touch a wrench.
 

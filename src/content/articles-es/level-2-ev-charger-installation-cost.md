@@ -19,6 +19,8 @@ faq:
     answer: "Normalmente una de tres cosas: un tramo de cable largo o difícil, un panel que necesita actualización, o una cotización con márgenes inflados. Pide tres cotizaciones, exige un desglose detallado, y desconfía de cualquier cotización que no mencione un cálculo de carga o un permiso."
 ---
 
+**Respuesta rápida:** La mayoría de los dueños queda entre $1,200 y $1,800 todo incluido en 2026 — cargador, cable, mano de obra y permiso. Ese rango baja hasta unos $800 para una instalación de cochera facilísima y pasa los $4,000 cuando tu panel está lleno o el tramo es largo, y el cargador en sí es solo como un tercio de lo que vas a pagar.
+
 El costo de instalar un cargador EV de nivel 2 es el número que todos buscan en Google la semana después de comprar el auto. Aquí está la respuesta honesta de dieciocho años de trabajo eléctrico residencial: la mayoría de los dueños queda entre **$1,200 y $1,800 todo incluido** en 2026 — cargador, cable, mano de obra y permiso. Ese rango baja hasta unos $800 para una instalación de cochera facilísima y pasa los $4,000 cuando tu panel está lleno o el tramo es largo. El cargador en sí es solo como un tercio de lo que vas a pagar. El resto es cobre, mano de obra y cómo ande tu panel.
 
 Voy a desglosarlo como lo desgloso para los clientes parados en su cochera: qué cuestan las piezas, qué cuesta mi mano de obra, cuándo el panel se vuelve el problema, y qué cotizaciones tirar a la basura.

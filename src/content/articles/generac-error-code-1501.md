@@ -11,9 +11,13 @@ faq:
     answer: "Fix the cause first — clearing the alarm without fixing anything just buys you another 1501 at the next exercise run. Then, on an Evolution controller: press OFF, press ENTER to clear the alarm, set the generator back to AUTO, and confirm the green light. Run a manual start or a full exercise cycle to prove the fix before you walk away."
   - question: "How much does it cost to fix Generac error code 1501?"
     answer: "If it's the battery — and it usually is — a replacement Group 26R battery runs $80–150 and takes 10 minutes to swap yourself. A dealer call typically totals $150–350 depending on the cause: battery and terminals at the low end, a starter motor ($200–400 installed) or gas pressure work at the high end."
+  - question: "How often should I replace my Generac battery to avoid code 1501?"
+    answer: "Replace it on a schedule rather than waiting for a 1501: every 3 years in hot climates and 4 years at the outside in mild ones, because real-world standby battery life is only 3 to 5 years and heat shortens it. A date code showing four or more years is reason enough to replace a battery that triggered this alarm. Write the install date on top of the new Group 26R battery, which costs $80–150, so the next replacement is a calendar decision, not an outage surprise."
 pubDate: 2026-10-21
 keywords: ["Generac error code 1501", "Generac 1501 RPM sense loss", "Generac red light alarm", "Generac generator won't start", "Generac battery replacement"]
 ---
+
+**Quick answer:** Code 1501 means RPM sense loss — the controller did not see the engine reach and hold running speed — and a weak battery is the most common cause, even when the unit still cranks. Check the battery under cranking load, clean the terminals, then work through oil, gas pressure, plugs and air filter, and the starter. Fix the cause before clearing the alarm, then prove it with a manual run.
 
 Generac error code 1501 is the alarm I see more than any other on home standby units, and it shows up at the worst moment — the weekly exercise fails while you're at work, or the power drops in a storm and the generator cranks, coughs, and gives up with a red light glowing.
 

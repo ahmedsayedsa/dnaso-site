@@ -18,6 +18,8 @@ faq:
     answer: "Often nothing more — sometimes less. If you're running a new circuit anyway, hardwiring skips the $80–$100 industrial outlet and the GFCI breaker premium, so labor is about equal. Plug-in is cheaper only when a suitable 240V outlet already exists in the right spot. Hardwired quotes in 2026 typically run $800–$1,500 for a straightforward garage install; full breakdowns are in our Level 2 installation cost guide."
 ---
 
+**Quick answer:** Hardwired is better for most permanent homes, while plug-in is better for renters and short-timers. It's the first real decision in any home charging install, covering real amp limits and real 2026 costs.
+
 Hardwired vs plug-in EV charger. It's the first real decision in any home charging install, and it's the one people make based on the wrong information — usually a YouTube video or a buddy who says "just put in a dryer outlet, it's fine." Sometimes he's even right. Sometimes he's describing a fire hazard. I'm a licensed electrician; I've installed both ways hundreds of times, and I've also been called out to replace the melted outlets nobody warned you about. Here's the honest comparison: real amp limits, real 2026 costs, and the receptacle problem that should decide this for most people.
 
 Short version up front: **hardwired is better for most permanent homes. Plug-in is better for renters and short-timers.** The details below are why — and there's one detail, about a $15 part, that matters more than everything else in this article combined.

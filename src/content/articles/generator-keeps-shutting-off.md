@@ -11,9 +11,13 @@ faq:
     answer: "Yes — and when it does, believe it. CO-SENSE models from Champion, Predator, and others shut down when carbon monoxide builds up around the unit, which happens fast in a garage doorway, under a deck, or on the sheltered side of a house. Move the generator fully outdoors, at least 20 feet from the house, exhaust pointed away, and most 'mystery' shutdowns disappear. Never bypass the sensor."
   - question: "Why does my generator shut off when the air conditioner or fridge starts?"
     answer: "A starting motor load can pull two to three times its running watts for a moment. If that surge pushes the generator past its rating, the breaker trips or overload protection shuts it down. Add up your running loads, stagger motor starts, and check for a failing appliance — a dying fridge compressor can trip a generator that handled it fine last summer."
+  - question: "How much does it cost to fix a generator that keeps shutting off?"
+    answer: "Most of the common fixes are cheap parts: an air filter is $8–20, a replacement fuel cap is $10–20, a fuel filter is $5–10, and a DIY oil change is under $15 with a quart of 10W-30 at $5–7. An ignition coil costs $25–60 as a part, or $150–250 installed at a shop. Expect $100–175 for a diagnostic visit, with common mid-run repairs such as a coil, cap, filter, or fuel pump totaling $150–350."
 pubDate: 2026-10-21
 keywords: ["generator keeps shutting off", "generator shuts off after a few minutes", "generator dies under load", "CO sensor generator shutdown", "generator overheating shutdown"]
 ---
+
+**Quick answer:** Use the runtime as the diagnosis: 10–20 minutes points to overheating, a clogged tank vent, or oil trouble, while dying hot at 30–60 minutes and restarting cold points to the ignition coil. Random shutdowns under load are usually overload, and shutdowns in a sheltered spot may be the CO sensor doing its job. Log the minutes run, the loads connected, and whether it restarts immediately or only after cooling.
 
 Your generator starts fine. It runs — ten minutes, maybe an hour — and then it just quits. That's a different problem from a generator that won't start at all, and different again from one that dies within the first minute. If your **generator keeps shutting off** after working for a while, your most useful clue is *how long it ran before it quit*.
 

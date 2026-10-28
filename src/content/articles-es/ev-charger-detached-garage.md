@@ -19,6 +19,8 @@ faq:
     answer: "No hay un límite duro de distancia, pero la caída de voltaje es la restricción. A 100 pies en un circuito de 50–60A conviene subir un calibre el conductor (por ejemplo, cobre 4 AWG en vez de 6 AWG) para mantener la caída de voltaje por debajo del 3%. A 150–200 pies, calcula subir de nuevo y presupuestar más para el cobre. Más allá de unos 200 pies, pide cotización — el costo del cable sube rápido."
 ---
 
+**Respuesta rápida:** Un buen equipo de nivel 2 en sí cuesta $400 a $700; lo que realmente estás pagando es llevar 240 voltios a través de tu patio: una zanja, conducto, cable grueso de cobre y, por lo general, un subpanel. Las instalaciones totales van de unos $1,500 a $4,000, y la diferencia se reduce a la distancia, la tierra y lo que ya hay en la cochera.
+
 Instalar un cargador EV en una cochera separada es el trabajo que nadie te cotiza con honestidad por teléfono. El cargador en sí es la parte barata — $400 a $700 por un buen equipo de nivel 2. Lo que realmente estás pagando es llevar 240 voltios a través de tu patio: una zanja, conducto, cable grueso de cobre y, por lo general, un subpanel. He hecho este trabajo docenas de veces, y la diferencia entre una instalación de $1,500 y una de $4,000 se reduce a tres cosas: la distancia, la tierra y lo que ya hay en la cochera. Aquí está todo el trabajo, pieza por pieza, con números reales de 2026.
 
 ## Por Qué un Cargador EV en Cochera Separada Cuesta Más Que en una Pegada

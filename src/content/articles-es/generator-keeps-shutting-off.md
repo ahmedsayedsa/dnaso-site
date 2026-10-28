@@ -11,10 +11,14 @@ faq:
     answer: "Sí, y cuando lo hace, créele. Los modelos con CO-SENSE de Champion, Predator y otros apagan el motor cuando el monóxido de carbono se acumula alrededor de la unidad, algo que pasa rápido en la puerta de un garage, bajo una terraza o del lado protegido del viento de una casa. Mueve el generador completamente al aire libre, a por lo menos 20 pies de la casa y con el escape apuntando lejos, y la mayoría de los apagados 'misteriosos' desaparecen. Jamás puentees el sensor."
   - question: "¿Por qué mi generador se apaga cuando arranca el aire acondicionado o el refrigerador?"
     answer: "Una carga de motor al arrancar puede jalar de dos a tres veces sus vatios de trabajo por un momento. Si ese pico empuja al generador más allá de su capacidad, el breaker se dispara o la protección de sobrecarga lo apaga. Suma tus cargas reales, escalona los arranques de motores y revisa si un aparato está fallando: un compresor de refrigerador muriendo puede disparar un generador que lo aguantaba bien el verano pasado."
+  - question: "¿Cuánto cuesta arreglar un generador que se apaga solo?"
+    answer: "La mayoría de las reparaciones comunes son piezas baratas: un filtro de aire cuesta $8–20, una tapa de gasolina de repuesto $10–20, un filtro de gasolina $5–10 y un cambio de aceite hecho por ti sale en menos de $15, con un cuarto de 10W-30 a $5–7. Una bobina de encendido cuesta $25–60 como pieza, o $150–250 instalada en un taller. Calcula $100–175 por una visita de diagnóstico, y las reparaciones comunes a mitad de uso, como bobina, tapa, filtro o bomba, totalizan $150–350."
 pubDate: 2026-10-21
 keywords: ["el generador se apaga solo", "generador se apaga a los pocos minutos", "generador se apaga con carga", "sensor de CO apaga el generador", "generador se calienta y se apaga"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Usa el tiempo que trabajó como diagnóstico: de 10 a 20 minutos apunta a sobrecalentamiento, una ventilación del tanque tapada o un problema de aceite, mientras que morir caliente a los 30–60 minutos y rearrancar en frío apunta a la bobina de encendido. Los apagados aleatorios con carga suelen ser sobrecarga, y los que ocurren en un lugar protegido pueden ser el sensor de CO haciendo su trabajo. Anota los minutos trabajados, las cargas conectadas y si rearranca de inmediato o solo al enfriarse.
 
 Tu generador arranca bien. Trabaja — diez minutos, quizá una hora — y luego simplemente se apaga. Eso es un problema distinto a un generador que no arranca, y distinto también a uno que muere en el primer minuto. Si **el generador se apaga solo** después de estar trabajando un rato, la pista más útil que tienes es *cuánto tiempo trabajó antes de apagarse*.
 

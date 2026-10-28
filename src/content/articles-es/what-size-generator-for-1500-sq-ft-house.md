@@ -11,10 +11,14 @@ faq:
     answer: "Normalmente, sí. Un 22 kW de reserva está pensado para casas de 2.500–3.500 pies cuadrados con todo eléctrico. En una casa de 1.500 pies cuadrados pasará los apagones al 25–35% de carga, desperdiciando combustible (2,5–3 galones de propano por hora incluso con carga ligera), ensuciando el motor con carbón, y costando unos $2.000–4.000 más instalado que un 14 kW que hubiera alimentado lo mismo."
   - question: "¿Un generador portátil puede mover el aire central de una casa de 1500 pies cuadrados?"
     answer: "Sí, con la combinación correcta. El aire típico de 2,5–3 toneladas de una casa de este tamaño consume 2.800–3.500 vatios en marcha, pero pide 9.000–12.000 vatios por una fracción de segundo al arrancar. Un portátil de 9.000–10.000 vatios más un arrancador suave en el aire es la combinación económica que más he instalado; sin el arrancador suave, normalmente necesitas más de 12.000 vatios solo para sobrevivir el pico de arranque."
+  - question: "¿Cuánto cuesta un generador para una casa de 1500 pies cuadrados?"
+    answer: "Depende del nivel que elijas. Un portátil de esenciales cuesta $500–900, una unidad dual fuel de 9.000–10.000 vatios para el nivel de comodidad cuesta $900–1.400, y el paquete recomendado de portátil dual fuel de 9.000 vatios, toma de 50 amperios con interlock y arrancador suave queda en unos $2.200–2.900 instalado. La cobertura automática cuesta mucho más: un generador de reserva de 14 kW suele salir en $11.000–14.500 instalado y uno de 18 kW en $12.500–16.000, incluyendo unidad, base, transfer switch, línea de gas, permisos y mano de obra en la mayoría de los mercados."
 pubDate: 2026-10-21
 keywords: ["qué tamaño de generador para una casa de 1500 pies cuadrados", "generador para casa de 1500 pies cuadrados", "tamaño de generador casa 139 m2", "cuántos vatios para una casa de 1500 pies", "generador para toda la casa 1500 pies cuadrados"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Para la mayoría de las casas de 1.500 pies cuadrados, 7.500–10.000 vatios cubren un apagón cómodo y un generador de reserva de 14–18 kW lo cubre todo, aire central incluido, mientras que 3.500–5.500 vatios alcanzan solo para lo esencial. Los pies cuadrados por sí solos no dimensionan el generador: lo deciden el tonelaje de tu aire, típicamente de 2,5 a 3 toneladas en este tamaño, y si te calientas con gas o con electricidad.
 
 Si te preguntas qué tamaño de generador para una casa de 1500 pies cuadrados (unos 139 m²) necesitas, aquí va la respuesta corta que doy en las visitas de servicio: **7.500–10.000 vatios cubren un apagón cómodo para la mayoría de las casas de este tamaño, y un generador de reserva de 14–18 kW lo cubre todo, aire central incluido.** La respuesta larga y honesta es que los pies cuadrados no se conectan a nada. Lo decide el tonelaje de tu aire acondicionado y si te calientas con gas o con electricidad; el plano solo nos da una buena pista de ambas cosas.
 

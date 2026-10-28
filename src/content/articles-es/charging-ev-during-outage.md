@@ -19,6 +19,8 @@ faq:
 lang: "es"
 ---
 
+**Respuesta rápida:** Sí, puedes cargar un auto eléctrico durante un apagón, y un generador portátil común lo hace. Es lento, es la electricidad más cara que vas a comprar jamás, y hay dos detalles tramposos — energía sucia y neutros flotantes — que hacen que muchos primeros intentos fallen de plano.
+
 Cargar un auto eléctrico durante un apagón es la pregunta que me hace todo dueño de un eléctrico la primera vez que una tormenta deja el vecindario a oscuras — normalmente mientras mira un auto al 40% en el garage. La respuesta corta: sí, puedes cargarlo, y un generador portátil común lo hace. La respuesta honesta es que es lento, es la electricidad más cara que vas a comprar jamás, y hay dos detalles tramposos (energía sucia y neutros flotantes) que hacen que muchos primeros intentos fallen de plano. Esto es lo que sí funciona, en orden de practicidad, con las cuentas ya hechas por ti.
 
 ## ¿Se puede cargar un auto eléctrico con un generador? Sí — en Nivel 1

@@ -18,6 +18,8 @@ faq:
     answer: "About 250–350 kWh per month for 1,000 miles of driving — roughly a 30–40% increase on the average US household's electric bill. At $0.16/kWh, that's $40–$56/month."
 ---
 
+**Quick answer:** At the 2026 US average residential rate of about $0.16 per kWh, driving 1,000 miles a month costs roughly $40 to $53 in electricity — about a third of what you'd spend on gas. Your state, rate plan, car's efficiency, and when you charge can swing that number from under $30 to over $120 for the exact same miles.
+
 Home EV charging cost is one of those questions with a simple answer and a complicated truth. The simple answer: at the 2026 US average residential rate of about **$0.16 per kWh**, driving 1,000 miles a month costs roughly **$40 to $53 in electricity** — about a third of what you'd spend on gas. The complicated truth: your state, your rate plan, your car's efficiency, and when you charge can swing that number from under $30 to over $120 for the exact same miles.
 
 I'm an electrician, not an economist, but I've done this math on napkins for enough customers that I can walk you through it in five minutes. No hype, no "save $10,000 a year" nonsense — just the arithmetic.

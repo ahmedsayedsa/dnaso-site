@@ -18,6 +18,8 @@ faq:
     answer: "There's no hard distance limit, but voltage drop is the constraint. At 100 feet on a 50–60A circuit you should upsize the conductors one gauge (for example, 4 AWG copper instead of 6 AWG) to keep voltage drop under 3%. At 150–200 feet, expect to upsize again and budget more for copper. Beyond about 200 feet, get a quote — the wire cost climbs fast."
 ---
 
+**Quick answer:** A good Level 2 charger itself costs $400 to $700; what you're actually paying for is getting 240 volts across your yard — a trench, conduit, fat copper wire, and usually a subpanel. Total installs run from about $1,500 to $4,000, and the spread comes down to distance, soil, and what's already in the garage.
+
 Installing an EV charger for a detached garage is the job nobody quotes you honestly over the phone. The charger itself is the cheap part — $400 to $700 for a good Level 2 unit. What you're actually paying for is getting 240 volts across your yard: a trench, conduit, fat copper wire, and usually a subpanel. I've run this job dozens of times, and the spread between a $1,500 install and a $4,000 install comes down to three things: distance, soil, and what's already in the garage. Here's the whole job, piece by piece, with real 2026 numbers.
 
 ## Why a Detached Garage EV Charger Costs More Than an Attached One

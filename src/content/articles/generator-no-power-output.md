@@ -11,9 +11,13 @@ faq:
     answer: "A tripped breaker costs nothing. An AVR runs $20–50, brushes $10–25 a pair, and a capacitor $15–40, all realistic DIY swaps. Flashing the field costs nothing with a 12V battery or corded drill. Anything deeper inside the head — rotor or stator work — is shop territory at $250–600, which on an older portable often makes replacement smarter."
   - question: "Can I flash a generator's field with a battery myself?"
     answer: "Yes, if you are careful and your manual allows it. The standard method applies 12 volts briefly to the brush leads with the AVR disconnected, restoring the residual magnetism the alternator needs to excite itself. The corded-drill method does the same without opening the head. Not comfortable identifying field wires? A shop charges $75–150."
+  - question: "How can I prevent my generator from producing no power after long storage?"
+    answer: "Run the generator under load every month instead of letting it sit, because the monthly loaded run in the maintenance routine is what prevents the residual magnetism loss described in this article. Heat, vibration, and time erode that faint field in storage, and after 12 or more months a unit can start perfectly yet produce only about 8 useless volts, or stay stuck in the low 5–60 volt residual range. If that already happened, flashing the field costs $0 with a 12-volt battery or a corded drill."
 pubDate: 2026-10-21
 keywords: ["generator runs but no power output", "generator no voltage", "generator AVR replacement", "flash generator field", "generator makes no power"]
 ---
+
+**Quick answer:** If the engine runs well but the outlets are dead, check the panel breaker or GFCI first — that free reset is the cause about half the time. Next, meter the outlet: 0 volts, low residual voltage of roughly 5–60 volts, wildly swinging voltage, and full 120/240 volts each point to a different part of the alternator system. Stored units with low residual voltage often just need the field flashed.
 
 The engine starts on the second pull, settles into a healthy idle, sounds exactly right — and the outlets are stone dead. If your generator runs but no power output comes out of the receptacles, you do not have an engine problem. You have an alternator problem.
 

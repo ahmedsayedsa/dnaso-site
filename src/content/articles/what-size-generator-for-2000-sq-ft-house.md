@@ -11,9 +11,13 @@ faq:
     answer: "Usually not, if the house has all-electric appliances or a 3.5–4 ton AC. The 22kW class (Generac's best-selling size) covers a 2000 sq ft all-electric home with margin. If your heat, water heater, and range are gas, an 18kW will do the same job for less money and less fuel. Oversizing by two classes just burns cash."
   - question: "How many watts does a 2000 sq ft house use during an outage?"
     answer: "With everything essential running at once, most 2000 sq ft homes draw 4,000–6,500 watts steady-state. Add a 3-ton central AC and the running total jumps to roughly 8,000–10,000 watts, with startup surges of 15,000 watts or more. The generator has to cover both numbers."
+  - question: "How much does a generator for a 2000 sq ft house cost?"
+    answer: "The tier sets the price. A decent 7,500W dual-fuel portable runs $700–1,100, plus $500–1,500 for an inlet box and interlock or manual transfer switch installed. Bigger portables in the 12,000–15,000W peak class run $1,200–2,000, while smaller 10–14kW standbys cost roughly $3,500–5,500 for the unit before installation. At the top, 18–22kW standby units run about $5,000–6,500 before installation, and a full installed job typically lands between $11,000 and $14,500, with the electrical work alone budgeted at $800–2,500."
 pubDate: 2026-10-21
 keywords: ["what size generator for a 2000 sq ft house", "generator size for 2000 square foot home", "how many watts to run a 2000 sq ft house", "best generator for 2000 sq ft home", "22kw generator 2000 sq ft house"]
 ---
+
+**Quick answer:** Most 2,000 sq ft homes fall into three tiers: 5,000–7,500 watts for essentials only, 10,000–14,000 watts for most of the house with a little load management, and 18,000–22,000 watts in a standby unit for everything including central air. Which tier is yours depends on your AC tonnage and whether heat, hot water and cooking are gas or electric — not on square footage alone.
 
 Ask me what size generator for a 2000 sq ft house and I'll give you the answer every electrician gives, because it's the only honest one: it depends — but on things I can walk you through in about ten minutes. Two houses with identical floor plans can need generators that differ by 10,000 watts, and I've sized both kinds in the same subdivision.
 

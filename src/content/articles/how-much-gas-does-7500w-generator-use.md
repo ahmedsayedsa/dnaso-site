@@ -11,9 +11,13 @@ faq:
     answer: "At half load you will burn roughly 18 gallons in 24 hours. With gasoline at $3.20–$3.60 a gallon, that is $58–$65 a day. Drop to quarter-load discipline and it falls to about $40 a day; run near full load around the clock and you are over $90 a day. A three-day outage at half load is a 50-plus-gallon problem."
   - question: "Does a 7500 watt inverter generator use less gas?"
     answer: "At light loads, yes. An inverter can throttle its engine down, so its quarter-load burn can run 20–30% below a conventional unit's. Near full load the gap nearly disappears, because the inverter's engine has to spin at full speed anyway. The savings live at the low loads you run overnight — which is exactly where most outage hours are spent."
+  - question: "Why does a 7500 watt generator burn so much gas when almost nothing is plugged in?"
+    answer: "Because a conventional generator never really idles down. Its engine is locked at a governed 3,600 RPM whether it is powering a whole house or a single phone charger, and it has no eco mode, so even at 25% load it still burns about 0.45–0.55 gallons per hour just keeping the engine turning. That baseline is also why the jump to full load, around 1.2 gallons per hour, is smaller than people expect. Inverter models can throttle down at light loads, which is why their quarter-load burn runs 20–30% lower."
 pubDate: 2026-10-21
 keywords: ["how much gas does a 7500 watt generator use", "7500 watt generator fuel consumption", "7500 watt generator runtime", "how long will a 7500 watt generator run", "7500 watt generator gallons per hour"]
 ---
+
+**Quick answer:** A 7,500-watt generator burns about 0.5 gallons per hour at quarter load, 0.75 at half load, about 1.0 at three-quarter load and around 1.2 running flat-out — the load you run is the whole story. At the half-load cruise most homes actually sit at, a typical 6.6–7.5-gallon tank lasts roughly 9–10 hours, and a full 24 hours burns about 18 gallons.
 
 Ask a room of generator owners how much gas does a 7500 watt generator use and you'll get answers from "barely any" to "it drank my whole emergency fund." Both people are telling the truth. They were just running different loads. A 7,500-watt portable loafing along with a fridge and some lights burns about half a gallon an hour. The same machine with a well pump, a water heater, and two space heaters stacked on it burns well over a gallon an hour. Load is the whole story, so let's put real numbers on it.
 

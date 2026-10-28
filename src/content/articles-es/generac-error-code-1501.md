@@ -11,10 +11,14 @@ faq:
     answer: "Primero corrige la causa: borrar la alarma sin arreglar nada solo te compra otro 1501 en el siguiente ejercicio. Luego, en un controlador Evolution: pulsa OFF, pulsa ENTER para borrar la alarma, regresa el generador a AUTO y confirma la luz verde. Haz un arranque manual o deja que complete un ciclo de ejercicio para comprobar la reparación antes de darlo por bueno."
   - question: "¿Cuánto cuesta reparar el código de error 1501 de Generac?"
     answer: "Si es la batería — y casi siempre lo es — una batería Grupo 26R de repuesto cuesta $80–150 y se cambia en 10 minutos. Una visita del distribuidor suele totalizar $150–350 según la causa: batería y bornes en el extremo bajo, un motor de arranque ($200–400 instalado) o trabajo en la línea de gas en el alto."
+  - question: "¿Cada cuánto debo cambiar la batería de mi Generac para evitar el código 1501?"
+    answer: "Cámbiala por calendario en vez de esperar un 1501: cada 3 años en climas cálidos y 4 como máximo en los suaves, porque la vida real de una batería de reserva es de solo 3 a 5 años y el calor la acorta. Un código de fecha de cuatro años o más es motivo suficiente para cambiar una batería que ya disparó esta alarma. Escribe la fecha de instalación encima de la batería Grupo 26R nueva, que cuesta $80–150, para que el próximo cambio sea una decisión de calendario y no una sorpresa en un apagón."
 pubDate: 2026-10-21
 keywords: ["código de error 1501 de Generac", "Generac 1501 pérdida de RPM", "alarma luz roja Generac", "generador Generac no arranca", "cambio de batería Generac"]
 lang: "es"
 ---
+
+**Respuesta rápida:** El código 1501 significa pérdida de señal de RPM — el controlador no vio que el motor alcanzara y mantuviera su velocidad de trabajo — y una batería débil es la causa más común, aunque la unidad sí dé marcha. Revisa la batería bajo la carga de arranque, limpia los bornes y luego recorre aceite, presión de gas, bujías y filtro de aire, y el motor de arranque. Corrige la causa antes de borrar la alarma y compruébalo con una corrida manual.
 
 El código de error 1501 de Generac es la alarma que más veo en unidades de reserva residenciales, y aparece en el peor momento: el ejercicio semanal falla mientras estás en el trabajo, o se va la luz en plena tormenta y el generador da marcha, tose y se rinde con una luz roja encendida.
 

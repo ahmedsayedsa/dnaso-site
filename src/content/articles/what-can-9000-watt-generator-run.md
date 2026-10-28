@@ -17,9 +17,9 @@ pubDate: 2026-10-21
 keywords: ["what can a 9000 watt generator run", "9000 watt generator", "9000w generator for house", "what will a 9000 watt generator power", "9000 watt generator load list"]
 ---
 
-"What can a 9000 watt generator run?" is the question I get from homeowners who read the 7,500-watt math, saw the phrase "pick ONE big resistive load at a time," and decided they'd rather buy their way out of the choreography. Reasonable. Nine thousand watts is where a portable stops being an essentials machine with tricks and becomes a whole-house machine with a couple of rules: the electric water heater and the dryer rotate instead of running together, and central AC joins the plan — with a soft starter, not without one. The difference between happy owners and frustrated ones is still arithmetic, just with bigger margins. So let's do it.
-
 **Quick answer:** A 9,000-watt generator runs essentially a whole gas-heated house — fridge, freezer, 1 HP well pump, furnace, lights, electronics — plus an electric water heater **or** dryer in rotation, plus a 3-ton central AC with a soft starter. It cannot run the water heater, dryer, and AC all at once, a tankless electric water heater, or a 5-ton AC.
+
+"What can a 9000 watt generator run?" is the question I get from homeowners who read the 7,500-watt math, saw the phrase "pick ONE big resistive load at a time," and decided they'd rather buy their way out of the choreography. Reasonable. Nine thousand watts is where a portable stops being an essentials machine with tricks and becomes a whole-house machine with a couple of rules: the electric water heater and the dryer rotate instead of running together, and central AC joins the plan — with a soft starter, not without one. The difference between happy owners and frustrated ones is still arithmetic, just with bigger margins. So let's do it.
 
 ## Is that 9,000 watts running or starting?
 

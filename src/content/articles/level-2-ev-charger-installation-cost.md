@@ -18,6 +18,8 @@ faq:
     answer: "Usually one of three things: a long or difficult wire run, a panel that needs upgrading, or a quote with padded margins. Get three quotes, ask for an itemized breakdown, and be suspicious of any quote that doesn't mention a load calculation or a permit."
 ---
 
+**Quick answer:** Most homeowners land between $1,200 and $1,800 all-in in 2026 — charger, wire, labor, and permit. That range stretches down to about $800 for a dead-simple garage install and past $4,000 when your panel is full or the run is long, and the charger itself is only about a third of what you'll pay.
+
 Level 2 EV charger installation cost is the number everyone googles the week after they buy the car. Here's the honest answer from eighteen years of residential electrical work: most homeowners land between **$1,200 and $1,800 all-in** in 2026 — charger, wire, labor, and permit. That range stretches down to about $800 for a dead-simple garage install and past $4,000 when your panel is full or the run is long. The charger itself is only about a third of what you'll pay. The rest is copper, labor, and whatever your panel situation looks like.
 
 I'm going to break this down the way I break it down for customers standing in their garage: what the parts cost, what my labor costs, when the panel becomes the problem, and which quotes to throw in the trash.

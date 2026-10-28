@@ -11,10 +11,14 @@ faq:
     answer: "Porque la ventilación de la tapa está bloqueada. Conforme sale la gasolina, se forma un vacío dentro del tanque sellado hasta que la gasolina deja de fluir y el motor muere. Aflojar la tapa rompe el vacío. Limpia la ventilación o cambia la tapa (normalmente $10–20)."
   - question: "¿Cuánto cuesta arreglar un generador que arranca y se apaga?"
     answer: "La mayoría de las causas son baratas: rellenar aceite unos $5, filtro de gasolina $5–12, tapa de gasolina $10–20, bujía $3–8, carburador del mercado de accesorios $15–35. En un taller, calcula $100–175 de diagnóstico y $150–350 en total por reparaciones comunes."
+  - question: "¿Cómo evito que mi generador vuelva a arrancar y apagarse después de repararlo?"
+    answer: "Guárdalo como recomienda la prueba final del artículo: después de la reparación, trabaja el generador con carga durante 20 minutos para comprobar la solución y luego guárdalo con gasolina fresca y estabilizada, no con gasolina sin tratar. La gasolina puede degradarse en tan solo 30 días, y las mezclas con etanol dejan goma en el tazón del carburador, que es como el surtidor principal se tapa otra vez. Mantén el aceite en el nivel correcto, revisado en terreno nivelado, y guarda una bujía de repuesto en la caja de herramientas."
 pubDate: 2026-10-21
 keywords: ["el generador arranca y se apaga", "el generador arranca y muere", "el generador se apaga solo", "generador trabaja y se para", "sensor de aceite del generador"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Cronometra cuánto trabaja antes de apagarse: unos segundos apuntan al sensor de bajo aceite, uno o dos minutos a falta de gasolina, y morir al quitar el choke a un surtidor principal tapado. Revisa primero el aceite en terreno nivelado, luego el flujo de gasolina y la prueba de la tapa floja, y después el carburador. La mayoría de las reparaciones cuestan menos de $20 en piezas.
 
 Que el generador arranca y se apaga enseguida es más frustrante que cuando no arranca nada. Prende, se acelera, crees que ya volviste a tener luz — y tres segundos después, silencio otra vez. Soy electricista licenciado desde hace 18 años, y recibo esta llamada después de casi cada tormenta: «Mike, arranca, así que no puede ser grave, ¿verdad?». Normalmente no lo es. Pero la solución depende por completo de *cuándo* se apaga, así que fíjate en el tiempo antes de tocar una llave.
 

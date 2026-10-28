@@ -11,10 +11,14 @@ faq:
     answer: "Llenarlo desde vacío hasta la marca normal del 80% toma unos 200 galones. Con precios residenciales típicos de propano de $2,50–$4,00 por galón, son unos $500–$800 por un llenado completo. La mayoría de los llenados son rellenos parciales: subir del 30% al 80% toma unos 125 galones, o sea unos $315–$500 a esos mismos precios."
   - question: "¿Alcanza un tanque de 250 galones o necesito uno de 500?"
     answer: "El de 250 alcanza si tu peor apagón realista es de 3–4 días y tu generador es de 14 kW o menos. Sube a un tanque de 500 galones si trabajas una unidad de 22 kW, calientas con electricidad (bomba de calor con resistencias, cocina eléctrica, calentador eléctrico) o vives donde los apagones de una semana sí ocurren: costa de huracanes, zonas de tormentas de hielo, servicio rural remoto. El de 500 duplica tu autonomía por una diferencia modesta en el costo instalado."
+  - question: "¿Cuándo debo pedir un relleno de propano para no quedarme seco en pleno apagón?"
+    answer: "Pide al 30%, no al 10%. Échale un ojo al medidor cada mes y después de cada día de apagón, y nunca dejes el tanque por debajo del 30% entrando a tu temporada de tormentas. Por debajo de un 10%, el medidor se vuelve poco confiable — un error de 5 puntos son 12 galones en este tanque —, la presión de vapor cae con demandas grandes, y si llegas a cero en pleno apagón puedes esperar días por un camión que atiende a todo un condado. Llenar a finales del verano ayuda: los precios residenciales, en el rango de $2,50–$4,00 por galón, suelen estar entonces en el extremo barato."
 pubDate: 2026-10-21
 keywords: ["cuánto tiempo funciona un generador con un tanque de propano de 250 galones", "autonomía generador tanque 250 galones propano", "consumo de propano generador por hora", "generador de reserva consumo propano", "tanque de propano 250 vs 500 galones"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Un generador de reserva típico funciona unas 4 a 6 jornadas sin parar con un tanque de propano de 250 galones — pero planea con unos 180 galones útiles, no con 250: el tanque solo se llena al 80% (unos 200 galones) y hay que dejar una reserva al fondo. Con una carga constante del 50%, eso da unos 5 días para una unidad de 10 kW, 4,2 días para una de 14 kW y 3,3 días para una de 22 kW, y el ciclado real del apagón estira un poco cada cifra.
 
 Si estás dimensionando un generador de reserva a propano, esta es la pregunta que decide toda la instalación: ¿cuánto tiempo funciona un generador con un tanque de propano de 250 galones antes de quedarte a oscuras otra vez? La respuesta corta para un generador residencial típico es **unas 4 a 6 jornadas de apagón continuo** — pero ese rango esconde una trampa en la que cae casi todo el mundo la primera vez que hace estas cuentas. La trampa está en el propio tanque, así que empecemos por ahí.
 

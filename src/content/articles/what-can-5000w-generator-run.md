@@ -11,9 +11,13 @@ faq:
     answer: "Most 5,000W portables carry 4–6.6 gallons and burn roughly 0.4–0.55 gal/hr at half load, so expect about 9–12 hours per tank at the moderate loads most people actually run. Light essentials-only loads stretch that further; running near the 4,000-watt ceiling shortens it noticeably."
   - question: "Is a 5000 watt generator enough for a well pump and refrigerator?"
     answer: "Yes, comfortably — that pairing is exactly what this size is built for. A 1/2 HP well pump runs at about 1,000 watts (2,000–3,000W surge at startup) and a modern fridge runs at 150–250 watts. Even with both surging in the same second, you're well inside a 5,000W unit's 6,250-watt peak."
+  - question: "Can a 5000 watt generator run a microwave and other kitchen appliances at the same time?"
+    answer: "Yes, if you run them one at a time instead of stacking them. A microwave draws 1,000–1,200 watts, a coffee maker 800–1,200 watts, and a toaster oven or electric kettle 1,200–1,500 watts, with no starting surge on any of them. Against a sensible steady budget of about 4,000 watts — 80% of the 5,000 running watts — one kitchen appliance fits easily alongside the essentials. The trap is adding the microwave on top of an already full comfort load just as an air conditioner compressor starts, so drop one window AC while you cook and the rotation works."
 pubDate: 2026-10-21
 keywords: ["what can a 5000 watt generator run", "5000 watt generator", "5000w generator for house", "what will a 5000 watt generator power", "5000 watt generator load list"]
 ---
+
+**Quick answer:** A true 5,000-running-watt generator (about 6,250 starting watts) keeps a house livable through an outage — refrigerator, freezer, sump or well pump, furnace blower, lights, internet and a window AC — as long as the big heating appliances are gas. Plan steady loads at no more than about 4,000 watts, because electric water heaters, electric dryers and standard central AC are what push past what this size can run together.
 
 "What can a 5000 watt generator run?" is the question I get from homeowners who want real backup power without paying for capacity they'll never use — and honestly, 5,000 watts is the size I point most of them to. It's enough to keep a house genuinely livable through an outage: food cold, basement dry, furnace blowing, lights on, phones charged, and a window AC in the bedroom. What it won't do is run an all-electric house like the grid never left. The difference between happy owners and frustrated ones is almost never the generator. It's whether somebody did the load math before the storm. So let's do it.
 

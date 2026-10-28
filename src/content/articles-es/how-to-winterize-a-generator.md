@@ -11,10 +11,14 @@ faq:
     answer: "En su mayoría no: la unidad ejecuta su ciclo de ejercicio semanal todo el invierno, así que nada se queda quieto lo suficiente para echarse a perder, y el gas natural de tubería nunca se degrada. Lo que sí necesita: revisión de batería (el frío es cuando fallan las débiles), de refrigerante en modelos enfriados por líquido, admisión y escape despejados, y confirmar que el ciclo se ejecuta."
   - question: "¿Qué pasa si guardo el generador todo el invierno sin hacerle nada?"
     answer: "Nada visible, hasta el primer apagón de primavera. La gasolina sin tratar se degrada en unos 30 días y barniza los surtidores en meses, la batería se autodescarga y se sulfata, y los ratones pueden anidar en la caja de aire. La cuenta típica: limpieza o reemplazo de carburador ($15–35 la pieza, $150–350 en taller), batería nueva ($30–60) y un generador que falla justo cuando lo necesitas."
+  - question: "¿Cómo evito que los ratones y otros roedores aniden en un generador guardado?"
+    answer: "Empieza en el servicio de otoño: limpia la caja de aire mientras atiendes el filtro, porque un filtro sucio guardado todo el invierno sirve también de material de nido. Mete lana de acero en la salida del escape y ata una etiqueta en el asa que diga QUITAR ANTES DE ENCENDER, para que nadie arranque el motor con ella puesta. Pon naftalina alrededor de la unidad, nunca dentro de la caja de aire. Guárdalo seco y levantado del piso, sobre una tarima o unos 2×4, con una funda transpirable y no una lona de plástico sellada, que atrapa la condensación."
 pubDate: 2026-10-21
 keywords: ["cómo preparar un generador para el invierno", "almacenamiento de generador", "guardar el generador en invierno", "aceite nebulizador para generador", "mantenimiento de generador en invierno"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Preparar un generador para el invierno toma una hora y unos $30: decide entre el tanque lleno con estabilizador y dejarlo seco, cambia el aceite antes de guardar y no después, nebuliza el cilindro y deja la batería con un mantenedor. Un generador guardado así aguanta seis meses sin problema — doce es realista — y en primavera arranca en vez de necesitar una limpieza de carburador y una batería nueva.
 
 Cada primavera recibo las mismas llamadas. La primera tormenta corta la luz, alguien saca un generador que funcionaba perfecto en octubre, jala la cuerda veinte veces y nada. Dreno gasolina que huele a barniz, le cotizo un carburador, y me hace la pregunta que debió hacerse en otoño: cómo preparar un generador para el invierno y que esto no pase.
 

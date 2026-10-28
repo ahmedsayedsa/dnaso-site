@@ -11,10 +11,14 @@ faq:
     answer: "Sí: es el mejor dinero que puedes gastar aquí. Un arrancador suave tipo MicroAir (unos $300–450 ya instalado) sube el compresor en rampa en vez de dejarlo entrar de golpe, recortando el pico de arranque entre 65 y 75%. Tu pico de más de 30.000 vatios se convierte en 8.000–10.000 vatios, algo que un portátil grande sí puede manejar. Extra: arranques más suaves también con la red eléctrica: menos parpadeo de luces, menos desgaste del compresor."
   - question: "¿Qué tamaño de generador de reserva necesito para un aire de 5 toneladas y el resto de la casa?"
     answer: "La mayoría de los instaladores cotiza 18–24 kW, y 22 kW es el punto donde casi todos caen. Ese rango mueve el aire de 5 toneladas — con gestión de cargas que desconecta el calentador de agua mientras arranca el compresor — más refri, luces, bomba de pozo y la vida normal sin hacer malabares. Una unidad de 14–16 kW con arrancador suave y gestión de cargas agresiva puede funcionar, pero sentirás los compromisos en un apagón largo. Para la mayoría de las casas con 5 toneladas, 22 kW es la recomendación honesta."
+  - question: "¿Cuánto combustible quema un generador portátil moviendo un aire de 5 toneladas?"
+    answer: "Calcula más o menos 1–1,5 galones de gasolina por hora. Bajo una carga continua de aire de unos 6.500 vatios, un portátil de la clase de 12.000–14.000 vatios bebe a ese ritmo, así que tres días de enfriamiento suman muchas vueltas por gasolina. Por eso muchos dueños tienen a mano un tanque de propano de 100 libras para los apagones largos, aceptando más o menos un 10–15% menos de potencia con propano que con gasolina a cambio de muchas menos vueltas para rellenar."
 pubDate: 2026-10-21
 keywords: ["qué tamaño de generador para un aire acondicionado de 5 toneladas", "vatios de arranque aire acondicionado 5 toneladas", "generador para aire acondicionado de 5 toneladas", "arrancador suave 5 toneladas", "consumo aire acondicionado 5 toneladas"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Un aire de 5 toneladas trabaja a unos 5.500–6.500 vatios pero lanza un pico de 31.000–38.000 vatios al arrancar, así que dimensiona para el pico, no para la carga de trabajo: un portátil de 12.000–14.000 vatios más un arrancador suave, o un generador de reserva de 18–24 kW, con 22 kW como punto típico. Un arrancador suave baja ese pico a unos 8.000–10.000 vatios, y eso es lo que hace que la ruta portátil funcione de verdad.
 
 Si te preguntas qué tamaño de generador necesitas para un aire acondicionado de 5 toneladas, aquí va la verdad incómoda que le doy a cada cliente que me llama: los vatios de trabajo casi no importan. Un equipo de 5 toneladas es el aire residencial más grande que la mayoría de las casas tiene, y su compresor no sorbe energía al arrancar: lanza un golpe de 30.000 vatios por una fracción de segundo. Dimensiona para ese golpe, o mejor ni lo intentes.
 

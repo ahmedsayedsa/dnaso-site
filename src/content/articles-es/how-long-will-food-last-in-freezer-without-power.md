@@ -11,10 +11,14 @@ faq:
     answer: "Sí, si la comida todavía tiene cristales de hielo o se mantuvo a 4 °C o menos: el USDA dice que se puede volver a congelar o cocinar sin riesgo, aunque la calidad (textura, jugosidad) sufre. Si estuvo por encima de 4 °C más de 2 horas, hay que tirarla; volver a congelar no mata las bacterias que crecieron mientras estuvo caliente. La carne cruda a medio descongelar suele ser mejor cocinarla primero y congelarla ya como platillo."
   - question: "¿Cuánto hielo seco necesito para salvar el congelador en un apagón?"
     answer: "La regla práctica es unas 25 libras para 24 horas en un congelador doméstico promedio, y 50 libras lo estiran a unas 48 horas con la puerta cerrada. El hielo seco está a -78,5 °C (-109 °F): manéjalo solo con guantes, mantén ventilado el cuarto y jamás lo guardes en un recipiente hermético. Cómpralo lo más tarde posible: pierde de 5 a 10 libras al día aunque esté dentro de una hielera."
+  - question: "¿Un congelador horizontal mantiene la comida fría más tiempo que uno vertical en un apagón?"
+    answer: "Sí. El aire frío baja, así que al abrir un congelador vertical el frío se cae a tus pies, mientras que en uno horizontal (tipo arcón) se queda en la caja como agua y no se mueve. Los horizontales también suelen tener mejor aislamiento, así que el mismo reloj de apagón corre más despacio. La opción más débil de todas es el compartimento congelador de un refrigerador de cocina: chico, se abre con el refrigerador y comparte una pared delgada con él. Trata su contenido como comida de 24 horas como máximo, y cómetelo primero."
 pubDate: 2026-10-21
 keywords: ["cuánto dura la comida en el congelador sin electricidad", "seguridad alimentaria en apagones", "cuánto dura la comida en el refrigerador sin luz", "hielo seco para congelador", "se puede volver a congelar comida descongelada"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Con la puerta cerrada, un congelador lleno mantiene la comida segura unas 48 horas y uno a la mitad unas 24 horas, mientras que el refrigerador solo te da unas 4 horas. Todo gira en torno a una línea: 4 °C (40 °F); la comida a esa temperatura o por debajo es segura, y el perecedero que pasa más de 2 horas por encima debe desecharse. Rellenar los huecos del congelador con garrafones de agua congelados antes del apagón es la forma gratis de estirar ese reloj.
 
 La tormenta corta la luz a las 9 de la noche, y a las 9:05 toda la casa pregunta lo mismo: ¿cuánto dura la comida en el congelador sin electricidad antes de tener que tirar unos cientos de dólares de mandado? Llevo 18 años recibiendo esa llamada, casi siempre de un cliente al que le instalé el generador, y la respuesta honesta es: más de lo que temes, menos de lo que esperas, y casi todo se decide por lo que hagas en la primera hora.
 

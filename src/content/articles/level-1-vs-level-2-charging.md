@@ -18,6 +18,8 @@ faq:
     answer: "Yes, with caveats. A dryer outlet (240V/30A) delivers up to 24 amps continuous, which is about 17 miles per hour — a big jump over Level 1 — using a NEMA 14-30 adapter or a portable charger with a 14-30 plug. Never use both the dryer and the charger at once, and if the outlet is old or its contacts are worn, have an electrician inspect it first. Worn dryer outlets are a real fire risk under continuous EV loads."
 ---
 
+**Quick answer:** Level 1 charges from a regular 120V outlet at about 1.4 kW, adding 3–5 miles of range per hour. Level 2 uses 240V and adds 25–30 miles per hour at 32A up to 40–44 miles per hour at 48A (11.5 kW).
+
 The first question every new EV owner asks me — and I've been asked it hundreds of times in 18 years of residential electrical work — is whether they actually need to spend money on a Level 2 charger. The Level 1 vs Level 2 EV charging question is really a math question wearing a shopping question's clothes. So let's do the math publicly, with real numbers, and I'll show you exactly when the free cord that came with your car is honestly enough — and when it isn't.
 
 ## Level 1 vs Level 2 Charging: The Basic Math

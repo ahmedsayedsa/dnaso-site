@@ -18,6 +18,8 @@ faq:
     answer: "Technically yes, practically it's a last resort. A 13.5 kWh home battery holds about 40 miles of EV range — draining it into the car leaves the house dark. Large portable power stations (3–6 kWh) add 10–20 miles at Level 1 speeds. The exception is battery + solar: with panels refilling the battery daily, siphoning some into the car for essential trips makes sense. Otherwise, save the battery for the house and use a generator for the car."
 ---
 
+**Quick answer:** Yes, you can charge an EV during a power outage, and a plain portable generator will do it. It's slow, it's the most expensive electricity you'll ever buy, and two gotchas — dirty power and floating neutrals — make a lot of first attempts fail outright.
+
 Charging an EV during a power outage is the question every EV owner asks me the first time a storm knocks the neighborhood dark — usually while looking at a car sitting at 40% in the garage. The short answer: yes, you can charge it, and a plain portable generator will do it. The honest answer is that it's slow, it's the most expensive electricity you'll ever buy, and there are two gotchas (dirty power and floating neutrals) that make a lot of first attempts fail outright. Here's what actually works, in order of practicality, with the math done for you.
 
 ## Can You Charge an EV With a Generator? Yes — at Level 1

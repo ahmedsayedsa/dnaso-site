@@ -18,9 +18,9 @@ keywords: ["qué puede alimentar un generador de 3500 vatios", "generador de 350
 lang: "es"
 ---
 
-«¿Qué puede alimentar un generador de 3500 vatios?» es la pregunta que me hacen los propietarios que cotizaron los inverter de 2.000 vatios, se dieron cuenta de que un aire de ventana no vivía en ese mundo, y no quieren pagar por 5.000 vatios que nunca van a usar. Instinto justo — 3.500 vatios es el tamaño más pequeño que mueve lo esencial de una casa de verdad *más* una carga de confort que importa: un aire de ventana en verano, o el soplador de la calefacción y una habitación calentada en invierno. Lo que no hace es perdonar la acumulación descuidada. La diferencia entre dueños contentos y dueños frustrados casi nunca es el generador. Es si alguien hizo las cuentas de carga antes de la tormenta. Así que hagámoslas.
-
 **Respuesta rápida:** Un generador de 3.500 vatios alimenta un refrigerador, un congelador, una bomba de sumidero, el soplador de la calefacción, las luces e internet — unos **2.100 vatios de esenciales** — más un aire de ventana (900–1.200 W) o un microondas en rotación. No puede con un calentador de agua eléctrico, una secadora eléctrica, aire central, ni el pico de arranque de una bomba de pozo de 1 HP.
+
+«¿Qué puede alimentar un generador de 3500 vatios?» es la pregunta que me hacen los propietarios que cotizaron los inverter de 2.000 vatios, se dieron cuenta de que un aire de ventana no vivía en ese mundo, y no quieren pagar por 5.000 vatios que nunca van a usar. Instinto justo — 3.500 vatios es el tamaño más pequeño que mueve lo esencial de una casa de verdad *más* una carga de confort que importa: un aire de ventana en verano, o el soplador de la calefacción y una habitación calentada en invierno. Lo que no hace es perdonar la acumulación descuidada. La diferencia entre dueños contentos y dueños frustrados casi nunca es el generador. Es si alguien hizo las cuentas de carga antes de la tormenta. Así que hagámoslas.
 
 ## ¿Esos 3.500 vatios son continuos o de arranque?
 

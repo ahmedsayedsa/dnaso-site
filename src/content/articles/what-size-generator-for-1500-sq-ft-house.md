@@ -11,9 +11,13 @@ faq:
     answer: "Usually, yes. A 22kW standby is sized for 2,500–3,500 sq ft homes with electric everything. In a 1,500 sq ft house it will spend outages loafing at 25–35% load, which wastes fuel (about 2.5–3 gallons of propane per hour even lightly loaded), risks wet stacking and carbon buildup on the engine, and costs roughly $2,000–4,000 more installed than a 14kW unit that would have run everything anyway."
   - question: "Can a portable generator run central AC in a 1500 sq ft house?"
     answer: "Yes, with the right pairing. The typical 2.5–3 ton AC in a home this size runs at 2,800–3,500 watts but surges to 9,000–12,000 watts for a split second at startup. A 9,000–10,000-watt portable plus a soft starter on the AC is the budget-friendly combination I've installed most often; without the soft starter, you generally need 12,000+ watts just to survive the startup surge."
+  - question: "How much does a generator for a 1500 sq ft house cost?"
+    answer: "It depends on the tier you pick. An essentials portable costs $500–900, a dual-fuel 9,000–10,000-watt comfort unit runs $900–1,400, and the recommended package of a 9,000-watt dual-fuel portable, a 50-amp inlet with interlock and a soft starter lands around $2,200–2,900 installed. Automatic coverage costs far more: a 14kW standby typically runs $11,000–14,500 installed and an 18kW $12,500–16,000, including the unit, pad, transfer switch, gas line, permits and labor in most markets."
 pubDate: 2026-10-21
 keywords: ["what size generator for a 1500 sq ft house", "generator for 1500 square foot home", "1500 sq ft house generator size", "how many watts for 1500 sq ft", "whole house generator 1500 sq ft"]
 ---
+
+**Quick answer:** For most 1,500 sq ft homes, 7,500–10,000 watts covers a comfortable outage and a 14–18kW standby covers everything, central AC included, while 3,500–5,500 watts handles essentials only. Square footage alone doesn't size the generator — your AC tonnage, typically 2.5–3 tons at this size, and whether you heat with gas or electricity decide it.
 
 If you're asking what size generator for a 1500 sq ft house, here's the short answer I give on service calls: **7,500–10,000 watts covers a comfortable outage for most homes this size, and a 14–18kW standby covers everything, central AC included.** The honest longer answer is that square footage doesn't plug into anything. Your AC tonnage and whether you heat with gas or electricity decide this — the floor plan just gives us a good guess at both.
 

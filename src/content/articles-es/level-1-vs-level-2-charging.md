@@ -19,6 +19,8 @@ faq:
     answer: "Sí, con reservas. Un tomacorriente de secadora (240V/30A) entrega hasta 24 amperios continuos, que son unas 17 millas por hora — un gran salto sobre el nivel 1 — usando un adaptador NEMA 14-30 o un cargador portátil con enchufe 14-30. Nunca uses la secadora y el cargador a la vez, y si el tomacorriente es viejo o sus contactos están gastados, haz que un electricista lo revise primero. Los tomacorrientes de secadora gastados son un riesgo real de incendio bajo cargas continuas de VE."
 ---
 
+**Respuesta rápida:** El nivel 1 carga desde un tomacorriente normal de 120V a unos 1.4 kW, sumando 3–5 millas de autonomía por hora. El nivel 2 usa 240V y suma 25–30 millas por hora a 32A hasta 40–44 millas por hora a 48A (11.5 kW).
+
 La primera pregunta que me hace cada dueño nuevo de un VE — y me la han hecho cientos de veces en 18 años de trabajo eléctrico residencial — es si realmente necesita gastar dinero en un cargador de nivel 2. La pregunta de carga de VE nivel 1 vs nivel 2 es en realidad una pregunta de matemática disfrazada de pregunta de compras. Así que hagamos la matemática en público, con números reales, y te mostraré exactamente cuándo el cable gratis que vino con tu auto es honestamente suficiente — y cuándo no.
 
 ## Carga Nivel 1 vs Nivel 2: La Matemática Básica

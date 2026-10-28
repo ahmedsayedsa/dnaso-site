@@ -18,9 +18,9 @@ keywords: ["qué puede alimentar un generador de 10000 vatios", "generador de 10
 lang: "es"
 ---
 
-«¿Qué puede alimentar un generador de 10000 vatios?» es la pregunta que me hacen los propietarios que ya hicieron las cuentas pequeñas, quieren aire central sin asterisco, y están en la bifurcación entre los portátiles más grandes y un estacionario instalado permanentemente. El encuadre honesto: 10.000 vatios es la primera clase portátil donde la respuesta a casi cada carga individual es «sí» — incluido un aire de 4 toneladas con arrancador suave, el calentador de agua eléctrico y la secadora. Los límites que quedan son de *combinaciones*, no de aparatos. La diferencia entre dueños contentos y frustrados sigue siendo aritmética, pero en este tamaño la aritmética casi siempre te perdona. Hagámosla de todos modos.
-
 **Respuesta rápida:** Un generador de 10.000 vatios alimenta una casa entera — refrigerador, congelador, bomba de pozo de 1 HP, calefacción, luces, electrónica — más aire central hasta 4 toneladas con arrancador suave (5 toneladas con disciplina), más el calentador de agua eléctrico y la secadora en rotación ligera. Todavía no puede con un calentador de agua eléctrico instantáneo, calefacción eléctrica de casa entera, ni todas las cargas grandes en el mismo minuto.
+
+«¿Qué puede alimentar un generador de 10000 vatios?» es la pregunta que me hacen los propietarios que ya hicieron las cuentas pequeñas, quieren aire central sin asterisco, y están en la bifurcación entre los portátiles más grandes y un estacionario instalado permanentemente. El encuadre honesto: 10.000 vatios es la primera clase portátil donde la respuesta a casi cada carga individual es «sí» — incluido un aire de 4 toneladas con arrancador suave, el calentador de agua eléctrico y la secadora. Los límites que quedan son de *combinaciones*, no de aparatos. La diferencia entre dueños contentos y frustrados sigue siendo aritmética, pero en este tamaño la aritmética casi siempre te perdona. Hagámosla de todos modos.
 
 ## ¿Esos 10.000 vatios son continuos o de arranque?
 

@@ -18,9 +18,9 @@ keywords: ["qué puede alimentar un generador de 12000 vatios", "generador de 12
 lang: "es"
 ---
 
-«¿Qué puede alimentar un generador de 12000 vatios?» es la pregunta que me hacen los propietarios con casas grandes, aires grandes y ningún interés en la administración de cargas como estilo de vida — además de una sana sospecha hacia las cotizaciones de estacionarios de cinco cifras. La versión corta: este es el tope de la gama portátil, y se nota. Un aire de 5 toneladas con arranque suave entra en el plan. El calentador de agua y la secadora — la pareja que toda clase menor rota — funcionan juntos. Lo que queda fuera de la mesa es una lista corta y específica, y debajo te muestro exactamente dónde está el techo portátil y qué vive por encima de él. La diferencia entre dueños contentos y frustrados sigue siendo aritmética. En este tamaño, la aritmética es sobre todo de combinaciones de las cargas más grandes. Así que hagámosla.
-
 **Respuesta rápida:** Un generador de 12.000 vatios alimenta una casa grande entera — refrigerador, congelador, bomba de pozo de 1 HP, calefacción, luces, electrónica — más un aire central de 5 toneladas con arrancador suave, más el calentador de agua eléctrico y la secadora **juntos**. Todavía no puede con un calentador de agua eléctrico instantáneo, una calefacción eléctrica completa, ni las tres cargas grandes a la vez.
+
+«¿Qué puede alimentar un generador de 12000 vatios?» es la pregunta que me hacen los propietarios con casas grandes, aires grandes y ningún interés en la administración de cargas como estilo de vida — además de una sana sospecha hacia las cotizaciones de estacionarios de cinco cifras. La versión corta: este es el tope de la gama portátil, y se nota. Un aire de 5 toneladas con arranque suave entra en el plan. El calentador de agua y la secadora — la pareja que toda clase menor rota — funcionan juntos. Lo que queda fuera de la mesa es una lista corta y específica, y debajo te muestro exactamente dónde está el techo portátil y qué vive por encima de él. La diferencia entre dueños contentos y frustrados sigue siendo aritmética. En este tamaño, la aritmética es sobre todo de combinaciones de las cargas más grandes. Así que hagámosla.
 
 ## ¿Esos 12.000 vatios son continuos o de arranque?
 

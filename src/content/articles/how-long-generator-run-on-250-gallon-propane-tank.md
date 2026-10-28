@@ -11,9 +11,13 @@ faq:
     answer: "Filling from empty to the normal 80% mark takes about 200 gallons. At typical residential propane prices of $2.50–$4.00 per gallon, that's roughly $500–$800 for a full fill. Most fills are top-offs, not from-empty fills — refilling from 30% to 80% takes about 125 gallons, or roughly $315–$500 at the same prices."
   - question: "Is a 250-gallon tank big enough, or do I need a 500?"
     answer: "A 250 is enough if your worst realistic outage is 3–4 days and your generator is 14 kW or smaller. Step up to a 500-gallon tank if you run a 22 kW unit, heat with electricity (heat pump with strip heat, electric range, electric water heater), or live somewhere week-long outages actually happen — hurricane coast, ice-storm country, remote rural service. The 500 roughly doubles your runtime for a modest difference in installed cost."
+  - question: "When should I order a propane refill so I don't run dry mid-outage?"
+    answer: "Order at 30%, not at 10%. Glance at the gauge every month and after every outage day, and never let the tank sit below 30% going into your storm season. Below about 10% the gauge gets unreliable — a 5-point error is 12 gallons on this tank — vapor pressure sags on big draws, and if you hit true empty mid-outage you may wait days for a truck serving a whole county. Filling in late summer also helps: residential prices in the $2.50–$4.00 per gallon range usually sit at the cheap end then."
 pubDate: 2026-10-21
 keywords: ["how long will a generator run on a 250 gallon propane tank", "250 gallon propane tank generator runtime", "propane generator gallons per hour", "standby generator propane consumption", "250 vs 500 gallon propane tank"]
 ---
+
+**Quick answer:** A typical home standby runs about 4 to 6 days continuously on a 250-gallon propane tank — but plan on roughly 180 usable gallons, not 250: the tank is only filled to 80% (about 200 gallons) and you keep a reserve at the bottom. At a steady 50% load that works out to about 5 days for a 10 kW unit, 4.2 days for a 14 kW, and 3.3 days for a 22 kW, with real-world cycling stretching each of those a little further.
 
 If you're sizing a standby generator on propane, this is the question that decides the whole installation: how long will a generator run on a 250 gallon propane tank before you're dark again? The short answer for a typical home standby is **about 4 to 6 days of continuous outage running** — but that range hides a trap that catches almost everyone the first time they do this math. The trap is in the tank itself, so let's start there.
 

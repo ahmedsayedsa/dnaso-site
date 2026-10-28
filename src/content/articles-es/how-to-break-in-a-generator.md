@@ -11,10 +11,14 @@ faq:
     answer: "Usa aceite convencional para el llenado del rodaje y para el cambio de las 5 horas — no porque el sintético impida que los anillos se asienten (con los paquetes de anillos modernos eso es más que nada un mito), sino porque ese aceite lo vas a tirar a las 5 horas y otra vez a las 20–25 horas. El 10W-30 convencional barato, a $5–7 el cuarto, hace que eso no duela. Pásate a sintético en el segundo o tercer cambio si lo quieres."
   - question: "¿Puedo usar mi generador nuevo durante un apagón antes de terminar el rodaje?"
     answer: "Sí — alimentar tu refrigerador vale más que proteger un pistón. Úsalo, pero ayúdalo: no lo dejes al máximo de su salida por horas, alterna las cargas grandes en vez de correr todo a la vez, y déjalo enfriar entre corridas largas. Luego haz el cambio de aceite de las 5 horas en cuanto pase el apagón, aunque el generador solo tenga 3 horas de uso."
+  - question: "¿Cómo debe verse el aceite del primer cambio de las 5 horas?"
+    answer: "Drena ese primer aceite tibio en el cambio de las 5 horas y míralo de verdad: viértelo a través de un filtro de café o un colador de pintura sobre la bandeja. Un brillo metálico y unas pocas motas brillantes son normales: son residuos de mecanizado y partículas de desgaste de superficies nuevas buscando su pareja. Las tiras, los rizos o cualquier pieza que puedas levantar y doblar no son normales, y son una conversación de garantía mientras la máquina sigue nueva. Un tapón magnético con pelusa gris fina en el segundo cambio también es buena señal."
 pubDate: 2026-10-21
 keywords: ["cómo asentar un generador nuevo", "rodaje de generador nuevo", "asentamiento de motor de generador", "primer cambio de aceite del generador", "asentar anillos de pistón"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Asienta un generador nuevo en unas 5 horas de funcionamiento, repartidas en sesiones con enfriamientos completos entre ellas: arranca sin carga y sube luego por el 25%, el 50% y el 75% de los vatios nominales variando la carga, y cambia el aceite a las 5 horas con 10W-30 convencional. Bien hecho, los anillos se asientan contra la pared del cilindro y el motor conserva su compresión y su aceite limpio de por vida; el ralentí por horas y la carga plena sostenida son los dos patrones a evitar en esas primeras horas.
 
 La mayoría de la gente aprende cómo asentar un generador exactamente una tormenta demasiado tarde. Lo desempacan con la luz ya cortada, conectan todo lo que tienen y lo dejan trabajando a todo lo que da por dos días seguidos. Yo he dado servicio a esos motores después — consumo de aceite a las 200 horas que un motor sano no debería mostrar ni a las 2.000.
 

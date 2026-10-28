@@ -17,9 +17,9 @@ pubDate: 2026-10-21
 keywords: ["what can a 12000 watt generator run", "12000 watt generator", "12000w generator for house", "what will a 12000 watt generator power", "12000 watt generator load list"]
 ---
 
-"What can a 12000 watt generator run?" is the question I get from homeowners with big houses, big AC units, and no interest in load management as a lifestyle — plus a healthy suspicion of five-figure standby quotes. The short version: this is the top of the portable range, and it shows. A soft-started 5-ton AC joins the plan. The water heater and dryer — the pair that every smaller class rotates — run together. What remains off the table is a short, specific list, and below it I'll show you exactly where the portable ceiling sits and what lives above it. The difference between happy owners and frustrated ones is still arithmetic. At this size, the arithmetic is mostly about combinations of the biggest loads. So let's do it.
-
 **Quick answer:** A 12,000-watt generator runs a whole large house — fridge, freezer, 1 HP well pump, furnace, lights, electronics — plus a 5-ton central AC with a soft starter, plus the electric water heater and dryer **together**. It still cannot run a tankless electric water heater, a full electric furnace, or all three big loads at once.
+
+"What can a 12000 watt generator run?" is the question I get from homeowners with big houses, big AC units, and no interest in load management as a lifestyle — plus a healthy suspicion of five-figure standby quotes. The short version: this is the top of the portable range, and it shows. A soft-started 5-ton AC joins the plan. The water heater and dryer — the pair that every smaller class rotates — run together. What remains off the table is a short, specific list, and below it I'll show you exactly where the portable ceiling sits and what lives above it. The difference between happy owners and frustrated ones is still arithmetic. At this size, the arithmetic is mostly about combinations of the biggest loads. So let's do it.
 
 ## Is that 12,000 watts running or starting?
 

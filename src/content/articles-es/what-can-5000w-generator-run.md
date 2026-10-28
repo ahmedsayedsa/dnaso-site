@@ -11,10 +11,14 @@ faq:
     answer: "La mayoría de los portátiles de 5.000 W llevan 15–25 litros y queman unos 1,5–2 litros por hora a media carga, así que espera entre 9 y 12 horas por tanque con las cargas moderadas que la gente usa de verdad. Con cargas de solo esenciales dura más; pegado al techo de 4.000 vatios continuos, dura notablemente menos."
   - question: "¿Un generador de 5000 vatios alcanza para una bomba de pozo y un refrigerador?"
     answer: "Sí, sobrado — esa pareja es justo para lo que está hecho este tamaño. Una bomba de pozo de 1/2 HP consume unos 1.000 vatios en continuo (2.000–3.000 W de pico al arrancar) y un refrigerador moderno consume 150–250 vatios. Aunque los dos piquen en el mismo segundo, quedas muy por debajo del pico de 6.250 vatios del generador."
+  - question: "¿Puede un generador de 5000 vatios mover un microondas y otros aparatos de cocina al mismo tiempo?"
+    answer: "Sí, si los usas de uno en uno en vez de apilarlos. Un microondas consume 1.000–1.200 vatios, una cafetera 800–1.200 vatios y un horno tostador o un hervidor eléctrico 1.200–1.500 vatios, sin pico de arranque en ninguno de ellos. Frente a un presupuesto continuo sensato de unos 4.000 vatios — el 80% de los 5.000 vatios continuos — un aparato de cocina cabe sin problema junto a los esenciales. La trampa es sumar el microondas encima de una carga de confort ya llena justo cuando arranca el compresor de un aire, así que apaga un aire de ventana mientras cocinas y la rotación funciona."
 pubDate: 2026-10-21
 keywords: ["qué puede alimentar un generador de 5000 vatios", "generador de 5000 vatios", "generador 5000w para casa", "qué aparatos mueve un generador de 5000 vatios", "lista de cargas generador 5000 vatios"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Un generador de verdad de 5.000 vatios continuos (unos 6.250 de arranque) mantiene una casa habitable durante un apagón — refrigerador, congelador, bomba de sumidero o de pozo, soplador de calefacción, luces, internet y un aire de ventana — siempre que los aparatos grandes de calor sean de gas. Planea las cargas continuas en no más de unos 4.000 vatios, porque el calentador de agua eléctrico, la secadora eléctrica y el aire central estándar son lo que supera lo que este tamaño puede mover junto.
 
 «¿Qué puede alimentar un generador de 5000 vatios?» es la pregunta que me hacen los propietarios que quieren respaldo de verdad sin pagar por capacidad que nunca van a usar — y, siendo honesto, los 5.000 vatios son el tamaño al que mando a la mayoría. Alcanza para mantener una casa de verdad habitable durante un apagón: comida fría, sótano seco, calefacción soplando, luces encendidas, teléfonos cargados y un aire de ventana en el cuarto. Lo que no va a hacer es mover una casa totalmente eléctrica como si la red nunca se hubiera ido. La diferencia entre dueños contentos y dueños frustrados casi nunca es el generador. Es si alguien hizo las cuentas de carga antes de la tormenta. Así que hagámoslas.
 

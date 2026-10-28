@@ -11,10 +11,14 @@ faq:
     answer: "Un breaker disparado no cuesta nada. Un AVR cuesta $20–50, las escobillas $10–25 el par y un capacitor $15–40, todos cambios realistas para hacer uno mismo. Reactivar el campo no cuesta nada con una batería de 12V o un taladro con cable. Cualquier cosa más profunda dentro del cabezal — trabajo de rotor o estator — es territorio de taller: $250–600, lo que en un portátil viejo a menudo hace más inteligente el reemplazo."
   - question: "¿Puedo reactivar el campo de un generador con una batería yo mismo?"
     answer: "Sí, si tienes cuidado y tu manual lo permite. El método estándar aplica 12 voltios brevemente a los cables de las escobillas con el AVR desconectado, restaurando el magnetismo residual que el alternador necesita para excitarse solo. El método del taladro hace lo mismo sin abrir el cabezal. ¿No te sientes cómodo identificando los cables? Un taller cobra $75–150."
+  - question: "¿Cómo puedo evitar que mi generador no genere electricidad después de un guardado largo?"
+    answer: "Trabaja el generador con carga cada mes en vez de dejarlo parado, porque la corrida mensual con carga de la rutina de mantenimiento es lo que previene la pérdida de magnetismo residual. El calor, la vibración y el tiempo erosionan ese campo débil durante el guardado, y después de 12 meses o más una unidad puede arrancar perfecto y aun así producir solo unos 8 voltios inútiles, o quedarse en el rango residual bajo de 5–60 voltios. Si eso ya pasó, reactivar el campo cuesta $0 con una batería de 12V o un taladro con cable."
 pubDate: 2026-10-21
 keywords: ["el generador funciona pero no genera electricidad", "generador sin voltaje", "reemplazo de AVR de generador", "reactivar campo de generador", "generador no produce electricidad"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Si el motor trabaja bien pero los contactos están muertos, revisa primero el breaker o el GFCI del panel: ese restablecimiento gratis es la causa como la mitad de las veces. Después mide el contacto: 0 voltios, un voltaje residual bajo de unos 5–60 voltios, un voltaje que oscila salvajemente y 120/240 voltios completos apuntan cada uno a una parte distinta del alternador. Una unidad guardada con voltaje residual bajo a menudo solo necesita que se reactive el campo.
 
 El motor arranca al segundo jalón, se estabiliza en un ralentí sano, suena exactamente bien — y los contactos están muertos. Si el generador funciona pero no genera electricidad por sus contactos, no tienes un problema de motor. Tienes un problema de alternador.
 

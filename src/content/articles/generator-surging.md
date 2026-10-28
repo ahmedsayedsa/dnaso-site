@@ -11,9 +11,13 @@ faq:
     answer: "Doing it yourself: $0–10 if cleaning the pilot jet fixes it, $20–60 for a replacement carburetor if it doesn't. A shop charges $75–120 per hour for labor, and a carburetor clean or swap typically lands at $120–250 total with parts. Surging is one of the cheapest generator problems to fix — it's almost never worth replacing the whole machine over it."
   - question: "Why does my inverter generator surge in eco mode?"
     answer: "Inverter generators vary engine speed with load, and eco mode drops the engine to a low idle. A little hunting with a cycling load in eco mode is normal; sustained surging at a steady load isn't. Test with eco mode off: if it smooths out, the problem is in the idle circuit — usually that same pilot jet — not the inverter electronics."
+  - question: "How can I prevent my generator from surging again after storage?"
+    answer: "Prevention is mostly fuel discipline, because gasoline starts forming varnish in 30–60 days and ethanol blends are worse, and the tiny pilot jet clogs first. Drain fuel that is more than a month or two old if it was not stabilized, refill with fresh fuel before blaming hardware, and check the air filter every 50 hours or at the start of storm season. A hunting engine also wastes fuel, so a clean filter, fresh gasoline, and a carburetor stored without stale fuel give the governor a stable mixture to hold."
 pubDate: 2026-10-21
 keywords: ["generator surging", "generator hunting", "generator surging at idle", "clogged pilot jet generator", "generator RPM hunting"]
 ---
+
+**Quick answer:** Surging that smooths out under load usually points to a clogged pilot jet, especially after storage with old fuel. Clean the pilot jet first — about an hour and $5–10 for carb cleaner — then test with no load and with a steady load like a 1,500-watt space heater. If it still hunts, work through the air filter, governor linkage, fuel delivery, and spark plug in that order.
 
 Generator surging is the fault I get called about more than any other after storm season. The engine won't settle — rev, drop, rev, drop, that wah-wah-wah sound every two or three seconds — and the lights pulse bright and dim right along with it. Owners assume the machine is dying. It usually isn't. Generator surging (mechanics also call it hunting) is almost always a fuel-delivery problem you can fix in your driveway for the price of a can of carb cleaner.
 

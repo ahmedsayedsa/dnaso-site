@@ -17,9 +17,9 @@ pubDate: 2026-10-21
 keywords: ["what can a 10000 watt generator run", "10000 watt generator", "10000w generator for house", "what will a 10000 watt generator power", "10000 watt generator load list"]
 ---
 
-"What can a 10000 watt generator run?" is the question I get from homeowners who have done the smaller math, want central AC without an asterisk, and are standing at the fork between the biggest portables and a permanently installed standby. Here's the honest framing: 10,000 watts is the first portable class where the answer to almost every individual load is "yes" — including a 4-ton AC with a soft starter, the electric water heater, and the dryer. The limits that remain are about *combinations*, not items. The difference between happy owners and frustrated ones is still arithmetic, but at this size the arithmetic mostly forgives you. Let's do it anyway.
-
 **Quick answer:** A 10,000-watt generator runs a whole house — fridge, freezer, 1 HP well pump, furnace, lights, electronics — plus central AC up to 4 tons with a soft starter (5 tons with discipline), plus the electric water heater and dryer in light rotation. It still cannot run a tankless electric water heater, whole-house electric heat, or every big load in the same minute.
+
+"What can a 10000 watt generator run?" is the question I get from homeowners who have done the smaller math, want central AC without an asterisk, and are standing at the fork between the biggest portables and a permanently installed standby. Here's the honest framing: 10,000 watts is the first portable class where the answer to almost every individual load is "yes" — including a 4-ton AC with a soft starter, the electric water heater, and the dryer. The limits that remain are about *combinations*, not items. The difference between happy owners and frustrated ones is still arithmetic, but at this size the arithmetic mostly forgives you. Let's do it anyway.
 
 ## Is that 10,000 watts running or starting?
 

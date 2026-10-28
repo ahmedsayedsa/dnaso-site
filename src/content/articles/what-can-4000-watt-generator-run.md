@@ -17,9 +17,9 @@ pubDate: 2026-10-21
 keywords: ["what can a 4000 watt generator run", "4000 watt generator", "4000w generator for house", "what will a 4000 watt generator power", "4000 watt generator load list"]
 ---
 
-"What can a 4000 watt generator run?" is the question I get from homeowners who did the math on the 3,500-watt class, liked it, and then looked at their well pump or their second window AC and hesitated. That hesitation is well placed: 4,000 watts is where the essentials-plus-comfort combo stops being a choreography exercise and starts being a plan. You still can't run an all-electric house, and you still manage the big loads — but the margins get honest. The difference between happy owners and frustrated ones is almost never the generator. It's whether somebody did the load math before the storm. So let's do it.
-
 **Quick answer:** A 4,000-watt generator runs a refrigerator, freezer, sump or 1/2 HP well pump, furnace blower, lights, and internet — about **2,100 watts of essentials** — plus one window AC and a microwave with light staggering. It cannot run an electric water heater (4,500W exceeds it alone), an electric dryer, central AC, or reliably start a 1 HP well pump.
+
+"What can a 4000 watt generator run?" is the question I get from homeowners who did the math on the 3,500-watt class, liked it, and then looked at their well pump or their second window AC and hesitated. That hesitation is well placed: 4,000 watts is where the essentials-plus-comfort combo stops being a choreography exercise and starts being a plan. You still can't run an all-electric house, and you still manage the big loads — but the margins get honest. The difference between happy owners and frustrated ones is almost never the generator. It's whether somebody did the load math before the storm. So let's do it.
 
 ## Is that 4,000 watts running or starting?
 

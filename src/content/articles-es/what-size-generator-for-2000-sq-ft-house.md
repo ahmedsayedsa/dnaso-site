@@ -11,10 +11,14 @@ faq:
     answer: "Normalmente no, si la casa es totalmente eléctrica o tiene un aire de 3,5–4 toneladas. La clase de 22 kW (el tamaño más vendido de Generac) cubre una casa eléctrica de 2.000 pies cuadrados con margen. Si tu calefacción, calentador de agua y cocina son de gas, un 18 kW hace el mismo trabajo por menos dinero y menos combustible. Sobredimensionar dos clases solo quema dinero."
   - question: "¿Cuántos vatios consume una casa de 2.000 pies cuadrados durante un apagón?"
     answer: "Con todo lo básico funcionando a la vez, la mayoría de las casas de 2.000 pies cuadrados consumen entre 4.000 y 6.500 vatios de forma continua. Si agregas un aire acondicionado central de 3 toneladas, el total continuo sube a unos 8.000–10.000 vatios, con picos de arranque de 15.000 vatios o más. El generador tiene que cubrir ambas cifras."
+  - question: "¿Cuánto cuesta un generador para una casa de 2.000 pies cuadrados?"
+    answer: "El nivel marca el precio. Un buen portátil dual fuel de 7.500 W cuesta 700–1.100 dólares, más 500–1.500 por la caja de entrada y el enclavamiento instalados. Los portátiles grandes de la clase de 12.000–15.000 W de pico cuestan 1.200–2.000 dólares, mientras que los fijos más pequeños de 10–14 kW cuestan unos 3.500–5.500 dólares la unidad antes de la instalación. Arriba, las unidades fijas de 18–22 kW cuestan unos 5.000–6.500 dólares antes de instalar, y un trabajo completo instalado suele quedar entre 11.000 y 14.500 dólares."
 pubDate: 2026-10-21
 keywords: ["qué tamaño de generador para una casa de 2000 pies cuadrados", "generador para casa de 2000 pies cuadrados", "cuántos vatios necesita una casa de 2000 pies cuadrados", "generador de 22 kw para una casa", "tamaño de generador según los pies cuadrados"]
 lang: "es"
 ---
+
+**Respuesta rápida:** La mayoría de las casas de 2.000 pies cuadrados caen en tres niveles: 5.000–7.500 vatios solo para lo esencial, 10.000–14.000 vatios para casi toda la casa con un poco de gestión de cargas, y 18.000–22.000 vatios en una unidad fija para todo, aire central incluido. Qué nivel es el tuyo depende del tonelaje de tu aire y de si la calefacción, el agua caliente y la cocina son de gas o eléctricas — no solo de los pies cuadrados.
 
 Si me preguntas qué tamaño de generador para una casa de 2000 pies cuadrados (unos 186 m²) necesitas, te voy a dar la respuesta que da cualquier electricista, porque es la única honesta: depende — pero depende de cosas que puedo explicarte en unos diez minutos. Dos casas con el mismo plano pueden necesitar generadores que difieren en 10.000 vatios, y me ha tocado dimensionar las dos en la misma urbanización.
 

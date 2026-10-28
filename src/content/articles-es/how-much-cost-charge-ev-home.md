@@ -19,6 +19,8 @@ faq:
     answer: "Unos 250–350 kWh al mes por 1,000 millas de manejo — más o menos un aumento del 30–40% sobre el recibo eléctrico promedio de un hogar en EE.UU. A $0.16/kWh, son $40–$56 al mes."
 ---
 
+**Respuesta rápida:** Al promedio residencial de EE.UU. de 2026 de unos $0.16 por kWh, manejar 1,000 millas al mes cuesta más o menos $40 a $53 en electricidad — como un tercio de lo que gastarías en gasolina. Tu estado, tu plan de tarifa, la eficiencia de tu auto y cuándo cargas pueden mover ese número de menos de $30 a más de $120 por exactamente las mismas millas.
+
 El costo de cargar un VE en casa es una de esas preguntas con respuesta simple y verdad complicada. La respuesta simple: al promedio residencial de EE.UU. de 2026 de unos **$0.16 por kWh**, manejar 1,000 millas al mes cuesta más o menos **$40 a $53 en electricidad** — como un tercio de lo que gastarías en gasolina. La verdad complicada: tu estado, tu plan de tarifa, la eficiencia de tu auto y cuándo cargas pueden mover ese número de menos de $30 a más de $120 por exactamente las mismas millas.
 
 Soy electricista, no economista, pero he hecho esta matemática en servilletas para suficientes clientes que puedo explicártela en cinco minutos. Sin hype, sin tonterías de "ahorra $10,000 al año" — solo la aritmética.

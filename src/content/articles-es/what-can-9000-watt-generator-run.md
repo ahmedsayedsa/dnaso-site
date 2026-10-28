@@ -18,9 +18,9 @@ keywords: ["qué puede alimentar un generador de 9000 vatios", "generador de 900
 lang: "es"
 ---
 
-«¿Qué puede alimentar un generador de 9000 vatios?» es la pregunta que me hacen los propietarios que leyeron las cuentas de los 7.500 vatios, vieron la frase «elige UNA carga resistiva grande por vez», y decidieron que preferían pagar para salir de la coreografía. Razonable. Nueve mil vatios es donde un portátil deja de ser una máquina de esenciales con trucos y se convierte en una máquina de casa entera con un par de reglas: el calentador de agua eléctrico y la secadora rotan en vez de funcionar juntos, y el aire central entra en el plan — con arrancador suave, no sin él. La diferencia entre dueños contentos y frustrados sigue siendo aritmética, solo que con márgenes más grandes. Así que hagámosla.
-
 **Respuesta rápida:** Un generador de 9.000 vatios alimenta prácticamente una casa entera con calefacción de gas — refrigerador, congelador, bomba de pozo de 1 HP, calefacción, luces, electrónica — más un calentador de agua eléctrico **o** una secadora en rotación, más un aire central de 3 toneladas con arrancador suave. No puede con el calentador, la secadora y el aire a la vez, ni con un calentador de agua eléctrico instantáneo, ni con un aire de 5 toneladas.
+
+«¿Qué puede alimentar un generador de 9000 vatios?» es la pregunta que me hacen los propietarios que leyeron las cuentas de los 7.500 vatios, vieron la frase «elige UNA carga resistiva grande por vez», y decidieron que preferían pagar para salir de la coreografía. Razonable. Nueve mil vatios es donde un portátil deja de ser una máquina de esenciales con trucos y se convierte en una máquina de casa entera con un par de reglas: el calentador de agua eléctrico y la secadora rotan en vez de funcionar juntos, y el aire central entra en el plan — con arrancador suave, no sin él. La diferencia entre dueños contentos y frustrados sigue siendo aritmética, solo que con márgenes más grandes. Así que hagámosla.
 
 ## ¿Esos 9.000 vatios son continuos o de arranque?
 

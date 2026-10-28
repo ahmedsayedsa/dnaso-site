@@ -11,9 +11,13 @@ faq:
     answer: "Use conventional oil for the break-in fill and the 5-hour change — not because synthetic prevents ring seating (with modern ring packs that's mostly a myth), but because you're throwing this oil away after 5 hours and again at 20–25 hours. Cheap conventional 10W-30 at $5–7 a quart makes that painless. Switch to synthetic at the second or third change if you want it."
   - question: "Can I use my new generator during an outage before it's broken in?"
     answer: "Yes — powering your fridge beats protecting a piston. Run it, but help it out: don't pin it at maximum output for hours, cycle the big loads instead of running everything at once, and let it cool down between long runs. Then do the 5-hour oil change as soon as the outage is over, even if the generator only has 3 hours on it."
+  - question: "What should the oil from the first 5-hour change look like?"
+    answer: "Drain that first oil warm at the 5-hour change and actually look at it — pour it through a coffee filter or paint strainer over the drain pan. A metallic sheen and a few bright specks are normal: that is machining debris and wear particles from fresh surfaces finding their mates. Strips, curls, or pieces you can pick up and bend are not normal, and they are a warranty conversation while the machine is still new. A magnetic drain plug showing fine gray fur at the second change is likewise a good sign."
 pubDate: 2026-10-21
 keywords: ["how to break in a generator", "generator break in procedure", "new generator break in period", "generator first oil change 5 hours", "seating piston rings generator"]
 ---
+
+**Quick answer:** Break in a new generator over about 5 hours of running, split into sessions with full cool-downs between them: start with no load, then work up through roughly 25%, 50%, and 75% of rated watts while varying the load, and change the oil at 5 hours with conventional 10W-30. Done right, the piston rings seat against the cylinder wall and the engine keeps its compression and clean oil for life; idling for hours or sustained full load in those first hours are the two patterns to avoid.
 
 Most people learn how to break in a generator exactly one storm too late. They unbox it with the power already out, plug in everything they own, and run it flat-out for two days straight. I've serviced those engines afterward — oil consumption at 200 hours that a healthy engine shouldn't show at 2,000.
 

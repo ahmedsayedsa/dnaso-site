@@ -11,10 +11,14 @@ faq:
     answer: "La mayoría de los modelos Predator (inverter 3500, 4375, 9000) traen de fábrica una bujía Torch F6RTC. La referencia directa en NGK es la BPR6ES; la Champion RN12YC también sirve. Calíbrala a 0,028–0,031 pulgadas. Las bujías Torch de fábrica son un punto débil conocido: cambiarla por una NGK es una mejora de $5–7 que recomiendo en cualquier Predator que no arranque."
   - question: "Mi Predator aún está en garantía: ¿lo reparo o lo devuelvo?"
     answer: "Devuélvelo primero. La garantía estándar de Harbor Freight en estos generadores es de solo 90 días, y abrir el carburador por tu cuenta les da un motivo para discutir. Dentro de los 90 días, que la tienda te lo cambie; si compraste el Extended Service Plan, úsalo. Fuera de garantía, son de los generadores más baratos de reparar por tu cuenta en EE. UU.: motores clon de Honda, piezas en todas partes."
+  - question: "¿Vale la pena el costo extra de la gasolina sin etanol en un generador Predator?"
+    answer: "Para la mayoría de los dueños de un Predator, sí, porque estos carburadores se tapan rápido con E10 guardada y el surtidor principal del carburador de 212cc deja muy poco espacio para el barniz. La gasolina sin etanol cuesta $0,50–1,00 más por galón, pero un Predator quema solo unos galones al año en servicio de espera, así que el sobrecosto anual se queda chico. A cambio, elimina la mayor causa de muerte de esta línea de productos. Si no la consigues, agrega estabilizador el día que compras la gasolina normal, no el día que la guardas."
 pubDate: 2026-10-21
 keywords: ["generador Predator no arranca", "Predator 3500 no arranca", "generador Harbor Freight no enciende", "Predator 9000 no arranca", "carburador Predator"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Trabaja las revisiones propias de Predator en orden: confirma que la llave de paso esté totalmente en ON y que la gasolina llegue al carburador, drena la gasolina vieja, revisa el nivel de aceite y el sensor de bajo aceite, y cambia la bujía Torch de fábrica por una NGK BPR6ES bien calibrada. Si arranca con arrancador en aerosol pero muere, los surtidores del carburador están tapados, y en estos motores clon de Honda un carburador de repuesto de $25–45 suele ser más inteligente que limpiarlo. Los pasos 1 a 4 toman unos diez minutos y arreglan una tercera parte de estas máquinas.
 
 Un generador Predator no arranca por el mismo puñado de razones que cualquier motor chico — más dos o tres mañas propias de las máquinas de Harbor Freight. He dado servicio a muchos de estos. Son motores clon de Honda fabricados para un precio, y una vez que sabes dónde recortaron costos, son de los generadores más fáciles de diagnosticar en EE. UU. Las fallas se juntan en los mismos lugares: el carburador, el sensor de bajo aceite, y una bujía de fábrica en la que no confiaría ni para encender una vela de cumpleaños.
 

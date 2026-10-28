@@ -17,9 +17,9 @@ pubDate: 2026-10-21
 keywords: ["what can a 3500 watt generator run", "3500 watt generator", "3500w generator for house", "what will a 3500 watt generator power", "3500 watt generator load list"]
 ---
 
-"What can a 3500 watt generator run?" is the question I get from homeowners who priced the 2,000-watt inverters, realized a window AC wasn't in that world, and don't want to pay for 5,000 watts they'll never use. Fair instinct — 3,500 watts is the smallest size that runs a real house's essentials *plus* one comfort load that matters: a window AC in summer, or the furnace blower and a space-heated room in winter. What it won't do is forgive sloppy stacking. The difference between happy owners and frustrated ones is almost never the generator. It's whether somebody did the load math before the storm. So let's do it.
-
 **Quick answer:** A 3,500-watt generator runs a refrigerator, freezer, sump pump, furnace blower, lights, and internet — about **2,100 watts of essentials** — plus one window AC (900–1,200W) or a microwave in rotation. It cannot run an electric water heater, an electric dryer, central AC, or a 1 HP well pump's startup surge.
+
+"What can a 3500 watt generator run?" is the question I get from homeowners who priced the 2,000-watt inverters, realized a window AC wasn't in that world, and don't want to pay for 5,000 watts they'll never use. Fair instinct — 3,500 watts is the smallest size that runs a real house's essentials *plus* one comfort load that matters: a window AC in summer, or the furnace blower and a space-heated room in winter. What it won't do is forgive sloppy stacking. The difference between happy owners and frustrated ones is almost never the generator. It's whether somebody did the load math before the storm. So let's do it.
 
 ## Is that 3,500 watts running or starting?
 

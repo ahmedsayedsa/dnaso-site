@@ -11,10 +11,14 @@ faq:
     answer: "Unas 25–30 millas por galón, con todo contado. Un generador que quema medio galón por hora para producir 1,4 kW de carga Nivel 1 mete de 3 a 5 millas por hora en un coche típico: el rendimiento de un sedán de gasolina modesto. Cargar con generador es un puente de emergencia hasta un cargador que sí funciona, no una forma barata de manejar."
   - question: "¿Qué tamaño de generador necesito para cargar un coche eléctrico?"
     answer: "Para Nivel 1, casi cualquiera de 2.000W para arriba sirve, pero un inverter de 3.500–4.500W es el punto ideal: sostiene la carga sin forzarse y gasta poco. Para Nivel 2 a 240V necesitas una toma de 240V y una potencia continua (de trabajo) de al menos 7.500W, y aun así bajarás el cargador a 24–32 amperios para que el generador no trabaje a tope."
+  - question: "¿Puedo cargar mi coche eléctrico y alimentar mi casa con el mismo generador al mismo tiempo?"
+    answer: "Solo si el generador es lo bastante grande, porque una sesión de carga es una carga continua por horas, no un aparato que entra y sale. El Nivel 1 por sí solo consume 1,2–1,4 kW durante toda la sesión, y una sesión Nivel 2 a 240V y 24–32 amperios consume 5,8–7,7 kW, por eso una sesión de 32 amperios pide una potencia continua de 9.000W o más. En una unidad más chica, sigue la regla de una carga pesada a la vez: la sesión del coche es el trabajo del generador en esa corrida, y bajar los amperios del cargador evita que una sesión estable dispare el breaker."
 pubDate: 2026-10-21
 keywords: ["puede un generador portátil cargar un coche eléctrico", "cargar coche eléctrico con generador", "generador para cargar ev", "bonding plug generador", "generador inverter coche eléctrico"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Sí — un generador portátil puede cargar un coche eléctrico, sumando 3–5 millas de autonomía por hora en Nivel 1 (120V), o 20–30 millas por hora en Nivel 2 a 240V desde un generador grande con el cargador bajado a 24–32 amperios. Solo funciona con fiabilidad con la corriente limpia de un generador inverter y, en la mayoría de los portátiles, con un bonding plug de neutro-tierra que permite que el coche pase su revisión de tierra.
 
 La tormenta corta la luz, el coche está al 35% de batería y hasta casa de tus suegros — que sí tienen luz — hay 28 millas. Entonces: ¿puede un generador portátil cargar un coche eléctrico lo suficiente para llegar? En los últimos dos años me han hecho esta pregunta en visitas de servicio más veces que en los dieciocho anteriores juntos, y mi respuesta siempre es la misma: sí, funciona, es más lento de lo que esperas, y hay dos trampas que detienen a casi todos en el primer intento.
 

@@ -18,9 +18,9 @@ keywords: ["qué puede alimentar un generador de 4000 vatios", "generador de 400
 lang: "es"
 ---
 
-«¿Qué puede alimentar un generador de 4000 vatios?» es la pregunta que me hacen los propietarios que hicieron las cuentas con la clase de 3.500 vatios, les gustó, y luego miraron su bomba de pozo o su segundo aire de ventana y dudaron. Esa duda está bien puesta: 4.000 vatios es donde la combinación de esenciales más confort deja de ser un ejercicio de coreografía y empieza a ser un plan. Todavía no puedes mover una casa totalmente eléctrica, y todavía administras las cargas grandes — pero los márgenes se vuelven honestos. La diferencia entre dueños contentos y dueños frustrados casi nunca es el generador. Es si alguien hizo las cuentas de carga antes de la tormenta. Así que hagámoslas.
-
 **Respuesta rápida:** Un generador de 4.000 vatios alimenta un refrigerador, un congelador, una bomba de sumidero o de pozo de 1/2 HP, el soplador de la calefacción, las luces e internet — unos **2.100 vatios de esenciales** — más un aire de ventana y un microondas con escalonamiento ligero. No puede con un calentador de agua eléctrico (4.500 W lo superan él solo), una secadora eléctrica, aire central, ni arrancar de forma fiable una bomba de pozo de 1 HP.
+
+«¿Qué puede alimentar un generador de 4000 vatios?» es la pregunta que me hacen los propietarios que hicieron las cuentas con la clase de 3.500 vatios, les gustó, y luego miraron su bomba de pozo o su segundo aire de ventana y dudaron. Esa duda está bien puesta: 4.000 vatios es donde la combinación de esenciales más confort deja de ser un ejercicio de coreografía y empieza a ser un plan. Todavía no puedes mover una casa totalmente eléctrica, y todavía administras las cargas grandes — pero los márgenes se vuelven honestos. La diferencia entre dueños contentos y dueños frustrados casi nunca es el generador. Es si alguien hizo las cuentas de carga antes de la tormenta. Así que hagámoslas.
 
 ## ¿Esos 4.000 vatios son continuos o de arranque?
 

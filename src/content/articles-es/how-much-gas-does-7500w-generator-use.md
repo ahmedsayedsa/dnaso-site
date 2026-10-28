@@ -11,10 +11,14 @@ faq:
     answer: "A media carga vas a quemar unos 18 galones en 24 horas. Con la gasolina a $3,20–$3,60 el galón, son $58–$65 al día. Baja a disciplina de cuarto de carga y cae a unos $40 al día; trabaja cerca de plena carga todo el día y pasas de $90. Un apagón de tres días a media carga es un problema de más de 50 galones."
   - question: "¿Un generador inverter de 7.500 vatios consume menos gasolina?"
     answer: "Con cargas ligeras, sí. Un inverter puede bajar las revoluciones de su motor, así que su consumo al cuarto de carga puede quedar 20–30% por debajo del de una unidad convencional. Cerca de plena carga la diferencia casi desaparece, porque el motor del inverter también tiene que girar a toda velocidad. El ahorro vive en las cargas bajas de la noche — que es justo donde se pasan la mayoría de las horas de un apagón."
+  - question: "¿Por qué un generador de 7.500 vatios quema tanta gasolina cuando casi no hay nada conectado?"
+    answer: "Porque un generador convencional nunca baja de verdad al ralentí. Su motor está bloqueado a 3.600 RPM reguladas, esté alimentando una casa entera o un solo cargador de teléfono, y no tiene modo eco, así que aun al 25% de carga sigue quemando unos 0,45–0,55 galones por hora solo por mantener el motor girando. Esa base también explica por qué el salto a plena carga, unos 1,2 galones por hora, es menor de lo que la gente espera. Los modelos inverter sí pueden bajar de vueltas con cargas ligeras, y por eso su consumo a cuarto de carga es un 20–30% menor."
 pubDate: 2026-10-21
 keywords: ["cuánta gasolina consume un generador de 7500 vatios", "consumo de gasolina generador de 7500 vatios", "autonomía generador de 7500 vatios", "cuánto dura un generador de 7500 vatios", "galones por hora generador 7500 vatios"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Un generador de 7.500 vatios quema unos 0,5 galones por hora al cuarto de carga, 0,75 a media carga, 1,0 a tres cuartos y alrededor de 1,2 a toda máquina — la carga que llevas es toda la historia. Al crucero de media carga en el que la mayoría de las casas se quedan, un tanque típico de 6,6–7,5 galones dura unas 8,5–10 horas, y 24 horas completas queman unos 18 galones.
 
 Pregúntale a un grupo de dueños de generadores cuánta gasolina consume un generador de 7500 vatios y vas a escuchar desde «casi nada» hasta «se bebió todo mi fondo de emergencia». Los dos están diciendo la verdad. Solo estaban operando cargas distintas. Un portátil de 7.500 vatios tranquilo con un refrigerador y unas luces quema alrededor de medio galón por hora. La misma máquina con una bomba de pozo, un calentador de agua y dos calefactores encima quema bastante más de un galón por hora. La carga es toda la historia, así que pongámosle cifras reales.
 

@@ -11,9 +11,13 @@ faq:
     answer: "Mostly no — a standby runs a weekly exercise cycle all winter, so nothing sits long enough to go stale, and pipeline natural gas never degrades. What it does need before winter: a battery check (cold is when weak batteries fail), a coolant check on liquid-cooled models, clear intake and exhaust, and confirmation the exercise cycle is actually running."
   - question: "What happens if I just park my generator for the winter without doing anything?"
     answer: "Nothing visible — until the first spring outage. Untreated gasoline breaks down in about 30 days and varnishes the carburetor jets within months, the battery self-discharges and sulfates, and mice may nest in the air box. The typical bill: a carburetor cleaning or replacement ($15–35 for the part, $150–350 at a shop), a new battery ($30–60), and a generator that fails exactly when you need it."
+  - question: "How do I keep mice and other rodents out of a stored generator?"
+    answer: "Start during the fall service: clean the air box while you service the filter, since a dirty filter left all winter doubles as nesting material. Stuff steel wool into the exhaust outlet, and tie a tag on the handle that says REMOVE BEFORE STARTING so nobody fires the engine with it in place. Put mothballs around the unit — never inside the air box. Then store it dry and off the ground on a pallet or 2x4s, under a breathable cover rather than a sealed plastic tarp, which traps condensation."
 pubDate: 2026-10-21
 keywords: ["how to winterize a generator", "generator storage", "winterize portable generator", "generator winter storage", "fogging oil for generator"]
 ---
+
+**Quick answer:** Winterizing takes about an hour and roughly $30: decide between a full tank treated with fuel stabilizer and running the generator dry, change the oil before storage rather than after, fog the cylinder, and put the battery on a maintainer. A generator stored that way is good for six months easily — twelve is realistic — and starts in spring instead of needing a carburetor cleaning and a new battery.
 
 Every spring I get the same phone calls. The first storm knocks out power, somebody wheels out a generator that ran perfectly in October, pulls the cord twenty times, and gets nothing. Then I drain fuel that smells like varnish, quote them a carburetor, and they ask the question that should have been asked in the fall: how to winterize a generator so this doesn't happen?
 

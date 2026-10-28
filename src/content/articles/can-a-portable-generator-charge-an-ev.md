@@ -11,9 +11,13 @@ faq:
     answer: "About 25–30 miles per gallon, all-in. A generator burning roughly half a gallon per hour to make 1.4 kW of Level 1 power puts 3–5 miles per hour into an average EV, which works out to the fuel economy of a modest gasoline sedan. Generator charging is an emergency bridge to a working charger, not a cheap way to drive."
   - question: "What size generator do I need to charge an EV?"
     answer: "For Level 1, almost anything 2,000W and up works, but a 3,500–4,500W inverter generator is the sweet spot — it holds the load without straining and sips fuel. For Level 2 at 240V you need a generator with a 240V outlet and a continuous (running) rating of at least 7,500W, and you'll still dial the charger down to 24–32 amps so the generator isn't running flat-out."
+  - question: "Can I charge my EV and power my house from the same generator at the same time?"
+    answer: "Only if the generator is big enough, because an EV session is a continuous load for hours, not a cycling appliance. Level 1 alone draws 1.2–1.4 kW for the whole session, and a 240V Level 2 session at 24–32 amps draws 5.8–7.7 kW, which is why a 32-amp session wants a continuous rating of 9,000W or more. On a smaller unit, follow the one-heavy-load-at-a-time rule: the charging session is the generator's job during that run, and dialing the charger down keeps a steady session from tripping the breaker."
 pubDate: 2026-10-21
 keywords: ["can a portable generator charge an ev", "charge ev with generator", "generator ev charging", "bonding plug generator ev", "inverter generator ev charging"]
 ---
+
+**Quick answer:** Yes — a portable generator can charge an EV, adding 3–5 miles of range per hour at Level 1 (120V), or 20–30 miles per hour on 240V Level 2 from a large generator with the charger dialed down to 24–32 amps. It only works reliably with clean power from an inverter generator and, on most portables, a neutral-ground bonding plug that lets the car pass its ground check.
 
 The storm takes the power out, the car is sitting at 35%, and it's a 28-mile drive to your in-laws — who have power. So: can a portable generator charge an EV well enough to get you there? I've been asked this on service calls more times in the last two years than in the previous eighteen combined, and my answer is always the same: yes, it works, it's slower than you hope, and there are two traps that stop most people cold on the first try.
 

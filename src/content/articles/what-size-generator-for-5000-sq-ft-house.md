@@ -11,9 +11,13 @@ faq:
     answer: "Because a single tankless electric unit draws 18–27kW all by itself — as much as an entire mid-size standby generator. A Rheem RTEX-27, for example, pulls 27kW (three 40-amp elements) whenever anyone opens a hot-water tap. On generator power, that one appliance can overload a 26kW unit instantly. Homes with tankless electric heat almost always need load-shed lockout of the water heater or a much larger generator."
   - question: "Is it better to buy one big generator or two smaller ones for a large house?"
     answer: "For most 5,000 sq ft homes, one properly sized liquid-cooled unit is simpler and cheaper than paralleling two smaller standby generators, which needs synchronization gear and two of everything to maintain. The exception is a property with two separate structures or panels — main house plus guest house, for example — where two independent units, one per panel, give real redundancy without the complexity."
+  - question: "What size propane tank does a 5000 sq ft house generator need?"
+    answer: "Bigger than most people expect. A 30–38kW liquid-cooled unit burns roughly 2.8–3.6 gallons of propane per hour at half load and 4.5–5.5 gallons per hour near full load, so homes this size typically install 500- or 1,000-gallon tanks. A 250-gallon tank filled to its safe 80% gives you barely two to three days at half load. At these burn rates, tank size is outage endurance — which is why natural gas, at roughly $60–$130 per day with no tank to refill, is the automatic choice when a gas main is available."
 pubDate: 2026-10-21
 keywords: ["what size generator for a 5000 sq ft house", "5000 square foot house generator size", "30kw generator whole house", "liquid cooled vs air cooled generator", "large home standby generator sizing"]
 ---
+
+**Quick answer:** Most 5,000 sq ft homes need 26–38kW — gas-heated, gas-water-heater homes with good load management sit at the bottom of that range, while all-electric homes sit at the top and sometimes above it. What decides the size is how many air conditioners you have, how your water gets hot and whether there's a pool out back, not the floor plan alone.
 
 Ask me what size generator for a 5000 sq ft house and I'll tell you the truth most sales quotes skip: square footage stopped being the deciding number about 2,000 square feet ago. At 5,000 square feet — roughly 465 m² — what decides your generator size is how many air conditioners you have, how your water gets hot, and whether there's a pool out back. I've sized standby systems for homes this size for years, and two houses with identical floor plans can honestly land 15kW apart.
 

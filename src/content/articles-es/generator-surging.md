@@ -11,10 +11,14 @@ faq:
     answer: "Haciéndolo tú: $0–10 si limpiar el piloto lo resuelve, $20–60 por un carburador de repuesto si no. Un taller cobra $75–120 la hora, y una limpieza o cambio de carburador suele quedar en $120–250 con piezas. Es uno de los problemas más baratos de arreglar: casi nunca vale la pena cambiar la máquina por esto."
   - question: "¿Por qué mi generador inverter oscila en modo eco?"
     answer: "Los inverter varían la velocidad según la carga, y el modo eco lo baja a un ralentí muy bajo. Un poco de oscilación con una carga que se cicla en modo eco es normal; sostenida con carga constante, no. Prueba con el eco apagado: si se estabiliza, el problema está en el circuito de ralentí — normalmente el mismo piloto — no en la electrónica."
+  - question: "¿Cómo puedo evitar que mi generador vuelva a oscilar después de estar guardado?"
+    answer: "La prevención es sobre todo disciplina con la gasolina, porque empieza a formar barniz en 30–60 días y las mezclas con etanol son peores, y el surtidor piloto, el agujero más chico del sistema, se tapa primero. Drena la gasolina de más de uno o dos meses si no fue estabilizada, rellena con gasolina fresca antes de culpar al hardware y revisa el filtro de aire cada 50 horas o al inicio de la temporada de tormentas. Un motor que oscila también desperdicia gasolina, así que mantener combustible fresco y el filtro limpio ayuda al gobernador a sostener una mezcla estable."
 pubDate: 2026-10-21
 keywords: ["generador sube y baja de revoluciones", "generador con revoluciones inestables", "generador oscila en ralentí", "surtidor piloto tapado generador", "oscilación de revoluciones generador"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Una oscilación que se estabiliza con carga suele apuntar a un surtidor piloto tapado, sobre todo después de un guardado con gasolina vieja. Limpia primero el surtidor piloto — como una hora y $5–10 de limpiador de carburadores — y luego prueba sin carga y con una carga constante, como un calentador de 1.500 vatios. Si sigue oscilando, revisa en orden el filtro de aire, la varilla del gobernador, la entrega de gasolina y la bujía.
 
 Que el generador sube y baja de revoluciones es la falla por la que más me llaman tras la temporada de tormentas. El motor no se estabiliza — sube, baja, sube, baja, ese ua-ua-ua cada dos o tres segundos — y las luces parpadean al mismo ritmo. Suena a que la máquina se está muriendo. Casi nunca es así. El generador con revoluciones inestables (los mecánicos lo llamamos hunting, oscilación) es casi siempre un problema de alimentación de gasolina que se arregla en tu patio por el precio de una lata de limpiador.
 

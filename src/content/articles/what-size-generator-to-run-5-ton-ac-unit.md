@@ -11,9 +11,13 @@ faq:
     answer: "Yes — it's the single best money you can spend here. A MicroAir-class soft starter (about $300–450 installed) ramps the compressor up instead of slamming it, cutting startup inrush by 65–75%. Your 30,000-watt-plus surge becomes 8,000–10,000 watts, which a large portable can genuinely handle. Bonus: gentler starts on utility power too — less light flicker, less compressor wear."
   - question: "What size standby generator do I need for a 5-ton AC and the rest of the house?"
     answer: "Most installers quote 18–24 kW, and 22 kW is the common landing spot. That range runs the 5-ton AC — with load management shedding the water heater while the compressor starts — plus fridge, lights, well pump, and normal life without juggling. A 14–16 kW unit with a soft starter and aggressive load shedding can work, but you'll feel the compromises in a long outage. For most 5-ton homes, 22 kW is the honest recommendation."
+  - question: "How much fuel will a portable generator burn running a 5-ton AC?"
+    answer: "Plan on roughly 1–1.5 gallons of gasoline per hour. Under a continuous air conditioning load of about 6,500 watts, a portable in the 12,000–14,000-watt class drinks at that rate, so three days of cooling adds up to a lot of fuel runs. That is why many owners keep a 100-lb propane tank on hand for long outages instead, accepting roughly 10–15% less output on propane than on gasoline in exchange for far fewer trips to refill."
 pubDate: 2026-10-21
 keywords: ["what size generator to run a 5 ton ac unit", "5 ton ac starting watts", "generator for 5 ton ac unit", "soft starter for 5 ton ac", "5 ton ac running watts"]
 ---
+
+**Quick answer:** A 5-ton AC runs at about 5,500–6,500 watts but throws a 31,000–38,000-watt surge at startup, so size for the surge, not the running load: a 12,000–14,000-watt portable plus a soft starter, or an 18–24kW standby, with 22kW the typical landing spot. A soft starter cuts that surge to roughly 8,000–10,000 watts, which is what makes the portable route genuinely workable.
 
 If you're asking what size generator to run a 5 ton AC unit, here's the uncomfortable truth I give every homeowner who calls me: the running watts are almost irrelevant. A 5-ton is the biggest residential AC most houses ever get, and its compressor doesn't sip power when it starts — it throws a 30,000-watt punch for a split second. Size for that punch, or don't bother.
 

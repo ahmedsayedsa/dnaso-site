@@ -11,10 +11,14 @@ faq:
     answer: "No. El monóxido de carbono es totalmente incoloro e inodoro: por eso la CPSC lo llama el asesino invisible. Lo que se huele cerca de un generador encendido es combustible sin quemar y otros compuestos del escape, no el CO en sí, y un generador que huele «limpio» puede estar produciendo concentraciones letales. Tu único aviso confiable es un detector de CO, y por eso toda casa que use un generador necesita detectores funcionando en cada piso."
   - question: "¿Un generador con sensor de apagado por CO hace seguro usarlo en el garage?"
     answer: "No. Los sensores de apagado por CO (CO-SENSE, CO Shield y nombres parecidos, fabricados bajo las normas ANSI/PGMA G300 y UL 2201) paran el motor cuando el CO se acumula alrededor de la unidad. Son un respaldo de último recurso para un generador que ya está afuera, no un permiso para acercarlo a la casa. Muestrean el aire junto al generador, envejecen a los 5–7 años y no hacen nada contra el CO que ya entró a la casa. El sensor es un cinturón de seguridad, no un permiso para chocar."
+  - question: "¿Cada cuánto hay que reemplazar los detectores de CO?"
+    answer: "Revisa la fecha en la parte trasera de cada alarma: el elemento sensor de CO envejece, y la mayoría de las alarmas tiene una vida de 5–10 años, con una señal de fin de vida cuando ya no sirve. Un detector amarillento de 2014 es un adorno, no protección. Instala alarmas con respaldo de batería — $25–50 cada una — en cada piso de la casa y fuera de cada zona de dormitorios, porque las unidades cableadas sin respaldo se apagan justo en el apagón para el que tienes el generador. Revisa la fecha y las baterías dos veces al año, el mismo fin de semana que revisas el generador."
 pubDate: 2026-10-21
 keywords: ["seguridad con monóxido de carbono en generadores", "generador en el garage", "intoxicación por monóxido de carbono generador", "a qué distancia debe estar un generador de la casa", "detector de CO para generador"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Nunca uses un generador en interiores — ni en el garage, ni siquiera con la puerta abierta. Úsalo solo en exteriores, a 20 pies (unos 6 metros) como mínimo de la casa, con el escape apuntando lejos de cada puerta, ventana y rejilla, y mantén detectores de CO funcionando, con respaldo de batería, en cada piso. El monóxido de carbono es incoloro e inodoro, un solo generador portátil emite tanto como cientos de autos, y causa unas 100 muertes al año en Estados Unidos.
 
 Soy electricista licenciado y llevo 18 años cableando casas e instalando generadores de reserva. Voy a ser directo de una forma en que no suelo serlo en estas guías: en la seguridad con monóxido de carbono en generadores no hay ningún truco ingenioso escondido en este artículo. Hay una sola regla, es absoluta, y cada año muere gente por tratarla como una sugerencia.
 

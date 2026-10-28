@@ -11,9 +11,13 @@ faq:
     answer: "No. Carbon monoxide is completely colorless and odorless — that's why the CPSC calls it the invisible killer. What you smell near a running generator is unburned fuel and other exhaust compounds, not CO itself, and a generator that smells 'clean' can still be producing lethal concentrations. Your only reliable warning is a CO detector, which is why every home running a generator needs working detectors on every floor."
   - question: "Does a generator with a CO shutoff sensor make it safe to run in a garage?"
     answer: "No. CO shutoff sensors (CO-SENSE, CO Shield, and similar, built to the ANSI/PGMA G300 and UL 2201 standards) shut the engine down when CO accumulates around the unit. They're a last-resort backup for a generator that's already outdoors, not a license to move it closer. They sample air at the generator, age out after 5–7 years, and do nothing about CO that has already drifted inside. The sensor is a seatbelt, not permission to crash."
+  - question: "How often do CO detectors need to be replaced?"
+    answer: "Check the date on the back of every alarm: the CO sensor element ages out, and most alarms have a 5–10 year life with an end-of-life signal when they are done. A yellowed detector from 2014 is furniture, not protection. Fit battery-backed alarms — $25–50 each — on every level of the house and outside each sleeping area, because hardwired units without battery backup go dark in the very outage you are running a generator through. Check the date and the batteries twice a year, the same weekend you check the generator."
 pubDate: 2026-10-21
 keywords: ["generator carbon monoxide safety", "generator in garage", "carbon monoxide poisoning generator", "how far should a generator be from the house", "generator CO detector"]
 ---
+
+**Quick answer:** Never run a generator indoors — not in a garage, even with the door open. Run it outdoors only, at least 20 feet from the house with the exhaust pointed away from every door, window, and vent, and keep working, battery-backed CO detectors on every floor. Carbon monoxide is colorless and odorless, a single portable generator produces as much of it as hundreds of cars, and it accounts for roughly 100 deaths a year in the United States.
 
 I'm a licensed electrician, and I've spent 18 years wiring houses and installing standby generators. I'll be blunt in a way I usually am not in these guides: generator carbon monoxide safety has no clever workaround hiding somewhere in this article. There's one rule, it's absolute, and every year people die because they treated it like a suggestion.
 

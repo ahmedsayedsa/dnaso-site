@@ -11,9 +11,13 @@ faq:
     answer: "Most Predator models (3500 inverter, 4375, 9000) ship with a Torch F6RTC plug. The direct NGK cross-reference is the BPR6ES; the Champion RN12YC also fits. Gap it to 0.028–0.031 inches. Stock Torch plugs are a known weak point — swapping in an NGK is a $5–7 upgrade I recommend on any Predator that won't start."
   - question: "My Predator is still under warranty — should I repair it or take it back?"
     answer: "Take it back first. Harbor Freight's standard generator warranty is only 90 days, and tearing into the carburetor yourself gives them a reason to argue. Inside 90 days, let the store exchange it; if you bought the Extended Service Plan, use it. Outside warranty, these are some of the cheapest generators in America to fix yourself — Honda-clone engines, parts everywhere."
+  - question: "Is ethanol-free gasoline worth the extra cost in a Predator generator?"
+    answer: "For most Predator owners, yes, because these carburetors clog fast on stored E10 and the small main jet on the 212cc carburetor leaves very little room for varnish. Ethanol-free gasoline costs $0.50–1.00 more per gallon, but a Predator burns only a few gallons a year in standby duty, so the yearly premium stays small. In return, it eliminates the biggest cause of death in this product line. If you cannot get it, add stabilizer the day you buy regular fuel, not the day you store it."
 pubDate: 2026-10-21
 keywords: ["Predator generator won't start", "Predator 3500 won't start", "Harbor Freight generator troubleshooting", "Predator 9000 no start", "Predator generator carburetor"]
 ---
+
+**Quick answer:** Work the Predator-specific checks in order: confirm the petcock is fully on and fuel reaches the carburetor, drain stale fuel, check oil level and the low-oil sensor, and replace the stock Torch plug with a properly gapped NGK BPR6ES. If it starts on starter fluid but dies, the carburetor jets are clogged — on these Honda-clone engines a $25–45 replacement carburetor is often smarter than cleaning. Steps 1 through 4 take about ten minutes and fix a third of these machines.
 
 A Predator generator won't start for the same handful of reasons every other small engine won't — plus two or three quirks specific to Harbor Freight's machines. I've serviced a lot of these. They're Honda-clone engines built to a price, and once you know where the corners were cut, they're honestly some of the easiest generators in America to diagnose. The failures cluster in the same places: the carburetor, the low-oil sensor, and a stock spark plug I wouldn't trust to light a birthday cake.
 

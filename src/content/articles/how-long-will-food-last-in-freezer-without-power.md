@@ -11,9 +11,13 @@ faq:
     answer: "Yes — if the food still contains ice crystals or has stayed at 40°F or below, the USDA says it can be safely refrozen or cooked, though quality (texture, moisture) will suffer. If it has been above 40°F for more than 2 hours, throw it out; refreezing doesn't kill bacteria that grew while it was warm. Partially thawed raw meat is often best cooked first, then frozen as a cooked dish."
   - question: "How much dry ice do I need to save a freezer during an outage?"
     answer: "A rough rule is 25 pounds for about 24 hours in an average home freezer, and 50 pounds stretches that to roughly 48 hours with the door kept shut. Dry ice sits at -109°F, so handle it with gloves, never bare hands, keep the room ventilated, and never seal it in an airtight container. Buy it as late as possible — it sublimates about 5–10 pounds a day even sitting in a cooler."
+  - question: "Does a chest freezer keep food cold longer than an upright in an outage?"
+    answer: "Yes. Cold air sinks, so when you open an upright freezer the cold dumps out onto your feet, while in a chest freezer it sits in the box like water and stays put. Chest freezers also tend to have thicker insulation, so the same outage clock runs slower. The weakest option of all is the little freezer compartment of a kitchen fridge-freezer — small, opened with the fridge, and sharing a thin wall with a warming refrigerator. Treat its contents as 24-hour food at best, and eat from it first."
 pubDate: 2026-10-21
 keywords: ["how long will food last in a freezer without power", "freezer food safety power outage", "how long does food last in fridge without power", "dry ice freezer outage", "can you refreeze thawed food"]
 ---
+
+**Quick answer:** With the door kept closed, a full freezer keeps food safe for about 48 hours and a half-full one for about 24 hours, while a refrigerator only buys you about 4 hours. Everything turns on one line — 40°F: food at or below it is safe, and perishable food that spends more than 2 hours above it should be discarded. Filling the freezer's empty spaces with frozen water bottles before an outage is the free way to stretch that clock.
 
 The storm knocks the power out at 9 p.m., and by 9:05 everyone is asking the same question: how long will food last in a freezer without power before we throw away a few hundred dollars of groceries? I've taken that phone call for 18 years, usually from a customer whose generator I installed, and the honest answer is: longer than you fear, shorter than you hope, and mostly decided by what you do in the first hour.
 
