@@ -18,6 +18,8 @@ faq:
     answer: "The charger itself runs $399–$649 depending on brand and sales. Installation typically adds $500–$1,200 for a straightforward job near your panel, putting most homeowners at $1,200–$2,500 all-in. A long wire run, trenching to a detached garage, or a panel upgrade pushes it higher. The charger brand barely affects install cost — wire distance and panel capacity do."
 ---
 
+**Quick answer:** All three charge your car fully overnight — the Tesla Universal Wall Connector ($550) and the Emporia Pro (about $449) both deliver 48 amps (11.5 kW), and the ChargePoint Home Flex ($599) tops out at 50 amps (12 kW), an edge almost no car can use. The real differences are the plug, the app, and your panel: Tesla's built-in adapter handles both NACS and J1772 and up to six units can power-share, ChargePoint has the best app and scheduling, and Emporia, paired with its Vue monitor, best avoids a panel upgrade. Expect $1,200–$2,500 all-in installed.
+
 If you've narrowed your home charger search down in 2026, the Tesla Wall Connector vs ChargePoint vs Emporia question is probably the exact shortlist sitting in your browser tabs. It's the same three units I install in customers' garages every week, and it's the same three I get asked about at supply houses. I'm Mike Donovan — licensed electrician, 18 years of residential work — and I've mounted, wired, and troubleshot all three of these chargers more times than I can count.
 
 Here's the honest headline before we get into the weeds: **all three will charge your car overnight without breaking a sweat.** The differences that actually matter are the plug, the app, the price, and how smart the unit is about your electrical panel. Let's go through them properly.

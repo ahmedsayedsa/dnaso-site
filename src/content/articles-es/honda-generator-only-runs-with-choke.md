@@ -11,10 +11,14 @@ faq:
     answer: "Casi nunca. Un aditivo puede ablandar barniz ligero en un carburador que aún fluye decentemente, pero un surtidor piloto tapado está bloqueado por depósitos endurecidos: la gasolina apenas pasa por él, así que el limpiador apenas pasa tampoco. Si solo funciona con el choke, el carburador se desarma o se cambia."
   - question: "¿Cuánto cuesta arreglar un Honda que solo funciona con el choke?"
     answer: "Hazlo tú mismo: $0–15 limpiar el carburador (limpiador y quizá empaques), $25–40 un carburador de repuesto del mercado de accesorios, o $100+ un carburador OEM Honda (EU2000i/EU2200i). En un taller, calcula $120–200 con mano de obra."
+  - question: "¿Qué debo revisar antes de desarmar el carburador?"
+    answer: "Dos revisiones gratis. Primero, la prueba con gasolina fresca: drena el tazón del carburador y el tanque, rellena con gasolina fresca comprada esta semana con estabilizador, y dale cinco minutos para purgar —si ahora trabaja limpio sin choke, la gasolina simplemente se había echado a perder. Segundo, la revisión de flujo: desconecta la línea de gasolina en la entrada del carburador con la válvula abierta y un recipiente listo; la gasolina debe llegar en un chorro fuerte y constante, no un goteo ni un pulso. El flujo débil apunta a la malla del tanque, el filtro, la copa de sedimento o la línea misma —piezas de $5–15—, así que arregla eso antes de culpar al carburador."
 pubDate: 2026-10-21
 keywords: ["generador Honda solo funciona con el choke puesto", "Honda EU2200i problema de choke", "el generador solo funciona con el estrangulador", "limpieza de carburador Honda inverter", "EU2000i solo funciona con choke"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Un generador Honda que solo funciona con el choke puesto está muriendo de hambre de gasolina: el estrangulador restringe el aire para emparejarlo con un suministro débil de combustible, así que el motor muere en el momento en que lo abres. Nueve de cada diez veces la causa es un surtidor piloto parcialmente tapado en el carburador, normalmente barniz de la gasolina E10 vieja que estuvo en el tanque y el tazón durante una temporada; un filtro tapado, una fuga de aire en un empaque del carburador o poca salida de la bomba explican casi todo el resto. Los aditivos en el tanque casi nunca lo arreglan: el carburador se desarma para limpiarlo ($0–15 en piezas) o se cambia.
 
 Tu generador Honda solo funciona con el choke puesto. Arranca bien —los Honda casi siempre arrancan bien— ronronea mientras la palanca del estrangulador está fuera, y en el segundo en que metes el choke como se supone que debes hacerlo, tropieza, se cae y muere.
 

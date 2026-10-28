@@ -11,10 +11,14 @@ faq:
     answer: "Porque el generador solo ve cargas eléctricas. Una casa de 3000 pies cuadrados con calefacción a gas, calentador a gas, estufa a gas y un solo aire puede llegar a un pico de 12–15 kW. La misma casa totalmente eléctrica — dos bombas de calor con resistencias auxiliares, calentador eléctrico, cocina eléctrica — puede demandar 35 kW o más. El plano es idéntico; la división de combustibles cambia la respuesta 2–3 veces."
   - question: "¿Cuánto dura un tanque de propano de 250 galones con un generador de 26 kW?"
     answer: "Un tanque de 250 galones guarda unos 200 galones útiles (los tanques se llenan al 80%). Una unidad de 26 kW a una carga realista del 50–75% quema aproximadamente 2,5–3 galones por hora, así que 200 galones te compran unas 65–80 horas de funcionamiento: unos tres días continuos, o más de una semana si apagas el generador de noche y en los ratos de clima suave."
+  - question: "¿Cuánto cuesta instalado un generador para una casa de 3000 pies cuadrados?"
+    answer: "Depende del nivel. Un portátil de 10.000–14.000 W en una toma de 50 amperios con kit de interlock típicamente queda en unos $1.500–3.000 en total, generador incluido. La opción común para toda la casa cuesta bastante más: un reserva Generac o Kohler de 26 kW instalado típicamente anda en unos $13.000–17.000, según el trabajo de línea de gas y la distancia a tu panel. La gestión de cargas achica esa brecha a tu favor: los arranques suaves, a unos $300–400 por aire, y los módulos de desconexión, a unos $150–250 cada uno, a menudo permiten que un reserva más chico y barato haga el trabajo con seguridad."
 pubDate: 2026-10-21
 keywords: ["qué tamaño de generador para una casa de 3000 pies cuadrados", "generador para casa de 3000 pies cuadrados", "generador de 22 kw casa grande", "dimensionado de generador residencial", "generador para dos aires acondicionados"]
 lang: "es"
 ---
+
+**Respuesta rápida:** La mayoría de las casas de 3000 pies cuadrados termina en un generador de reserva de 22–26 kW para cobertura de toda la casa, o en un portátil de 10.000–14.000 W si solo necesitas lo esencial. Una casa con calefacción a gas y un solo aire de 4–5 toneladas queda cómoda con 22 kW, mientras que dos sistemas de aire normalmente necesitan 24–26 kW con arranques suaves y desconexión de cargas para sobrevivir los arranques simultáneos de los compresores. Las casas totalmente eléctricas — bombas de calor con resistencias auxiliares, agua caliente, cocina y secadora eléctricas — son la excepción: calcula 26–30 kW con gestión de cargas agresiva, porque la división de combustibles importa más que los pies cuadrados.
 
 Si te estás preguntando qué tamaño de generador para una casa de 3000 pies cuadrados (unos 279 m²), aquí va la respuesta que doy en las visitas de servicio, antes de siquiera mirar el panel: **la mayoría de ustedes termina en 22–26 kW en un generador de reserva, o en 10.000–14.000 vatios en un portátil si solo van a cubrir lo esencial.** Pero los 3000 pies cuadrados son justo el tamaño donde la tablita genérica empieza a mentirle a la gente, porque a este tamaño las casas dejan de ser uniformes. Dos sistemas de climatización o uno grande. Una bomba de piscina que nadie recuerda hasta que prende. Un segundo calentador de agua. El plano creció — y lo que creció con él es lo que de verdad decide el tamaño de tu generador.
 
@@ -101,7 +105,7 @@ Vamos a correr los números de una casa compuesta que presupuesto como dos veces
 
 **La misma casa, gestionada:** Arranques suaves en los dos aires (los picotazos ahora son 4.500 W y 3.000 W) y un módulo que pausa la bomba y el calentador durante los arranques. El peor segundo baja a unos **21–22 kW por una fracción de segundo** — dentro de lo que un 26 kW entrega sin despeinarse. Ese es todo el juego en este tamaño de casa: *gestiona los segundos, y las horas se cuidan solas.*
 
-Si vienes bajando desde este perfil, mi [guía para una casa de 2000 pies cuadrados](/es/articles/what-size-generator-for-2000-sq-ft-house) cubre la versión de un solo sistema de las mismas cuentas.
+Si vienes bajando desde este perfil, mi [guía para una casa de 2000 pies cuadrados](/es/articles/what-size-generator-for-2000-sq-ft-house) cubre la versión de un solo sistema de las mismas cuentas. Y si vienes subiendo en cambio — una superficie mayor con la misma distribución de dos sistemas — la [guía de dimensionado para una casa de 5000 pies cuadrados](/es/articles/what-size-generator-for-5000-sq-ft-house) corre la versión más grande de estas mismas cuentas.
 
 ## ¿La bomba de la piscina no es solo una carga más? No — es la olvidada
 

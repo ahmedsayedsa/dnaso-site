@@ -19,6 +19,8 @@ lang: "es"
 keywords: ["generador silencioso", "generadores más silenciosos", "nivel de ruido de generadores", "generador inverter silencioso", "generador en decibeles"]
 ---
 
+**Respuesta rápida:** El generador más silencioso que puedes comprar es el Honda EU2200i, clasificado en 48 dB(A) a un cuarto de carga y 57 dB(A) a plena carga, medidos a 7 metros — más silencioso que una conversación normal cuando trabaja ligero. El Westinghouse iGen2200 (52 dB) y el Champion 2500 Dual Fuel (53 dB) son casi igual de silenciosos por más o menos la mitad del precio, y todo lo que esté por debajo de 60 dB a 7 metros cuenta como genuinamente silencioso. Un portátil convencional de marco abierto, en cambio, trabaja a 72–78 dB. Recuerda que la carga y la distancia mueven el número real: espera 5–9 dB más a plena carga, y unos 6 dB menos cada vez que duplicas la distancia.
+
 Si el ruido es la razón por la que estás comprando, ignora los adjetivos de mercadotecnia y mira un solo número: el valor de dB del fabricante a un cuarto de carga, medido a 7 metros (23 pies). Todo generador genuinamente silencioso es un modelo inverter, y los mejores trabajan a 48–60 dB — territorio de conversación normal. Los portátiles convencionales ruidosos que reemplazan quedan en 72–78 dB, lo cual en una escala logarítmica no es "un poco más fuerte". Es otra categoría de máquina.
 
 Aquí están los seis generadores más silenciosos que vale la pena comprar ahora mismo, ordenados por valor de ruido verificado, seguidos de la física que necesitas para leer esos valores con honestidad — porque la carga y la distancia mueven el número real más que la marca.
@@ -99,7 +101,7 @@ Este truco tiene dos límites. Uno es la seguridad: las reglas del monóxido de 
 
 ## ¿Ya tienes uno ruidoso? Se puede bajar el volumen
 
-Primero la distancia (la regla de los 6 dB de arriba es gratis), luego: pon la unidad sobre pasto o tierra en vez de concreto, que transmite la vibración; apunta el escape lejos de casas y paredes reflectantes; usa un gabinete para generador diseñado para eso y ventilado, por 5–10 dB — jamás nada hermético, porque la acumulación de CO y el sobrecalentamiento son letales y destructivos respectivamente; y considera un silenciador de accesorios por 2–5 dB, verificando que no ahogue el flujo de escape. Lo que no funciona: cobijas (peligro de incendio y de CO) y "el garaje con la puerta entreabierta" (el CO llega a niveles letales en minutos — esto mata gente cada año).
+Primero la distancia (la regla de los 6 dB de arriba es gratis), luego: pon la unidad sobre pasto o tierra en vez de concreto, que transmite la vibración; apunta el escape lejos de casas y paredes reflectantes; usa un gabinete para generador diseñado para eso y ventilado, por 5–10 dB — jamás nada hermético, porque la acumulación de CO y el sobrecalentamiento son letales y destructivos respectivamente; y considera un silenciador de accesorios por 2–5 dB, verificando que no ahogue el flujo de escape. Lo que no funciona: cobijas (peligro de incendio y de CO) y "el garaje con la puerta entreabierta" (el CO llega a niveles letales en minutos — esto mata gente cada año). Nuestra guía paso a paso sobre [cómo hacer que un generador sea más silencioso](/es/articles/how-to-make-a-generator-quiet) repasa cada uno de esos arreglos en el orden en que vale la pena hacerlos.
 
 ## Sigue leyendo
 

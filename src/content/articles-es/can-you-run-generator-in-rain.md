@@ -18,6 +18,8 @@ keywords: ["se puede usar un generador bajo la lluvia", "generador bajo la lluvi
 lang: "es"
 ---
 
+**Respuesta rápida:** Sí, puedes usar un generador bajo la lluvia —con seguridad— si se queda afuera a por lo menos 20 pies de la casa, se sienta en terreno alto y seco, y trabaja bajo una cubierta de operación ventilada y diseñada para eso, jamás una lona suelta ni un recinto improvisado. Mantén las manos secas al manipular enchufes, párate en suelo seco, usa las tomas GFCI del generador y eleva cada unión de cables del suelo mojado con bucles de goteo. Nunca lo muevas al garaje, el porche o la cochera para escapar de la lluvia —ese canje convierte un problema de clima en una emergencia de monóxido de carbono— y nunca recargues un generador en marcha o caliente.
+
 Fíjate en cuándo se usan los generadores: no en martes agradables por la tarde, sino en medio del clima que cortó la luz. Huracanes, tormentas de hielo, temporales de verano: el apagón y la mojadura llegan juntos, y el generador tiene que vivir afuera en ambas. Así que «¿puedo usarlo bajo la lluvia?» no es una hipótesis. Es la condición de operación.
 
 La respuesta corta es sí: los generadores trabajan bajo la lluvia todo el tiempo, en todo el país, con seguridad. La respuesta larga es que «con seguridad» hace un trabajo real en esa frase: aparecen tres riesgos concretos cuando el agua y los generadores se mezclan, y cada uno tiene una regla concreta. Aquí va el panorama completo.

@@ -126,7 +126,7 @@ La versión de invierno cambia el aire de ventana por el soplador de la calefacc
 - **Cena:** aire apagado diez minutos, microondas encendido (1.200 W) — pico de unos 3.400 W mientras se calienta la comida.
 - **Hora de lavar:** aire apagado, lavadora encendida (700 W continuos, hasta 2.300 W de pico cuando arranca el agitador) — ~2.900 W, y no dejes que coincida el arranque de la bomba de sumidero; si el sótano está seco, en la práctica no es un problema.
 
-Nada aquí supera el generador. Solo requiere la única habilidad que este tamaño exige: una carga intermitente grande por vez. Después del primer día, la rotación es hábito. Si suena a tarea que no quieres, esa es la señal honesta de comprar la [clase de 5.000 vatios](/es/articles/what-can-5000w-generator-run), donde la Combinación 2 y el microondas conviven.
+Nada aquí supera el generador. Solo requiere la única habilidad que este tamaño exige: una carga intermitente grande por vez. Después del primer día, la rotación es hábito. Un paso intermedio que vale la pena conocer es la [clase de generadores de 4,000 vatios](/es/articles/what-can-4000-watt-generator-run), que compra unos cientos de vatios extra de margen para justamente estos momentos de rotación sin saltar hasta los 5,000 vatios. Si suena a tarea que no quieres, esa es la señal honesta de comprar la [clase de 5.000 vatios](/es/articles/what-can-5000w-generator-run), donde la Combinación 2 y el microondas conviven.
 
 ## ¿Qué NO puede mover un generador de 3500 vatios?
 

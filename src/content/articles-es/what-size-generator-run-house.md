@@ -129,7 +129,7 @@ Aquí es donde el cálculo salta. El compresor del aire es el elefante en el cua
 
 Pico más grande: el aire — 8,000 W encima de su consumo. 6,000 + 8,000 = 14,000. × 1.2 = **~16,800 W de uso**, con un requisito de arranque cercano a **17,000–18,000 W**.
 
-**Respuesta: un generador de reserva de 20–22 kW.** Ningún portátil de menos de unos 12,000 vatios arranca de forma confiable un aire central de 3 toneladas — y aun así es marginal. Por eso las casas con aire central casi siempre terminan con un Generac 22kW Guardian o un Kohler 20RCA ($8,000–$15,000 instalados).
+**Respuesta: un generador de reserva de 20–22 kW.** Ningún portátil de menos de unos 12,000 vatios arranca de forma confiable un aire central de 3 toneladas — y aun así es marginal. Por eso las casas con aire central casi siempre terminan con un Generac 22kW Guardian o un Kohler 20RCA ($8,000–$15,000 instalados). Las casas más grandes enfrentan una versión aún más exigente del mismo cálculo, por eso nuestra [guía de dimensionamiento para una casa de 5,000 pies cuadrados](/es/articles/what-size-generator-for-5000-sq-ft-house) repasa las listas de cargas más grandes, varias unidades de aire acondicionado y los tamaños de generador de reserva que esas propiedades suelen necesitar.
 
 **La alternativa más barata:** instala un [arrancador suave](/es/articles/what-size-generator-central-ac) en el aire (~$300–$400) para reducir el pico de arranque un 60–70%. Eso puede bajar el pico a ~3,500 W y devolver un portátil grande al juego. Lee la guía de cálculo del aire para el desglose completo.
 

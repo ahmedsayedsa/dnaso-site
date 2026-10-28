@@ -33,7 +33,7 @@ All home EV charging is just voltage times amps. That's the whole story:
 
 That miles-per-hour column assumes roughly 3 miles per kWh, which is about right for a Model 3 or Ioniq 5 and slightly optimistic for a Lightning or a Hummer. Big heavy EVs drink more per mile; the math is the same, the numbers just shift a bit.
 
-Level 1 is the cord that comes with (most of) the car plugged into the same outlet as your garage lamp. Level 2 is a dedicated 240V circuit — either a hardwired charger or a big plug — installed by an electrician. One is free. The other runs $1,200–$2,500 installed. The question is whether the free one covers your life.
+Level 1 is the cord that comes with (most of) the car plugged into the same outlet as your garage lamp. Level 2 is a dedicated 240V circuit — either a hardwired charger or a big plug — installed by an electrician. One is free. The other runs $1,200–$2,500 installed. The question is whether the free one covers your life. If you do go Level 2, that hardwired-or-plug choice matters more than most buyers expect, as our [hardwired vs plug-in EV charger guide](/articles/hardwired-vs-plug-in-ev-charger) shows on amperage caps, outlet quality, and nuisance trips.
 
 ## How Fast Is Level 1 Charging, Really?
 

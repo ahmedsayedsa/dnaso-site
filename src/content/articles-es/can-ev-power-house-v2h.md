@@ -19,6 +19,8 @@ faq:
 lang: "es"
 ---
 
+**Respuesta rápida:** Sí — pero solo si tu auto eléctrico tiene carga bidireccional verdadera (V2H). En 2026 eso significa un Ford F-150 Lightning, un Tesla Cybertruck con Powershare o un Chevy Silverado EV; la mayoría de los eléctricos, incluyendo los demás Tesla, no pueden alimentar el panel de una casa en absoluto, y los modelos de Hyundai/Kia ofrecen solo V2L, energía para cables de extensión. Una instalación V2H completa —cargador bidireccional, hardware de transferencia/aislamiento, mano de obra y permisos— cuesta $4,000–$8,000+, y la mayoría de las cotizaciones caen alrededor de $6,000–$7,000. A cambio, una batería de camioneta de 100+ kWh cubre 2–4 días de cargas esenciales con un consumo promedio de 1–2 kW.
+
 ¿Un auto eléctrico puede alimentar tu casa? Sí — y ya no es una fantasía de auto concepto. Si compraste la camioneta correcta, ya tienes la batería para casa más grande que el dinero puede comprar estacionada en tu entrada. Esto es lo que los comerciales omiten: **tu camioneta es una batería de 100 kWh sobre ruedas**, pero convertirla en un sistema de respaldo para la casa lleva hardware específico, unos miles de dólares de trabajo eléctrico, y un auto eléctrico que de verdad soporte carga bidireccional. La mayoría de los eléctricos en la calle en 2026 no lo hacen.
 
 Soy electricista, no vendedor de autos, así que aquí va la versión honesta: qué vehículos pueden hacerlo, cuánto cuesta el equipo instalado, cuántos días de respaldo obtienes de verdad, y la letra chica de garantía y de la compañía eléctrica que nadie lee en voz alta.
@@ -113,7 +115,7 @@ Depende de lo que ya tengas. Así lo plantearía yo para un cliente:
 
 **Si no tienes la camioneta:** NO compres una camioneta de $60,000–$80,000 como estrategia de energía de respaldo. Es la batería más cara jamás vendida. Compra el generador o la batería para casa por una décima parte del precio y elige tu próximo vehículo por sus méritos como vehículo.
 
-**V2H vs generador de reserva:** La camioneta gana en capacidad por dólar (si ya la tienes), silencio y cero mantenimiento. El generador gana en autonomía indefinida — el gas natural no se acaba, la batería de una camioneta sí — y en disponibilidad: la camioneta solo respalda tu casa cuando está estacionada en casa. Si el apagón llega mientras estás en el trabajo con la camioneta, no tienes nada.
+**V2H vs generador de reserva:** La camioneta gana en capacidad por dólar (si ya la tienes), silencio y cero mantenimiento. El generador gana en autonomía indefinida — el gas natural no se acaba, la batería de una camioneta sí — y en disponibilidad: la camioneta solo respalda tu casa cuando está estacionada en casa. Si el apagón llega mientras estás en el trabajo con la camioneta, no tienes nada. Si ese trabajo de panel es más de lo que quieres asumir, un [generador portátil puede cargar un auto eléctrico](/es/articles/can-a-portable-generator-charge-an-ev) directamente en un apagón —más lento y más ruidoso, pero sin necesidad de integración en la casa.
 
 **V2H vs batería para casa:** La camioneta gana en capacidad bruta (131 kWh vs 13.5 kWh por Powerwall) y en costo por kWh. La batería para casa gana en madurez de automatización, emparejamiento solar (se recarga a diario de tus paneles), y en el hecho de que siempre está en casa. Para una casa con solar, yo seguiría especificando el Powerwall primero — mira el [desglose completo de batería para casa vs generador](/es/articles/home-battery-vs-generator) para esas cuentas.
 

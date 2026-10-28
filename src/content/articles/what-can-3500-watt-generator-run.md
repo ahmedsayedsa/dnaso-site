@@ -125,7 +125,7 @@ Want the washing machine, the microwave, and the window AC across the same eveni
 - **Dinner:** AC off for ten minutes, microwave on (1,200W) — peaks around 3,400W while food heats.
 - **Laundry hour:** AC off, washer on (700W running, up to 2,300W surge as the agitator starts) — ~2,900W, and don't let the sump pump's start coincide; if the basement is dry, it's a non-issue in practice.
 
-Nothing here exceeds the generator. It just requires the one skill this size demands: one big intermittent load at a time. After the first day, the rotation is habit. If it sounds like a chore you don't want, that's the honest signal to buy the [5,000-watt class](/articles/what-can-5000w-generator-run), where Combo 2 and the microwave coexist.
+Nothing here exceeds the generator. It just requires the one skill this size demands: one big intermittent load at a time. After the first day, the rotation is habit. A middle step worth knowing is the [4,000-watt generator class](/articles/what-can-4000-watt-generator-run), which buys a few hundred watts of extra headroom for exactly these rotation moments without jumping all the way to 5,000 watts. If it sounds like a chore you don't want, that's the honest signal to buy the [5,000-watt class](/articles/what-can-5000w-generator-run), where Combo 2 and the microwave coexist.
 
 ## What can't a 3500 watt generator run?
 

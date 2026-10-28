@@ -2,10 +2,23 @@
 title: "Lista de apagón por tormenta: combustible, seguridad"
 description: "Lista de apagón por tormenta: almacenamiento y rotación de combustible, ubicación del generador, seguridad de CO, refrigerador, recarga segura y mantenimiento."
 heroImage: "/images/storm-preparedness-checklist.webp"
+faq:
+  - question: "¿A qué distancia de la casa debe estar un generador durante una tormenta?"
+    answer: "Al menos a 20 pies de la casa, con el escape apuntando lejos del edificio — esa es la guía de los CDC y la CPSC, no una sugerencia. Nunca lo operes en un garaje, aunque la puerta esté abierta, ni en un sótano, cobertizo, cochera o bajo una terraza, porque el monóxido de carbono se acumula más rápido de lo que se ventila y puede colarse por puertas, ventanas y tomas de aire. Mantenlo lejos de ventanas y tomas de aire, incluyendo las del vecino, y ten detectores de CO de batería con baterías frescas en cada piso."
+  - question: "¿Cuánto combustible necesito para un apagón de 72 horas?"
+    answer: "Calcúlalo desde el consumo de tu generador a media carga. Un portátil de gasolina de 5,500 W quema unos 0.6–0.8 galones por hora, así que 72 horas seguidas toman unos 45–55 galones; una unidad de 7,500 W necesita unos 60–70 galones y una de 9,500 W unos 70–85 galones. La mayoría de los dueños opera en ciclos en vez de continuo — calcula 8–12 horas de funcionamiento por día, lo que corta esos números más o menos a la mitad. Compra temprano de cualquier forma: las compras de pánico vacían las estaciones 24–48 horas antes del impacto, y las estaciones sin energía tampoco pueden bombear después."
+  - question: "¿Cuánto dura segura la comida en el refrigerador y el congelador sin energía?"
+    answer: "Un refrigerador cerrado mantiene la comida segura unas 4 horas sin energía. Un congelador lleno mantiene la temperatura unas 48 horas, o unas 24 horas si está medio lleno, siempre que las puertas se mantengan cerradas — cada apertura tira aire frío. Después de 4 horas sin energía ni ciclos del generador, desecha los perecederos como carne, lácteos y sobras; un termómetro de comida leyendo 40°F o menos significa que la comida sigue segura. Operar el generador 3–4 horas dos veces al día mantiene un refrigerador frío y seguro indefinidamente."
+  - question: "¿Puedo recargar un generador mientras está funcionando?"
+    answer: "No — nunca, sin excepciones. Apaga el generador y déjalo enfriar 10–15 minutos antes de recargar. Derramar gasolina en un mofle caliente es como empiezan los incendios, y las quemaduras al recargar son la segunda lesión más común con generadores después del envenenamiento por CO. Ten un extintor clasificado ABC cerca de la estación del generador, recarga solo al aire libre en terreno nivelado, y no reinicies una unidad que se empapó en marejada o inundación hasta que haya sido inspeccionada — el agua en los devanados o el panel es un riesgo de choque."
+  - question: "¿Qué mantenimiento necesita un generador después de un apagón por tormenta?"
+    answer: "No lo ruedes de vuelta al garaje sin más. Cambia el aceite después de cualquier funcionamiento extendido — la mayoría de los portátiles quieren aceite fresco cada 50–100 horas, así que un apagón de 3 días a 10 horas por día ya te pone en fecha. Limpia o reemplaza el filtro de aire, inspecciona extensiones, marco y sistema de combustible por daños y fugas, y luego vacía el carburador o llena el tanque con combustible estabilizado antes de guardarlo. Los dueños de reserva también deben revisar el controlador por códigos de falla registrados durante el apagón y confirmar que la unidad regresó a modo de reserva."
 pubDate: 2026-10-19
 keywords: ["lista de apagón por huracán", "seguridad del generador en tormentas", "monóxido de carbono generador", "almacenamiento de combustible generador"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Prepárate en las 72 horas antes del impacto, no durante la tormenta: compra el combustible temprano (las estaciones se quedan secas 24–48 horas antes), prueba el generador bajo carga real por 15–20 minutos, y colócalo al menos a 20 pies de la casa con el escape apuntando lejos y detectores de CO de batería en cada piso. Durante el apagón, nunca recargues un generador caliente o funcionando — déjalo enfriar 10–15 minutos primero — y opera un portátil en ciclos de 3–4 horas en vez de 24/7. Un refrigerador cerrado mantiene la comida segura unas 4 horas; un congelador lleno, unas 48 horas.
 
 Cada temporada de huracanes, se repite el mismo patrón: la trayectoria de la tormenta se confirma 72 horas antes, las gasolineras se quedan secas 48 horas antes, y la gente que se preparó está tranquila mientras todos los demás están en una fila de caja comprando el último generador de la tienda grande — el que no trae manual porque la caja era el modelo de exhibición.
 
@@ -110,7 +123,7 @@ Tu generador acaba de hacer el trabajo más duro de su vida. No lo ruedes de vue
 1. **Cambia el aceite** después de cualquier funcionamiento extendido (revisa tu manual — la mayoría de los portátiles quieren aceite fresco cada 50–100 horas; después de un apagón de 3 días a 10 hrs/día, te toca).
 2. **Limpia o reemplaza el filtro de aire.** El aire de tormenta está lleno de polvo y escombros; un filtro tapado ahoga el motor.
 3. **Inspecciona por daños:** revisa las extensiones por muescas, el marco por grietas, el sistema de combustible por fugas. Mira los tomacorrientes por corrosión si operó bajo lluvia.
-4. **Vacíalo o estabilízalo.** Si lo vas a guardar: o vacía el carburador (cierra la válvula de combustible y déjalo funcionar hasta que se apague — evita el barniz en el carburador, la causa #1 de "no arranca el próximo año") o llena el tanque con combustible estabilizado. Elige una; no hagas ninguna.
+4. **Vacíalo o estabilízalo.** Si lo vas a guardar: o vacía el carburador (cierra la válvula de combustible y déjalo funcionar hasta que se apague — evita el barniz en el carburador, la causa #1 de "no arranca el próximo año") o llena el tanque con combustible estabilizado. Elige una; no hagas ninguna. Esa misma rutina de fin de temporada, hecha completa, es exactamente lo que [cómo preparar un generador para el invierno](/es/articles/how-to-winterize-a-generator) explica paso a paso antes de guardar la máquina por meses.
 5. **Dueños de reserva:** revisa el controlador por códigos de falla o advertencias registradas durante el apagón, revisa el nivel de aceite y confirma que la unidad regresó a modo de reserva. Programa el servicio anual si le toca.
 
 ### Reabastecimiento

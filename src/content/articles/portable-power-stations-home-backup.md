@@ -51,7 +51,7 @@ Short on time? Most households should buy the **Delta Pro 3**. Buy the **F3800**
 
 The Delta Pro 3 is the default recommendation because it has no disqualifying weakness. You get 4,096 Wh, 4,000W continuous output (8,000W surge), and X-Boost, which runs resistive loads (kettles, heaters, hair dryers) up to 6,000W by trimming voltage. That's enough for the full essentials list — fridge, lights, internet, laptops, CPAP, a microwave in bursts — for roughly a day of normal cycled use.
 
-It outputs 240V from a single unit — with a quirk: it delivers 120V *or* 240V at a time, not both simultaneously. For whole-panel backup it pairs with EcoFlow's Smart Home Panel 2. The ecosystem remains EcoFlow's real moat: extra batteries (up to 12.3 kWh per unit, 48 kWh in a full multi-unit system), the dual-fuel Smart Generator, and the most polished app of the four.
+It outputs 240V from a single unit — with a quirk: it delivers 120V *or* 240V at a time, not both simultaneously. For whole-panel backup it pairs with EcoFlow's Smart Home Panel 2. The ecosystem remains EcoFlow's real moat: extra batteries (up to 12.3 kWh per unit, 48 kWh in a full multi-unit system), the dual-fuel Smart Generator, and the most polished app of the four. Shoppers cross-shopping EcoFlow against the other big consumer name will find the output and charging gaps laid out in our [EcoFlow vs Jackery head-to-head](/articles/ecoflow-vs-jackery), where the Delta Pro 3 faces the Explorer 2000 Plus directly.
 
 The honest limits: at about 113 lbs it's a two-hands-and-wheels proposition, and its per-unit expansion ceiling (12.3 kWh) is the lowest here — multi-day ambitions push you to a second unit or the Ultra. Solar input is a strong 2,600W, and wall charging is fast enough to refill most of the battery in roughly 1.5 hours when the grid flickers back.
 
@@ -73,7 +73,7 @@ Bluetti splits the system in two: the AC500 head unit is the inverter (the head 
 
 Read one spec carefully: with a single B300K, output is capped at **3,000W**. The full **5,000W continuous / 10,000W surge** unlocks with two or more batteries (a two-battery bundle typically runs $3,300 or so). Solar input is a strong 3,000W, dual AC+solar charging is fast, and Bluetti has the deepest off-grid and RV owner community of any brand here.
 
-The honest limits: a single AC500 outputs 120V only. Getting 240V requires a *second* AC500 plus the Fusion Box Pro — at which point you've spent Ultra money. Well-pump shoppers on a budget should pick the F3800 instead. Bluetti's app is also a notch below EcoFlow's polish.
+The honest limits: a single AC500 outputs 120V only. Getting 240V requires a *second* AC500 plus the Fusion Box Pro — at which point you've spent Ultra money. Well-pump shoppers on a budget should pick the F3800 instead. Bluetti's app is also a notch below EcoFlow's polish. How that modular approach stacks up directly against EcoFlow's integrated flagships is the subject of our [Bluetti vs EcoFlow comparison](/articles/bluetti-vs-ecoflow), which prices both systems per kilowatt-hour.
 
 **Best for:** buyers who want the cheapest credible entry point and a pay-as-you-go expansion path, with no 240V requirement.
 
@@ -128,7 +128,7 @@ Where the picks differ:
 - You run **sustained heavy loads**: central AC for days, electric water heating, a dryer. Only the Ultra-class batteries play here at all, at several times the price.
 - Outages last **a week**: gas refuels in five minutes, indefinitely. A battery without serious solar is a 1–3 day device.
 
-**The middle ground most households should consider:** a mid-size gas generator ($800–$1,200) for heavy daytime loads plus a mid-size power station ($1,000–$2,000) for silent overnight essentials. The generator handles the fridge and cooking by day; at night it shuts down and the station runs the CPAP, phones, a lamp, and the Wi-Fi until morning — roughly $2,000–$3,000 total, less than one flagship station, and better than either device alone at both jobs. Where a station fits into a layered whole-home strategy is covered in our [complete home backup power guide](/articles/complete-home-backup-power-guide).
+**The middle ground most households should consider:** a mid-size gas generator ($800–$1,200) for heavy daytime loads plus a mid-size power station ($1,000–$2,000) for silent overnight essentials. The generator handles the fridge and cooking by day; at night it shuts down and the station runs the CPAP, phones, a lamp, and the Wi-Fi until morning — roughly $2,000–$3,000 total, less than one flagship station, and better than either device alone at both jobs. Where a station fits into a layered whole-home strategy is covered in our [complete home backup power guide](/articles/complete-home-backup-power-guide). For the gas half of that pairing, our guide to the [best portable generator for home backup](/articles/best-portable-generator-for-home-backup) breaks down which models handle the heavy daytime loads without overspending.
 
 ## The bottom line
 

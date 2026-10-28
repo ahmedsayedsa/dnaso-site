@@ -23,7 +23,7 @@ Cargar un auto eléctrico durante un apagón es la pregunta que me hace todo due
 
 ## ¿Se puede cargar un auto eléctrico con un generador? Sí — en Nivel 1
 
-Todo auto eléctrico vendido en EE. UU. puede cargar desde una salida estándar de 120V — eso es Nivel 1. Y un generador con una salida estándar es, para el auto, simplemente una salida. Conecta el cable de carga portátil que vino con el auto a un generador portátil de 5,500–7,500W y la mayoría de los eléctricos van a tomar sus 12A continuos habituales sin protestar.
+Todo auto eléctrico vendido en EE. UU. puede cargar desde una salida estándar de 120V — eso es Nivel 1. Y un generador con una salida estándar es, para el auto, simplemente una salida. Conecta el cable de carga portátil que vino con el auto a un generador portátil de 5,500–7,500W y la mayoría de los eléctricos van a tomar sus 12A continuos habituales sin protestar. Para la versión de estas cuentas centrada solo en el generador — velocidades, salidas y consumo de combustible sin ninguna otra carga — mira nuestra guía dedicada sobre [si un generador portátil puede cargar un auto eléctrico](/es/articles/can-a-portable-generator-charge-an-ev).
 
 Esto es lo que obtienes:
 

@@ -2,9 +2,22 @@
 title: "Generator Maintenance Checklist: What to Do and When"
 description: "The generator maintenance checklist that actually matters: oil, filters, battery, fuel, and exercise schedules for standby and portable units."
 heroImage: "/images/generator-maintenance-checklist.webp"
+faq:
+  - question: "How often should a standby generator exercise?"
+    answer: "Weekly, automatically. Most standby units from Generac and Kohler ship with a weekly exercise cycle of 5–12 minutes at low RPM, and you should leave it enabled: it circulates oil, charges the starting battery, and runs a self-diagnostic. Your only job is to confirm once a month that it is actually happening — listen for it on its scheduled day and check the controller display for fault codes. A unit that quietly stopped exercising months ago is a unit that will fail you during the outage."
+  - question: "How often should you change a generator's oil?"
+    answer: "For a standby, every year or every 100–200 run hours, whichever comes first, together with the oil filter — air-cooled units typically take 2–4 quarts of 5W-30 synthetic. Portables are on a much shorter leash: every 50–100 run hours, with the break-in change at 20–25 hours on a new unit. A single weekend-long outage can eat half a portable's interval, so count run hours, not just calendar time. At roughly $8 in oil and 15 minutes of work, it is the cheapest insurance on this list."
+  - question: "How long does a generator starting battery last?"
+    answer: "Three to five years, period — heat, cold, and sitting discharged all shorten it, and a standby battery dies on that schedule even if the generator never runs. Replace it proactively rather than on failure: a Group 26R or U1 battery costs $60–$120 depending on the model, and marking the install date on it with a paint pen removes the guesswork. Test under load, not just voltage — a battery can read 12.6V at rest and still collapse when the starter engages. Slow cranking means replace it now."
+  - question: "How should you store a portable generator so it starts next season?"
+    answer: "Pick one fuel routine and stick to it. Either add stabilizer such as Sta-Bil to fresh gas at purchase and run the generator 5 minutes to circulate it through the carburetor — good for 12–24 months of storage — or shut off the fuel valve and run the engine dry, draining the carburetor bowl, which is best for storage over 6 months. What never works is parking the unit with untreated gas and finding varnish in spring. Add a monthly 10–15 minute run under load, and check the oil before every start."
+  - question: "How much does professional generator maintenance cost?"
+    answer: "A professional annual service visit for a standby typically runs $250–$400, and many dealers offer service plans that include priority response during outages. Owners comfortable with DIY work can handle oil and filter changes, air filters, spark plugs, battery replacement, and monthly test runs themselves. Leave valve lash adjustment — needed roughly every 2–3 years — transfer switch diagnosis, gas-line work, and warranty-period service to a technician. Against a $10,000+ installed standby with a 20–30 year lifespan when maintained, the annual visit is reasonable money."
 pubDate: 2026-10-19
 keywords: ["generator maintenance checklist", "standby generator maintenance schedule", "generator oil change"]
 ---
+
+**Quick answer:** Generator maintenance comes down to four things on a fixed schedule: oil, battery, fuel, and regular exercise runs. A standby should exercise automatically for 5–12 minutes weekly, get a visual check monthly, and receive a full annual service — oil and filter, air filter, and spark plugs — every year or every 100–200 run hours. A portable needs an oil change every 50–100 run hours, a loaded 10–15 minute run monthly, and fuel that is either stabilized for 12–24 months or drained from the carburetor. Replace the starting battery every 3–5 years, before it fails.
 
 Here's the stat that should scare you: most generator failures during real outages aren't mechanical breakdowns. They're maintenance failures. Dead starting battery. Gummed-up carburetor from stale gas. Oil that turned to sludge two years ago. The machine was fine — the owner wasn't.
 
@@ -120,6 +133,10 @@ When a storm is 48 hours out, run this:
 - [ ] Generator positioned: 20+ feet from house, exhaust away, on dry ground, cable-locked
 - [ ] CO detectors in the house: test the batteries
 - [ ] Phone numbers saved: your generator tech, propane dealer, utility outage line
+
+## Worked example: a seasonal maintenance year
+
+Here is what the schedule above looks like lived out on one air-cooled standby. In spring, you do the annual service: 2–4 quarts of 5W-30 synthetic, a new oil filter and air filter, and fresh spark plugs at $5–$10 each — about an hour of work, or one $250–$400 professional visit if you would rather hand it off. Through summer, your only jobs are the monthly five-minute checks: glance at the controller for fault codes, confirm the weekly 5–12 minute exercise is still happening, and keep 3+ feet of clearance around the enclosure. While you are there, check the paint-pen date on the battery, because its 3–5 year replacement clock is already running. In fall, before storm and cold season, you repeat the monthly check, confirm the propane tank sits above 50% if you run propane, and test the transfer switch under load. If the unit will sit unused through a cold winter, pair that fall visit with our guide to [how to winterize a generator](/articles/how-to-winterize-a-generator) so fuel, oil, and battery storage happen in the right order. Winter itself asks for nothing beyond the monthly glance — unless an outage burns real hours, in which case count them: a long weekend outage can consume half a portable's 50–100 hour oil interval, and the same hour-counting applies to the standby's 100–200 hour service window. None of it is guesswork — every interval in the example comes straight from the schedules in this checklist.
 
 ## Printable Summary
 

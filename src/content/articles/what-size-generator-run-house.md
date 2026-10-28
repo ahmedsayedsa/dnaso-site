@@ -128,7 +128,7 @@ This is where the math jumps. The AC compressor is the elephant.
 
 Biggest surge: the AC — 8,000 W on top of its running draw. 6,000 + 8,000 = 14,000. × 1.2 = **~16,800 W running**, with a starting requirement near **17,000–18,000 W**.
 
-**Answer: a 20–22 kW standby generator.** No portable under about 12,000 watts will reliably start a 3-ton central AC — and even then it's marginal. This is exactly why homes with central AC usually end up with a Generac 22kW Guardian or Kohler 20RCA ($8,000–$15,000 installed).
+**Answer: a 20–22 kW standby generator.** No portable under about 12,000 watts will reliably start a 3-ton central AC — and even then it's marginal. This is exactly why homes with central AC usually end up with a Generac 22kW Guardian or Kohler 20RCA ($8,000–$15,000 installed). Larger homes face an even steeper version of the same math, which is why our [sizing guide for a 5,000 sq ft house](/articles/what-size-generator-for-5000-sq-ft-house) works through the bigger load lists, multiple AC units, and standby sizes those properties typically need.
 
 **The cheaper alternative:** install a [soft starter](/articles/what-size-generator-central-ac) on the AC (~$300–$400) to cut the starting surge by 60–70%. That can drop the surge to ~3,500 W and bring a big portable back into play. Read the AC sizing guide for the full breakdown.
 

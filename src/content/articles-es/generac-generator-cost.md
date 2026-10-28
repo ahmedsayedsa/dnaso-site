@@ -97,7 +97,7 @@ Los generadores de reserva son motores, y los motores necesitan aceite. Generac 
 - **Batería: $120–$300 cada 3–5 años.** La causa más común de un no-arranque es una batería de arranque muerta, no el generador en sí.
 - **Garantía extendida: $500–$1,500** por cobertura de 7–10 años más allá de la garantía limitada estándar de 5 años, si la quieres.
 
-Súmalo en una década con una exposición moderada a apagones (~50 horas/año): unos $1,500 en combustible, $2,000–$4,500 en servicio y $300–$600 en baterías — digamos **$4,000–$6,500 de costo de propiedad en 10 años** además de la instalación. Quien presupueste un Generac debería presupuestar eso también.
+Súmalo en una década con una exposición moderada a apagones (~50 horas/año): unos $1,500 en combustible, $2,000–$4,500 en servicio y $300–$600 en baterías — digamos **$4,000–$6,500 de costo de propiedad en 10 años** además de la instalación. Quien presupueste un Generac debería presupuestar eso también. Ese servicio rutinario es también lo que mantiene alejadas las alarmas molestas — una batería descuidada y un servicio vencido son las raíces habituales del [código de error 1501 de Generac](/es/articles/generac-error-code-1501), la alarma por pérdida de señal de RPM que bloquea una unidad de reserva hasta que se borra.
 
 ## Generac vs. Kohler y Cummins: ¿cuánto cuesta la marca?
 

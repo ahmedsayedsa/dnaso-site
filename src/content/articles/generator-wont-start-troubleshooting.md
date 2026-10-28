@@ -110,7 +110,7 @@ This sounds trivial, but mis-set chokes cause a huge number of no-starts, especi
 
 **Clearing a flood:** Turn the choke fully OFF, hold the throttle wide open if the generator has one, and pull 4–6 times with the fuel valve closed (or just crank a standby briefly). This clears the excess fuel. Alternatively, remove the spark plug, dry it off, pull the starter cord a few times with the plug out to blow fuel vapor out of the cylinder, then reinstall and try again with correct choke.
 
-**Auto-choke units:** Many modern standby generators and some inverter portables use an automatic choke. If the auto-choke solenoid or linkage fails, the engine gets the wrong mixture on start. Symptoms: starts fine in warm weather but not cold, or needs multiple attempts. The solenoid is a small replaceable part (**$15–40**), though diagnosing it requires confirming the choke plate actually moves during cranking — have someone watch the linkage while you crank.
+**Auto-choke units:** Many modern standby generators and some inverter portables use an automatic choke. If the auto-choke solenoid or linkage fails, the engine gets the wrong mixture on start. Symptoms: starts fine in warm weather but not cold, or needs multiple attempts. The solenoid is a small replaceable part (**$15–40**), though diagnosing it requires confirming the choke plate actually moves during cranking — have someone watch the linkage while you crank. A related pattern on Honda portables — an engine that will only keep running with the choke left on — usually points further down the fuel path, as our guide to [a Honda generator that only runs with choke on](/articles/honda-generator-only-runs-with-choke) explains.
 
 ## Step 6: Check the Air Filter
 
@@ -143,7 +143,7 @@ If you've worked through steps 1–6 and the engine still won't start, the carbu
 
 **Option B: Replace it.** For most common portable generators, a complete aftermarket carburetor costs **$15–35** on Amazon or at a small-engine shop — often barely more than a rebuild kit, and it arrives clean and ready to bolt on. For a Honda EU2200i, an OEM carburetor runs closer to **$80–120**; aftermarket clones are **$20–30** and generally work, though quality varies. For most people, replacement is the better value: 15 minutes of wrenching versus an hour-plus of fiddly cleaning, and a brand-new carburetor eliminates the "did I get every passage?" doubt.
 
-**Which to choose:** If the carburetor is a common model (Predator 3500/4375, Generac GP series, Westinghouse iGen series), replace it — the aftermarket carbs are cheap and plentiful. If it's an unusual or discontinued model where replacements are hard to find, clean and rebuild the original. If the carburetor is physically damaged (cracked body, stripped threads), replace it.
+**Which to choose:** If the carburetor is a common model (Predator 3500/4375, Generac GP series, Westinghouse iGen series), replace it — the aftermarket carbs are cheap and plentiful. If it's an unusual or discontinued model where replacements are hard to find, clean and rebuild the original. If the carburetor is physically damaged (cracked body, stripped threads), replace it. Firman owners get the brand-specific version of these same checks in our [Firman generator won't start guide](/articles/firman-generator-wont-start), which covers that brand's fuel selector and carb quirks in order.
 
 ## Portable vs. Standby: Different Machines, Different Checks
 

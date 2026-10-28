@@ -88,7 +88,7 @@ A veces, sí. Esta es la pregunta que vale la pena hacer antes de gastar un cent
 - Manejas 60+ millas al día o tienes una camioneta de batería grande (Ford F-150 Lightning, Rivian) donde el nivel 1 genuinamente no alcanza.
 - La alimentación existente es cableado antiquísimo de la era de perillas y tubos o una chapuza sin permiso de algún manitas. Las encuentro constantemente. Si el cableado de la cochera es anterior a la última actualización del panel de tu casa, asume que hay que reemplazarlo.
 
-Opción intermedia honesta: un **cargador de nivel 2 ajustado a 24A o 32A** en un tramo nuevo modesto. Muchos cargadores (ChargePoint Home Flex, Emporia, Tesla Wall Connector) te dejan fijar la corriente. Un cargador de 32A en un circuito de 40A sigue sumando ~25 millas por hora — cinco veces el nivel 1 — y el cable más delgado puede recortar dinero real en un tramo largo.
+Opción intermedia honesta: un **cargador de nivel 2 ajustado a 24A o 32A** en un tramo nuevo modesto. Muchos cargadores (ChargePoint Home Flex, Emporia, Tesla Wall Connector) te dejan fijar la corriente. Un cargador de 32A en un circuito de 40A sigue sumando ~25 millas por hora — cinco veces el nivel 1 — y el cable más delgado puede recortar dinero real en un tramo largo. Sea cual sea el amperaje que elijas, todavía tendrás que decidir cómo se conecta la unidad, y nuestra [comparación de cargador EV cableado vs con enchufe](/es/articles/hardwired-vs-plug-in-ev-charger) explica por qué esa elección afecta los límites de amperaje, el comportamiento del GFCI y la confiabilidad.
 
 ## El Subpanel de la Cochera: Qué Cuesta y Por Qué lo Necesitas
 

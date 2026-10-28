@@ -11,9 +11,13 @@ faq:
     answer: "Yes. A full-size fridge draws 100–200 watts while the compressor runs and cycles on roughly half the time, so it uses about 1,0–1,5 kWh per day. A 1 kWh station gets you through the night and most of a day if you keep the door closed; a 2 kWh station covers a day and a half to two days. It cannot run an air conditioner for long — a small window AC drains 2 kWh in about three hours."
   - question: "Can I store a gas can in my apartment for emergencies?"
     answer: "You shouldn't, and in most places you legally can't. Fire codes severely limit flammable-liquid storage inside dwelling units, most leases ban gasoline outright, and a gallon of gasoline has the explosive energy of roughly 14 sticks of dynamite. Standard 20 lb propane tanks are also prohibited indoors under NFPA rules. Batteries have none of these problems."
+  - question: "Can I recharge a power station with a solar panel on my balcony?"
+    answer: "Yes, with modest expectations. A 200–400 W panel — rigid on the railing if your lease allows it, or a folding panel deployed during the outage — is the practical size. Expect only 40–60% of nameplate on a good day, because the angle is rarely ideal and partial shade cuts output sharply: roughly 400–700 Wh a day from 200 W, or 800–1,200 Wh from 400 W. Against a fridge's 1,0–1,5 kWh daily appetite, that will not make you independent, but it can stretch a 2 kWh station from one day of fridge runtime to two or three."
 pubDate: 2026-10-21
 keywords: ["generator for an apartment", "apartment backup power", "best power station for apartment", "can you use a generator in an apartment", "solar generator for apartment"]
 ---
+
+**Quick answer:** No fuel-burning generator can run in an apartment — not indoors, not on a balcony, and not in the parking garage — because it must sit at least 20 feet away outdoors with the exhaust pointed away, and carbon monoxide kills roughly 85–100 people a year in the US in exactly these improvised setups. The apartment-safe alternative is a battery power station: a 1 kWh unit (around $500–800) runs a fridge overnight plus phones, lights, and Wi-Fi, while a 2 kWh unit (around $1,200–1,800) stretches fridge runtime past a full day, silently and legally in a bedroom.
 
 Every time a big storm knocks out power to a city, I get the same call a few days later from someone in an apartment building: "Mike, what generator should I buy so this doesn't happen again?" They've been looking at a 3.500-watt generator for an apartment outage, and want to know if the balcony is big enough.
 

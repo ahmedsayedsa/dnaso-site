@@ -17,7 +17,7 @@ keywords: ["Predator generator won't start", "Predator 3500 won't start", "Harbo
 
 A Predator generator won't start for the same handful of reasons every other small engine won't — plus two or three quirks specific to Harbor Freight's machines. I've serviced a lot of these. They're Honda-clone engines built to a price, and once you know where the corners were cut, they're honestly some of the easiest generators in America to diagnose. The failures cluster in the same places: the carburetor, the low-oil sensor, and a stock spark plug I wouldn't trust to light a birthday cake.
 
-I'm Mike Donovan, licensed electrician, 18 years in the trades. This guide covers the models I see most: the **Predator 3500 Super Quiet inverter**, the **4375** open-frame workhorse, and the big **9000/9500** electric-start units. Different brand? Start with my general [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting); this article goes deep on the Predator-specific stuff.
+I'm Mike Donovan, licensed electrician, 18 years in the trades. This guide covers the models I see most: the **Predator 3500 Super Quiet inverter**, the **4375** open-frame workhorse, and the big **9000/9500** electric-start units. Different brand? Start with my general [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting); this article goes deep on the Predator-specific stuff. Firman owners will find the parallel brand-specific checks in our [Firman generator won't start guide](/articles/firman-generator-wont-start), since the two brands share many of the same carburetor and petcock failure patterns.
 
 Before you touch anything, three safety rules:
 

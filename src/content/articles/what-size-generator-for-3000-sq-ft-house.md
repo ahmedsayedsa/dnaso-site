@@ -11,9 +11,13 @@ faq:
     answer: "Because the generator only sees electric loads. A 3000 sq ft house with gas heat, gas water heater, gas stove, and one AC might peak at 12–15 kW. The same house all-electric — two heat pumps with auxiliary heat strips, electric water heater, electric range — can demand 35 kW or more. The floor plan is identical; the fuel split changes the answer by 2–3x."
   - question: "How long will a 250-gallon propane tank run a 26 kW generator?"
     answer: "A 250-gallon tank holds about 200 usable gallons (tanks fill to 80%). A 26 kW unit at a realistic 50–75% load burns roughly 2.5–3 gallons per hour, so 200 gallons buys you roughly 65–80 hours of runtime — about three days of continuous running, or a week-plus if you cycle the generator off overnight and during mild weather."
+  - question: "How much does a generator for a 3000 sq ft house cost installed?"
+    answer: "It depends on the tier. A 10,000–14,000W portable on a 50-amp inlet with an interlock kit typically lands at roughly $1,500–3,000 all-in, generator included. The common whole-house choice costs far more: a 26 kW Generac or Kohler standby installed typically runs about $13,000–17,000, depending on gas line work and the distance to your panel. Load management narrows that gap in your favor — soft starters at about $300–400 per AC and load-shed modules at about $150–250 each often let a smaller, cheaper standby do the job safely."
 pubDate: 2026-10-21
 keywords: ["what size generator for a 3000 sq ft house", "generator for 3000 sq ft home", "22 kw generator 3000 sq ft", "whole house generator sizing", "generator size two ac units"]
 ---
+
+**Quick answer:** Most 3000 sq ft houses land on a 22–26 kW standby generator for whole-house coverage, or a 10,000–14,000W portable if you only need the essentials. A gas-heated home with one 4–5 ton AC sits comfortably at 22 kW, while two AC systems usually need 24–26 kW with soft starters and load shedding to survive simultaneous compressor starts. All-electric homes — heat pumps with auxiliary strips, electric water heating, electric range and dryer — are the exception: plan on 26–30 kW with aggressive load management, because the fuel split matters more than the square footage.
 
 If you're asking what size generator for a 3000 sq ft house, here's the answer I give on service calls, before we've even looked at the panel: **most of you end up at 22–26 kW in a standby, or 10,000–14,000 watts in a portable if you're only covering essentials.** But 3000 sq ft is exactly the size where the generic chart starts lying to people, because at this size houses stop being uniform. Two HVAC systems or one big one. A pool pump nobody remembers until it kicks on. A second water heater. The floor plan got bigger — what grew with it is what actually decides your generator size.
 
@@ -100,7 +104,7 @@ Let me run the numbers on a composite of a house I quote about twice a month —
 
 **The same house, managed:** Soft starters on both ACs (surges now 4,500W and 3,000W), load-shed module pauses the pool pump and water heater during compressor starts. Worst second is now roughly **21–22 kW for a fraction of a second** — inside what a 26 kW delivers without breaking a sweat, and even the 22 kW survives it in practice. That's the whole game at this house size: *manage the seconds, and the hours take care of themselves.*
 
-If you're stepping down from this profile rather than up, my [guide to sizing for a 2000 sq ft house](/articles/what-size-generator-for-2000-sq-ft-house) covers the single-system version of the same math.
+If you're stepping down from this profile rather than up, my [guide to sizing for a 2000 sq ft house](/articles/what-size-generator-for-2000-sq-ft-house) covers the single-system version of the same math. And if you're stepping up instead — a bigger footprint with the same dual-system layout — the [sizing guide for a 5000 sq ft house](/articles/what-size-generator-for-5000-sq-ft-house) runs the larger version of this same math.
 
 ## Isn't the pool pump just one more load? No — it's the forgotten one
 

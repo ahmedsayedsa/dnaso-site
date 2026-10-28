@@ -42,7 +42,7 @@ If you want the same tables for every size and fuel type, our full [generator fu
 
 ## How long will a tank actually last during an outage?
 
-Tank sizes on 5500s run from about 6 gallons on the budget end to 7.2 gallons on something like a Generac GP5500. Call it 6.5 for planning.
+Tank sizes on 5500s run from about 6 gallons on the budget end to 7.2 gallons on something like a Generac GP5500. Call it 6.5 for planning. If you're working from a standard 5-gallon can rather than a full tank, our breakdown of [how long a generator runs on 5 gallons of gas](/articles/how-long-generator-run-on-5-gallons-of-gas) does that same math by size and load.
 
 - **Overnight essentials only** (fridge, a few lights, phones, router — around 25% load): 14–16 hours. This is the scenario where a 5500 feels almost economical.
 - **Normal outage living** (fridge, furnace blower or window AC cycling, lights, TV, microwave in bursts — averaging near 50%): 10–12 hours. This is the honest planning number. Fill it in the morning, top it off before bed.

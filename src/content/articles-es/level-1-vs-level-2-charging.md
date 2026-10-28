@@ -34,7 +34,7 @@ Toda la carga casera de VE es solo voltaje por amperios. Esa es toda la historia
 
 Esa columna de millas por hora asume más o menos 3 millas por kWh, que está bien para un Model 3 o Ioniq 5 y es ligeramente optimista para una Lightning o una Hummer. Los VE grandes y pesados beben más por milla; la matemática es la misma, los números solo se mueven un poco.
 
-El nivel 1 es el cable que viene con (la mayoría de) el auto conectado en el mismo tomacorriente que tu lámpara de cochera. El nivel 2 es un circuito dedicado de 240V — ya sea un cargador cableado directo o un enchufe grande — instalado por un electricista. Uno es gratis. El otro cuesta $1,200–$2,500 instalado. La pregunta es si el gratis cubre tu vida.
+El nivel 1 es el cable que viene con (la mayoría de) el auto conectado en el mismo tomacorriente que tu lámpara de cochera. El nivel 2 es un circuito dedicado de 240V — ya sea un cargador cableado directo o un enchufe grande — instalado por un electricista. Uno es gratis. El otro cuesta $1,200–$2,500 instalado. La pregunta es si el gratis cubre tu vida. Si sí eliges el nivel 2, esa decisión entre cableado directo o con enchufe importa más de lo que la mayoría de los compradores espera, como muestra nuestra [guía de cargador EV cableado vs con enchufe](/es/articles/hardwired-vs-plug-in-ev-charger) sobre límites de amperaje, calidad del tomacorriente y disparos molestos.
 
 ## ¿Qué Tan Rápida Es la Carga de Nivel 1, Realmente?
 

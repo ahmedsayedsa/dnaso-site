@@ -11,9 +11,13 @@ faq:
     answer: "Almost never. An additive can soften light varnish in a carb that's still flowing decently, but a plugged pilot jet is blocked by hardened deposits — fuel barely passes through it, so cleaner barely does either. If it only runs on choke, the carb comes apart or gets replaced."
   - question: "How much does it cost to fix a Honda that only runs on choke?"
     answer: "DIY: $0–15 to clean the carb (cleaner, maybe gaskets), $25–40 for an aftermarket replacement, or $100+ for an OEM Honda carb (EU2000i/EU2200i). At a shop, expect $120–200 with labor."
+  - question: "What should I check before I take the carburetor apart?"
+    answer: "Two free checks. First, the fresh-fuel trial: drain the carb bowl and the tank, refill with fresh gasoline bought this week with stabilizer added, and give it five minutes to purge — if it now runs cleanly off choke, the fuel had simply gone stale. Second, the flow check: disconnect the fuel line at the carb inlet with the valve open and a container ready; fuel should arrive in a strong, steady stream, not a drip or a pulse. Weak flow points to the tank screen, filter, sediment cup, or the line itself — $5–15 parts — so fix that before blaming the carb."
 pubDate: 2026-10-21
 keywords: ["Honda generator only runs with choke on", "Honda EU2200i choke problem", "generator runs only on choke", "Honda inverter generator carburetor cleaning", "EU2000i runs with choke only"]
 ---
+
+**Quick answer:** A Honda generator that only runs with the choke on is starving for fuel — the choke restricts air to match a weak fuel supply, so the engine dies the moment you open it. Nine times out of ten the cause is a partially clogged pilot jet in the carburetor, usually varnish from stale E10 that sat in the tank and bowl over a season; a clogged filter, a carb-gasket air leak, or weak pump output account for most of the rest. Additives in the tank almost never fix it — the carb comes apart for cleaning ($0–15 in parts) or gets replaced.
 
 Your Honda generator only runs with choke on. It starts fine — Hondas usually do — purrs along while the choke lever is out, and the second you push the choke in like you're supposed to, it stumbles, sags, and dies.
 

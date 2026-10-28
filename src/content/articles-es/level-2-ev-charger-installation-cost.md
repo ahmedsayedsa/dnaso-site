@@ -32,7 +32,7 @@ Cuatro piezas. Cada cotización que recibas debería mostrar las cuatro, detalla
 3. **Mano de obra** — el tiempo del electricista. $500–$1,200 para una instalación estándar en la mayoría de los mercados, más en ciudades caras.
 4. **El permiso y la inspección** — $50–$250 según tu jurisdicción. Sí, necesitas uno. Abajo explico por qué.
 
-Nota lo que NO está en esa lista: reparación de tablaroca, zanja a una cochera separada, o una actualización del panel. Esas son las "sorpresas" que convierten una cotización de $1,400 en una factura de $4,000. Un buen electricista las detecta durante la visita. Uno malo las detecta después de que las paredes están abiertas.
+Nota lo que NO está en esa lista: reparación de tablaroca, zanja a una cochera separada, o una actualización del panel. Esas son las "sorpresas" que convierten una cotización de $1,400 en una factura de $4,000. Un buen electricista las detecta durante la visita. Uno malo las detecta después de que las paredes están abiertas. Si esa cochera separada es tu lugar de carga, presupuesta la zanja y el trabajo del subpanel por separado, como lo detalla nuestra guía para [instalar un cargador EV en una cochera separada](/es/articles/ev-charger-detached-garage) tramo por tramo.
 
 ## ¿Cuánto Cuesta el Cargador en Sí?
 

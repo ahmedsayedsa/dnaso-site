@@ -2,10 +2,23 @@
 title: "¿Cuánto combustible usa un generador? Cifras reales"
 description: "Consumo de combustible del generador en cifras reales: galones por hora por tamaño y carga, gasolina vs propano vs gas natural y costos diarios de apagón."
 heroImage: "/images/generator-fuel-consumption.webp"
+faq:
+  - question: "¿Cuánta gasolina usa un generador de 7,500 W por hora?"
+    answer: "Depende de la carga, porque el consumo sigue a la carga y no al tamaño. Un portátil de gasolina típico de 7,500 W quema unos 0.45–0.65 gal/hr al 25% de carga, 0.7–1.0 gal/hr al 50%, 1.0–1.4 gal/hr al 75% y 1.4–1.8 gal/hr a plena carga. La cifra del 50% es la que debes usar para planear, porque la mayoría de las casas con respaldo operan entre 40–60% de la clasificación del generador. Con un tanque de 6–7 galones, esa tasa de consumo a media carga es la razón por la que solo obtienes unas 6–10 horas antes de recargar."
+  - question: "¿Cuánto tiempo funciona un generador con un tanque de propano de 20 lb?"
+    answer: "No tanto como la mayoría espera. Un tanque de parrilla de 20 lb guarda unos 4.6–4.7 galones de propano, y un generador de 7,500 W al 50% de carga quema unos 1.1–1.3 gal/hr de propano, así que un tanque compra solo unas 3.5–4.5 horas. La menor densidad energética del propano — unos 91,500 BTU por galón frente a unos 114,000 de la gasolina — es la razón del mayor consumo en volumen. Si el propano es tu combustible, ten varios cilindros a la mano o sube a un cilindro de 100 lb, que guarda unos 23.6 galones y funciona 18–22 horas con la misma carga."
+  - question: "¿Por qué la carga importa más que el tamaño del generador para el consumo?"
+    answer: "Porque un generador quema combustible en proporción a la energía que está produciendo, no a su clasificación máxima. Una unidad de 7,500 W andando suave a 2,000 W usa más o menos el mismo combustible que una de 3,500 W cargando los mismos 2,000 W — la máquina más grande tiene más margen, y una eficiencia ligeramente peor con cargas muy ligeras. Los inversores son la excepción que confirma la regla: como bajan las RPM del motor con cargas ligeras, un inversor de 2,000 W puede tomar 0.15 gal/hr, mientras una unidad convencional funciona a toda velocidad y quema cerca de su cifra de 50% de carga."
+  - question: "¿Cuánto cuesta en combustible un apagón de cinco días?"
+    answer: "En un portátil de 7,500 W operando 20 horas al día al 50% de carga, la tabla de esta guía da unos $45–$72 por día en gasolina a $3.20–$3.60 por galón — y la cifra trabajada del artículo, $55 al día, pone cinco días en $275 solo en combustible, con un apagón de 10 días acercándose a $550. Un portátil de 3,500 W operado 12 horas al día es más suave, con unos $13–$18 por día. En cualquier caso, el patrón se sostiene: el generador es la parte barata de un apagón largo, y alimentarlo es la parte cara."
+  - question: "¿Cuánto tiempo se puede almacenar gasolina para un generador?"
+    answer: "La gasolina sin tratar empieza a descomponerse en unos 30 días y es poco confiable a los 3–6 meses — y el residuo de barniz que deja es la causa número uno de generadores muertos a la hora del apagón. Agregar estabilizador como Sta-Bil a cada galón almacenado alarga eso a 12–24 meses, siempre que rotes el inventario en tu carro o podadora sin estirarlo más de dos años. Almacénala en envases aprobados de 5 galones o menos, en un lugar fresco y ventilado lejos de la casa, y ten en cuenta que la mayoría de los códigos de incendio limitan el almacenamiento residencial a unos 25 galones."
 pubDate: 2026-10-19
 keywords: ["consumo de combustible del generador", "cuánta gasolina usa un generador", "galones por hora generador"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Un generador quema combustible en proporción a la carga, no al tamaño, así que la cifra que importa es la del 50% de carga: un portátil de 3,500 W usa unos 0.3–0.45 galones por hora en gasolina, una unidad de 7,500 W unos 0.7–1.0 gal/hr y una de 10,000 W unos 1.0–1.4 gal/hr. El propano quema más volumen — unos 1.0–1.4 gal/hr para el mismo 7,500 W a media carga — porque tiene cerca de 27% menos energía por galón, mientras que un reserva de 20kW en gas natural jala unos 200–250 pies cúbicos por hora a media carga. Opera 20 horas al día y un portátil de 7,500 W cuesta $45–$72 por día solo en gasolina.
 
 La sorpresa número uno que reportan los dueños primerizos de generadores no es el ruido, el peso ni el mantenimiento. Es qué tan rápido la cosa traga combustible. Un generador portátil mediano operando medio día quemará más gasolina en 48 horas que una pickup en un mes de ir al trabajo. Si no lo planeas, estarás parado en una fila de gasolinera a la hora 30 de un apagón, mirando el tablero de precios y haciendo cuentas que debiste haber hecho en el pasillo de la tienda.
 
@@ -67,7 +80,7 @@ Los fabricantes citan "autonomía al 50% de carga" porque es el estándar. Pero 
 | Portátil de 7,500 W | ~6–7 gal | 6–10 hrs | 9–15 hrs |
 | Portátil de 10,000 W | ~8–9 gal | 6–9 hrs | 9–14 hrs |
 
-Un portátil de 7,500 W con tanque de 6 galones a media carga: 6 ÷ 0.85 ≈ 7 horas. Eso significa dos recargas por día si estás operando las 24 horas. Planea tu inventario de combustible alrededor de esa realidad, no del número optimista del folleto.
+Un portátil de 7,500 W con tanque de 6 galones a media carga: 6 ÷ 0.85 ≈ 7 horas. Eso significa dos recargas por día si estás operando las 24 horas. Planea tu inventario de combustible alrededor de esa realidad, no del número optimista del folleto. Para la versión paso a paso de esa misma cuenta con un solo llenado, consulta [cuánto dura un generador con 5 galones de gasolina](/es/articles/how-long-generator-run-on-5-gallons-of-gas).
 
 ### Autonomías de tanques de propano (generador de 7,500 W al 50% de carga, ~1.1–1.3 gal/hr de propano)
 

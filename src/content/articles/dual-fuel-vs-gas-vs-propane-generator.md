@@ -2,9 +2,22 @@
 title: "Dual-Fuel vs Gasoline vs Propane Generators: Running Costs Compared"
 description: "Dual-fuel vs gasoline vs propane generators: fuel cost per hour, storage life, availability in outages, and which fuel wins for your situation."
 heroImage: "/images/dual-fuel-vs-gas-vs-propane-generator.webp"
+faq:
+  - question: "Is a dual-fuel generator worth the extra cost?"
+    answer: "For most portable buyers, yes. The premium over a gasoline-only unit is typically $50–$150 on a mid-size portable, and it buys you out of gasoline's two worst problems: fuel that goes stale in 3–6 months and stations that cannot pump during an outage. You keep gasoline's full rated wattage when every watt matters, and you gain propane's indefinite storage life as your backup plan. Having the choice beats having the perfect fuel you cannot get — which is why dual-fuel is the option recommended most often for portable buyers in this guide."
+  - question: "Does a generator produce less power on propane or natural gas?"
+    answer: "Yes — propane costs you about 10% of rated output, and natural gas about 10–15%. A generator rated 9,500W on gasoline typically delivers around 8,500–8,600W on propane, because propane carries less energy per unit volume; natural gas derates the most of the three fuels, at roughly 15% on tri-fuel portables. Manufacturers publish separate ratings for each fuel, so size on the rating for the fuel you will actually run. If you need the full headline wattage on propane, buy the bigger unit or stay on gasoline."
+  - question: "How long can you store propane vs gasoline for a generator?"
+    answer: "It is not close. Propane never degrades: a sealed tank can sit for ten years and the fuel is exactly as good as day one, with no stabilizer and no rotation. Gasoline starts degrading in 30 days untreated and is unreliable by 3–6 months, and the varnish it leaves behind gums up carburetors — the single most common reason a generator will not start when needed. Stabilizer extends gasoline storage to 12–24 months, but only if you actually rotate the stock every 6–12 months instead of filling once and forgetting it."
+  - question: "How much does it cost to run a 7,500W generator for 24 hours?"
+    answer: "Using the half-load math in this guide — a 7,500W portable running about 3,750W at approximate 2026 US prices — 24 hours of runtime costs roughly $70 on gasoline (about 0.9 gallons per hour at $3.20 per gallon), about $92 on propane (about 1.1 gallons per hour at $3.50 per gallon equivalent), and about $54 on natural gas for a standby (about 150 cubic feet per hour at $1.50 per therm). A three-day outage on a portable therefore runs $200–$275 in fuel alone, before the gas cans."
+  - question: "Can a portable generator run on natural gas?"
+    answer: "Standard portables cannot — natural gas is almost exclusively a standby-generator fuel, and if your house has no gas line, running one just for a generator is usually not worth the cost. The exception is a tri-fuel portable, such as DuroMax's XP13000HXT class, which adds a quick-connect hose to your home's gas line on top of gasoline and propane. Even then, natural gas derates output the most (~15%), and the unit still needs you home to start it. For most buyers, dual-fuel plus a propane stockpile is the simpler, cheaper answer."
 pubDate: 2026-10-19
 keywords: ["dual fuel vs gasoline generator", "propane vs gas generator", "generator fuel consumption"]
 ---
+
+**Quick answer:** For most portable buyers, dual-fuel is the best choice: for a $50–$150 premium over gasoline-only, you get gasoline's full rated power plus propane's indefinite storage life as a backup. The running-cost math at half load on a 7,500W unit is about $2.90 per hour on gasoline, $3.80 on propane, and $2.25 on natural gas for a standby. Gasoline goes stale in 3–6 months untreated and is hardest to find mid-outage; propane never degrades but delivers about 10% less power; natural gas is cheapest and unlimited, but only for standby units with a gas line.
 
 Picking the generator type gets all the attention. Picking the fuel gets almost none — and it's the choice that determines what your backup power actually costs to run, whether it starts after sitting for a year, and whether you can even get fuel during the outage you're preparing for.
 
@@ -106,6 +119,10 @@ One more practical note: **buy fuel containers before the storm, not during.** G
 - **Frequent or seasonal outages (storm country, hurricane/ice season):** dual-fuel portable with a real propane stockpile (multiple 20-lb tanks or a 100-lb cylinder) plus stabilized gasoline. Or a standby on natural gas if the budget allows.
 - **Multi-day outage risk:** standby on natural gas is the gold standard for runtime. If that's out of budget, a large dual-fuel portable with 40+ gallons of propane equivalent is the practical answer.
 - **Whole-home, set-and-forget:** standby on natural gas (or propane with a large tank if no gas line). This is the [standby generator](/articles/portable-vs-standby-vs-inverter-generator) use case.
+
+## Worked example: riding out three days on two fuels
+
+Say a storm knocks you out for three days and you run a 7,500W dual-fuel unit at half load for roughly 16 hours a day, cycling it off overnight. On gasoline, at about 0.9 gallons per hour, that is roughly 14 gallons a day — squarely inside the 25–40 gallon stockpile this guide recommends for medium-risk homes, and it adds up fast toward the $200–$275 three-day fuel bill noted above. Switch to propane for some of those hours and the math changes shape rather than size: at about 1.1 gallons per hour, a single 20-lb tank's 4.6 gallons buys only 4–6 hours, so the four-tank stockpile, not the grill spare, is what actually carries you. That is the hedge working as designed — gasoline for bulk hours, propane for clean, stored-forever insurance.
 
 ## The Bottom Line
 

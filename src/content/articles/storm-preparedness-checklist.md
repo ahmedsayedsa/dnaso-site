@@ -2,9 +2,22 @@
 title: "Hurricane & Storm Power Outage Checklist: Fuel, Safety, Generator Prep"
 description: "Storm outage checklist: fuel storage and rotation, generator placement and CO safety, fridge rules, safe refueling, and post-storm maintenance."
 heroImage: "/images/storm-preparedness-checklist.webp"
+faq:
+  - question: "How far from the house should a generator be during a storm?"
+    answer: "At least 20 feet from the house, with the exhaust pointed away from the building — that is the CDC and CPSC guidance, not a suggestion. Never run it in a garage, even with the door open, or in a basement, shed, carport, or under a deck, because carbon monoxide accumulates faster than it ventilates and can drift inside through doors, windows, and vents. Keep it away from windows and air intakes, including your neighbor's, and keep battery-powered CO detectors with fresh batteries on every floor."
+  - question: "How much fuel do I need for a 72-hour outage?"
+    answer: "Work it out from your generator's burn rate at half load. A 5,500W gasoline portable burns about 0.6–0.8 gallons per hour, so 72 straight hours takes roughly 45–55 gallons; a 7,500W unit needs about 60–70 gallons and a 9,500W unit about 70–85 gallons. Most owners cycle instead of running continuously — figure 8–12 hours of runtime per day, which cuts those numbers roughly in half. Buy early either way: panic buying empties stations 24–48 hours before landfall, and stations without power cannot pump afterward."
+  - question: "How long does food stay safe in a fridge and freezer without power?"
+    answer: "A closed fridge keeps food safe for about 4 hours without power. A full freezer holds temperature for about 48 hours, or about 24 hours if it is half-full, as long as the doors stay shut — every opening dumps cold air. After 4 hours without power or generator cycling, discard perishables such as meat, dairy, and leftovers; a food thermometer reading 40°F or below means food is still safe. Running the generator 3–4 hours twice a day keeps a fridge safely cold indefinitely."
+  - question: "Can I refuel a generator while it is running?"
+    answer: "No — never, with no exceptions. Shut the generator off and let it cool for 10–15 minutes before refueling. Spilling gasoline on a hot muffler is how fires start, and refueling burns are the second-most-common generator injury after carbon monoxide poisoning. Keep an ABC-rated fire extinguisher near the generator station, refuel only outdoors on level ground, and do not restart a unit that got soaked in surge or flood water until it has been inspected — water in the windings or panel is a shock hazard."
+  - question: "What maintenance does a generator need after a storm outage?"
+    answer: "Do not just roll it back into the garage. Change the oil after any extended run — most portables want fresh oil every 50–100 hours, so a 3-day outage at 10 hours a day already puts you due. Clean or replace the air filter, inspect cords, frame, and fuel system for damage and leaks, then either run the carburetor dry or fill the tank with stabilized fuel before storage. Standby owners should also check the controller for fault codes logged during the outage and confirm the unit returned to standby mode."
 pubDate: 2026-10-19
 keywords: ["hurricane power outage checklist", "storm generator safety", "carbon monoxide generator safety", "fuel storage generator"]
 ---
+
+**Quick answer:** Prepare in the 72 hours before landfall, not during the storm: buy fuel early (stations run dry 24–48 hours out), test the generator under real load for 15–20 minutes, and set it up at least 20 feet from the house with the exhaust pointed away and battery CO detectors on every floor. During the outage, never refuel a hot or running generator — cool it 10–15 minutes first — and cycle a portable 3–4 hours at a time instead of running it 24/7. A closed fridge keeps food safe about 4 hours; a full freezer, about 48 hours.
 
 Every hurricane season, the same pattern plays out: the storm track firms up 72 hours out, gas stations run dry 48 hours out, and the people who prepared are calm while everyone else is in a checkout line buying the last generator at the big-box store — the one without an instruction manual because the box was a floor model.
 
@@ -109,7 +122,7 @@ Your generator just did the hardest work of its life. Don't just roll it back in
 1. **Change the oil** after any extended run (check your manual — most portables want fresh oil every 50–100 hours; after a 3-day outage at 10 hrs/day, you're due).
 2. **Clean or replace the air filter.** Storm air is full of dust and debris; a clogged filter chokes the engine.
 3. **Inspect for damage:** check cords for nicks, the frame for cracks, the fuel system for leaks. Look at the outlets for corrosion if it ran in rain.
-4. **Run it dry or stabilize.** If you're putting it away: either run the carburetor dry (shut the fuel valve and let it run until it dies — prevents varnish in the carb, the #1 "won't start next year" cause) or fill the tank with stabilized fuel. Pick one; don't do neither.
+4. **Run it dry or stabilize.** If you're putting it away: either run the carburetor dry (shut the fuel valve and let it run until it dies — prevents varnish in the carb, the #1 "won't start next year" cause) or fill the tank with stabilized fuel. Pick one; don't do neither. That same end-of-season routine, done in full, is exactly what [how to winterize a generator](/articles/how-to-winterize-a-generator) walks through step by step before the machine goes away for months.
 5. **Standby owners:** check the controller for fault codes or warnings logged during the outage, check oil level, and confirm the unit returned to standby mode. Schedule the annual service if it's due.
 
 ### Restocking

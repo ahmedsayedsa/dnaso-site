@@ -18,7 +18,7 @@ lang: "es"
 
 Un generador Predator no arranca por el mismo puñado de razones que cualquier motor chico — más dos o tres mañas propias de las máquinas de Harbor Freight. He dado servicio a muchos de estos. Son motores clon de Honda fabricados para un precio, y una vez que sabes dónde recortaron costos, son de los generadores más fáciles de diagnosticar en EE. UU. Las fallas se juntan en los mismos lugares: el carburador, el sensor de bajo aceite, y una bujía de fábrica en la que no confiaría ni para encender una vela de cumpleaños.
 
-Soy Mike Donovan, electricista licenciado, 18 años en el oficio. Esta guía cubre los modelos que más veo: el **inverter Predator 3500 Super Quiet**, el **4375** de bastidor abierto, y las unidades grandes **9000/9500** de arranque eléctrico. ¿Otra marca? Empieza por mi [guía general para cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting).
+Soy Mike Donovan, electricista licenciado, 18 años en el oficio. Esta guía cubre los modelos que más veo: el **inverter Predator 3500 Super Quiet**, el **4375** de bastidor abierto, y las unidades grandes **9000/9500** de arranque eléctrico. ¿Otra marca? Empieza por mi [guía general para cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting). Los dueños de un Firman encontrarán las revisiones paralelas específicas de su marca en nuestra [guía para cuando un generador Firman no arranca](/es/articles/firman-generator-wont-start), ya que las dos marcas comparten muchos de los mismos patrones de falla en el carburador y la llave de paso.
 
 Antes de tocar nada, tres reglas de seguridad:
 

@@ -92,7 +92,7 @@ This is the outage most people actually live through: keep the food safe, the ba
 | Phone and laptop charging | 70 |
 | **Total steady load** | **~2,100** |
 
-That's 42% of capacity. The worst moment — sump pump starting (2,000W surge) while the furnace blower and fridge are both running — peaks around 4,300 watts, nowhere near the 6,250-watt ceiling. At this load the generator burns roughly 0.35–0.45 gal/hr and will run 11–14 hours on a typical tank. If this combo is all you need, frankly, you could even step down a size — but the headroom here is what lets you add comfort loads without doing arithmetic in the dark. Sump sizing details live in [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump).
+That's 42% of capacity. The worst moment — sump pump starting (2,000W surge) while the furnace blower and fridge are both running — peaks around 4,300 watts, nowhere near the 6,250-watt ceiling. At this load the generator burns roughly 0.35–0.45 gal/hr and will run 11–14 hours on a typical tank. If this combo is all you need, frankly, you could even step down a size — but the headroom here is what lets you add comfort loads without doing arithmetic in the dark. That step down is usually the [4,000-watt generator class](/articles/what-can-4000-watt-generator-run), which still covers this essentials list while trimming cost and fuel use. Sump sizing details live in [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump).
 
 ## Combo 2: Essentials plus real comfort (~3,800 watts)
 

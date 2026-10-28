@@ -17,6 +17,8 @@ pubDate: 2026-10-21
 keywords: ["can you run a generator in the rain", "generator in rain safety", "generator cover while running", "generator storm safety", "wet generator safety"]
 ---
 
+**Quick answer:** Yes, you can run a generator in the rain — safely — if it stays outdoors at least 20 feet from the house, sits on high, dry ground, and runs under a purpose-built, vented running cover, never a loose tarp or an improvised enclosure. Keep your hands dry when handling plugs, stand on dry ground, use the generator's GFCI outlets, and elevate every cord connection off wet ground with drip loops. Never move it into a garage, porch, or carport to escape the rain — that trade converts a weather problem into a carbon monoxide emergency — and never refuel a running or hot generator.
+
 Notice when generators get used: not on pleasant Tuesday afternoons, but in the middle of the weather that knocked the power out. Hurricanes, ice storms, nor'easters, summer downpours — the outage and the drenching arrive together, and the generator has to live outdoors in both. So "can I run it in the rain?" isn't a hypothetical. It's the operating condition.
 
 The short answer is yes, generators run in rain all the time, all over the country, safely. The longer answer is that "safely" is doing real work in that sentence: three specific risks show up when water and generators mix, and each one has a specific rule. Here's the whole picture.
@@ -78,7 +80,7 @@ Running through weather has limits. Shut the generator down (and leave it down u
 - **Conditions outside are dangerous for you.** If stepping out means lightning nearby or debris flying, the generator waits. Power is replaceable; you aren't.
 - **It's refuel time and you can't do it safely.** A hot generator plus gasoline plus rain gear and wet hands is a bad stack. Let it cool, take your time, or let it rest.
 
-For planned refueling, remember the fuel math: a mid-size generator drinking half a gallon an hour through a two-day storm is a five-gallon-can problem every ten hours. The [fuel consumption guide](/articles/generator-fuel-consumption) has the per-load numbers so you can plan cans instead of improvising.
+For planned refueling, remember the fuel math: a mid-size generator drinking half a gallon an hour through a two-day storm is a five-gallon-can problem every ten hours. The [fuel consumption guide](/articles/generator-fuel-consumption) has the per-load numbers so you can plan cans instead of improvising. **A quick planning check:** at half a gallon an hour, a two-day storm outage burns about 24 gallons — five 5-gallon cans, give or take — so stage the fuel beside the generator's high, dry spot before the rain starts, not in the garage you'll be tempted to refuel inside.
 
 ## How do you start and shut down a generator in wet weather?
 

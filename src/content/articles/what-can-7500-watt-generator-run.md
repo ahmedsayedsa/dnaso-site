@@ -2,9 +2,22 @@
 title: "What Can a 7,500-Watt Generator Run? (With Real Examples)"
 description: "What a 7,500-watt generator can run: room-by-room wattage tables, three worked scenarios, what it can't power, and the best 7500W models compared."
 heroImage: "/images/what-can-7500-watt-generator-run.webp"
+faq:
+  - question: "Can a 7,500-watt generator run a whole house?"
+    answer: "For essentials and managed comfort, yes — for everything at once, no. An essentials load (fridge at 200W, freezer 150W, sump pump, lights, Wi-Fi, and a gas furnace blower) totals roughly 2,200–3,000 running watts, about 40% of capacity. A comfort load — adding a well pump, two 10,000 BTU window ACs, a microwave, and laundry — lands around 5,500–6,200W, right at the sensible 80% planning limit of about 6,000W. Beyond that, you don't add loads, you rotate them: one big resistive load, like the 4,500W water heater, at a time."
+  - question: "What's the difference between running watts and starting watts on a 7,500W generator?"
+    answer: "Running watts — 7,500 here — are what the generator can produce continuously, all day; that's the number you size your loads against. Starting watts — 9,375–9,500 on most 7,500W models — are a surge it can deliver for a few seconds when a motor kicks on, like a fridge compressor surging to 800–1,200W or a 1/2 HP well pump to 2,000–3,000W. If your steady load is 7,800W you're over budget even though you're under the peak number, and the generator will run hot, burn oil, and eventually trip or fail."
+  - question: "Can a 7,500-watt generator run central air conditioning?"
+    answer: "Not without help. A 3-ton central AC runs at about 3,500W — comfortably inside capacity — but starting its compressor demands 9,000–12,000W for a second or two, beyond the generator's 9,500W surge rating; the compressor stalls and can cook its windings against low voltage. A soft starter (about $300–400 plus installation) cuts that surge by 60–70%, down to roughly 3,500–4,500W, which a 7,500W unit handles with load management. A 5-ton AC stays off the list even with a soft starter — its ~5,500W running load leaves no margin."
+  - question: "What can a 7,500-watt generator not run?"
+    answer: "Tankless electric water heaters are the hard no: 18,000–28,000W is beyond any portable. Whole-house electric heat is out too — a 10kW furnace strip alone exceeds the generator. And while each big resistive load fits by itself — electric water heater 4,500W, electric dryer 4,500–5,500W, an electric range burner 1,200–2,500W — any two of the three running at once, on top of your essentials, exceeds capacity. The fix is rotation: run the water heater through its 45-minute recovery cycle with the dryer and ACs off, then switch back."
+  - question: "How long will a 7,500-watt generator run on a tank of gas?"
+    answer: "It depends on the load. On an essentials load the generator sips roughly 0.5–0.65 gallons per hour; in comfort mode, at about 6,000W, expect 0.8–1.1 gal/hr — on a 6.5-gallon tank that's a refuel every 6–8 hours. The popular models in this class are rated around 8–11 hours at 50% load on tanks of 6–6.6 gallons. Running on propane with a dual-fuel model costs you about 10% of your wattage (roughly 6,750W running), so size your loads against the propane number if that's your fuel."
 pubDate: 2026-10-19
 keywords: ["what can a 7500 watt generator run", "7500 watt generator", "7500w generator run house"]
 ---
+
+**Quick answer:** A 7,500-watt generator (7,500 running watts, 9,375–9,500 starting watts) can run a house's essentials with room to spare — fridge, freezer, sump or well pump, lights, Wi-Fi, and a gas furnace blower total roughly 2,200–3,000W — and a managed comfort load of about 5,500–6,200W, right at the sensible 80% planning limit of ~6,000W. It cannot run everything at once: the 4,500W electric water heater, the 4,500–5,500W dryer, and cooking loads must rotate, a tankless water heater (18,000–28,000W) is impossible, and central AC needs a soft starter to tame its 9,000–12,000W startup surge.
 
 The 7,500-watt generator is the most popular size in America for a reason: it's the sweet spot where a portable unit can genuinely run a house — fridge, freezer, well pump, lights, internet, and then some — without stepping up to a permanently installed standby that costs five figures. It's also the size where people get into trouble, because "7,500 watts" doesn't mean what most buyers think it means.
 

@@ -43,7 +43,7 @@ Si quieres las mismas tablas para todos los tamaños y combustibles, nuestra [gu
 
 ## ¿Cuánto dura realmente un tanque durante un apagón?
 
-Los tanques de los 5.500 van de unos 6 galones en los modelos económicos a 7,2 en algo como un Generac GP5500. Calcula con 6,5 para planear.
+Los tanques de los 5.500 van de unos 6 galones en los modelos económicos a 7,2 en algo como un Generac GP5500. Calcula con 6,5 para planear. Si trabajas desde un bidón estándar de 5 galones en vez de un tanque lleno, nuestro desglose de [cuánto dura un generador con 5 galones de gasolina](/es/articles/how-long-generator-run-on-5-gallons-of-gas) hace esa misma cuenta por tamaño y carga.
 
 - **Solo lo esencial de noche** (refri, unas luces, teléfonos, router — alrededor del 25% de carga): 14–16 horas. Es el escenario donde un 5.500 se siente casi económico.
 - **Vida normal de apagón** (refri, soplador de calefacción o aire acondicionado de ventana ciclando, luces, TV y el microondas a ratos — promediando cerca del 50%): 10–12 horas. Este es el número honesto para planear. Llénalo en la mañana y rellénalo antes de dormir.

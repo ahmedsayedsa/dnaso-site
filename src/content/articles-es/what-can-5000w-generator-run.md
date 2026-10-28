@@ -93,7 +93,7 @@ Este es el apagón que la mayoría vive de verdad: mantener la comida segura, el
 | Carga de teléfonos y laptop | 70 |
 | **Carga constante total** | **~2.100** |
 
-Eso es el 42% de la capacidad. El peor momento — la bomba arrancando (pico de 2.000 W) con el soplador y el refrigerador funcionando — pica cerca de 4.300 vatios, muy lejos del techo de 6.250. Con esta carga el generador quema unos 1,3–1,7 litros por hora y funciona 11–14 horas con un tanque típico. Si esta combinación es todo lo que necesitas, francamente podrías bajar un tamaño — pero el margen aquí es lo que te deja sumar cargas de confort sin hacer aritmética en la oscuridad. Los detalles de dimensionado de bombas están en [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump).
+Eso es el 42% de la capacidad. El peor momento — la bomba arrancando (pico de 2.000 W) con el soplador y el refrigerador funcionando — pica cerca de 4.300 vatios, muy lejos del techo de 6.250. Con esta carga el generador quema unos 1,3–1,7 litros por hora y funciona 11–14 horas con un tanque típico. Si esta combinación es todo lo que necesitas, francamente podrías bajar un tamaño — pero el margen aquí es lo que te deja sumar cargas de confort sin hacer aritmética en la oscuridad. Ese paso hacia abajo suele ser la [clase de generadores de 4,000 vatios](/es/articles/what-can-4000-watt-generator-run), que todavía cubre esta lista de esenciales recortando costo y consumo de combustible. Los detalles de dimensionado de bombas están en [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump).
 
 ## Combinación 2: esenciales más confort de verdad (~3.800 vatios)
 

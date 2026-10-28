@@ -87,7 +87,7 @@ Sometimes, yes. This is the question worth asking before you spend anything, bec
 - You drive 60+ miles a day or have a big-battery truck (Ford F-150 Lightning, Rivian) where Level 1 genuinely can't keep up.
 - The existing feed is ancient knob-and-tube era wiring or an unpermitted handyman special. I find these constantly. If the garage wiring predates your house's last panel upgrade, assume it needs replacing.
 
-Honest middle option: a **Level 2 charger dialed down to 24A or 32A** on a modest new run. Plenty of chargers (ChargePoint Home Flex, Emporia, Tesla Wall Connector) let you set the current. A 32A charger on a 40A circuit still adds ~25 miles per hour — five times Level 1 — and the smaller wire can shave real money off a long run.
+Honest middle option: a **Level 2 charger dialed down to 24A or 32A** on a modest new run. Plenty of chargers (ChargePoint Home Flex, Emporia, Tesla Wall Connector) let you set the current. A 32A charger on a 40A circuit still adds ~25 miles per hour — five times Level 1 — and the smaller wire can shave real money off a long run. Whichever amperage you land on, you will still need to decide how the unit connects, and our [hardwired vs plug-in EV charger comparison](/articles/hardwired-vs-plug-in-ev-charger) explains why that choice affects amperage limits, GFCI behavior, and reliability.
 
 ## The Garage Subpanel: What It Costs and Why You Need It
 

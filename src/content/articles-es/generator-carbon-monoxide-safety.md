@@ -121,7 +121,7 @@ Porque durante la tormenta eres cuidadoso, y durante el apagón eres humano. El 
 - Está oscuro y lloviendo, y arrastrar un generador de 150 libras unos 20 pies hasta un área abierta se siente miserable. El garage está *ahí mismo*, seco, con la puerta ya abierta.
 - El generador arranca. Todos se sienten mejor. La gente se acuesta — la combinación más peligrosa, porque quien duerme no nota dolores de cabeza, y los detectores, si es que existen, traen las baterías muertas del año pasado.
 
-Nada de eso cambia la física. Así que decide **ahora**, de día y con la luz puesta: elige el sitio a 20 pies, prepara los cables o la conexión del transfer switch, y prueba tus detectores de CO. Nuestra [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist) recorre esa preparación previa. La versión de ti que decide a medianoche en un apagón no es la versión que quieres diseñando este sistema.
+Nada de eso cambia la física. Así que decide **ahora**, de día y con la luz puesta: elige el sitio a 20 pies, prepara los cables o la conexión del transfer switch, y prueba tus detectores de CO. Nuestra [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist) recorre esa preparación previa. La versión de ti que decide a medianoche en un apagón no es la versión que quieres diseñando este sistema. Esa misma preparación de día es también el momento adecuado para revisar el lado eléctrico, incluido [cómo conectar a tierra un generador portátil](/es/articles/how-to-ground-a-portable-generator) según la forma en que se conectará el tuyo.
 
 ## ¿Y los departamentos, balcones y vehículos recreativos?
 

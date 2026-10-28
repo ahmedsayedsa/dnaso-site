@@ -93,6 +93,10 @@ The comparison that matters: choosing propane instead would add a tank ($1,500�
 
 **Running cost** is where natural gas quietly wins forever: at $1.20–$1.80 per therm, a 22kW at half load burns about 2.2 therms per hour — the $2.50–$3.50/hr figure above. A 24-hour outage costs roughly $60–$85 in gas. The same outage on propane is $120–$215.
 
+## Worked example: what a three-day outage actually costs
+
+Take the 22kW whole-house setup above, running at half load through a three-day winter outage — furnace cycling, fridge, lights, and well pump, but nobody running everything at once. At about 221 cubic feet per hour, the unit burns roughly 5,300 cubic feet a day, or about 53 therms. At $1.20–$1.80 per therm, that is the same $60–$85 per day the running-cost section gives you, so three days lands around $180–$255 in gas. The same three days on propane, at $120–$215 per 24-hour outage, would run roughly $360–$645. Add the weekly self-test — about $0.25–$0.50 a week, or $13–$26 a year — and the picture is complete: the gas itself is almost never the reason to hesitate. Run the same outage on a smaller 10–14kW unit at $1.50–$2.80 per hour and the three days cost roughly $108–$202 instead — the pattern holds at every size: natural gas turns a multi-day outage from a fuel-logistics problem into a modest utility bill.
+
 ## What are the honest limits of natural gas backup?
 
 **The utility can fail you — rarely, and at the worst moments.** Gas networks are buried and grid-independent, so ordinary storms almost never interrupt them. But utilities proactively shut off gas in earthquake-damaged areas, floods can damage the network, and the February 2021 Texas freeze showed that extreme demand events can drop local pressure. Notice the pattern: gas fails in catastrophic, infrastructure-breaking disasters — precisely the ones where backup matters most. Propane in a tank doesn't care about any of that (it just runs out in 4–7 days instead).

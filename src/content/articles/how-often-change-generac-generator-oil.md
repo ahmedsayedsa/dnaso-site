@@ -77,7 +77,7 @@ Log the check with the date and hour-meter reading, same as a change. A generato
 
 ## How much does a Generac oil change cost?
 
-DIY, the parts are modest: roughly 2 quarts of synthetic oil plus a Generac oil filter — typically **$25–$45 in parts** for an air-cooled model, and 30–45 minutes of your time once you've done it once. Dealer service runs **$200–$450** for a full annual visit (oil, filter, plugs check, battery test, inspection), which buys you the documentation trail as much as the labor. Either route beats the alternative line item — a replacement engine — by orders of magnitude; a standby unit itself runs $10,000–$15,000 installed at the popular 22kW size, per our [Generac generator cost guide](/articles/generac-generator-cost).
+DIY, the parts are modest: roughly 2 quarts of synthetic oil plus a Generac oil filter — typically **$25–$45 in parts** for an air-cooled model, and 30–45 minutes of your time once you've done it once. Dealer service runs **$200–$450** for a full annual visit (oil, filter, plugs check, battery test, inspection), which buys you the documentation trail as much as the labor. Either route beats the alternative line item — a replacement engine — by orders of magnitude; a standby unit itself runs $10,000–$15,000 installed at the popular 22kW size, per our [Generac generator cost guide](/articles/generac-generator-cost). That same battery test is your best defense against [Generac error code 1501](/articles/generac-error-code-1501), since a weak battery that cranks the engine too slowly is the most common trigger for that RPM-sense-loss alarm.
 
 ## The bottom line
 

@@ -2,10 +2,23 @@
 title: "Lista de mantenimiento del generador: qué hacer y cuándo"
 description: "La lista de mantenimiento del generador que sí importa: aceite, filtros, batería, combustible y rutinas de ejercicio para unidades de reserva y portátiles."
 heroImage: "/images/generator-maintenance-checklist.webp"
+faq:
+  - question: "¿Con qué frecuencia debe ejercitarse un generador de reserva?"
+    answer: "Cada semana, automáticamente. La mayoría de las unidades de reserva de Generac y Kohler traen un ciclo de ejercicio semanal de 5–12 minutos a bajas RPM, y debes dejarlo activado: circula el aceite, carga la batería de arranque y corre un autodiagnóstico. Tu único trabajo es confirmar una vez al mes que realmente esté ocurriendo — escúchala en su día programado y revisa la pantalla del controlador por códigos de falla. Una unidad que dejó de ejercitarse en silencio hace meses es una unidad que te va a fallar durante el apagón."
+  - question: "¿Cada cuándo se cambia el aceite de un generador?"
+    answer: "En un reserva, cada año o cada 100–200 horas de funcionamiento, lo que ocurra primero, junto con el filtro de aceite — las unidades enfriadas por aire suelen llevar 2–4 cuartos de sintético 5W-30. Los portátiles van con una correa mucho más corta: cada 50–100 horas de funcionamiento, con el cambio de asentamiento a las 20–25 horas en una unidad nueva. Un solo apagón de fin de semana largo puede comerse la mitad del intervalo de un portátil, así que cuenta las horas de uso, no solo el calendario. Por unos $8 en aceite y 15 minutos de trabajo, es el seguro más barato de esta lista."
+  - question: "¿Cuánto dura la batería de arranque de un generador?"
+    answer: "De 3 a 5 años, punto — el calor, el frío y pasar tiempo descargada la acortan, y la batería de un reserva muere en ese plazo aunque el generador nunca funcione. Reemplázala de forma preventiva, no cuando falle: una batería Grupo 26R o U1 cuesta $60–$120 según el modelo, y marcar la fecha de instalación con un marcador de pintura elimina las adivinanzas. Prueba bajo carga, no solo voltaje — una batería puede leer 12.6V en reposo y aun así colapsar cuando entra el arranque. Si gira lento al arrancar, reemplázala ya."
+  - question: "¿Cómo debes guardar un generador portátil para que arranque la próxima temporada?"
+    answer: "Elige una rutina de combustible y mantente en ella. O agregas estabilizador como Sta-Bil a la gasolina fresca al comprarla y operas el generador 5 minutos para que circule por el carburador — bueno para 12–24 meses de almacenamiento — o cierras la válvula de combustible y dejas el motor funcionando hasta vaciar el tazón del carburador, lo mejor para almacenamiento de más de 6 meses. Lo que nunca funciona es guardar la unidad con gasolina sin tratar y encontrar barniz en primavera. Agrega un arranque mensual de 10–15 minutos con carga, y revisa el aceite antes de cada arranque."
+  - question: "¿Cuánto cuesta el mantenimiento profesional de un generador?"
+    answer: "Una visita anual de servicio profesional para un reserva suele costar $250–$400, y muchos distribuidores ofrecen planes que incluyen respuesta prioritaria durante apagones. Quien se siente cómodo haciéndolo puede encargarse de los cambios de aceite y filtros, el filtro de aire, las bujías, el reemplazo de batería y las pruebas mensuales. Deja el ajuste de válvulas — necesario más o menos cada 2–3 años —, el diagnóstico del interruptor de transferencia, el trabajo en líneas de gas y el servicio en período de garantía a un técnico. Contra un reserva instalado de $10,000+ que dura 20–30 años con mantenimiento, la visita anual es dinero razonable."
 pubDate: 2026-10-19
 keywords: ["lista de mantenimiento del generador", "programa de mantenimiento generador de reserva", "cambio de aceite generador"]
 lang: "es"
 ---
+
+**Respuesta rápida:** El mantenimiento del generador se reduce a cuatro cosas con un programa fijo: aceite, batería, combustible y arranques regulares de ejercicio. Un reserva debe ejercitarse automáticamente 5–12 minutos cada semana, recibir una revisión visual mensual y un servicio anual completo — aceite y filtro, filtro de aire y bujías — cada año o cada 100–200 horas de funcionamiento. Un portátil necesita cambio de aceite cada 50–100 horas, un arranque mensual de 10–15 minutos con carga, y combustible estabilizado para 12–24 meses o drenado del carburador. Reemplaza la batería de arranque cada 3–5 años, antes de que falle.
 
 Esta es la estadística que debería asustarte: la mayoría de las fallas de generadores durante apagones reales no son fallas mecánicas. Son fallas de mantenimiento. Batería de arranque muerta. Carburador tapado por gasolina vieja. Aceite que se convirtió en lodo hace dos años. La máquina estaba bien — el dueño no.
 
@@ -76,7 +89,7 @@ Elige una religión y mantente en ella:
 - **Ruta del estabilizador:** agrega Sta-Bil o equivalente a la gasolina fresca al comprarla, opera el generador 5 minutos para que circule por el carburador. Bueno para 12–24 meses de almacenamiento.
 - **Ruta de vaciarlo:** cierra la válvula de combustible y deja el motor funcionando hasta que se apague, drenando el tazón del carburador. Lo mejor para almacenamiento de más de 6 meses.
 
-Cualquiera funciona. Lo que no funciona es guardar un generador con gasolina sin tratar en el tanque "solo por el invierno" y encontrar barniz en primavera.
+Cualquiera funciona. Lo que no funciona es guardar un generador con gasolina sin tratar en el tanque "solo por el invierno" y encontrar barniz en primavera. Si tu generador va a pasar el invierno guardado, sigue nuestra guía para [preparar el generador para el invierno](/es/articles/how-to-winterize-a-generator) para cerrar la temporada con el combustible, el aceite y la batería en el orden correcto.
 
 ### Mensual: arráncalo
 

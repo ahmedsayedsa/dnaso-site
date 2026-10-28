@@ -2,11 +2,24 @@
 title: "Generador inverter vs generador convencional (y vs de reserva): ¿cuál necesitas?"
 description: "Generador inverter vs generador convencional comparados sin adornos — ruido, energía limpia, consumo y costo por vatio — y dónde encaja el generador de reserva según tus apagones y tu presupuesto."
 heroImage: "/images/portable-vs-standby-vs-inverter-generator.webp"
+faq:
+  - question: "¿Cuál es la diferencia entre un generador inverter y un generador convencional?"
+    answer: "Un portátil convencional gira un alternador a velocidad fija, así que su salida cruda varía en calidad — típicamente 10–25% de distorsión armónica total — y es ruidoso, unos 72–78 dB a 25 pies. Un generador inverter produce AC, la convierte a DC y luego la invierte de nuevo a AC limpia con menos del 3% de THD, mientras su electrónica ajusta el motor a la carga. Los resultados son un ruido de 48–62 dB, mejor economía de combustible — muchos trabajan 8–10 horas con un par de galones con carga ligera — y un precio más o menos doble por vatio."
+  - question: "¿Cuánto cuesta instalado un generador de reserva?"
+    answer: "Para la mayoría de las casas, $10,000–$15,000 instalado. Una unidad enfriada por aire de 22–26 kW en sí cuesta unos $4,500–$7,000; el resto es el interruptor de transferencia automático, la línea de gas, la base de concreto, los permisos y el electricista. Presupuesta también los extras por separado: una base cuesta $200–$500, una extensión de línea de gas $500–$2,000 si el medidor está lejos, permisos de $100–$500 según la jurisdicción, y posiblemente un medidor de gas más grande de $300–$800. Los precios de instalación varían enormemente por región, así que pide tres cotizaciones antes de comprometerte."
+  - question: "¿Un generador inverter puede alimentar toda una casa?"
+    answer: "Normalmente no toda la casa a la vez — las unidades inverter llegan máximo a unos 7,500 W, y un inverter de $1,000 te da solo unos 3,500 W. Eso alcanza de sobra para lo esencial: nevera, congelador, luces, aparatos y cargas con muchos electrónicos, con un inverter de 4,500 W como punto ideal para la mayoría. Un kit en paralelo ($60–$100) enlaza dos unidades compatibles — dos Honda EU2200i dan unos 4,400 W de arranque — pero cargas como el aire central son territorio del de reserva, de 10–26 kW, o de los portátiles convencionales más grandes."
+  - question: "¿Qué tipo de generador es el más silencioso?"
+    answer: "El inverter, por amplio margen: 48–62 dB a 25 pies, como el nivel de una conversación, lo suficientemente silencioso para un campamento o un vecindario cercano sin quejas. Una unidad de reserva queda en el medio, a 62–70 dB. El portátil convencional es el ruidoso, a 72–78 dB a 25 pies — más o menos una aspiradora trabajando toda la noche. Si el ruido importa por vecinos cercanos, un condominio (HOA) o uso en campamento, esa brecha por sí sola puede decidir la compra antes de que la calidad de energía o el precio entren en la discusión."
+  - question: "¿Qué tipo de generador es más seguro para los electrónicos?"
+    answer: "Un inverter o uno de reserva. Ambos mantienen la distorsión armónica total por debajo de un 3–5% — esencialmente energía de calidad de red, cerca del menos del 5% que tu casa recibe normalmente. Los portátiles convencionales a menudo andan en 10–25% de THD, lo que está bien para cargas resistivas y motores sencillos, pero puede causar fallas, acortar la vida de los componentes o dañar fuentes de poder en laptops, TVs, routers, termostatos inteligentes y controles modernos de calefacción. Si estás respaldando una oficina en casa o cualquier cosa con tarjeta de control, la energía limpia es un requisito, no un lujo."
 pubDate: 2026-10-19
 updatedDate: 2026-10-21
 lang: "es"
 keywords: ["generador portátil vs de reserva", "inversor vs generador portátil", "qué generador necesito"]
 ---
+
+**Respuesta rápida:** Empieza con inverter contra convencional, no con portátil contra reserva. Un portátil convencional da los vatios más baratos — unos $700–$1,500 por 7,500–9,500 W — pero es ruidoso, a 72–78 dB, y produce energía sucia con 10–25% de THD. Un inverter cuesta más o menos el doble por vatio, pero trabaja a 48–62 dB con energía limpia por debajo del 3% de THD, segura para electrónicos. La unidad de reserva es el tercer camino: $10,000–$15,000 instalada, pero arranca sola en 10–30 segundos y puede alimentar toda la casa. Los apagones cortos y ocasionales apuntan a un portátil o un inverter; los frecuentes, largos o sin nadie en casa apuntan al de reserva.
 
 La primera decisión con un generador no es en realidad portátil vs de reserva. Es inverter vs convencional (el generador "normal") — porque esa sola elección define tu nivel de ruido, tu calidad de energía y tu precio por vatio antes que cualquier otra cosa. Un portátil convencional es vatios baratos y ruidosos. Un inverter es energía silenciosa y limpia que cuesta más o menos el doble por vatio. Solo después de resolver eso entra en escena la tercera opción — la unidad de reserva que arranca sola.
 
@@ -75,7 +88,7 @@ Los generadores inversores y la mayoría de las unidades de reserva mantienen el
 
 ## Para quién es cada tipo
 
-**Compra un portátil si:** los apagones son ocasionales (unos pocos al año, horas no días), tu presupuesto es menor de $2,000, y estás bien con hacer el trabajo — sacarlo rodando, llenarlo de gasolina, tender cables. Ideal para quienes rentan, casas pequeñas, y escenarios de "mantener la nevera fría y el teléfono cargado". Con un kit de interbloqueo y una caja de entrada adecuados, un portátil de 7,500 W puede mantener viva una buena parte de una casa.
+**Compra un portátil si:** los apagones son ocasionales (unos pocos al año, horas no días), tu presupuesto es menor de $2,000, y estás bien con hacer el trabajo — sacarlo rodando, llenarlo de gasolina, tender cables. Ideal para quienes rentan, casas pequeñas, y escenarios de "mantener la nevera fría y el teléfono cargado". Con un kit de interbloqueo y una caja de entrada adecuados, un portátil de 7,500 W puede mantener viva una buena parte de una casa. Si gana la ruta del portátil, compara modelos específicos en la guía del [mejor generador portátil para respaldo en casa](/es/articles/best-portable-generator-for-home-backup) antes de gastar.
 
 **Compra un generador de reserva si:** los apagones son frecuentes o largos en tu zona, tienes equipo médico, una bomba de pozo, o una bomba de achique que no puede esperar, viajas seguido, o simplemente nunca quieres pensar en esto. Esta es la respuesta para casas rurales con agua de pozo y para cualquiera con un sótano que se inunda sin bomba.
 

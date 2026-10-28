@@ -18,6 +18,8 @@ faq:
     answer: "No — not legally, and not safely. V2H requires a bidirectional charger, an automatic transfer/islanding device, utility interconnection approval in most jurisdictions, and a permit with inspection. This is service-panel work at 240V with utility coordination. Hire a licensed electrician who has done V2H or solar-plus-storage installs before."
 ---
 
+**Quick answer:** Yes — but only if your EV has true bidirectional (V2H) charging. In 2026 that means a Ford F-150 Lightning, a Tesla Cybertruck with Powershare, or a Chevy Silverado EV; most EVs, including other Teslas, can't feed a home panel at all, and Hyundai/Kia models offer V2L extension-cord power only. A full V2H install — bidirectional charger, transfer/islanding hardware, labor, and permits — costs $4,000–$8,000+, with most quotes landing around $6,000–$7,000. In return, a 100+ kWh truck battery covers 2–4 days of essential loads at a 1–2 kW average draw.
+
 Can an EV power your house? Yes — and it's not a concept car fantasy anymore. If you bought the right truck, you've already got the biggest home battery money can buy sitting in your driveway. Here's the part the commercials skip: **your truck is a 100 kWh battery on wheels**, but turning it into a house backup system takes specific hardware, a few thousand dollars of electrical work, and an EV that actually supports bidirectional charging. Most EVs on the road in 2026 don't.
 
 I'm an electrician, not a car salesman, so here's the honest version: which vehicles can do it, what the gear costs installed, how many days of backup you really get, and the warranty and utility fine print nobody reads out loud.
@@ -112,7 +114,7 @@ Depends what you already own. Here's how I'd frame it for a customer:
 
 **If you don't own the truck:** Do NOT buy a $60,000–$80,000 truck as a backup power strategy. That's the most expensive battery ever sold. Buy the generator or the home battery for a tenth of the price and pick your next vehicle on its merits as a vehicle.
 
-**V2H vs standby generator:** The truck wins on capacity-per-dollar (if you own it), silence, and zero maintenance. The generator wins on indefinite runtime — natural gas doesn't run out, a truck battery does — and on availability: the truck only backs up your house when it's parked at home. If the outage hits while you're at work with the truck, you've got nothing.
+**V2H vs standby generator:** The truck wins on capacity-per-dollar (if you own it), silence, and zero maintenance. The generator wins on indefinite runtime — natural gas doesn't run out, a truck battery does — and on availability: the truck only backs up your house when it's parked at home. If the outage hits while you're at work with the truck, you've got nothing. If the panel work is more than you want to take on, a [portable generator can charge an EV](/articles/can-a-portable-generator-charge-an-ev) directly during an outage — slower and noisier, but with no home integration required.
 
 **V2H vs home battery:** The truck wins on raw capacity (131 kWh vs 13.5 kWh per Powerwall) and cost-per-kWh. The home battery wins on automation maturity, solar pairing (it recharges daily from your panels), and the fact that it's always home. For a solar household, I'd still spec the Powerwall first — see the full [home battery vs generator breakdown](/articles/home-battery-vs-generator) for that math.
 

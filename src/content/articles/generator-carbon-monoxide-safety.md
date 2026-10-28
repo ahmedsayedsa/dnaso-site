@@ -120,7 +120,7 @@ Because the storm is when you're careful, and the outage is when you're human. T
 - It's dark and raining, and dragging a 150-pound generator 20 feet into the open feels miserable. The garage is *right there*, dry, door already open.
 - The generator runs. Everyone feels better. People go to bed — the most dangerous combination, because sleeping people don't notice headaches, and detectors, if they exist, have last year's dead batteries.
 
-None of that changes the physics. So decide **now**, in daylight, with the power on: pick the spot 20 feet out, stage the cords or the transfer switch connection, and test your CO detectors. Our [storm preparedness checklist](/articles/storm-preparedness-checklist) walks through that pre-storm setup. The version of you choosing at midnight in a blackout is not the version you want designing this system.
+None of that changes the physics. So decide **now**, in daylight, with the power on: pick the spot 20 feet out, stage the cords or the transfer switch connection, and test your CO detectors. Our [storm preparedness checklist](/articles/storm-preparedness-checklist) walks through that pre-storm setup. The version of you choosing at midnight in a blackout is not the version you want designing this system. That same daylight setup is also the right time to check the electrical side, including [how to ground a portable generator](/articles/how-to-ground-a-portable-generator) for the way yours will be connected.
 
 ## What about apartments, balconies, and RVs?
 

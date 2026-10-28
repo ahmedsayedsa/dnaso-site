@@ -2,9 +2,22 @@
 title: "How Much Fuel Does a Generator Use? Real Consumption Numbers"
 description: "Real generator fuel consumption numbers: gallons per hour by size and load, gasoline vs propane vs natural gas, runtime math, and daily outage costs."
 heroImage: "/images/generator-fuel-consumption.webp"
+faq:
+  - question: "How much gas does a 7,500W generator use per hour?"
+    answer: "It depends on load, because consumption follows load rather than size. A typical 7,500W gasoline portable burns about 0.45–0.65 gal/hr at 25% load, 0.7–1.0 gal/hr at 50% load, 1.0–1.4 gal/hr at 75%, and 1.4–1.8 gal/hr at full load. The 50% figure is the one to plan around, since most homes on backup power run somewhere between 40–60% of the generator's rating. With a 6–7 gallon tank, that half-load burn rate is why you only get roughly 6–10 hours before refueling."
+  - question: "How long will a 20-lb propane tank run a generator?"
+    answer: "Not as long as most people expect. A 20-lb grill tank holds about 4.6–4.7 gallons of propane, and a 7,500W generator at 50% load burns roughly 1.1–1.3 gal/hr of propane, so one tank buys only about 3.5–4.5 hours. Propane's lower energy density — about 91,500 BTU per gallon versus roughly 114,000 for gasoline — is why the volume burn is higher. If propane is your fuel, keep multiple cylinders on hand or step up to a 100-lb cylinder, which holds about 23.6 gallons and runs 18–22 hours at the same load."
+  - question: "Why does load matter more than generator size for fuel use?"
+    answer: "Because a generator burns fuel in proportion to the power it is actually producing, not its maximum rating. A 7,500W unit idling along at 2,000W uses roughly the same fuel as a 3,500W unit carrying the same 2,000W load — the bigger machine just has more headroom, and slightly worse efficiency at very light loads. Inverter generators are the exception that proves the rule: because they throttle engine speed down at light loads, a 2,000W inverter can sip 0.15 gal/hr, while a conventional unit runs at full speed regardless and burns closer to its 50%-load figure."
+  - question: "How much does a five-day outage cost in generator fuel?"
+    answer: "On a 7,500W portable running 20 hours a day at 50% load, the table in this guide works out to about $45–$72 per day in gasoline at $3.20–$3.60 per gallon — and the article's worked figure of $55 a day puts five days at $275 in fuel alone, with a 10-day outage approaching $550. A 3,500W portable run 12 hours a day is gentler, at roughly $13–$18 per day. Either way, the pattern holds: the generator is the cheap part of a long outage, and feeding it is the expensive part."
+  - question: "How long can you store gasoline for a generator?"
+    answer: "Untreated gasoline starts breaking down in about 30 days and is unreliable by 3–6 months — and the varnish it leaves is the number-one cause of dead generators at outage time. Adding stabilizer such as Sta-Bil to every stored gallon extends that to 12–24 months, provided you rotate the stock through your car or mower instead of stretching it past two years. Store it in approved containers of 5 gallons or smaller, in a cool, ventilated spot away from the house, and note that most fire codes cap total residential storage at about 25 gallons."
 pubDate: 2026-10-19
 keywords: ["generator fuel consumption", "how much gas does a generator use", "generator gallons per hour"]
 ---
+
+**Quick answer:** A generator burns fuel in proportion to load, not size, so the 50%-load figure is the one that matters: a 3,500W portable uses about 0.3–0.45 gallons per hour on gasoline, a 7,500W unit about 0.7–1.0 gal/hr, and a 10,000W unit about 1.0–1.4 gal/hr. Propane burns more volume — roughly 1.0–1.4 gal/hr for the same 7,500W at half load — because it carries about 27% less energy per gallon, while a 20kW standby on natural gas pulls roughly 200–250 cubic feet per hour at half load. Run 20 hours a day and a 7,500W portable costs $45–$72 per day in gasoline alone.
 
 The number-one surprise first-time generator owners report isn't the noise, the weight, or the maintenance. It's how fast the thing drinks fuel. A mid-size portable generator running half the day will burn through more gasoline in 48 hours than a pickup truck does in a month of commuting. If you don't plan for it, you'll be standing in a gas-station line at hour 30 of an outage, watching the price board and doing math you should have done in the store aisle.
 
@@ -66,7 +79,7 @@ Manufacturers quote "runtime at 50% load" because it's the standard. But what yo
 | 7,500W portable | ~6–7 gal | 6–10 hrs | 9–15 hrs |
 | 10,000W portable | ~8–9 gal | 6–9 hrs | 9–14 hrs |
 
-A 7,500W portable with a 6-gallon tank at half load: 6 ÷ 0.85 ≈ 7 hours. That means two refuels per day if you're running around the clock. Plan your fuel stock around that reality, not the brochure's best-case number.
+A 7,500W portable with a 6-gallon tank at half load: 6 ÷ 0.85 ≈ 7 hours. That means two refuels per day if you're running around the clock. Plan your fuel stock around that reality, not the brochure's best-case number. For the step-by-step version of that same math on a single fill, see [how long a generator runs on 5 gallons of gas](/articles/how-long-generator-run-on-5-gallons-of-gas).
 
 ### Propane tank runtimes (7,500W generator at 50% load, ~1.1–1.3 gal/hr propane)
 

@@ -2,9 +2,22 @@
 title: "Natural Gas vs Propane for Standby Generators: Which Fuel Wins?"
 description: "Natural gas vs propane for standby generators: cost-per-kWh math, outage reliability, install costs, and cold-weather performance head to head — which wins?"
 heroImage: "/images/natural-gas-vs-propane-standby.webp"
+faq:
+  - question: "Which is cheaper to run, natural gas or propane?"
+    answer: "Propane is usually about twice as expensive per kWh. Using typical prices from this article — natural gas at $1.20 per therm and propane at $2.50 per gallon, at about 28% generator efficiency — natural gas works out to roughly $0.15 per kWh and propane to roughly $0.33 per kWh, a ratio of about 1.8 to 2.5 times across most US markets. In practice, a 22 kW generator at half load for 24 hours costs about $40 on natural gas versus about $87 on propane."
+  - question: "How long will a 500-gallon propane tank run a 22 kW standby generator?"
+    answer: "A 500-gallon tank holds about 400 usable gallons at the standard 80% fill. A typical 22 kW standby burns roughly 2.5–3 gallons per hour at half load (about 11 kW) and about 3.5–4 gallons per hour at full load. That works out to roughly 130–160 hours at half load and about 100–115 hours at full load — about 4 to 7 days of continuous running in total. If the outage lasts longer, or delivery trucks cannot reach you, the generator stops when the tank empties."
+  - question: "Does a standby generator make more power on propane or natural gas?"
+    answer: "Propane, by a consistent margin. A Generac 22 kW unit, for example, is rated 22 kW on propane but about 19.5 kW on natural gas, and Kohler and Cummins show the same pattern — typically a 10–12% derate on natural gas. Propane has higher energy density in the fuel-air mix the engine breathes. Size the generator on the fuel you will actually use: a 20 kW load that propane handles can force a step up to a 24 kW model, at roughly $500–1,000 more, on natural gas."
+  - question: "Which fuel is more reliable during a long power outage?"
+    answer: "It depends on the disaster. Natural gas is rarely interrupted in ordinary storms, hurricanes, and ice events, and it needs no refueling, so it wins for typical outages lasting up to about a week. Its weaknesses are catastrophic events: utilities shut gas off after major earthquakes, flooding can damage infrastructure, and extreme cold with record demand curtailed service in the February 2021 Texas freeze. Propane depends on no utility at all, but it is finite — once the tank is empty and trucks cannot deliver, you are done."
+  - question: "Does propane work well in very cold weather?"
+    answer: "Only with a big enough tank. Propane vaporizes inside the tank, and that rate falls as temperatures drop. With a small 100–120 gallon tank in sustained temperatures below about -20°F, the tank may not vaporize fast enough to feed a large generator at high load, so it can starve, surge, or shut down. Natural gas has no equivalent problem. For cold climates — USDA zone 5 or colder — use at least a 500-gallon tank for a 20 kW or larger unit, consider 1,000 gallons at high loads, and confirm the regulator setup."
 pubDate: 2026-10-19
 keywords: ["natural gas vs propane generator", "standby generator fuel", "propane generator cost", "natural gas generator pros cons", "whole house generator fuel choice"]
 ---
+
+**Quick answer:** For most homes that already have natural gas service, natural gas wins: it costs about $0.15 per kWh versus about $0.33 for propane, adds roughly $700–2,000 to install versus $3,200–6,000 or more for a purchased propane tank setup, and never needs refueling during an outage. Propane wins where there is no gas service, where you want full independence from the utility, or in earthquake and flood zones — and it delivers full rated power, while natural gas typically derates a standby unit by about 10–12%.
 
 When you buy a standby generator, you're making two purchases: the machine and the fuel that feeds it. Most residential standby units — Generac, Kohler, Cummins — come configured to run on either natural gas or propane (many are dual-fuel capable out of the box or with a conversion kit), so the choice is yours. And it's a bigger decision than most buyers realize, because it affects your installation cost, your running cost, your cold-weather reliability, and what happens to your fuel supply during the exact emergency you bought the generator for.
 

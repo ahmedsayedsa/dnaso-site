@@ -2,10 +2,23 @@
 title: "Inverter Generator vs Regular Generator (vs Standby): Which Do You Need?"
 description: "Inverter generator vs regular generator compared honestly — noise, clean power, fuel use and cost per watt — plus where standby generators fit, and which type matches your outages."
 heroImage: "/images/portable-vs-standby-vs-inverter-generator.webp"
+faq:
+  - question: "What is the difference between an inverter generator and a regular generator?"
+    answer: "A regular portable spins an alternator at fixed speed, so its raw output varies in quality — typically 10–25% total harmonic distortion — and it runs loud, about 72–78 dB at 25 feet. An inverter generator produces AC, converts it to DC, then inverts it back to clean AC under 3% THD, while its electronics throttle the engine to match the load. The results are 48–62 dB noise, better fuel economy — many run 8–10 hours on a couple of gallons at light load — and a price roughly double per watt."
+  - question: "How much does a standby generator cost installed?"
+    answer: "For most homes, $10,000–$15,000 installed. A 22–26 kW air-cooled unit itself costs roughly $4,500–$7,000; the rest is the automatic transfer switch, gas line, concrete pad, permits, and the electrician. Budget for the extras separately too: a pad runs $200–$500, a gas line extension $500–$2,000 if the meter is far, permits $100–$500 depending on jurisdiction, and possibly a larger gas meter at $300–$800. Install pricing varies wildly by region, so get three quotes before committing."
+  - question: "Can an inverter generator run a whole house?"
+    answer: "Usually not the whole house at once — inverter units top out around 7,500W, and a $1,000 inverter typically gives you only about 3,500W. That is plenty for essentials: fridge, freezer, lights, devices, and electronics-heavy loads, with a 4,500W inverter the sweet spot for most homeowners. A parallel kit ($60–$100) can link two compatible units — two Honda EU2200i units give about 4,400W of starting power — but whole-house loads like central AC belong to standby territory, at 10–26 kW air-cooled, or to the biggest conventional portables."
+  - question: "Which type of generator is the quietest?"
+    answer: "The inverter, by a wide margin: 48–62 dB at 25 feet, about conversation level, quiet enough for a campground or a close neighborhood without complaints. A standby unit sits in the middle at 62–70 dB. A conventional portable is the loud one at 72–78 dB at 25 feet — roughly a vacuum cleaner running all night. If noise matters because of close neighbors, an HOA, or camping use, that gap alone can decide the purchase before power quality or price even enter the discussion."
+  - question: "Which generator type is safest for electronics?"
+    answer: "An inverter or a standby. Both hold total harmonic distortion under about 3–5% — essentially utility-grade power, close to the under-5% your home normally receives. Conventional portables often run 10–25% THD, which is fine for resistive loads and simple motors but can cause glitches, shorten component life, or damage power supplies in laptops, TVs, routers, smart thermostats, and modern furnace controls. If you are backing up a home office or anything with a control board, clean power is a requirement, not a luxury."
 pubDate: 2026-10-19
 updatedDate: 2026-10-21
 keywords: ["portable vs standby generator", "inverter vs portable generator", "which generator do I need"]
 ---
+
+**Quick answer:** Start with inverter versus regular, not portable versus standby. A conventional portable gives the cheapest watts — about $700–$1,500 for 7,500–9,500W — but runs loud at 72–78 dB and produces rough power at 10–25% THD. An inverter costs roughly double per watt, yet runs at 48–62 dB with clean power under 3% THD, safe for electronics. A standby unit is the third path: $10,000–$15,000 installed, but it starts itself within 10–30 seconds and can run the whole house. Occasional short outages point to a portable or inverter; frequent, long, or unattended outages point to standby.
 
 The first generator decision isn't really portable vs standby. It's inverter vs regular (conventional) — because that one choice sets your noise level, your power quality, and your price per watt before anything else does. A regular portable is cheap watts and loud ones. An inverter is quiet, clean power that costs roughly double per watt. Only after you've settled that does the third option — a standby unit that starts itself — enter the picture.
 
@@ -62,6 +75,8 @@ A parallel kit ($60–$100 from Champion, Westinghouse, or Predator) lets you li
 | Power quality (THD) | 10–25% | 3–5% typical | <3% |
 | Installation | None (extension cords) or transfer switch/interlock (~$500–$1,500) | Professional install, permits, gas line | None |
 
+Put as cost per watt, the table tells the story plainly: a $1,000 conventional portable buys about 9,500W of loud, rough power, while the same $1,000 in inverter money buys about 3,500W that is quiet and clean — and a standby buys neither cheaply, at $10,000–$15,000 installed, because what you are really paying for there is the automatic start itself.
+
 ## The Clean-Power Issue: Why THD Matters
 
 Total harmonic distortion is a measure of how "clean" the AC power is. Utility power is under 5%. Your electronics — laptops, TVs, routers, smart thermostats, modern furnace controls — expect that.
@@ -74,7 +89,7 @@ Inverter generators and most standby units hold THD under 3–5% — essentially
 
 ## Who Each Type Is For
 
-**Buy a portable if:** outages are occasional (a few per year, hours not days), your budget is under $2,000, and you're okay doing the work — wheeling it out, filling it with gas, running cords. Best for renters, smaller homes, and "keep the fridge cold and the phone charged" scenarios. With a proper interlock kit and inlet box, a 7,500W portable can keep a lot of a house alive.
+**Buy a portable if:** outages are occasional (a few per year, hours not days), your budget is under $2,000, and you're okay doing the work — wheeling it out, filling it with gas, running cords. Best for renters, smaller homes, and "keep the fridge cold and the phone charged" scenarios. With a proper interlock kit and inlet box, a 7,500W portable can keep a lot of a house alive. If the portable route wins, compare specific models in the [best portable generator for home backup](/articles/best-portable-generator-for-home-backup) guide before you spend.
 
 **Buy a standby if:** outages are frequent or long in your area, you have medical equipment, a well pump, or a sump pump that can't wait, you travel often, or you simply never want to think about it. This is the answer for rural homes on well water and anyone with a basement that floods without a pump.
 

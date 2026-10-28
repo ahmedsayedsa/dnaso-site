@@ -22,7 +22,7 @@ Charging an EV during a power outage is the question every EV owner asks me the 
 
 ## Can You Charge an EV With a Generator? Yes — at Level 1
 
-Every EV sold in the US can charge from a standard 120V outlet — that's Level 1. And a generator with a standard outlet is, as far as the car is concerned, just an outlet. Plug the portable charge cord that came with the car into a 5,500–7,500W portable generator and most EVs will happily pull their usual 12A continuous.
+Every EV sold in the US can charge from a standard 120V outlet — that's Level 1. And a generator with a standard outlet is, as far as the car is concerned, just an outlet. Plug the portable charge cord that came with the car into a 5,500–7,500W portable generator and most EVs will happily pull their usual 12A continuous. For the generator-only version of this math — speeds, outlets, and fuel use with nothing else on the load — see our dedicated guide on [whether a portable generator can charge an EV](/articles/can-a-portable-generator-charge-an-ev).
 
 What you get for it:
 

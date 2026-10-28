@@ -96,7 +96,7 @@ Standby generators are engines, and engines need oil. Generac specifies service 
 - **Battery: $120–$300 every 3–5 years.** The most common cause of a no-start is a dead starting battery, not the generator itself.
 - **Extended warranty: $500–$1,500** for 7–10 year coverage beyond the standard 5-year limited warranty, if you want it.
 
-Add it up over a decade at moderate outage exposure (~50 hours/year): roughly $1,500 in fuel, $2,000–$4,500 in service, and $300–$600 in batteries — call it **$4,000–$6,500 of ownership cost over 10 years** on top of the install. Anyone budgeting for a Generac should budget for that too.
+Add it up over a decade at moderate outage exposure (~50 hours/year): roughly $1,500 in fuel, $2,000–$4,500 in service, and $300–$600 in batteries — call it **$4,000–$6,500 of ownership cost over 10 years** on top of the install. Anyone budgeting for a Generac should budget for that too. That routine service is also what keeps nuisance alarms away — a neglected battery and overdue service are the usual roots of [Generac error code 1501](/articles/generac-error-code-1501), the RPM-sense-loss alarm that locks a standby out until it's cleared.
 
 ## Generac vs. Kohler and Cummins: what does the badge cost?
 

@@ -31,7 +31,7 @@ Four pieces. Every quote you get should show all four, itemized. If it doesn't, 
 3. **Labor** — the electrician's time. $500–$1,200 for a standard install in most markets, more in high-cost cities.
 4. **The permit and inspection** — $50–$250 depending on your jurisdiction. Yes, you need one. I'll explain why below.
 
-Notice what's NOT on that list: drywall repair, trenching to a detached garage, or a panel upgrade. Those are the "surprises" that turn a $1,400 quote into a $4,000 invoice. A good electrician spots them during the site visit. A bad one spots them after the walls are open.
+Notice what's NOT on that list: drywall repair, trenching to a detached garage, or a panel upgrade. Those are the "surprises" that turn a $1,400 quote into a $4,000 invoice. A good electrician spots them during the site visit. A bad one spots them after the walls are open. If that detached garage is your charging spot, budget for the trench and subpanel work separately, as our guide to [installing an EV charger in a detached garage](/articles/ev-charger-detached-garage) itemizes run by run.
 
 ## How Much Does the Charger Itself Cost?
 
