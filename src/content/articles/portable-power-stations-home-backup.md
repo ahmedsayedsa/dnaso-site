@@ -17,6 +17,8 @@ faq:
     answer: "Multiply panel watts by peak sun hours by 0.75 for real-world losses. An 800W array in five peak sun hours harvests about 3,000 Wh a day — roughly one full charge of a mid-size station, before you subtract what your fridge is eating. In storm weather, expect 10–25% of rated output. Buy as much panel as the station accepts — 2,400–5,600W across these picks — and size the battery itself for two to three days of loads assuming zero sun."
 ---
 
+**Quick answer:** Most households should buy the **EcoFlow Delta Pro 3** — 4,096 Wh, 4,000W continuous output, typically $2,400–$3,000, expandable to 12.3 kWh. Need 240V for a well pump? The **Anker Solix F3800** (3,840 Wh, 6,000W). Want to start small and add batteries later? The modular **Bluetti AC500 + B300K**. Backing up most of a house? The **EcoFlow Delta Pro Ultra** (6,144 Wh, expandable to 30 kWh per inverter). Whatever you pick, plan runtime as capacity × 0.85 ÷ load — the inverter keeps 10–15% — and know that electric heat and central AC drain even the biggest station in a few hours.
+
 Portable power stations — big lithium batteries with inverters, AC outlets, and solar inputs — have gone from camping gadget to genuine home-backup contender in about five years. The marketing calls them "solar generators," which is a misleading name (there's no generator in the box — it's a battery), but for the right outage scenario, the products themselves are genuinely good.
 
 This guide is a buyer's shortlist. Four models cover almost every home-backup use case in 2026: one all-rounder, one output monster, one modular starter, and one whole-home system — with per-model breakdowns, real runtime math for the loads people care about, and a straight verdict on when a battery beats a gas generator.

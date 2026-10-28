@@ -2,9 +2,22 @@
 title: "Transfer Switch vs Interlock Kit: Cost, Code, and Safety"
 description: "Transfer switch vs interlock kit for your generator: how each works, real costs ($200-$1,500+), what code requires, and which one fits your setup."
 heroImage: "/images/transfer-switch-vs-interlock-kit.webp"
+faq:
+  - question: "Can I install an interlock kit myself?"
+    answer: "The plate itself is simple, but treat this as an electrician job. The kit must be UL-listed for your exact panel make and model — a Square D kit does not fit a Siemens panel — and most jurisdictions require an electrical permit plus an inspection ($50–$150 typical) that generic 'universal' plates routinely fail. The part DIY guides gloss over is neutral and ground bonding (NEC Article 250): get the bonding wrong for your transfer setup and you create parallel neutral paths or a shock hazard. The install itself is $500–$1,000 in labor on top of the $50–$200 kit — that is the price of it being legal and inspected."
+  - question: "Are interlock kits legal everywhere?"
+    answer: "No. Interlocks are legal in most of the US when the kit is listed for your specific panel, but a number of local authorities having jurisdiction (AHJs) don't permit interlock kits at all, or only permit the panel manufacturer's own listed kit — no third-party versions. Check with your local building department before you buy anything; a $150 kit that's illegal in your county is $150 wasted."
+  - question: "Does a transfer switch power the whole house?"
+    answer: "It depends on the type. A manual transfer switch powers only the 6–10 circuits wired through it — that's the design, and a circuit that isn't wired through can never run on generator power. A service-rated automatic transfer switch (200-amp) can switch the entire panel. An interlock kit also powers the whole panel, but you manage the load yourself by turning off breakers for the loads you don't need."
+  - question: "What size inlet box do I need for my generator?"
+    answer: "Match the inlet to the generator's output. A 30-amp inlet (L14-30) handles up to 7,500 running watts — enough for a mid-size portable running essentials. A 50-amp inlet (CS6365/SS2-50) handles up to 12,000 watts for larger portables. The inlet, the breaker, the wire gauge (10 AWG for 30A, 6 AWG for 50A), and the generator's outlet all have to match, and budget $75–$200 for a proper outdoor-rated cord of the correct length — an undersized cord overheats under sustained load."
+  - question: "Do I need a permit to install a transfer switch or interlock kit?"
+    answer: "In most jurisdictions, yes — an electrical permit is required for either device, and the install gets inspected. The inspection is quick and cheap ($50–$150 typical), and it's worth having even where it's optional: the passed inspection is your proof of a legal install, which matters for your homeowner's insurance if anything ever goes wrong."
 pubDate: 2026-10-19
 keywords: ["transfer switch vs interlock kit", "generator interlock kit cost", "automatic transfer switch cost"]
 ---
+
+**Quick answer:** For a portable generator, choose the **interlock kit** — $600–$1,200 installed, a UL-listed sliding plate made for your exact panel, and it powers the whole panel while you manage loads by hand. Choose a **manual transfer switch** ($800–$1,500 installed) if you want 6–10 essential circuits pre-selected so the outage routine is a single flip. A standby generator removes the choice: it ships with an **automatic transfer switch** bundled into the $10,000–$15,000 installed price. Whichever you pick, NEC Article 702 requires listed transfer equipment — there is no legal cord-only shortcut.
 
 Every generator that powers your house needs one thing between it and your panel: a device that makes it physically impossible for generator power and utility power to connect at the same time. That device is either a **transfer switch** or an **interlock kit**. They do the same core job — prevent backfeeding — in very different ways, at very different prices.
 
@@ -84,6 +97,18 @@ Utility crews working to restore power expect those lines to be dead. A backfed 
 | Frequent short outages, hate the drill | Standby + ATS | Convenience is the product; price reflects it |
 
 One more practical note: if you're buying a portable generator **and** the interlock install, size the inlet to the generator. A **30-amp inlet** (L14-30) handles up to 7,500 running watts — enough for a mid-size portable running essentials. A **50-amp inlet** (CS6365/SS2-50) handles up to 12,000 watts for larger portables. The inlet, breaker, wire gauge (10 AWG for 30A, 6 AWG for 50A), and generator outlet must all match — the electrician sizes this during the install, but knowing the difference keeps you from buying a 12,000-watt generator with a 30-amp inlet choking it. Budget $75–$200 for a proper outdoor-rated generator cord of the correct length, and never use an indoor extension cord for this — undersized cords overheat under sustained load.
+
+## What the installation visit actually looks like
+
+Whichever device you choose, the work follows the same arc — and knowing it helps you read the quote.
+
+**For an interlock kit (one visit, typically 2–4 hours):** the electrician confirms the listed kit matches your panel make and model, installs the 30- or 50-amp generator breaker, mounts the sliding plate so it physically blocks the main and generator breakers from ever being on together, then mounts the inlet box on the exterior wall and wires it back to that breaker. The visit ends with a live test: generator plugged in, main off, plate slid, generator breaker on — and a walk-through of your outage sequence, so you can run it at 2 a.m. without a flashlight in your teeth.
+
+**For a manual transfer switch (half a day to a full day):** the switch box mounts beside your panel, and each circuit you chose — furnace, fridge, well or sump pump, selected lights and outlets — gets rerouted through it, one at a time. This is the slow part, and it's why the circuit list gets decided before the visit, not during it. The inlet box goes in on the same visit, and the test is the same: start the generator, flip the switch, confirm every chosen circuit is live.
+
+**After either install:** the permit inspection. The inspector checks the listing, the plate or switch operation, and the inlet wiring — a short visit, and the paper you keep. If your electrician suggests skipping the permit to save the fee, that's the moment to find a different electrician: the unpermitted install is the one your insurer will ask about after a claim.
+
+One scheduling note that surprises people: the device itself is rarely the wait. The wait is the electrician's calendar during storm season — the week after a hurricane, everyone in the county wants the same three licensed electricians. This is a spring project, not a storm-week project.
 
 ## Bottom line
 

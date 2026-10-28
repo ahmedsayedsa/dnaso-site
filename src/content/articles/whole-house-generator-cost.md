@@ -11,9 +11,13 @@ faq:
     answer: "The budget route is a large portable generator (9,500–12,000 watts, $1,200–$2,500) plus a manual transfer switch or interlock kit installed by an electrician ($500–$1,500). Total: roughly $2,000–$4,000. You give up automatic startup and have to be home to set it up, but it powers the same essential circuits for a fraction of standby cost."
   - question: "Do whole house generators increase home value?"
     answer: "Modestly — appraisers typically credit 50–70% of the installed cost, and it's a genuine selling point in outage-prone areas. It won't pay for itself at resale alone, but in markets where buyers expect backup power (hurricane zones, rural areas with well pumps), a house with a standby can sell faster than one without."
+  - question: "Can I install a whole house generator myself to save money?"
+    answer: "You can buy the unit yourself, but a true DIY install is a bad idea for three reasons. First, the best manufacturer warranties require dealer installation and a documented startup — skip that and you may void coverage on a $5,000+ machine. Second, the gas line must be sized for the unit's full-load draw and installed by a licensed plumber or gas fitter, with a permit and inspection — an undersized or leaking line is a carbon monoxide and fire hazard. Third, the transfer switch wiring is what keeps generator power from backfeeding the grid and endangering lineworkers. What you can do yourself: the site prep, the comparison shopping, and negotiating the quote — the savings live there, not in the wrench work."
 pubDate: 2026-10-19
 keywords: ["whole house generator cost", "standby generator installed cost", "generac installation cost"]
 ---
+
+**Quick answer:** Most homes pay **$10,000–$13,000 installed** for a whole-house standby generator — a 14–22 kW air-cooled unit ($4,000–$6,500) plus $3,000–$6,000 of installation: electrical work ($1,500–$3,000), the gas line ($500–$2,000+), the transfer switch, pad, and permits. Small homes can land at $8,000–$10,500; large or all-electric homes run $16,000–$25,000+, and liquid-cooled systems start around $20,000 installed. The full line-by-line breakdown is below.
 
 If you want one number: most American homes land between **$8,000 and $15,000 fully installed** for an air-cooled standby generator, and the most common quotes I see cluster around **$10,000 to $12,500**. The generator unit itself is roughly half the bill. The other half is electrician labor, the gas line, the transfer switch, the pad, and permits — and that half is where quotes vary the most.
 
@@ -127,6 +131,22 @@ For most homes, liquid-cooled is overkill. If a contractor pushes you toward one
 ## Financing
 
 Most dealers offer financing through partners like Synchrony or manufacturer programs — typical terms run 6.99–12.99% APR over 5–10 years, which puts a $12,000 install around **$135–$240/month**. Home equity lines are usually cheaper if you have the equity. Some utilities and states offer rebates or tax incentives for standby power, though these change often — check your state's energy office before you buy.
+
+## A second worked example: the small home at $9,300
+
+The $12,500 anatomy above is the middle of the market. Here is the same exercise at the budget end — a 1,500 sq ft home with gas heat, a 14 kW air-cooled unit, a short gas run, and a modern 200-amp panel with space:
+
+| Line item | Typical cost |
+|---|---|
+| 14kW generator + ATS bundle | $4,800 |
+| Electrical labor (ATS, conduit, wiring, startup) | $1,900 |
+| Gas line (12-ft run off the existing meter) | $700 |
+| Composite pad on compacted gravel | $200 |
+| Permits + inspection fees | $250 |
+| Cold-weather kit | $300 |
+| **Total** | **$8,150–$9,300** |
+
+Every line comes from the ranges earlier in this guide — what changed is the situation, not the prices. The gas meter was already big enough (no upgrade fee), the panel needed no rework, and the generator sits close to the meter instead of at the far end of a 60-foot run. That is the whole lesson of both examples: the unit price is the most predictable number in the project, and the site conditions decide whether your quote lands at the bottom or the top of the range.
 
 ## The bottom line
 

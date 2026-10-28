@@ -2,10 +2,23 @@
 title: "Interruptor de transferencia vs kit de interbloqueo"
 description: "Interruptor de transferencia vs kit de interbloqueo: cómo funciona cada uno, costos reales ($200–$1,500+), qué exige el código y cuál conviene a tu caso."
 heroImage: "/images/transfer-switch-vs-interlock-kit.webp"
+faq:
+  - question: "¿Puedo instalar yo mismo un kit de interbloqueo?"
+    answer: "La placa en sí es simple, pero trátalo como trabajo de electricista. El kit debe tener certificación UL para la marca y modelo exactos de tu tablero — un kit Square D no encaja en un tablero Siemens — y la mayoría de las jurisdicciones exigen un permiso eléctrico más una inspección ($50–$150 típico) que las placas 'universales' genéricas no suelen pasar. La parte que las guías de bricolaje pasan por alto es la unión de neutro y tierra (Artículo 250 del NEC): si la unión queda mal para tu tipo de transferencia, creas caminos paralelos de neutro o un riesgo de descarga. La instalación cuesta $500–$1,000 de mano de obra además del kit de $50–$200 — ese es el precio de que quede legal e inspeccionada."
+  - question: "¿Los kits de interbloqueo son legales en todas partes?"
+    answer: "No. Los interbloqueos son legales en la mayor parte de EE. UU. cuando el kit está certificado para tu tablero específico, pero varias autoridades locales (AHJ) no los permiten en absoluto, o solo permiten el kit certificado del propio fabricante del tablero — sin versiones de terceros. Consulta con el departamento de construcción de tu localidad antes de comprar nada; un kit de $150 ilegal en tu condado son $150 tirados."
+  - question: "¿Un interruptor de transferencia alimenta toda la casa?"
+    answer: "Depende del tipo. Un interruptor de transferencia manual alimenta solo los 6–10 circuitos cableados a través de él — así es su diseño, y un circuito que no pasa por el interruptor nunca puede funcionar con el generador. Un interruptor automático con clasificación de servicio (200 amperios) puede conmutar todo el tablero. Un kit de interbloqueo también alimenta todo el tablero, pero tú gestionas la carga apagando los interruptores de las cargas que no necesitas."
+  - question: "¿Qué tamaño de caja de entrada necesito para mi generador?"
+    answer: "Combina la entrada con la salida del generador. Una entrada de 30 amperios (L14-30) maneja hasta 7,500 vatios de uso — suficiente para un portátil mediano con lo esencial. Una entrada de 50 amperios (CS6365/SS2-50) maneja hasta 12,000 vatios para portátiles más grandes. La entrada, el interruptor, el calibre del cable (10 AWG para 30A, 6 AWG para 50A) y la salida del generador tienen que coincidir, y presupuesta $75–$200 para un cable adecuado para exteriores de la longitud correcta — un cable pequeño se sobrecalienta con carga sostenida."
+  - question: "¿Necesito un permiso para instalar un interruptor de transferencia o un kit de interbloqueo?"
+    answer: "En la mayoría de las jurisdicciones, sí — se requiere un permiso eléctrico para cualquiera de los dos dispositivos, y la instalación se inspecciona. La inspección es rápida y barata ($50–$150 típico), y vale la pena incluso donde es opcional: la inspección aprobada es tu prueba de una instalación legal, lo que importa para tu seguro de vivienda si algo sale mal."
 pubDate: 2026-10-19
 lang: "es"
 keywords: ["interruptor de transferencia vs kit de interbloqueo", "costo de kit de interbloqueo", "costo de interruptor de transferencia automático"]
 ---
+
+**Respuesta rápida:** Para un generador portátil, elige el **kit de interbloqueo** — $600–$1,200 instalado, una placa deslizante con certificación UL hecha para tu tablero exacto, y alimenta todo el tablero mientras tú gestionas las cargas a mano. Elige un **interruptor de transferencia manual** ($800–$1,500 instalado) si quieres 6–10 circuitos esenciales preseleccionados para que la rutina del apagón sea un solo movimiento. Un generador de reserva elimina la elección: viene con un **interruptor de transferencia automático** incluido en el precio instalado de $10,000–$15,000. Elijas lo que elijas, el Artículo 702 del NEC exige equipo de transferencia certificado — no existe un atajo legal solo con cables.
 
 Cada generador que alimenta tu casa necesita una cosa entre él y tu tablero: un dispositivo que haga físicamente imposible que la energía del generador y la de la red se conecten al mismo tiempo. Ese dispositivo es o un **interruptor de transferencia** o un **kit de interbloqueo**. Hacen el mismo trabajo central — prevenir la retroalimentación — de formas muy distintas, a precios muy distintos.
 

@@ -18,6 +18,8 @@ keywords: ["a qué distancia debe estar un generador de la casa", "regla de los 
 lang: "es"
 ---
 
+**Respuesta rápida:** Al menos **20 pies** de la casa, con el escape apuntando hacia afuera — esa es la regla de los CDC y la CPSC para todo generador portátil, y aplica también a garajes, porches y cocheras: ningún lugar con techo o paredes cuenta como 'exterior'. Mide hasta la parte más cercana del edificio, vigila ventanas, puertas y rejillas de sofito, y mantén alarmas de CO con batería de respaldo en cada nivel pase lo que pase. Los generadores de reserva instalados permanentemente siguen en cambio el estándar de ingeniería NFPA 37 — el escape a al menos 5 pies de cualquier abertura — y por eso pueden estar mucho más cerca.
+
 Cada año, en los días posteriores a una gran tormenta que deja sin luz alguna región de Estados Unidos, las noticias cuentan la misma historia. No sobre la tormenta, sino sobre una familia que usó un generador demasiado cerca de la casa, o en el garaje, o en el porche, y nunca despertó. Como electricista que lleva dos décadas instalando energía de respaldo, te puedo decir que no son accidentes impredecibles. Son el resultado previsible de un hecho mal entendido: la distancia entre tu generador y tu casa no es una recomendación. Es el sistema de seguridad.
 
 Esta guía explica la regla de los 20 pies como se debe: de dónde sale, por qué los garajes y porches nunca califican, cómo cambian las reglas para las unidades de reserva y por qué la dirección del escape importa casi tanto como la distancia.

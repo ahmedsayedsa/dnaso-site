@@ -2,10 +2,23 @@
 title: "Batería doméstica vs generador: comparación honesta"
 description: "Batería doméstica vs generador en 2026: costos iniciales reales, costos de operación, crédito fiscal (30% ITC), y cuál conviene según tu patrón de apagones."
 heroImage: "/images/home-battery-vs-generator.webp"
+faq:
+  - question: "¿Cuánto dura una batería doméstica durante un apagón?"
+    answer: "Depende de lo que alimentes, no solo de la batería. Una Powerwall 3 de 13.5 kWh dura 13–20 horas con lo esencial (0.5–1 kW: refrigerador, luces, ventiladores, router), 9–13 horas añadiendo el ventilador de una calefacción a gas, y solo 2.5–3.5 horas con el uso normal de toda la casa (4–6 kW con el aire acondicionado ciclando). Dos unidades duplican aproximadamente esas cifras. A diferencia de un generador, una batería no se puede recargar en mitad del apagón — cuando se acaba, se acabó hasta que vuelva la red o tus paneles reciban sol."
+  - question: "¿Las baterías domésticas califican para un crédito fiscal?"
+    answer: "Sí — el almacenamiento independiente de 3 kWh o más califica para un crédito fiscal federal del 30% (ITC) bajo la ley actual, sin necesidad de paneles solares. El crédito cubre la batería, el inversor, el hardware del gateway y la mano de obra de instalación del sistema. El ejemplo de esta guía: un sistema de $15,000 genera un crédito de $4,500 y deja el costo neto en $10,500. Es un crédito contra los impuestos que debes (el excedente normalmente se puede arrastrar a años siguientes — confírmalo con un profesional fiscal), y los generadores no tienen ningún crédito federal comparable."
+  - question: "¿Una batería doméstica es más barata que un generador de reserva?"
+    answer: "Con una unidad, son comparables: una Powerwall 3 instalada cuesta aproximadamente $9,000–$11,000, y un generador de reserva de 22–26 kW instalado, $10,000–$15,000. La brecha aparece con la cobertura total: dos baterías para toda la casa cuestan $18,000–$22,000 instaladas, más o menos el doble del generador de reserva. Y la ruta más barata de todas sigue siendo un generador portátil de 7,500–9,500W con interruptor de transferencia: $1,500–$3,000 todo incluido."
+  - question: "¿Una batería doméstica puede alimentar mi aire acondicionado central?"
+    answer: "A veces — el límite es la potencia de salida, no solo la capacidad. Una Powerwall 3 entrega 11.5 kW continuos, y un aire acondicionado central consume 3–5 kW en uso con un pico de arranque mucho mayor, así que una sola unidad puede arrancar muchos sistemas pero los consume rápido: el uso de toda la casa con el aire ciclando vacía una batería en 2.5–3.5 horas. Para aire acondicionado respaldado durante un apagón largo, la mayoría de las casas necesita una segunda batería — o un generador."
+  - question: "¿Cuánto duran las baterías domésticas antes de degradarse?"
+    answer: "Las garantías te dan la cifra honesta. La Powerwall 3 tiene una garantía de 10 años que asegura al menos un 70% de retención de capacidad — una unidad de 13.5 kWh mantendría unos 9.5 kWh o más a los diez años — y la EcoFlow Delta Pro Ultra está clasificada para unos 3,500 ciclos hasta el 80% de capacidad. Con uso solo de respaldo (unas pocas decenas de ciclos parciales al año) la degradación es mínima; el ciclado diario para arbitraje de tarifas es lo que gasta la vida de la batería, que es el precio del ahorro diario."
 pubDate: 2026-10-19
 lang: "es"
 keywords: ["batería doméstica vs generador", "tesla powerwall vs generador", "crédito fiscal batería de respaldo"]
 ---
+
+**Respuesta rápida:** Para apagones cortos y un respaldo silencioso y sin mantenimiento, gana la batería doméstica — una unidad de 13.5 kWh ($9,000–$11,000 instalada, aproximadamente un 30% menos tras el crédito fiscal federal) alimenta lo esencial durante 13–20 horas. Para apagones de varios días o cargas de toda la casa como el aire acondicionado central, gana el generador en autonomía y costo por vatio — un generador de reserva de 22 kW cuesta $10,000–$15,000 instalado y funciona indefinidamente con gas natural. Los dueños de paneles solares se inclinan por la batería; todos los demás deberían empezar por cuánto duran realmente sus apagones.
 
 Por décadas, "energía de respaldo" significó un generador, punto. Las baterías eran muy caras y muy débiles para ser una opción real. Eso cambió. Una batería doméstica moderna puede mantener una casa durante un apagón en silencio, con cero combustible y cero mantenimiento — pero el cálculo solo funciona en ciertas situaciones. Aquí está la comparación honesta, con números reales de 2026.
 

@@ -2,9 +2,22 @@
 title: "Generac vs Kohler vs Cummins: Standby Brands Compared"
 description: "Honest comparison of the four big standby generator brands: warranty terms, dealer networks, price positioning, noise levels, and which brand fits which buyer."
 heroImage: "/images/generac-vs-kohler-vs-cummins.webp"
+faq:
+  - question: "Which standby generator brand is the most reliable?"
+    answer: "No brand wins cleanly. Among service techs, Kohler gets the fewest complaints per unit sold, and Cummins units are widely described as overbuilt, with comparatively rare failure reports. Generac is mixed and model-dependent — it sells so many units that it accumulates more complaints and more happy owners than anyone. Briggs & Stratton varies the most by model line. The bigger factor is not the brand: it's the installer and staying on the maintenance schedule — oil, filters, spark plugs, and battery on time, with a dealer plan running $300–$500/year. Owners who skip maintenance are the single biggest source of 'this brand is junk' reviews across all four brands."
+  - question: "Which standby generator is the quietest?"
+    answer: "Kohler and Cummins lead. Kohler's 14RCA is rated around 62 dB(A) at 23 feet, and Cummins QuietConnect units sit in the low-to-mid 60s — both noticeably quieter than a 22 kW Generac Guardian at roughly 67 dB(A). Briggs & Stratton lands in the upper 60s. Five decibels matters more than it sounds: the scale is logarithmic, so 5 dB less is roughly a third less perceived loudness."
+  - question: "How much does a 22 kW standby generator cost installed, by brand?"
+    answer: "Generac is typically the price leader: a 22 kW Guardian usually lands at $10,000–$14,000 installed. Kohler and Cummins sit in the $11,000–$16,000 range for 18–22 kW setups. Briggs & Stratton is the value slot, with 20 kW setups commonly at $9,000–$13,000. All of these include the transfer switch, gas work, permits, and electrician labor — your quote will vary by region, gas line length, and any panel work needed."
+  - question: "How long are standby generator warranties?"
+    answer: "Generac, Kohler, and Cummins all headline a 5-year or 2,000-hour limited warranty on their residential lines. Briggs & Stratton's PowerProtect line has carried up to a 10-year limited warranty on some models — confirm in writing what the model you're buying actually covers, because long warranties on value lines sometimes carry more exclusions. On all four brands, the warranty requires dealer installation and documented on-schedule maintenance, and the battery is never covered: it's a consumable you'll replace every 2–3 years."
+  - question: "Does the brand matter more than the installer?"
+    answer: "No — the installer matters more, and it isn't close. A standby needs a pad, a gas line sized for the load, a transfer switch wired into your panel, permits, and often a meter upgrade; a sloppy install makes any brand run badly. Pick your installer first, your wattage second, your fuel third — then buy whichever of the four your chosen installer sells, services, and stocks parts for. A great dealer with a mediocre brand beats a great brand with a ghost dealer every time."
 pubDate: 2026-10-19
 keywords: ["Generac vs Kohler", "best standby generator brand", "Cummins standby generator", "Briggs Stratton generator reliability"]
 ---
+
+**Quick answer:** No brand runs away with it. **Generac** is the price and dealer-network leader (22 kW installed $10,000–$14,000, ~67 dB(A)); **Kohler** is the quiet premium pick (~62 dB(A), typically 10–20% more); **Cummins** is the overbuilt option with the thinnest residential lineup; **Briggs & Stratton** is the value play, with up to a 10-year limited warranty on some PowerProtect models. Generac, Kohler, and Cummins all headline a 5-year/2,000-hour limited warranty. The deciding factors are usually the ones off the spec sheet: a strong local installer and the $300–$500/year maintenance schedule.
 
 If you're shopping for a whole-house standby generator, you're going to run into the same four names everywhere: Generac, Kohler, Cummins, and Briggs & Stratton. Dealers all sound confident about whichever brand they sell. Online reviews are a mix of happy owners, furious owners, and people arguing about things that barely matter.
 

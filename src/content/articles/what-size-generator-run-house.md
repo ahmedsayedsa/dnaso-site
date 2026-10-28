@@ -11,10 +11,14 @@ faq:
     answer: "List every appliance you want to run during an outage. Write down the running watts for each (check the nameplate), add them up, then add the highest starting-watt surge among your motor-driven appliances. Your generator's running-watt rating must cover the total, and its surge rating must cover the biggest single startup spike. When in doubt, round up — an overloaded generator trips when you need it most."
   - question: "Is it bad to oversize a generator?"
     answer: "Mildly oversizing (10–20%) is fine and gives you headroom. Grossly oversizing wastes money on purchase price and fuel — a 22kW unit powering a few lights burns more fuel per kWh than a right-sized unit. Standby generators also prefer to run at 30%+ load; chronic underloading can cause wet-stacking in diesel units."
+  - question: "What size generator do I need to run a well pump?"
+    answer: "The pump itself is only part of the answer: a 1/2 HP well pump draws 1,000–1,100 running watts but needs 2,500–3,000 starting watts, so the generator's surge rating has to clear that spike while everything else is already running. For a rural home running the pump plus a fridge, lights, and a furnace blower, most people land on a 7,500–9,500 watt portable. Add an electric water heater (4,000–4,500 watts) or central AC and you are into 12,000+ watts or a standby — Worked Example 4 below runs exactly this math."
 pubDate: 2026-10-19
 updatedDate: 2026-10-21
 keywords: ["what size generator do I need", "generator sizing calculator", "how many watts to run a house"]
 ---
+
+**Quick answer:** Add up the running watts of everything you want powered, add the single biggest motor surge on top, then add 20% headroom. In practice that lands most homes at **7,500–9,500 watts** for essentials plus a few comforts, **10,000–14,000 watts** for whole-house coverage without central AC, and a **20–22 kW standby** once a 3-ton central AC is in the picture (a $300–$400 soft starter can shrink that last number a lot). The worked examples below show the math on real load lists.
 
 "What size generator do I need?" is the number-one question in home backup power, and most people get it wrong in the same way: they buy too small and find out during the outage. The fix takes about ten minutes with a pencil. Here's how an electrician would size it for your house.
 
@@ -127,6 +131,27 @@ Biggest surge: the AC — 8,000 W on top of its running draw. 6,000 + 8,000 = 14
 **Answer: a 20–22 kW standby generator.** No portable under about 12,000 watts will reliably start a 3-ton central AC — and even then it's marginal. This is exactly why homes with central AC usually end up with a Generac 22kW Guardian or Kohler 20RCA ($8,000–$15,000 installed).
 
 **The cheaper alternative:** install a [soft starter](/articles/what-size-generator-central-ac) on the AC (~$300–$400) to cut the starting surge by 60–70%. That can drop the surge to ~3,500 W and bring a big portable back into play. Read the AC sizing guide for the full breakdown.
+
+### Worked example 4: Rural home with a well pump and electric water heater
+
+The examples above are gas-heat suburban homes. Rural all-electric homes size differently, because two big loads show up that the earlier lists did not carry: the well pump (no pump, no water) and an electric water heater.
+
+| Load | Running | Surge extra |
+|---|---|---|
+| Refrigerator + chest freezer | 400 | 1,000 |
+| Well pump (1/2 HP) | 1,100 | 1,900 |
+| Electric water heater | 4,500 | — |
+| Lights, Wi-Fi, chargers, TV | 250 | — |
+| Microwave | 1,200 | — |
+| **Running total** | **7,450 W** | |
+
+Biggest surge: the well pump — 1,900 W extra on top of its running draw (it starts at 2,500–3,000 W total). 7,450 + 1,900 = 9,350. × 1.2 headroom = **~11,200 W**.
+
+**Answer: a 12,000–14,000 watt portable, or a 14 kW standby if you want it automatic.** Nothing smaller survives the moment the well pump kicks on while the water heater is mid-cycle.
+
+Notice what the water heater does to this math: it is 60% of the running total all by itself, and it has no surge — just a huge, dumb, steady load. That is why it is the classic load-management candidate. Put the water heater on a load-shed module (or simply flip its breaker during outages and let the tank's stored hot water coast — a full tank stays hot for hours) and the running total drops to about 2,950 W. Now the answer is a **7,500–9,500 watt portable**, the same sweet-spot machine from Example 2, at roughly half the purchase price.
+
+The lesson generalizes: before you buy a bigger generator, look for the one load you can shed, sequence, or soften. One $300 load-management module — or one breaker you agree to leave off — routinely saves $1,000+ of generator you did not need.
 
 ## The "add 20% headroom" rule — and why it exists
 

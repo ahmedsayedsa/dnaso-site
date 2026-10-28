@@ -11,10 +11,14 @@ faq:
     answer: "A media carga, un generador de 5.500 vatios quema unos 14–15 galones en 24 horas. Con la gasolina regular a 3,00–4,00 $ el galón, eso son unos 43–58 $ al día. Si lo trabajas más ligero — cuarto de carga, apagándolo por ciclos en la noche — puedes cerrar el día con 8–10 galones, unos 25–40 $."
   - question: "¿Un generador de 5500 vatios consume menos que uno de 7500?"
     answer: "Con la misma carga eléctrica, sí. Alimenta ambas máquinas con una carga de 2.750 vatios y el de 5.500 quema unos 0,6 gal/h mientras el de 7.500 anda más cerca de 0,75: el motor más grande arrastra más fricción y pérdidas a medio acelerador. La diferencia no es enorme, pero en un apagón de tres días son 8–10 galones extra que hay que almacenar y transportar."
+  - question: "¿Cuánto propano quema un generador de 5500 vatios?"
+    answer: "Aproximadamente un 25% más de galones que con gasolina para la misma potencia — el propano tiene unas 91,500 BTU por galón frente a las ~114,000 de la gasolina, y la mayoría de los 5500 dual fuel bajan a unos 4,950 vatios de uso con propano. A media carga espera unos 0.75–0.85 galones por hora, así que un tanque estándar de 20 libras (unos 4.6 galones) dura 5–6.5 horas, frente a 10–12 horas con el tanque de gasolina de la máquina. La compensación: el propano nunca se echa a perder ni ensucia el carburador, así que es una reserva almacenada excelente."
 pubDate: 2026-10-21
 keywords: ["cuánta gasolina consume un generador de 5500 vatios", "consumo de combustible generador 5500 vatios", "autonomía generador 5500 vatios", "galones por hora generador", "cuánto dura un generador de 5500 vatios"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Un generador de 5500 vatios quema aproximadamente **0.4 galones por hora a un cuarto de carga y 0.6 a media carga** — unos 0.75 al 75% de carga y 0.85–1.0 a carga completa. Un tanque típico de 6–7.2 galones dura por tanto 10–12 horas a la media carga a la que funcionan la mayoría de los apagones, y 24 horas completas toman unas 14–15 galones — $43–$58 a $3.00–$4.00 el galón. Con propano, presupuesta aproximadamente un 25% más de galones para los mismos vatios.
 
 La gente me pregunta "¿cuánta gasolina consume un generador de 5.500 vatios?" como si hubiera un solo número. No lo hay: hay un rango, y dónde caes dentro de él depende casi por completo de qué tan duro está trabajando la máquina, no de la calcomanía. Pero sí puedo darte las cifras que uso cuando planeo el combustible de mis clientes antes de una tormenta, porque el de 5.500 es el tamaño que más veo en los garages: alcanza para el soplador de la calefacción, el refri y las luces, y todavía se mueve a mano.
 

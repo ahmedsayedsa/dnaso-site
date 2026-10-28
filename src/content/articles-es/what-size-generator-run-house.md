@@ -11,11 +11,15 @@ faq:
     answer: "Haz la lista de cada aparato que quieras usar durante un apagón. Anota los vatios de uso de cada uno (revisa la placa de datos), súmalos, luego agrega el pico de arranque más alto entre tus aparatos con motor. La capacidad de uso de tu generador debe cubrir el total, y su capacidad de pico debe cubrir el arranque individual más grande. Si tienes dudas, redondea hacia arriba — un generador sobrecargado se dispara justo cuando más lo necesitas."
   - question: "¿Es malo sobredimensionar un generador?"
     answer: "Sobredimensionar un poco (10–20%) está bien y te da margen. Sobredimensionar en exceso desperdicia dinero en el precio de compra y en combustible — una unidad de 22 kW alimentando unas cuantas luces quema más combustible por kWh que una unidad del tamaño correcto. Los generadores de reserva también prefieren trabajar al 30%+ de carga; la subcarga crónica puede causar acumulación de humedad (wet-stacking) en unidades diésel."
+  - question: "¿Qué tamaño de generador necesito para una bomba de pozo?"
+    answer: "La bomba es solo parte de la respuesta: una bomba de pozo de 1/2 HP consume 1,000–1,100 vatios de uso pero necesita 2,500–3,000 vatios de arranque, así que la capacidad de pico del generador tiene que superar ese pico mientras todo lo demás ya está funcionando. Para una casa rural con la bomba más un refrigerador, luces y el ventilador de la calefacción, la mayoría termina en un portátil de 7,500–9,500 vatios. Si añades un calentador de agua eléctrico (4,000–4,500 vatios) o aire acondicionado central, pasas a 12,000+ vatios o a un generador de reserva — el Ejemplo práctico 4 de abajo hace exactamente este cálculo."
 pubDate: 2026-10-19
 updatedDate: 2026-10-21
 lang: "es"
 keywords: ["tamaño de generador para casa", "calculadora de vatios generador", "cuántos vatios para una casa"]
 ---
+
+**Respuesta rápida:** Suma los vatios de uso de todo lo que quieres alimentar, añade encima el mayor pico de arranque de un solo motor y luego suma un 20% de margen. En la práctica, eso deja a la mayoría de las casas en **7,500–9,500 vatios** para lo esencial más algunas comodidades, **10,000–14,000 vatios** para cobertura de toda la casa sin aire acondicionado central, y un **generador de reserva de 20–22 kW** cuando entra un aire central de 3 toneladas (un arrancador suave de $300–$400 puede reducir mucho ese último número). Los ejemplos de abajo muestran el cálculo con listas de cargas reales.
 
 "¿Qué tamaño de generador necesito?" es la pregunta número uno en energía de respaldo para el hogar, y la mayoría se equivoca siempre de la misma manera: compran muy pequeño y se enteran durante el apagón. La solución toma unos diez minutos con un lápiz. Así es como un electricista lo calcularía para tu casa.
 
@@ -128,6 +132,27 @@ Pico más grande: el aire — 8,000 W encima de su consumo. 6,000 + 8,000 = 14,0
 **Respuesta: un generador de reserva de 20–22 kW.** Ningún portátil de menos de unos 12,000 vatios arranca de forma confiable un aire central de 3 toneladas — y aun así es marginal. Por eso las casas con aire central casi siempre terminan con un Generac 22kW Guardian o un Kohler 20RCA ($8,000–$15,000 instalados).
 
 **La alternativa más barata:** instala un [arrancador suave](/es/articles/what-size-generator-central-ac) en el aire (~$300–$400) para reducir el pico de arranque un 60–70%. Eso puede bajar el pico a ~3,500 W y devolver un portátil grande al juego. Lee la guía de cálculo del aire para el desglose completo.
+
+### Ejemplo práctico 4: casa rural con bomba de pozo y calentador de agua eléctrico
+
+Los ejemplos anteriores son casas suburbanas con calefacción a gas. Las casas rurales totalmente eléctricas se calculan distinto, porque aparecen dos cargas grandes que las listas anteriores no tenían: la bomba de pozo (sin bomba, no hay agua) y un calentador de agua eléctrico.
+
+| Carga | Vatios de uso | Pico extra |
+|---|---|---|
+| Refrigerador + congelador | 400 | 1,000 |
+| Bomba de pozo (1/2 HP) | 1,100 | 1,900 |
+| Calentador de agua eléctrico | 4,500 | — |
+| Luces, Wi-Fi, cargadores, TV | 250 | — |
+| Microondas | 1,200 | — |
+| **Total de uso** | **7,450 W** | |
+
+El mayor pico: la bomba de pozo — 1,900 W extra sobre su consumo de uso (arranca con 2,500–3,000 W en total). 7,450 + 1,900 = 9,350. × 1.2 de margen = **~11,200 W**.
+
+**Respuesta: un portátil de 12,000–14,000 vatios, o un generador de reserva de 14 kW si lo quieres automático.** Nada más pequeño sobrevive al momento en que la bomba arranca mientras el calentador está en pleno ciclo.
+
+Fíjate en lo que el calentador hace en este cálculo: es el 60% del total de uso él solo, y no tiene pico — es solo una carga enorme y constante. Por eso es el candidato clásico para la gestión de cargas. Pon el calentador en un módulo de desconexión (o apaga su interruptor durante el apagón y deja que el agua caliente del tanque aguante — un tanque lleno se mantiene caliente por horas) y el total baja a unos 2,950 W. Ahora la respuesta es un **portátil de 7,500–9,500 vatios**, la misma máquina ideal del Ejemplo 2, por aproximadamente la mitad del precio.
+
+La lección es general: antes de comprar un generador más grande, busca la única carga que puedes desconectar, secuenciar o suavizar. Un módulo de gestión de cargas de $300 — o un interruptor que aceptas dejar apagado — suele ahorrarte más de $1,000 de generador que no necesitabas.
 
 ## La regla del "20% de margen" — y por qué existe
 

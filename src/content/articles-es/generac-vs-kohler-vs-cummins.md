@@ -2,10 +2,23 @@
 title: "Generac vs Kohler vs Cummins: marcas de reserva comparadas"
 description: "Comparación honesta de las cuatro grandes marcas de generadores de reserva: garantía, distribuidores, precios, ruido y qué marca conviene a cada comprador."
 heroImage: "/images/generac-vs-kohler-vs-cummins.webp"
+faq:
+  - question: "¿Qué marca de generador de reserva es la más confiable?"
+    answer: "Ninguna gana limpio. Entre los técnicos, Kohler recibe las menores quejas por unidad vendida y las unidades Cummins se describen como sobredimensionadas, con reportes de fallas comparativamente raros. Generac es mixto y depende del modelo — vende tantas unidades que acumula más quejas y más dueños contentos que nadie. Briggs & Stratton es la que más varía según la línea. El factor más grande no es la marca: es el instalador y mantener el mantenimiento al día — aceite, filtros, bujías y batería a tiempo, con un plan del distribuidor de $300–$500 al año. Los dueños que se saltan el mantenimiento son la mayor fuente de reseñas de 'esta marca es basura' en las cuatro marcas."
+  - question: "¿Qué generador de reserva es el más silencioso?"
+    answer: "Kohler y Cummins van al frente. El Kohler 14RCA está clasificado alrededor de 62 dB(A) a 23 pies, y las unidades Cummins QuietConnect están en los bajos a medios 60 — ambas notablemente más silenciosas que un Generac Guardian de 22 kW a unos 67 dB(A). Briggs & Stratton queda en los altos 60. Cinco decibelios importan más de lo que parece: la escala es logarítmica, así que 5 dB menos es aproximadamente un tercio menos de ruido percibido."
+  - question: "¿Cuánto cuesta instalado un generador de reserva de 22 kW según la marca?"
+    answer: "Generac es normalmente el más barato: un Guardian de 22 kW suele instalarse por $10,000–$14,000 en total. Kohler y Cummins están en el rango de $11,000–$16,000 para sistemas de 18–22 kW. Briggs & Stratton es la opción económica, con sistemas de 20 kW que suelen quedar en $9,000–$13,000. Todas las cifras incluyen el interruptor de transferencia, el trabajo de gas, los permisos y la mano de obra del electricista — tu cotización varía según la región, la longitud de la línea de gas y el trabajo que necesite tu tablero."
+  - question: "¿Cuánto duran las garantías de los generadores de reserva?"
+    answer: "Generac, Kohler y Cummins anuncian una garantía limitada de 5 años o 2,000 horas en sus líneas residenciales. La línea PowerProtect de Briggs & Stratton ha ofrecido hasta 10 años de garantía limitada en algunos modelos — confirma por escrito qué cubre el modelo que compras, porque las garantías largas de las líneas económicas a veces tienen más exclusiones. En las cuatro marcas, la garantía exige instalación por un distribuidor certificado y mantenimiento documentado según el calendario, y la batería nunca está cubierta: es un consumible que cambiarás cada 2–3 años."
+  - question: "¿Importa más la marca o el instalador?"
+    answer: "El instalador, y no es parejo. Un generador de reserva necesita una base, una línea de gas dimensionada para la carga, un interruptor de transferencia cableado a tu tablero, permisos y a veces una ampliación del medidor de gas — una instalación descuidada hace que cualquier marca funcione mal. Elige primero al instalador, segundo la potencia, tercero el combustible, y luego compra la marca que ese instalador vende, mantiene y tiene repuestos. Un gran distribuidor con una marca mediocre supera a una gran marca con un distribuidor fantasma."
 pubDate: 2026-10-19
 keywords: ["Generac vs Kohler", "mejor marca de generador de reserva", "generador de reserva Cummins", "confiabilidad generador Briggs Stratton"]
 lang: "es"
 ---
+
+**Respuesta rápida:** Ninguna marca gana por goleada. **Generac** es el líder en precio y red de distribuidores (22 kW instalado $10,000–$14,000, ~67 dB(A)); **Kohler** es la opción premium silenciosa (~62 dB(A), normalmente 10–20% más cara); **Cummins** es la opción sobredimensionada con la gama residencial más corta; **Briggs & Stratton** es la opción económica, con hasta 10 años de garantía limitada en algunos modelos PowerProtect. Generac, Kohler y Cummins anuncian una garantía limitada de 5 años/2,000 horas. Los factores decisivos suelen estar fuera de la hoja de especificaciones: un instalador local sólido y el plan de mantenimiento de $300–$500 al año.
 
 Si estás comprando un generador de reserva para toda la casa, te vas a topar con los mismos cuatro nombres en todas partes: Generac, Kohler, Cummins y Briggs & Stratton. Los distribuidores suenan seguros de cualquiera que sea la marca que venden. Las reseñas en línea son una mezcla de dueños felices, dueños furiosos y gente discutiendo sobre cosas que apenas importan.
 

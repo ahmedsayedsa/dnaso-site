@@ -17,6 +17,8 @@ pubDate: 2026-10-21
 keywords: ["how far should a generator be from the house", "generator 20 feet rule", "generator carbon monoxide safety", "generator placement distance", "standby generator clearance"]
 ---
 
+**Quick answer:** At least **20 feet** from the house, exhaust pointed away — that's the CDC and CPSC rule for every portable generator, and it applies to garages, porches, and carports too: no roofed or walled spot ever counts as 'outside.' Measure to the nearest part of the building, watch windows, doors, and soffit vents, and keep battery-backed CO alarms on every level regardless. Permanently installed standby generators follow the engineered NFPA 37 standard instead — exhaust at least 5 feet from any opening — which is why they can sit much closer.
+
 Every year, in the days after a big storm knocks out power somewhere in America, the news runs the same story. Not about the storm — about a family that ran a generator too close to the house, or in the garage, or on the porch, and never woke up. As an electrician who has installed backup power for two decades, I can tell you these aren't freak accidents. They're the predictable result of one misunderstood fact: the distance between your generator and your house is not a guideline. It's the safety system.
 
 This guide explains the 20-foot rule properly — where it comes from, why garages and porches never qualify, how the rules differ for standby units, and why exhaust direction matters almost as much as distance.
@@ -97,6 +99,14 @@ The legitimate objection is the cords. Twenty feet of distance means your extens
 - **Mind the trip-and-crush points.** Cords across driveways get driven over; cords through doorways get pinched. Route them deliberately, not hopefully.
 
 If you're running the generator through a multi-day outage, placement discipline pairs with fuel discipline — the [storm preparedness checklist](/articles/storm-preparedness-checklist) covers both, and the [fuel consumption guide](/articles/generator-fuel-consumption) helps you plan how much gasoline that distant generator will actually drink.
+
+## What 20 feet actually looks like on a real lot
+
+Twenty feet is roughly two pickup trucks end to end — pace it out once and most people discover their usual spot is about half that. On a typical suburban lot, the side yards are 10–15 feet wide, which means the honest portable-generator spot is usually the far corner of the back yard, not the patio by the back door.
+
+A worked example from a common layout: the back wall of the house to the rear fence is 32 feet. The generator goes at 22 feet from the wall — close enough that a 30-foot generator cord reaches the inlet box comfortably, far enough that the exhaust plume dilutes before it reaches the soffit vents. The exhaust points along the fence line, away from the house and angled away from the neighbor's side windows. Nothing overhangs the spot, and it's not the low corner where water (and exhaust, on a still night) pools.
+
+If your tape measure says the far corner is only 14 feet, that's the small-lot situation covered above: maximize what you have, aim the exhaust with extra care, and let in-date CO alarms on every level carry the rest. What the tape measure never justifies is the garage.
 
 ## Mike's placement checklist
 

@@ -9,9 +9,15 @@ faq:
     answer: "If it cranks, the battery and starter are working, so the problem is fuel, spark, or air. Check in order: fuel valve open and fresh fuel reaching the carburetor, spark plug firing (pull it, ground it, and look for spark while cranking), and air filter not clogged. On standby units, also check for fault codes on the controller — they often point straight at the problem."
   - question: "How often should I run my generator if I'm not using it?"
     answer: "Standby generators handle this automatically with a weekly 10–15 minute exercise cycle — just make sure it's enabled and actually running. For portable generators, run them under load for 20–30 minutes every month or two, and always use fuel stabilizer if gas will sit more than 30 days. The generators that fail during outages are almost always the ones that sat untouched for a year."
+  - question: "When should I stop troubleshooting and call a professional?"
+    answer: "Stop when you've worked the full checklist and it still won't start — at that point you're likely looking at low compression (a test typically reads 90–120 PSI minimum on small engines), a failed ignition module, or internal damage, all of which need tools like a compression tester and leak-down gauge. Also stop immediately if you smell gas strongly and can't find the leak, if the fix touches the transfer switch or standby electrical connections, or if the generator is under warranty — Generac standbys typically carry a 5-year limited warranty and most portables 2–3 years, and DIY repairs can void it."
+  - question: "How much does it cost to have a professional fix a generator that won't start?"
+    answer: "Expect $100–$175 for a diagnostic visit in most US markets. Common repairs — carburetor replacement, battery swap, a tune-up — land in the $150–$350 range including parts and labor, and a full portable tune-up (oil, plug, filter, carburetor service) typically runs $150–$250. For standby units, annual maintenance contracts run $300–$500/year and include exercise-cycle monitoring, a battery test, oil and filter change, and a full load test — the contract that keeps the no-start from happening in the first place."
 pubDate: 2026-10-19
 keywords: ["generator won't start", "generator troubleshooting", "portable generator no start", "stale gas generator", "standby generator won't start"]
 ---
+
+**Quick answer:** Work the checklist in order — most no-starts are one of the first three. **Fresh fuel first** (gasoline starts breaking down in 30 days and gums up the carburetor), then **oil level** (low oil triggers the protective shutdown on most engines), then the **battery** on electric-start models. After that: spark plug, choke position, air filter, and finally the carburetor. Fifteen minutes covers most of it. If the full list fails, the problem is internal — compression or ignition — and a diagnostic visit runs $100–$175.
 
 The power goes out, you wheel out the generator, pull the cord three times, and... nothing. Or you get the alert from your standby unit that it failed its weekly exercise cycle. Either way, that sinking feeling is the same.
 

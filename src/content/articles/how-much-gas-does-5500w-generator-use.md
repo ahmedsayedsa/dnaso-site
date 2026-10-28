@@ -11,9 +11,13 @@ faq:
     answer: "At half load, a 5500-watt generator burns roughly 14–15 gallons in 24 hours. At $3.00–$4.00 a gallon for regular gasoline, that's about $43–$58 a day. Run lighter — quarter load, cycling it off overnight — and you can hold a day to 8–10 gallons, or roughly $25–$40."
   - question: "Does a 5500 watt generator use less gas than a 7500 watt?"
     answer: "At the same electrical load, yes. Feed both machines a 2,750-watt load and the 5500 burns about 0.6 gal/hr while the 7500 burns closer to 0.75 — the bigger engine carries more friction and pumping loss at part throttle. The gap isn't huge, but over a three-day outage it's 8–10 extra gallons you have to store and haul."
+  - question: "How much propane does a 5500 watt generator burn?"
+    answer: "About 25% more gallons than gasoline for the same output — propane carries roughly 91,500 BTU per gallon against gasoline's ~114,000, and most dual-fuel 5500s are derated to about 4,950 running watts on propane. At 50% load expect roughly 0.75–0.85 gallons per hour, so a standard 20-lb grill tank (about 4.6 gallons) lasts 5–6.5 hours, versus 10–12 hours from the machine's gasoline tank. The trade: propane never goes stale and never gums a carburetor, so it makes an excellent stored reserve."
 pubDate: 2026-10-21
 keywords: ["how much gas does a 5500 watt generator use", "5500 watt generator fuel consumption", "5500 watt generator runtime", "generator gallons per hour", "how long will a 5500 watt generator run"]
 ---
+
+**Quick answer:** A 5500-watt generator burns about **0.4 gallons per hour at quarter load and 0.6 at half load** — roughly 0.75 at 75% load and 0.85–1.0 at full load. A typical 6–7.2 gallon tank therefore lasts 10–12 hours at the half load most outages actually run at, and a full 24 hours takes about 14–15 gallons — $43–$58 at $3.00–$4.00 a gallon. On propane, budget roughly 25% more gallons for the same watts.
 
 People ask me "how much gas does a 5500 watt generator use?" like there's one number. There isn't — there's a range, and where you land in it depends almost entirely on how hard the machine is working, not on the sticker. But I can give you the numbers I use when I'm planning fuel for customers before a storm, because a 5500 is the most common size I see in garages: big enough for a furnace blower, fridge, and lights, small enough to wheel around by hand.
 

@@ -11,9 +11,13 @@ faq:
     answer: "Yes, with conditions. A 12kW generator behind a load-management system, a critical-loads subpanel, or a manual interlock kit will run your essentials — fridge, furnace, well pump, lights, one AC — without drama. What it won't do is run every large appliance simultaneously with nobody paying attention. Sequencing is the price of the smaller generator."
   - question: "How do I find out what my house actually peaks at?"
     answer: "Two ways. Most utilities with smart meters will show you 15-minute demand history online — find your highest peak in kW over the last 12 months. Or use the NEC 220.87 method: take the maximum recorded demand over 30 days of normal use, multiply by 1.25, and that's a defensible sizing number. Most 200-amp homeowners are surprised to see a real peak under 15kW."
+  - question: "Can I use a portable generator instead of a standby on 200 amp service?"
+    answer: "Yes, and for a lot of 200-amp homes it's the smart money. A 10,000–13,000W portable connected through a 50-amp inlet box and a mechanical interlock kit feeds your existing panel directly and lets you choose any circuit in the house — the inlet, interlock, and cord run about $500–$1,000 installed, plus $900–$1,400 for the portable itself, against $12,000–$15,000 for an installed 22 kW standby. The trade-offs are manual operation (roll it out, plug in, flip the interlock) and sequencing: you are the load management, running one big load at a time. A soft-start kit on the AC — starting surge of 30–40 amps instead of 70+ — makes a 3-ton unit very doable on a 12 kW portable."
 pubDate: 2026-10-21
 keywords: ["what size generator for 200 amp service", "200 amp service generator size", "whole house generator sizing", "generator load calculation", "200 amp panel generator"]
 ---
+
+**Quick answer:** Not 48 kW. The 200-amp rating is a ceiling your house never touches — a typical 200-amp home peaks at 8–16 kW in real use. Most whole-house installs land at **18–24 kW** with no load management, or **10–14 kW** with load-shedding modules handling the big appliances. On a budget, a 10,000–13,000W portable through a 50-amp inlet box and interlock kit ($500–$1,000 installed, plus the generator) covers the essentials of the same house. Check your utility's smart-meter demand data for your real peak before you buy anything.
 
 The question I get on almost every sizing visit is some version of this: "My house has 200 amp service — what size generator for 200 amp service do I actually need? A 48kW?" You can watch the color drain out of their face when they say that number, because they've already priced 48kW units and they're commercial money.
 

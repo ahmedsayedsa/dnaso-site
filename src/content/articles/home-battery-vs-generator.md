@@ -2,9 +2,22 @@
 title: "Home Battery Backup vs Generator: An Honest Comparison"
 description: "Home battery vs generator in 2026: upfront costs, running costs, tax credits (30% ITC), and which makes sense for your outage pattern."
 heroImage: "/images/home-battery-vs-generator.webp"
+faq:
+  - question: "How long will a home battery power my house during an outage?"
+    answer: "It depends on what you run, not just the battery. One 13.5 kWh Powerwall 3 lasts 13–20 hours on essentials (0.5–1 kW — fridge, lights, fans, router), 9–13 hours with a gas furnace blower added, and only 2.5–3.5 hours at normal whole-home draw (4–6 kW with the AC cycling). Two units roughly double those numbers. Unlike a generator, a battery can't be refilled mid-outage — when it's empty, it's empty until the grid returns or the sun hits your panels."
+  - question: "Do home batteries qualify for a tax credit?"
+    answer: "Yes — standalone battery storage of 3 kWh or larger qualifies for a 30% federal Investment Tax Credit under current law, with no solar panels required. The credit covers the battery, inverter, gateway hardware, and the installation labor tied to the system. The worked example in this guide: a $15,000 system earns a $4,500 credit, for a $10,500 net cost. It's a credit against tax you owe (any remainder can generally carry forward — confirm with a tax professional), and generators get no comparable federal credit."
+  - question: "Is a home battery cheaper than a standby generator?"
+    answer: "For one unit, they're comparable: a Powerwall 3 runs roughly $9,000–$11,000 installed and a 22–26 kW standby generator $10,000–$15,000 installed. The gap opens at whole-home coverage — two batteries run $18,000–$22,000 installed, roughly double the standby. And the cheapest route of all is still a 7,500–9,500W portable with a transfer switch: $1,500–$3,000 all-in."
+  - question: "Can a home battery run my central AC?"
+    answer: "Sometimes — the limit is output, not just capacity. A Powerwall 3 delivers 11.5 kW continuous, and central AC draws 3–5 kW running with a much higher starting surge, so one unit can start many systems but drains fast doing it: whole-home use with the AC cycling empties a single battery in 2.5–3.5 hours. For AC backed up through a long outage, most homes need a second battery — or a generator."
+  - question: "How long do home batteries last before they wear out?"
+    answer: "The warranties give you the honest number. The Powerwall 3 carries a 10-year warranty guaranteeing at least 70% capacity retention — a 13.5 kWh unit is warrantied to still hold about 9.5 kWh after a decade — and the EcoFlow Delta Pro Ultra is rated for roughly 3,500 cycles to 80% capacity. In backup-only service (a few dozen partial cycles a year) degradation is minimal; daily time-of-use cycling is what spends the battery's life, which is the price of the daily savings."
 pubDate: 2026-10-19
 keywords: ["home battery backup vs generator", "tesla powerwall vs generator", "battery backup tax credit"]
 ---
+
+**Quick answer:** For short outages and silent, maintenance-free backup, a home battery wins — one 13.5 kWh unit ($9,000–$11,000 installed, roughly 30% less after the federal tax credit) runs essentials for 13–20 hours. For multi-day outages or whole-home loads like central AC, a generator wins on runtime and cost per watt — a 22 kW standby is $10,000–$15,000 installed and runs indefinitely on natural gas. Solar owners tilt toward the battery; everyone else should start with how long their outages actually last.
 
 For decades, "backup power" meant a generator, full stop. Batteries were too expensive and too weak to be a real option. That's changed. A modern home battery can carry a house through an outage silently, with zero fuel and zero maintenance — but the math only works in certain situations. Here's the honest comparison, with real 2026 numbers.
 
@@ -126,6 +139,16 @@ If you already have solar — or are considering it — batteries make more sens
 - **High-draw loads:** central AC (3–5 kW running, much higher starting surge), electric water heaters, well pumps, electric ranges. These chew through battery capacity fast and can exceed a single battery's output limit.
 - **Upfront cost for whole-home:** a $1,200 portable plus a transfer switch covers more raw wattage than a $10,000 battery. If your outage pattern is "once a year for a day," the generator is cheaper by a wide margin.
 - **No sun needed:** batteries without solar recharge only when the grid returns. A generator is self-sufficient as long as you have fuel.
+
+## A worked example: one house, one 24-hour outage, both ways
+
+Take the average home from the runtime table above, running essentials plus a gas furnace blower — call it a steady 1–1.5 kW draw.
+
+**The battery house:** one 13.5 kWh unit starts full and carries the house silently for roughly 9–13 hours. By hour 14 the battery is done, and there is no refill — the fridge starts warming, the blower stops, and the house waits for the grid like it has no backup at all. Total spend: $9,000–$11,000 installed, minus the 30% credit.
+
+**The generator house:** the 7,500W portable in the garage runs the same loads at a fraction of its capacity for 8–14 hours per tank, and a trip to the gas can resets the clock. It is louder, smellier, and somebody has to go outside in the weather twice a day — but hour 24 looks exactly like hour 2. Total spend: around $1,500–$3,000 all-in.
+
+Neither result is a trick: the battery won the first half of the outage on experience and lost the second half on physics. Your outage history — not the brochure — tells you which half matters.
 
 ## The Honest Verdict Framework
 
