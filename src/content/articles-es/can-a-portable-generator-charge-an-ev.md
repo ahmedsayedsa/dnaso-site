@@ -18,7 +18,7 @@ lang: "es"
 
 La tormenta corta la luz, el coche está al 35% de batería y hasta casa de tus suegros — que sí tienen luz — hay 28 millas. Entonces: ¿puede un generador portátil cargar un coche eléctrico lo suficiente para llegar? En los últimos dos años me han hecho esta pregunta en visitas de servicio más veces que en los dieciocho anteriores juntos, y mi respuesta siempre es la misma: sí, funciona, es más lento de lo que esperas, y hay dos trampas que detienen a casi todos en el primer intento.
 
-Esta es la versión del problema centrada en el generador. Si quieres el panorama completo del apagón — baterías, unidades de reserva, todo — mi guía sobre [cargar un coche eléctrico durante un apagón](/es/articles/charging-ev-during-outage/) lo cubre. Aquí hablamos solo del generador portátil de tu garage, de lo que de verdad puede hacer y de cómo conectarlo para que el coche acepte la carga en vez de lanzar un error y apagarse.
+Esta es la versión del problema centrada en el generador. Si quieres el panorama completo del apagón — baterías, unidades de reserva, todo — mi guía sobre [cargar un coche eléctrico durante un apagón](/es/articles/charging-ev-during-outage) lo cubre. Aquí hablamos solo del generador portátil de tu garage, de lo que de verdad puede hacer y de cómo conectarlo para que el coche acepte la carga en vez de lanzar un error y apagarse.
 
 ## ¿De verdad puede un generador portátil cargar un coche eléctrico?
 
@@ -46,7 +46,7 @@ Esa energía entra a la batería con la eficiencia que logre tu coche, lo que se
 | Crossover mediano (Model Y, Mach-E, EV6) | 3–4 | 30–45 |
 | Pickup grande (F-150 Lightning, R1T) | 2–3 | 20–30 |
 
-Mi regla práctica para planear: **una hora de generador ≈ 4 millas; una noche completa ≈ 40–60 millas** en un coche típico. Eso es un trayecto al trabajo. Es llegar a un cargador rápido en el pueblo vecino. Es un margen para evacuar. No es un viaje por carretera, y ninguna compra de generador lo convierte en uno; si necesitas repasar por qué el Nivel 1 es lo que es, desglosé las velocidades en [Nivel 1 contra Nivel 2](/es/articles/level-1-vs-level-2-charging/).
+Mi regla práctica para planear: **una hora de generador ≈ 4 millas; una noche completa ≈ 40–60 millas** en un coche típico. Eso es un trayecto al trabajo. Es llegar a un cargador rápido en el pueblo vecino. Es un margen para evacuar. No es un viaje por carretera, y ninguna compra de generador lo convierte en uno; si necesitas repasar por qué el Nivel 1 es lo que es, desglosé las velocidades en [Nivel 1 contra Nivel 2](/es/articles/level-1-vs-level-2-charging).
 
 Un consejo práctico: el coche consume 12 amperios *continuos* durante horas, una carga real y sostenida, no un refrigerador que entra y sale. Un inverter chico de 2.000 vatios lo logra, pero se la pasa a más del 70% de carga todo el rato, ruidoso y gastón. Un **generador inverter de 3.500–4.500W** es el punto ideal para cargar a Nivel 1: trabaja a un tercio de su capacidad, más silencioso y mucho más económico en gasolina.
 
@@ -105,11 +105,11 @@ La gente hace esta cuenta con ilusión, así que la hago con honestidad. Un gene
 
 **≈ 25–30 millas por galón: el rendimiento de un sedán de gasolina ordinario.**
 
-Y tiene sentido si lo piensas: construiste un coche de gasolina con dos máquinas, con pérdidas de conversión en cada paso. En dinero: un galón a $3,20 que te compra unas 28 millas son unos **11–12 centavos por milla en gasolina**, contra 4–5 centavos por milla cargando de la red a precios residenciales típicos de EE. UU. — los números que usé en [cuánto cuesta cargar un coche eléctrico en casa](/es/articles/how-much-cost-charge-ev-home/) dejan la brecha clarísima. Una sesión Nivel 2 desde un generador grande cae en el mismo barrio por milla, a veces un poco peor.
+Y tiene sentido si lo piensas: construiste un coche de gasolina con dos máquinas, con pérdidas de conversión en cada paso. En dinero: un galón a $3,20 que te compra unas 28 millas son unos **11–12 centavos por milla en gasolina**, contra 4–5 centavos por milla cargando de la red a precios residenciales típicos de EE. UU. — los números que usé en [cuánto cuesta cargar un coche eléctrico en casa](/es/articles/how-much-cost-charge-ev-home) dejan la brecha clarísima. Una sesión Nivel 2 desde un generador grande cae en el mismo barrio por milla, a veces un poco peor.
 
 Entonces el uso no es ahorrar. Es este: **carga solo lo suficiente para llegar a un cargador que sí funciona.** Treinta o cuarenta millas de generador te llevan al cargador rápido del condado vecino que sigue conectado a la red, donde el coche se llena bien y a precio de red. Quemar diez galones para "llenar" el coche en casa de noche es la forma cara de sentirse autosuficiente. Lo hice una vez, en un apagón de tres días sin ningún lugar abierto a donde ir — y exactamente para ese escenario es que sirve.
 
-Vale la pena saber, en dirección contraria: muchos coches eléctricos ya pueden *devolver* energía. Si el tuyo admite vehicle-to-load, puede ser la mejor herramienta del apagón para el lado de la casa — lo cubrí en [¿puede un coche eléctrico alimentar una casa (V2H)?](/es/articles/can-ev-power-house-v2h/). El generador carga el coche y el coche alimenta el refrigerador: en un apagón largo, ese círculo a veces es el arreglo más inteligente del equipo que ya tienes.
+Vale la pena saber, en dirección contraria: muchos coches eléctricos ya pueden *devolver* energía. Si el tuyo admite vehicle-to-load, puede ser la mejor herramienta del apagón para el lado de la casa — lo cubrí en [¿puede un coche eléctrico alimentar una casa (V2H)?](/es/articles/can-ev-power-house-v2h). El generador carga el coche y el coche alimenta el refrigerador: en un apagón largo, ese círculo a veces es el arreglo más inteligente del equipo que ya tienes.
 
 ## ¿Cómo se conecta todo con seguridad? Lo no negociable
 
@@ -129,7 +129,7 @@ Mi opinión honesta: **un generador portátil cargando un coche eléctrico es un
 
 ## Sigue leyendo
 
-- [Cargar un coche eléctrico durante un apagón: lo que funciona](/es/articles/charging-ev-during-outage/)
-- [Nivel 1 contra Nivel 2: velocidad y costo](/es/articles/level-1-vs-level-2-charging/)
-- [¿Puede un coche eléctrico alimentar una casa? V2H explicado](/es/articles/can-ev-power-house-v2h/)
-- [¿Cuánto cuesta cargar un coche eléctrico en casa?](/es/articles/how-much-cost-charge-ev-home/)
+- [Cargar un coche eléctrico durante un apagón: lo que funciona](/es/articles/charging-ev-during-outage)
+- [Nivel 1 contra Nivel 2: velocidad y costo](/es/articles/level-1-vs-level-2-charging)
+- [¿Puede un coche eléctrico alimentar una casa? V2H explicado](/es/articles/can-ev-power-house-v2h)
+- [¿Cuánto cuesta cargar un coche eléctrico en casa?](/es/articles/how-much-cost-charge-ev-home)

@@ -80,23 +80,23 @@ Because it's not a portable. A standby (whole-house) generator is a permanently 
 Two things to understand about that difference:
 
 1. **The clearance comes from engineering, not luck.** The enclosure, exhaust routing, and placement were tested as a system, and a permitted installation gets inspected against code. Your portable on the patio has none of that.
-2. **"Closer is allowed" is not "distance doesn't matter."** Installers still can't park a standby unit under your bedroom window — the 5-feet-from-openings rule, local code, and the manual all constrain the pad location. If you're planning a standby install, the [complete home backup power guide](/articles/complete-home-backup-power-guide/) covers how placement fits the bigger project, and the [transfer switch versus interlock guide](/articles/transfer-switch-vs-interlock-kit/) covers the electrical side.
+2. **"Closer is allowed" is not "distance doesn't matter."** Installers still can't park a standby unit under your bedroom window — the 5-feet-from-openings rule, local code, and the manual all constrain the pad location. If you're planning a standby install, the [complete home backup power guide](/articles/complete-home-backup-power-guide) covers how placement fits the bigger project, and the [transfer switch versus interlock guide](/articles/transfer-switch-vs-interlock-kit) covers the electrical side.
 
 ## What about your neighbors?
 
 CO doesn't respect property lines. If your generator is 20 feet from *your* house but 8 feet from your neighbor's open window, you've exported the problem. In dense neighborhoods this takes thirty seconds of thought: aim the exhaust along your own lot, away from both homes' windows, and if you share a wall (townhomes, duplexes), coordinate — your neighbor's "fresh air" window may be right where your exhaust wants to go.
 
-Apartment and condo residents, listen carefully: **a balcony is inside for these purposes.** Generators on balconies have killed people in the unit and the units nearby. If your building loses power, a portable generator is simply not an option for you — a [portable power station](/articles/portable-power-stations-home-backup/) is the safe indoor tool for keeping the essentials alive.
+Apartment and condo residents, listen carefully: **a balcony is inside for these purposes.** Generators on balconies have killed people in the unit and the units nearby. If your building loses power, a portable generator is simply not an option for you — a [portable power station](/articles/portable-power-stations-home-backup) is the safe indoor tool for keeping the essentials alive.
 
 ## How do you power the house from 20 feet away?
 
 The legitimate objection is the cords. Twenty feet of distance means your extension runs are 25–40 feet by the time they snake through a door, and cord quality stops being optional:
 
-- **Use heavy-gauge outdoor cords.** For a 30–50 foot run carrying real loads, 12-gauge is the floor and 10-gauge is better. A cheap 16-gauge cord turns voltage into heat along its whole length, starves motors (your [sump pump](/articles/generator-for-sump-pump/) will not forgive this), and becomes a hazard itself.
-- **Better: an inlet box.** A permanently installed power inlet on the outside wall, wired to a transfer switch or interlock at your panel, lets one fat generator cord replace the nest of extension cords through a cracked door. It's the setup I install most, and it keeps the door shut — which also keeps CO out. See the [transfer switch versus interlock comparison](/articles/transfer-switch-vs-interlock-kit/) for how the two approaches differ.
+- **Use heavy-gauge outdoor cords.** For a 30–50 foot run carrying real loads, 12-gauge is the floor and 10-gauge is better. A cheap 16-gauge cord turns voltage into heat along its whole length, starves motors (your [sump pump](/articles/generator-for-sump-pump) will not forgive this), and becomes a hazard itself.
+- **Better: an inlet box.** A permanently installed power inlet on the outside wall, wired to a transfer switch or interlock at your panel, lets one fat generator cord replace the nest of extension cords through a cracked door. It's the setup I install most, and it keeps the door shut — which also keeps CO out. See the [transfer switch versus interlock comparison](/articles/transfer-switch-vs-interlock-kit) for how the two approaches differ.
 - **Mind the trip-and-crush points.** Cords across driveways get driven over; cords through doorways get pinched. Route them deliberately, not hopefully.
 
-If you're running the generator through a multi-day outage, placement discipline pairs with fuel discipline — the [storm preparedness checklist](/articles/storm-preparedness-checklist/) covers both, and the [fuel consumption guide](/articles/generator-fuel-consumption/) helps you plan how much gasoline that distant generator will actually drink.
+If you're running the generator through a multi-day outage, placement discipline pairs with fuel discipline — the [storm preparedness checklist](/articles/storm-preparedness-checklist) covers both, and the [fuel consumption guide](/articles/generator-fuel-consumption) helps you plan how much gasoline that distant generator will actually drink.
 
 ## Mike's placement checklist
 
@@ -112,4 +112,4 @@ Print this on the inside of your head:
 
 The generator is the most useful dangerous tool most homeowners own. Twenty feet and an exhaust pointed the right way is nearly the whole difference between "the machine that saved our week" and the other kind of story. Keep the distance.
 
-*Practical note: if you're placing a generator to run in bad weather once it reaches its spot, the companion guide on [running a generator safely in the rain](/articles/can-you-run-generator-in-rain/) covers covers, cords, and wet-weather rules.*
+*Practical note: if you're placing a generator to run in bad weather once it reaches its spot, the companion guide on [running a generator safely in the rain](/articles/can-you-run-generator-in-rain) covers covers, cords, and wet-weather rules.*

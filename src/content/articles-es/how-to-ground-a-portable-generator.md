@@ -31,7 +31,7 @@ Si tu generador solo alimenta cosas conectadas a sus propios enchufes, el bastid
 
 Esto no es una zona gris. Tanto el Código Eléctrico Nacional de EE. UU. (NEC 250.34) como las reglas de OSHA para generadores portátiles aceptan el bastidor como tierra cuando el generador solo alimenta equipo montado en él o equipo conectado con cable y enchufe a sus propios receptáculos, siempre que las partes metálicas que no llevan corriente estén unidas al bastidor. Eso describe prácticamente a todo generador portátil moderno vendido en EE. UU.
 
-Así que si tu rutina de apagón es «sacarlo, conectar el refri y un par de extensiones», deja de preocuparte. No necesitas varilla, no necesitas un cable a la tubería de agua, y definitivamente no necesitas el «kit de puesta a tierra» de $40 que internet no deja de ofrecerte. Gasta ese dinero en gasolina fresca y un detector de monóxido de carbono — y mantén la máquina a 6 metros (20 pies) o más de la casa, que eso importa mucho más que la tierra, como explicamos en nuestra guía sobre [a qué distancia debe estar un generador de tu casa](/es/articles/how-far-should-generator-be-from-house/).
+Así que si tu rutina de apagón es «sacarlo, conectar el refri y un par de extensiones», deja de preocuparte. No necesitas varilla, no necesitas un cable a la tubería de agua, y definitivamente no necesitas el «kit de puesta a tierra» de $40 que internet no deja de ofrecerte. Gasta ese dinero en gasolina fresca y un detector de monóxido de carbono — y mantén la máquina a 6 metros (20 pies) o más de la casa, que eso importa mucho más que la tierra, como explicamos en nuestra guía sobre [a qué distancia debe estar un generador de tu casa](/es/articles/how-far-should-generator-be-from-house).
 
 Una advertencia realista: todo esto supone que el generador está en buen estado. Una medición rápida de continuidad entre la clavija de tierra de un enchufe y un punto metálico limpio del bastidor debe pitar en tu multímetro. Si no pita, eso es una reparación, no un problema de puesta a tierra.
 
@@ -41,7 +41,7 @@ Cuando un generador portátil se conecta a tu panel por un transfer switch o un 
 
 Enterrar una varilla por separado junto al generador en esta instalación va de inútil a directamente incorrecto. Una segunda conexión a tierra en otro punto puede crear diferencias de potencial durante una falla o una descarga cercana, y es una conexión más que se corroe. Cuando un cliente me dice que agregó una varilla «por seguridad», mi respuesta honesta es que, con transfer switch, la seguridad ya estaba resuelta: por la casa.
 
-El método de conexión importa mucho más que la varilla. Si todavía no decides entre las dos formas legales de alimentar un panel, nuestra comparativa de [transfer switch contra kit interlock](/es/articles/transfer-switch-vs-interlock-kit/) cubre costo, código y seguridad de ambos. Y jamás conectes un generador con un cable macho-macho (el famoso «cable suicida») a un enchufe de secadora: eso puentea todas las protecciones de las que estamos hablando y pone en peligro a los técnicos de la compañía eléctrica.
+El método de conexión importa mucho más que la varilla. Si todavía no decides entre las dos formas legales de alimentar un panel, nuestra comparativa de [transfer switch contra kit interlock](/es/articles/transfer-switch-vs-interlock-kit) cubre costo, código y seguridad de ambos. Y jamás conectes un generador con un cable macho-macho (el famoso «cable suicida») a un enchufe de secadora: eso puentea todas las protecciones de las que estamos hablando y pone en peligro a los técnicos de la compañía eléctrica.
 
 ## ¿Qué es el neutro unido y por qué todo el mundo discute por eso?
 
@@ -71,7 +71,7 @@ De dos maneras, y recomiendo las dos, porque las etiquetas mienten.
 
 Dos minutos, cero adivinanzas. Escribe el resultado en una cinta pegada al bastidor, porque no te vas a acordar a las 11 de la noche, con lluvia, en pleno apagón. Pregúntame cómo lo sé.
 
-Un síntoma relacionado que vale la pena conocer: si el motor funciona perfecto pero los enchufes no entregan nada, eso no es un problema de tierra. Revisa nuestra guía del [generador que funciona pero no genera electricidad](/es/articles/generator-no-power-output/) antes de culpar a la conexión a tierra. Los problemas de tierra casi nunca se presentan como «no hay energía».
+Un síntoma relacionado que vale la pena conocer: si el motor funciona perfecto pero los enchufes no entregan nada, eso no es un problema de tierra. Revisa nuestra guía del [generador que funciona pero no genera electricidad](/es/articles/generator-no-power-output) antes de culpar a la conexión a tierra. Los problemas de tierra casi nunca se presentan como «no hay energía».
 
 ## ¿Cuándo sí se requiere una varilla de tierra?
 
@@ -110,7 +110,7 @@ Una varilla bien instalada es algo bueno. Una varilla decorativa, con la abrazad
 
 No. Este es el mito que más varillas vende, así que seamos directos:
 
-- **Una varilla no detiene las sobretensiones.** Una sobretensión es un pico de voltaje buscando cualquier camino, y 8 pies de varilla en suelo resistivo son un camino mediocre. Lo que protege la electrónica es la protección por capas: un supresor de sobretensiones para toda la casa en el panel más regletas con supresor en el punto de uso — y, francamente, no alimentar electrónica sensible con un generador convencional barato de regulación de voltaje pésima. Nuestra [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide/) cubre las opciones para cargas a las que sí les importa la energía limpia.
+- **Una varilla no detiene las sobretensiones.** Una sobretensión es un pico de voltaje buscando cualquier camino, y 8 pies de varilla en suelo resistivo son un camino mediocre. Lo que protege la electrónica es la protección por capas: un supresor de sobretensiones para toda la casa en el panel más regletas con supresor en el punto de uso — y, francamente, no alimentar electrónica sensible con un generador convencional barato de regulación de voltaje pésima. Nuestra [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide) cubre las opciones para cargas a las que sí les importa la energía limpia.
 - **Una varilla no hace seguro un bastidor sin unir.** La seguridad del bastidor viene de unir las partes metálicas entre sí y de vuelta a la fuente, no de tocar la tierra del suelo. La corriente que regresa por el suelo toma un camino de alta resistencia y no dispara los breakers de forma confiable.
 - **Una varilla no sustituye la protección GFCI.** Son herramientas distintas. La puesta a tierra le da a la corriente de falla un camino para que el breaker dispare. Un GFCI vigila que la corriente no se esté escapando por donde no debe — por ejemplo, a través de ti — y corta la energía en 1/40 de segundo aproximadamente, mucho antes de que un breaker note algo. Para uso con extensiones, al aire libre y con humedad, el GFCI es el aparato que está entre tú y un día muy malo. La mayoría de los portátiles modernos ya incluyen enchufes GFCI; si el tuyo no los tiene, un adaptador con GFCI es una compra de $25 que sí vale la pena — al contrario del kit de puesta a tierra.
 
@@ -127,7 +127,7 @@ Si estás a mitad de una conexión a panel y la pregunta del neutro te tiene ato
 
 ## Sigue leyendo
 
-- [Transfer switch contra kit interlock: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit/)
-- [El generador funciona pero no genera electricidad: solución en orden](/es/articles/generator-no-power-output/)
-- [Guía completa de energía de respaldo para el hogar: generadores, baterías y dimensionado](/es/articles/complete-home-backup-power-guide/)
-- [¿A qué distancia debe estar un generador de tu casa?](/es/articles/how-far-should-generator-be-from-house/)
+- [Transfer switch contra kit interlock: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit)
+- [El generador funciona pero no genera electricidad: solución en orden](/es/articles/generator-no-power-output)
+- [Guía completa de energía de respaldo para el hogar: generadores, baterías y dimensionado](/es/articles/complete-home-backup-power-guide)
+- [¿A qué distancia debe estar un generador de tu casa?](/es/articles/how-far-should-generator-be-from-house)

@@ -54,9 +54,9 @@ Si aún no tienes uno, así te orientaría yo:
 
 **3.500 vatios: el punto dulce para la mayoría de las casas.** Arranca una bomba de 1/2 HP con el refrigerador ya en marcha, maneja luces, el ventilador de la caldera y la carga de dispositivos, y sigue siendo transportable por una persona. Es el tamaño que recomiendo cuando un cliente dice «la bomba y lo básico».
 
-**5.000 vatios o más: para bombas de 3/4 HP y tranquilidad total.** El arranque de 3.000 vatios de una bomba de 3/4 HP se come por sí solo la mayor parte de la capacidad de un generador pequeño. Con 5.000 vatios dejas de hacer cuentas durante las tormentas. Eso sí, el consumo sube: un motor más grande bebe más con la misma carga, y conviene entenderlo antes de un apagón de tres días. Nuestra [guía de consumo de combustible](/es/articles/generator-fuel-consumption/) trae los galones por hora por tamaño y carga.
+**5.000 vatios o más: para bombas de 3/4 HP y tranquilidad total.** El arranque de 3.000 vatios de una bomba de 3/4 HP se come por sí solo la mayor parte de la capacidad de un generador pequeño. Con 5.000 vatios dejas de hacer cuentas durante las tormentas. Eso sí, el consumo sube: un motor más grande bebe más con la misma carga, y conviene entenderlo antes de un apagón de tres días. Nuestra [guía de consumo de combustible](/es/articles/generator-fuel-consumption) trae los galones por hora por tamaño y carga.
 
-¿Ya tienes un generador y no sabes si alcanza para toda la casa, bomba incluida? La [guía de tamaño de generador para una casa](/es/articles/what-size-generator-run-house/) suma cada carga como lo haría un electricista. Y la [guía completa de energía de respaldo](/es/articles/complete-home-backup-power-guide/) cubre el panorama entero: generadores contra baterías contra ambos.
+¿Ya tienes un generador y no sabes si alcanza para toda la casa, bomba incluida? La [guía de tamaño de generador para una casa](/es/articles/what-size-generator-run-house) suma cada carga como lo haría un electricista. Y la [guía completa de energía de respaldo](/es/articles/complete-home-backup-power-guide) cubre el panorama entero: generadores contra baterías contra ambos.
 
 ## ¿Puede una estación de energía alimentar la bomba en su lugar?
 
@@ -64,7 +64,7 @@ Una estación de litio grande tienta: silenciosa, sin combustible, segura en int
 
 **Primero, el arranque.** La potencia pico de la estación debe superar los vatios de arranque de tu bomba, no los de consumo. Muchas estaciones populares de 1 kWh topan en torno a 1.800–2.000 vatios de pico, lo que atasca una bomba de 1/2 HP. Las unidades nuevas de clase 2 kWh con más de 2.400 W continuos y más de 4.000 W de pico manejan una de 1/2 HP sin problema.
 
-**Segundo, la autonomía.** Una bomba que cicla con lluvia fuerte puede promediar 150–300 vatios por hora, pero la estación guarda lo que guarda. Una de 2 kWh te da unas 6–10 horas de bombeo en modo tormenta. Es un puente, no una solución: alcanza para una tormenta pasajera, no para dos días de temporal. La [guía de estaciones de energía portátiles](/es/articles/portable-power-stations-home-backup/) profundiza en autonomías reales, y la [comparativa batería contra generador](/es/articles/home-battery-vs-generator/) muestra dónde gana cada uno.
+**Segundo, la autonomía.** Una bomba que cicla con lluvia fuerte puede promediar 150–300 vatios por hora, pero la estación guarda lo que guarda. Una de 2 kWh te da unas 6–10 horas de bombeo en modo tormenta. Es un puente, no una solución: alcanza para una tormenta pasajera, no para dos días de temporal. La [guía de estaciones de energía portátiles](/es/articles/portable-power-stations-home-backup) profundiza en autonomías reales, y la [comparativa batería contra generador](/es/articles/home-battery-vs-generator) muestra dónde gana cada uno.
 
 Donde una estación brilla de verdad es como capa *automática*: enchufada y cargada, cubre las primeras horas del apagón antes de que llegues a casa a encender un generador.
 
@@ -92,14 +92,14 @@ Si tienes agua municipal, hay una tercera opción sin batería y sin combustible
 
 La gente imagina la bomba funcionando sin parar. En realidad cicla: el pozo se llena, el flotador sube, la bomba vacía el pozo en 10–30 segundos, silencio por uno a cinco minutos. El consumo de combustible de tu generador sigue la carga *promedio*, y el aporte promedio de la bomba es modesto: a menudo menos de 200 vatios por hora incluso con lluvia constante.
 
-La excepción es el diluvio verdadero, cuando la entrada casi iguala la capacidad de la bomba y trabaja casi sin parar. Ahí se pone a prueba tu plan de combustible. Un generador convencional de 3.500 vatios con carga ligera quema unos 0,3–0,45 galones por hora; en un día de tormenta de 24 horas eso son 7–11 galones. Dos bidones de cinco galones en el garaje son un plan. Uno es una esperanza. La [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist/) cubre el almacenamiento de combustible y el resto de la rutina previa.
+La excepción es el diluvio verdadero, cuando la entrada casi iguala la capacidad de la bomba y trabaja casi sin parar. Ahí se pone a prueba tu plan de combustible. Un generador convencional de 3.500 vatios con carga ligera quema unos 0,3–0,45 galones por hora; en un día de tormenta de 24 horas eso son 7–11 galones. Dos bidones de cinco galones en el garaje son un plan. Uno es una esperanza. La [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist) cubre el almacenamiento de combustible y el resto de la rutina previa.
 
 ## ¿Cómo conectas la bomba a un generador con seguridad?
 
-La bomba suele estar en el sótano y el generador pertenece afuera, a [al menos 20 pies de la casa con el escape apuntando lejos](/es/articles/how-far-should-generator-be-from-house/). Esa distancia dicta la conexión:
+La bomba suele estar en el sótano y el generador pertenece afuera, a [al menos 20 pies de la casa con el escape apuntando lejos](/es/articles/how-far-should-generator-be-from-house). Esa distancia dicta la conexión:
 
 - **Usa un solo cable de extensión grueso para exteriores** (calibre 12 para tramos de hasta unos 50 pies, calibre 10 para más), enchufado directo al generador. Los cables finos de casa desperdician voltaje en forma de calor, y un motor hambriento se recalienta.
-- **Nunca realimentes por el enchufe de pared de la bomba** ni por ningún enchufe. Si quieres la bomba en el cableado de tu casa durante los apagones, eso es trabajo de interruptor de transferencia o interlock: la [guía de interruptor de transferencia contra interlock](/es/articles/transfer-switch-vs-interlock-kit/) explica ambos.
+- **Nunca realimentes por el enchufe de pared de la bomba** ni por ningún enchufe. Si quieres la bomba en el cableado de tu casa durante los apagones, eso es trabajo de interruptor de transferencia o interlock: la [guía de interruptor de transferencia contra interlock](/es/articles/transfer-switch-vs-interlock-kit) explica ambos.
 - **Mantén la conexión seca.** La unión del enchufe no debe quedar en un charco ni sobre un piso de sótano mojado. Elévala sobre un balde o un gancho.
 - **Prueba antes de la tormenta.** Enciende el generador, enchufa la bomba y déjala ciclar dos veces. Descubrir un problema de arranque en julio es mejor que descubrirlo en un huracán.
 

@@ -31,7 +31,7 @@ Los dos números, rápido:
 - **Vatios continuos (~1.800):** lo que produce sin parar, todo el día. Este es tu presupuesto.
 - **Vatios de arranque (~2.200):** unos segundos de pico para los arranques de motores. Este es tu fondo de emergencia — y en esta clase es un fondo pequeño.
 
-Y la regla que le doy a cada cliente: **planea tu carga constante como máximo al 80% de los vatios continuos — unos 1.450 vatios aquí.** Los motores inverter pequeños son más felices trabajando tranquilos; forzados al máximo se vuelven ruidosos (derrotando el propósito de un inverter), calientes y sedientos. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/).
+Y la regla que le doy a cada cliente: **planea tu carga constante como máximo al 80% de los vatios continuos — unos 1.450 vatios aquí.** Los motores inverter pequeños son más felices trabajando tranquilos; forzados al máximo se vuelven ruidosos (derrotando el propósito de un inverter), calientes y sedientos. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house).
 
 ## ¿Cuántos vatios consume cada cosa en realidad?
 
@@ -85,7 +85,7 @@ Esta es la carga para la que nació este tamaño — las cosas que convierten un
 | Máquina CPAP | 40 |
 | **Carga constante total** | **~440** |
 
-Eso es como el 25% de la capacidad, y el peor momento — el compresor del refrigerador arrancando (1.200 W de pico) sobre todo lo demás — llega a unos 1.650 vatios, dentro del techo de 2.200. Con esta carga un inverter baja a casi ralentí, quema unos 0,4–0,6 litros por hora y es lo bastante silencioso para hablar por encima. Esta combinación funciona prácticamente para siempre con un par de garrafas. Si hay equipo médico en tu lista, la guía dedicada es [Energía de respaldo para una máquina CPAP](/es/articles/backup-power-cpap-machine/).
+Eso es como el 25% de la capacidad, y el peor momento — el compresor del refrigerador arrancando (1.200 W de pico) sobre todo lo demás — llega a unos 1.650 vatios, dentro del techo de 2.200. Con esta carga un inverter baja a casi ralentí, quema unos 0,4–0,6 litros por hora y es lo bastante silencioso para hablar por encima. Esta combinación funciona prácticamente para siempre con un par de garrafas. Si hay equipo médico en tu lista, la guía dedicada es [Energía de respaldo para una máquina CPAP](/es/articles/backup-power-cpap-machine).
 
 ## Combinación 2: esenciales más confort (~1.100 vatios)
 
@@ -110,7 +110,7 @@ Sigue por debajo del objetivo del 80%, y funciona porque aquí nada pica excepto
 - **Microondas:** 1.200 W + refrigerador en marcha 200 W + luces = ~1.500 W. La misma advertencia de pico. Diez minutos y de vuelta a la Combinación 2.
 - **Hervidor:** con 1.200–1.500 W es el enchufe individual más grande de esta clase. Hervidor y *nada más con motor*. Hierve, desenchufa.
 
-La disciplina es la misma que aprenden los dueños de 5.000 vatios, solo que con números más pequeños: una carga resistiva grande por vez, y respeto al pico del refrigerador. Si eso suena latoso, la solución no es técnica — es la [clase de 3.500 vatios](/es/articles/what-can-3500-watt-generator-run/), donde el microondas deja de ser un evento.
+La disciplina es la misma que aprenden los dueños de 5.000 vatios, solo que con números más pequeños: una carga resistiva grande por vez, y respeto al pico del refrigerador. Si eso suena latoso, la solución no es técnica — es la [clase de 3.500 vatios](/es/articles/what-can-3500-watt-generator-run), donde el microondas deja de ser un evento.
 
 ## ¿Qué NO puede mover un generador de 2000 vatios?
 
@@ -118,7 +118,7 @@ Siendo directo, porque estas son las devoluciones y las reseñas de una estrella
 
 - **Aire acondicionado de ventana:** el consumo continuo cabe, el pico de arranque de 2.200–3.000 W no. Es la decepción más común de esta clase. Ventiladores y ventanas abiertas, o un generador más grande.
 - **Bomba de pozo (1/2 HP):** 1.000 vatios continuos no dejarían casi nada, y el pico de arranque de 2.000–3.000 W iguala o supera todo el pico nominal. No.
-- **Bomba de sumidero (1/3 HP):** 800 vatios continuos parece posible hasta que el refrigerador arranca en el mismo segundo — el pico combinado supera el techo. Un sótano que se inunda no es sitio para un «normalmente funciona». Las cuentas de la bomba están en [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump/).
+- **Bomba de sumidero (1/3 HP):** 800 vatios continuos parece posible hasta que el refrigerador arranca en el mismo segundo — el pico combinado supera el techo. Un sótano que se inunda no es sitio para un «normalmente funciona». Las cuentas de la bomba están en [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump).
 - **Calefactor más cualquier cosa:** 1.500 vatios es el 83% de tu presupuesto continuo antes de que el refrigerador haga su ciclo. Un calefactor *solo* en una habitación cerrada, con el refrigerador desenchufado por la noche, es la única versión de esto que funciona — y es un mal cambio.
 - **Cualquier cosa con resistencia de más de ~1.500 W:** calentadores de agua eléctricos (4.500 W), secadoras, hornos y secadores de pelo a toda potencia simplemente no viven en este mundo.
 
@@ -126,11 +126,11 @@ Fíjate en el patrón: todo lo de la lista de «no puede» o calienta con electr
 
 ## ¿Cuánta gasolina va a quemar haciendo todo esto?
 
-Apenas nada. Con la Combinación 1 los modelos líderes queman 0,4–0,6 litros por hora; con la Combinación 2, unos 0,75. El tanque de 3,6 litros del Honda EU2200i dura 8,1 horas a un cuarto de carga; el Westinghouse iGen2200 estira un tanque de 4,3 litros hasta unas 12 horas a un cuarto de carga. Una sola garrafa de 19 litros es suministro de varios días a carga esencial — por eso esta clase es la favorita del mundo de la preparación. Las tablas de consumo por tamaño están en [¿Cuánto combustible consume un generador?](/es/articles/generator-fuel-consumption/).
+Apenas nada. Con la Combinación 1 los modelos líderes queman 0,4–0,6 litros por hora; con la Combinación 2, unos 0,75. El tanque de 3,6 litros del Honda EU2200i dura 8,1 horas a un cuarto de carga; el Westinghouse iGen2200 estira un tanque de 4,3 litros hasta unas 12 horas a un cuarto de carga. Una sola garrafa de 19 litros es suministro de varios días a carga esencial — por eso esta clase es la favorita del mundo de la preparación. Las tablas de consumo por tamaño están en [¿Cuánto combustible consume un generador?](/es/articles/generator-fuel-consumption).
 
 ## ¿Qué generadores de 2000 vatios deberías mirar en serio?
 
-Esta clase es toda inverter, y tres nombres la dominan — los tres están también en nuestro ranking de [generadores más silenciosos](/es/articles/quietest-generators-noise-levels/), porque el silencio es el sentido de todo esto:
+Esta clase es toda inverter, y tres nombres la dominan — los tres están también en nuestro ranking de [generadores más silenciosos](/es/articles/quietest-generators-noise-levels), porque el silencio es el sentido de todo esto:
 
 - **Honda EU2200i (2.200 de pico / 1.800 continuos, ~$1.100–1.300):** el referente. 48 dB a un cuarto de carga — el generador comercial más silencioso que puedes comprar — con la red de distribuidores más fuerte y 3 años de garantía residencial. Pagas el doble, y los dueños rara vez se arrepienten.
 - **Westinghouse iGen2200 (2.200 / 1.800, ~$450–550):** 52 dB, casi igual de silencioso, la mitad de precio que el Honda, conectable en paralelo. La opción de valor para acampar y respaldo ligero en casa.
@@ -142,12 +142,12 @@ Evita unidades sin marca cuyos «2000 vatios» resultan ser 1.400 continuos. En 
 
 Para inquilinos que mantienen vivo un refrigerador, las luces y la conectividad (en un patio o jardín de planta baja — nunca en un balcón, nunca dentro de casa). Para campistas y usuarios de RV que valoran el silencio sobre la capacidad. Para usuarios de CPAP que necesitan una noche de energía médica garantizada y silenciosa. Para propietarios con todo de gas y sin bombas, cuyo plan de apagón es «esenciales, cómodamente». Y para cualquiera que ya tenga un portátil grande de bastidor abierto y quiera un compañero silencioso que queme poco de noche.
 
-Sube de tamaño si: tienes bomba de pozo o de sumidero, necesitas un aire de ventana, o «microondas sin pensar» te importa. La [clase de 5.000 vatios](/es/articles/what-can-5000w-generator-run/) es donde una casa empieza a vivir con normalidad; esta clase es donde un apagón deja de dar miedo. Ambos son planes legítimos — solo no compres uno esperando el otro.
+Sube de tamaño si: tienes bomba de pozo o de sumidero, necesitas un aire de ventana, o «microondas sin pensar» te importa. La [clase de 5.000 vatios](/es/articles/what-can-5000w-generator-run) es donde una casa empieza a vivir con normalidad; esta clase es donde un apagón deja de dar miedo. Ambos son planes legítimos — solo no compres uno esperando el otro.
 
 ## Sigue leyendo
 
-- [¿Qué puede alimentar un generador de 3500 vatios? Guía real](/es/articles/what-can-3500-watt-generator-run/)
-- [¿Qué puede alimentar un generador de 5000 vatios? Cargas reales](/es/articles/what-can-5000w-generator-run/)
-- [Los generadores más silenciosos de 2026: 6 inverter ordenados por dB](/es/articles/quietest-generators-noise-levels/)
-- [Energía de respaldo para una máquina CPAP](/es/articles/backup-power-cpap-machine/)
-- [¿Cuánto combustible consume un generador? Números reales](/es/articles/generator-fuel-consumption/)
+- [¿Qué puede alimentar un generador de 3500 vatios? Guía real](/es/articles/what-can-3500-watt-generator-run)
+- [¿Qué puede alimentar un generador de 5000 vatios? Cargas reales](/es/articles/what-can-5000w-generator-run)
+- [Los generadores más silenciosos de 2026: 6 inverter ordenados por dB](/es/articles/quietest-generators-noise-levels)
+- [Energía de respaldo para una máquina CPAP](/es/articles/backup-power-cpap-machine)
+- [¿Cuánto combustible consume un generador? Números reales](/es/articles/generator-fuel-consumption)

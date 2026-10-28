@@ -53,20 +53,20 @@ This is where most wet-weather injuries would happen, and the rules are simple e
 5. **Outdoor-rated cords only**, in good shape — the same heavy-gauge guidance as always, with no nicks or cracked jackets. Water finds every flaw.
 6. **Rubber-soled shoes, dry gloves if you have them.** Small things, real margin.
 
-The cleanest wet-weather setup of all is a power inlet box with a transfer switch or interlock: one heavy cord from generator to wall inlet, no extension-cord junctions lying in the yard at all. The [transfer switch versus interlock guide](/articles/transfer-switch-vs-interlock-kit/) explains how both work.
+The cleanest wet-weather setup of all is a power inlet box with a transfer switch or interlock: one heavy cord from generator to wall inlet, no extension-cord junctions lying in the yard at all. The [transfer switch versus interlock guide](/articles/transfer-switch-vs-interlock-kit) explains how both work.
 
 ## Where should the generator sit during a storm?
 
 Rain doesn't change the placement law — it adds to it:
 
-- **Still at least 20 feet from the house, exhaust pointed away.** Wet weather is exactly when you're tempted to cheat the distance "just this once." Don't. The [distance and carbon monoxide guide](/articles/how-far-should-generator-be-from-house/) explains why 20 feet is the floor in all weather.
+- **Still at least 20 feet from the house, exhaust pointed away.** Wet weather is exactly when you're tempted to cheat the distance "just this once." Don't. The [distance and carbon monoxide guide](/articles/how-far-should-generator-be-from-house) explains why 20 feet is the floor in all weather.
 - **High ground.** Not the low corner of the yard that floods, not a basement window well area, never anywhere water pools.
 - **Out of the debris path.** Away from dead branches and anything the wind can deliver.
 - **Reachable safely.** You'll check it, refuel it, and restart it in the dark and the wet. If reaching it means crossing a flooded section of yard, pick a different spot before the storm, not during.
 
 ## What about standby generators in the rain?
 
-They're built for it. A standby unit lives outside permanently in a weatherproof, corrosion-resistant enclosure, starts itself, and shuts itself down — rain, snow, and storms are its design brief. Your jobs are minimal: keep the intake and exhaust clear of leaves, mulch, and snow; keep shrubs trimmed back to the manufacturer's clearance; and after a long storm outage, glance at it for debris or damage before you forget about it for another season. The [storm preparedness checklist](/articles/storm-preparedness-checklist/) has the pre-season routine that keeps one ready.
+They're built for it. A standby unit lives outside permanently in a weatherproof, corrosion-resistant enclosure, starts itself, and shuts itself down — rain, snow, and storms are its design brief. Your jobs are minimal: keep the intake and exhaust clear of leaves, mulch, and snow; keep shrubs trimmed back to the manufacturer's clearance; and after a long storm outage, glance at it for debris or damage before you forget about it for another season. The [storm preparedness checklist](/articles/storm-preparedness-checklist) has the pre-season routine that keeps one ready.
 
 ## When should you shut it down?
 
@@ -78,7 +78,7 @@ Running through weather has limits. Shut the generator down (and leave it down u
 - **Conditions outside are dangerous for you.** If stepping out means lightning nearby or debris flying, the generator waits. Power is replaceable; you aren't.
 - **It's refuel time and you can't do it safely.** A hot generator plus gasoline plus rain gear and wet hands is a bad stack. Let it cool, take your time, or let it rest.
 
-For planned refueling, remember the fuel math: a mid-size generator drinking half a gallon an hour through a two-day storm is a five-gallon-can problem every ten hours. The [fuel consumption guide](/articles/generator-fuel-consumption/) has the per-load numbers so you can plan cans instead of improvising.
+For planned refueling, remember the fuel math: a mid-size generator drinking half a gallon an hour through a two-day storm is a five-gallon-can problem every ten hours. The [fuel consumption guide](/articles/generator-fuel-consumption) has the per-load numbers so you can plan cans instead of improvising.
 
 ## How do you start and shut down a generator in wet weather?
 
@@ -97,12 +97,12 @@ The routine matters because the risky moments are the transitions — connection
 Surviving one storm is easy. Surviving five storm seasons takes a little housekeeping, because water's real damage is slow:
 
 - **Corrosion finds the cheap metal first** — fasteners, the fuel cap seal, the recoil starter, the outlet faces. A generator stored damp after a storm corrodes all winter. After the season's last use, run it dry or stabilize the fuel, let the machine cool completely, and store it somewhere dry with the cover off until it's fully moisture-free.
-- **The air filter tells the truth.** A filter that got soaked and dried in place can restrict airflow and cost you power exactly when the next storm arrives. They're cheap; after a hard wet season, replace it instead of debating it. The full routine lives in the [generator maintenance checklist](/articles/generator-maintenance-checklist/).
+- **The air filter tells the truth.** A filter that got soaked and dried in place can restrict airflow and cost you power exactly when the next storm arrives. They're cheap; after a hard wet season, replace it instead of debating it. The full routine lives in the [generator maintenance checklist](/articles/generator-maintenance-checklist).
 - **Exercise runs are the vaccine.** Twenty minutes under load every month or two keeps seals wet with oil (the right kind of wet), charges the battery, and — just as important — proves in calm weather that the machine still starts. The generator that fails in a hurricane is almost always the one nobody touched for fourteen months.
 
 ## What about medical equipment during a storm outage?
 
-If someone in the house depends on powered medical equipment, a storm outage is the scenario to plan hardest — because the peak of the storm is precisely when you may not be able to run a portable generator at all. The resilient setup is layered: a power station carries the device silently through the worst hours (indoor-safe, no weather exposure), and the generator takes over for the long tail once conditions allow, recharging the station between runs. The guides on [backup power for an oxygen concentrator](/articles/backup-power-oxygen-concentrator/) and [backup power for a CPAP machine](/articles/backup-power-cpap-machine/) work through the runtime math for the two most common devices.
+If someone in the house depends on powered medical equipment, a storm outage is the scenario to plan hardest — because the peak of the storm is precisely when you may not be able to run a portable generator at all. The resilient setup is layered: a power station carries the device silently through the worst hours (indoor-safe, no weather exposure), and the generator takes over for the long tail once conditions allow, recharging the station between runs. The guides on [backup power for an oxygen concentrator](/articles/backup-power-oxygen-concentrator) and [backup power for a CPAP machine](/articles/backup-power-cpap-machine) work through the runtime math for the two most common devices.
 
 ## The bottom line
 

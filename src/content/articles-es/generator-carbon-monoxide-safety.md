@@ -56,7 +56,7 @@ Cerca del escape de un generador, las concentraciones pueden ir mucho más arrib
 
 ## ¿A qué distancia de la casa debe ir un generador?
 
-La regla de la CPSC, y la que le doy a cada cliente: **20 pies (unos 6 metros) como mínimo de la casa, con el escape apuntando lejos** de cada puerta, ventana, rejilla de alero, salida de secadora y toma de aire. Desgloso la colocación completa en nuestra guía sobre [a qué distancia debe estar un generador de la casa](/es/articles/how-far-should-generator-be-from-house/) — pero la distancia sola no es toda la regla. Tres condiciones tienen que cumplirse a la vez:
+La regla de la CPSC, y la que le doy a cada cliente: **20 pies (unos 6 metros) como mínimo de la casa, con el escape apuntando lejos** de cada puerta, ventana, rejilla de alero, salida de secadora y toma de aire. Desgloso la colocación completa en nuestra guía sobre [a qué distancia debe estar un generador de la casa](/es/articles/how-far-should-generator-be-from-house) — pero la distancia sola no es toda la regla. Tres condiciones tienen que cumplirse a la vez:
 
 1. **20 pies como mínimo** — medidos desde la abertura más cercana por la que el CO podría entrar, no solo desde la pared más cercana.
 2. **Escape apuntando lejos** de la casa y también de las ventanas de tus vecinos. El mofle es la fuente; apúntalo como si importara, porque importa.
@@ -66,7 +66,7 @@ La regla de la CPSC, y la que le doy a cada cliente: **20 pies (unos 6 metros) c
 
 Sí, y es la parte que la gente se salta. Una brisa constante que sopla **del generador hacia la casa** puede llevar el escape a una ventana o una rejilla de alero aun a 20 pies. En una noche de apagón con viento, revisa hacia dónde se mueve el aire antes de elegir el sitio, y si el escape queda contra el viento de una ventana abierta, cierra esa ventana. Después de un cambio fuerte de viento en un apagón largo, sal y confirma que la configuración sigue teniendo sentido. Los generadores además «caminan»: la vibración arrastra un portátil sobre el concreto con las horas, cambiando poco a poco su distancia y el ángulo del escape. Calza las ruedas o ponlo sobre un tapete.
 
-Otro conflicto de colocación que veo seguido: la lluvia. La gente mete el generador bajo un alero o en la entrada del garage para que no se moje — cambiando un problema de clima por un problema de CO. No lo hagas. Nuestra guía sobre [usar un generador bajo la lluvia](/es/articles/can-you-run-generator-in-rain/) cubre las opciones que no matan, incluidos los techos ventilados diseñados justo para eso.
+Otro conflicto de colocación que veo seguido: la lluvia. La gente mete el generador bajo un alero o en la entrada del garage para que no se moje — cambiando un problema de clima por un problema de CO. No lo hagas. Nuestra guía sobre [usar un generador bajo la lluvia](/es/articles/can-you-run-generator-in-rain) cubre las opciones que no matan, incluidos los techos ventilados diseñados justo para eso.
 
 ## ¿Cuáles son los síntomas de la intoxicación por CO — y qué haces?
 
@@ -100,7 +100,7 @@ Sí — son la única capa de esta defensa que funciona mientras duermes, que es
 - **Caducan.** El elemento sensor de CO envejece: la mayoría de las alarmas tiene una vida de **5–10 años** y una señal de fin de vida. Un detector amarillento de 2014 es un adorno, no protección. Revisa la fecha de la parte trasera cuando revises las baterías, dos veces al año.
 - **Conoce el patrón de alarma.** Las alarmas UL 2034 suenan a niveles sostenidos — 70 ppm durante 1–4 horas, más rápido a concentraciones mayores. Están ajustadas para detectar acumulaciones peligrosas, no olorcillos, así que **un detector en silencio no es garantía de que el aire esté limpio en este momento**.
 
-Revísalos el mismo fin de semana que revisas el generador: nuestra [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist/) los trae justo por esta razón.
+Revísalos el mismo fin de semana que revisas el generador: nuestra [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist) los trae justo por esta razón.
 
 ## ¿El apagado automático por CO hace seguro un generador en interiores?
 
@@ -111,7 +111,7 @@ Pero entiende con precisión qué es el sensor:
 - Muestrea el aire **junto al generador**. No puede saber qué está pasando dentro de tu casa ni en la ventana de un cuarto hacia donde va el escape.
 - Es un **respaldo para la colocación correcta**, diseñado para atrapar una instalación que ya salió mal. «Tiene sensor» jamás acerca el generador ni un pie a la casa.
 - Los sensores tienen una **vida útil (típicamente 5–7 años)** y la recirculación del escape con vientos raros puede desorientarlos. El sensor de una unidad vieja no es una garantía de por vida.
-- **Jamás lo anules.** Si tu generador se apaga seguido por fallas de CO, te está diciendo que el escape se está acumulando donde no debe — escribí justo sobre eso en nuestra guía de por qué un [generador se apaga solo](/es/articles/generator-keeps-shutting-off/). La solución es alejar el generador y reorientar el escape. Hay gente que ha anulado sensores para parar los apagados «molestos»; algunos de ellos están ahora en los datos de la CPSC. Si se dispara seguido en un lugar genuinamente abierto, es un asunto de servicio: llévalo al taller.
+- **Jamás lo anules.** Si tu generador se apaga seguido por fallas de CO, te está diciendo que el escape se está acumulando donde no debe — escribí justo sobre eso en nuestra guía de por qué un [generador se apaga solo](/es/articles/generator-keeps-shutting-off). La solución es alejar el generador y reorientar el escape. Hay gente que ha anulado sensores para parar los apagados «molestos»; algunos de ellos están ahora en los datos de la CPSC. Si se dispara seguido en un lugar genuinamente abierto, es un asunto de servicio: llévalo al taller.
 
 ## ¿Por qué la mayoría de las muertes por CO de generadores ocurren después de la tormenta?
 
@@ -121,13 +121,13 @@ Porque durante la tormenta eres cuidadoso, y durante el apagón eres humano. El 
 - Está oscuro y lloviendo, y arrastrar un generador de 150 libras unos 20 pies hasta un área abierta se siente miserable. El garage está *ahí mismo*, seco, con la puerta ya abierta.
 - El generador arranca. Todos se sienten mejor. La gente se acuesta — la combinación más peligrosa, porque quien duerme no nota dolores de cabeza, y los detectores, si es que existen, traen las baterías muertas del año pasado.
 
-Nada de eso cambia la física. Así que decide **ahora**, de día y con la luz puesta: elige el sitio a 20 pies, prepara los cables o la conexión del transfer switch, y prueba tus detectores de CO. Nuestra [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist/) recorre esa preparación previa. La versión de ti que decide a medianoche en un apagón no es la versión que quieres diseñando este sistema.
+Nada de eso cambia la física. Así que decide **ahora**, de día y con la luz puesta: elige el sitio a 20 pies, prepara los cables o la conexión del transfer switch, y prueba tus detectores de CO. Nuestra [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist) recorre esa preparación previa. La versión de ti que decide a medianoche en un apagón no es la versión que quieres diseñando este sistema.
 
 ## ¿Y los departamentos, balcones y vehículos recreativos?
 
 Respuestas más cortas, la misma física:
 
-- **Departamentos y condominios:** Un generador de gasolina en un balcón es el escenario del garage pero con vecinos. Los balcones están cerrados por varios lados, el escape entra por la puerta corrediza y a las unidades de arriba y de los lados, y la mayoría de los contratos de renta y códigos de incendios lo prohíben de plano. No existe una colocación segura en un balcón. La opción realista del inquilino es una estación de energía de batería en interiores — sin combustión, sin CO — que cubrimos en nuestra [guía de generadores para un apartamento](/es/articles/generator-for-an-apartment/) y en nuestra guía de [estaciones de energía portátiles para respaldo en casa](/es/articles/portable-power-stations-home-backup/).
+- **Departamentos y condominios:** Un generador de gasolina en un balcón es el escenario del garage pero con vecinos. Los balcones están cerrados por varios lados, el escape entra por la puerta corrediza y a las unidades de arriba y de los lados, y la mayoría de los contratos de renta y códigos de incendios lo prohíben de plano. No existe una colocación segura en un balcón. La opción realista del inquilino es una estación de energía de batería en interiores — sin combustión, sin CO — que cubrimos en nuestra [guía de generadores para un apartamento](/es/articles/generator-for-an-apartment) y en nuestra guía de [estaciones de energía portátiles para respaldo en casa](/es/articles/portable-power-stations-home-backup).
 - **RV y campismo:** Nunca uses un generador dentro de un RV, una tienda de campaña o la caja de una camioneta con camper, y nunca duermas con uno encendido junto a una ventana abierta del RV: el escape entra en concentraciones a las que no les importa que estés «al aire libre». Un portátil junto al vehículo merece el mismo respeto de distancia y dirección que en casa, apuntando lejos del vehículo y del campamento vecino.
 
 ## En resumen

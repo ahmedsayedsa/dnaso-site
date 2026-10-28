@@ -198,7 +198,7 @@ const breadcrumbs = {
         <p>{t.relatedIntro}</p>
         <div class="grid">
           {related.map((r) => (
-            <a class="card" href={`${lp}/articles/${r.slug}/`}>
+            <a class="card" href={`${lp}/articles/${r.slug}`}>
               <span class="tag">{es ? categoryForEs(r.slug) : categoryFor(r.slug)}</span>
               <h3>{r.title}</h3>
               <p>{r.description}</p>

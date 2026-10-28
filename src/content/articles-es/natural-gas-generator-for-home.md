@@ -20,7 +20,7 @@ keywords: ["generador de gas natural para el hogar", "generador de gas natural p
 
 **Respuesta rápida:** Un generador de gas natural para respaldo en el hogar es un generador fijo (o portátil trifuel) conectado al servicio de gas existente de tu casa: sin tanque, sin recargas, y el combustible más barato por hora de todos. Una instalación típica para toda la casa cuesta **$8,000–$16,000 en total**, de los cuales la conexión de gas en sí suele ser **$700–$2,000**. Una vez instalado, una unidad de 22 kW funciona por unos **$2.50–$3.50 por hora** a media carga y puede operar indefinidamente, mientras se mantenga el suministro de gas de la utility. Abajo: cómo funciona realmente el sistema, qué requiere la conexión (tamaño de tubería, capacidad del medidor, plomero certificado, permisos), el panorama completo de costos y los límites que nadie pone en el folleto.
 
-El gas natural es el combustible predeterminado para la energía de respaldo residencial en EE. UU.: la mayoría de las unidades domésticas de Generac, Kohler y Cummins salen de fábrica listas para usarlo. Si tu casa ya tiene un medidor de gas en la pared, llevas la mitad del camino. Lo que sigue es la versión para propietarios: no es una comparación de marcas ni el debate gas contra propano (eso lo resolvimos en [gas natural vs propano para generadores fijos](/es/articles/natural-gas-vs-propane-standby/); léelo si todavía estás eligiendo combustible).
+El gas natural es el combustible predeterminado para la energía de respaldo residencial en EE. UU.: la mayoría de las unidades domésticas de Generac, Kohler y Cummins salen de fábrica listas para usarlo. Si tu casa ya tiene un medidor de gas en la pared, llevas la mitad del camino. Lo que sigue es la versión para propietarios: no es una comparación de marcas ni el debate gas contra propano (eso lo resolvimos en [gas natural vs propano para generadores fijos](/es/articles/natural-gas-vs-propane-standby); léelo si todavía estás eligiendo combustible).
 
 ## ¿Cómo funciona un generador de gas natural en una casa?
 
@@ -50,7 +50,7 @@ El mismo trabajo —mantener viva una casa durante un apagón— con tres logís
 | Potencia entregada | ~10–15% menos que la nominal con propano | Potencia nominal completa | Potencia nominal completa (portátiles) |
 | ¿Automático para toda la casa? | Sí (fijo) | Sí (fijo) | No: los portátiles son manuales |
 
-En resumen: el gas natural gana en costo de operación y comodidad, el propano gana en independencia de las utilities, y la gasolina solo tiene sentido en portátiles que usas unas pocas horas al año. La comparativa completa, incluido el comportamiento en frío extremo y la confiabilidad en apagones, está en [gas natural vs propano para generadores fijos](/es/articles/natural-gas-vs-propane-standby/).
+En resumen: el gas natural gana en costo de operación y comodidad, el propano gana en independencia de las utilities, y la gasolina solo tiene sentido en portátiles que usas unas pocas horas al año. La comparativa completa, incluido el comportamiento en frío extremo y la confiabilidad en apagones, está en [gas natural vs propano para generadores fijos](/es/articles/natural-gas-vs-propane-standby).
 
 ## ¿Qué requiere la conexión?
 
@@ -78,7 +78,7 @@ Normalmente se necesitan dos permisos: uno de **gas/mecánico** para la línea y
 
 Dos números: lo que cuesta el sistema y lo que cuesta la parte de gas natural.
 
-**El proyecto completo.** Un sistema fijo residencial instalado profesionalmente cuesta **$8,000–$16,000** incluyendo el generador, con la configuración común de 22 kW para toda la casa en **$10,000–$15,000**. Solo el equipo, una unidad de 22 kW con interruptor de transferencia ronda $6,100–$7,400. Las cuentas completas por tamaño y por partida —incluido cómo se cotiza Generac, la marca presente en ~70% de estas instalaciones— están en nuestra [guía de costos de generadores Generac](/es/articles/generac-generator-cost/).
+**El proyecto completo.** Un sistema fijo residencial instalado profesionalmente cuesta **$8,000–$16,000** incluyendo el generador, con la configuración común de 22 kW para toda la casa en **$10,000–$15,000**. Solo el equipo, una unidad de 22 kW con interruptor de transferencia ronda $6,100–$7,400. Las cuentas completas por tamaño y por partida —incluido cómo se cotiza Generac, la marca presente en ~70% de estas instalaciones— están en nuestra [guía de costos de generadores Generac](/es/articles/generac-generator-cost).
 
 **La parte de gas, específicamente:**
 
@@ -110,6 +110,6 @@ La comparación que importa: elegir propano en su lugar añadiría un tanque ($1
 
 **Piénsalo de nuevo si** no tienes servicio de gas (el propano gana por defecto), tu planificación de desastres se centra en sismos o inundaciones (la independencia del propano), o tus apagones son de dos horas al año (un portátil y un kit de interbloqueo por $2,000–$4,000 resuelven tu problema real).
 
-Si el gas natural es tu respuesta, la secuencia es: primero cálculo de carga y dimensionamiento, después verificación de capacidad de gas, y luego tres presupuestos desglosados que separen el generador, la parte eléctrica y la de gas. Nuestra [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide/) recorre toda la decisión —dimensionamiento, combustible, baterías y presupuesto— en un solo lugar.
+Si el gas natural es tu respuesta, la secuencia es: primero cálculo de carga y dimensionamiento, después verificación de capacidad de gas, y luego tres presupuestos desglosados que separen el generador, la parte eléctrica y la de gas. Nuestra [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide) recorre toda la decisión —dimensionamiento, combustible, baterías y presupuesto— en un solo lugar.
 
 [END EXTERNAL CONTENT:

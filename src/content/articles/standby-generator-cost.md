@@ -19,7 +19,7 @@ keywords: ["standby generator cost", "how much does a standby generator cost", "
 
 **Quick answer:** A home standby generator costs **$9,500–$15,000 fully installed** for the sizes most homes buy (14–22kW, automatic transfer switch included), and **$7,000–$18,000** across the full air-cooled residential range. The most common single setup — a 22kW-class unit wired to cover the whole house — anchors at **$10,000–$15,000 installed**. The generator itself is only about half the bill; installation is the other half, and that's true for every brand. All figures here are 2025–2026 US market ranges, checked in October 2026.
 
-This is the brand-neutral version of the standby cost question. Generac owns roughly 70% of the US residential market, so Generac prices anchor the tables — but Kohler, Cummins, Briggs & Stratton, and Champion all sell into the same sizes, and their installed prices sit closer together than the marketing implies, because the installation half of every quote is brand-independent. If you're shopping one brand specifically, start with our [Generac generator cost guide](/articles/generac-generator-cost/); this page is for comparing the whole field.
+This is the brand-neutral version of the standby cost question. Generac owns roughly 70% of the US residential market, so Generac prices anchor the tables — but Kohler, Cummins, Briggs & Stratton, and Champion all sell into the same sizes, and their installed prices sit closer together than the marketing implies, because the installation half of every quote is brand-independent. If you're shopping one brand specifically, start with our [Generac generator cost guide](/articles/generac-generator-cost); this page is for comparing the whole field.
 
 ## How much does a standby generator cost by size?
 
@@ -40,7 +40,7 @@ Two patterns matter more than any single row. First, **installation is a nearly 
 
 Above 26kW the residential market changes character. Liquid-cooled standby generators (30kW and up, running slower 1,800 RPM automotive-style engines) start around **$12,000–$20,000 for the unit** and land at **$20,000–$35,000+ installed**. They run quieter, tolerate longer continuous duty, and suit large or all-electric homes — but for a standard 2,500 sq ft house with gas heat, a dealer pushing liquid-cooled is usually upselling, not solving a problem. The air-cooled table above is where nearly every residential quote belongs.
 
-Sizing still comes before pricing. Every number above assumes the generator matches your loads; our [sizing guide](/articles/what-size-generator-run-house/) walks through the load calculation that decides which row of this table is yours.
+Sizing still comes before pricing. Every number above assumes the generator matches your loads; our [sizing guide](/articles/what-size-generator-run-house) walks through the load calculation that decides which row of this table is yours.
 
 ## How much do the brands cost? Generac vs. Kohler vs. Cummins vs. the rest
 
@@ -54,7 +54,7 @@ Same size, same house, different badge — here's what the 22kW class (20–22kW
 | Briggs & Stratton | $10,000–$14,500 | Generac-level pricing with a 7-year comprehensive warranty (parts, labor, travel) |
 | Champion (14kW max) | $8,000–$11,500 | The budget pick; tops out at 14kW, 10-year limited warranty, thinner dealer coverage |
 
-The honest summary: **brand moves the total by hundreds, installation moves it by thousands.** The electrician, gas fitter, pad, and permits cost the same for every row in that table. What the premiums actually buy is quieter operation, enclosure materials, warranty structure, and dealer depth — real differences, but not different installation math. We spec the big three head-to-head in [Generac vs Kohler vs Cummins](/articles/generac-vs-kohler-vs-cummins/).
+The honest summary: **brand moves the total by hundreds, installation moves it by thousands.** The electrician, gas fitter, pad, and permits cost the same for every row in that table. What the premiums actually buy is quieter operation, enclosure materials, warranty structure, and dealer depth — real differences, but not different installation math. We spec the big three head-to-head in [Generac vs Kohler vs Cummins](/articles/generac-vs-kohler-vs-cummins).
 
 One warning about hunting quotes online: equipment-only prices ($5,800–$7,500 for a 22kW with switch) are what search results advertise, and they never include installation. Compare installed quotes to installed quotes, itemized the same way.
 
@@ -104,7 +104,7 @@ No — because they're the same hardware, and the two terms describe different t
 
 The price follows the coverage, not the word. An essential-circuits standby — 10–14kW backing up the fridge, furnace, well pump, and a few circuits — installs for **$7,000–$12,000**. A whole-house configuration at 22–26kW with load management runs **$9,500–$18,000**. If a quote uses "whole house" to justify a premium over a same-size standby quote, that premium is marketing, not equipment.
 
-Our [whole house generator cost breakdown](/articles/whole-house-generator-cost/) goes deeper on reading quotes line by line and spotting padding; this guide is the map, that one is the magnifying glass.
+Our [whole house generator cost breakdown](/articles/whole-house-generator-cost) goes deeper on reading quotes line by line and spotting padding; this guide is the map, that one is the magnifying glass.
 
 ## The bottom line
 

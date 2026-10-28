@@ -25,7 +25,7 @@ Do the arithmetic once and it sticks:
 
 - **250-gallon tank, filled correctly: ~200 gallons of propane**
 - A 500-gallon tank: ~400 gallons
-- A 100-lb portable cylinder: ~23.6 gallons — which is why the [runtime math on small tanks](/articles/how-long-will-20-lb-propane-tank-run-generator/) feels so brutal by comparison
+- A 100-lb portable cylinder: ~23.6 gallons — which is why the [runtime math on small tanks](/articles/how-long-will-20-lb-propane-tank-run-generator) feels so brutal by comparison
 
 And 200 isn't your planning number either. You never run a tank to zero, for three reasons I give every customer:
 
@@ -45,7 +45,7 @@ Consumption is where the brochure and reality part ways. Manufacturer spec sheet
 | 14 kW standby | ~1.3 gal/hr | ~1.8 gal/hr | ~2.6 gal/hr |
 | 22 kW standby | ~1.6 gal/hr | ~2.3 gal/hr | ~3.5–3.9 gal/hr |
 
-Two things worth knowing about these numbers. First, a standby engine burns a surprising amount of fuel just to spin itself — the jump from 25% load to 50% load costs far less than the jump from off to 25%. Idling a big engine to power a fridge and three lights is inherently wasteful, which is why the 22 kW looks thirsty at light load. Second, propane carries about 91,500 BTU per gallon versus roughly 114,000 for gasoline, so any generator burns more gallons of propane to do the same work — the full fuel-by-fuel breakdown is in my [generator fuel consumption guide](/articles/generator-fuel-consumption/).
+Two things worth knowing about these numbers. First, a standby engine burns a surprising amount of fuel just to spin itself — the jump from 25% load to 50% load costs far less than the jump from off to 25%. Idling a big engine to power a fridge and three lights is inherently wasteful, which is why the 22 kW looks thirsty at light load. Second, propane carries about 91,500 BTU per gallon versus roughly 114,000 for gasoline, so any generator burns more gallons of propane to do the same work — the full fuel-by-fuel breakdown is in my [generator fuel consumption guide](/articles/generator-fuel-consumption).
 
 Brands vary by a few tenths either way — a Kohler, Generac, and Cummins of the same rating won't post identical numbers — but if a salesman quotes you a burn rate far below this table, ask to see the spec sheet.
 
@@ -61,13 +61,13 @@ Here's the table people actually want. It assumes a full 250-gallon tank (200 ga
 
 \*The "realistic average" column is the one I plan around, and here's why it's longer than the steady-load math. A house does not draw 50% of a 22 kW generator around the clock. Your real load profile looks like this: morning peaks (water heater recovering, coffee maker, well pump), a midday lull at maybe 15–25% load, an evening peak (cooking, AC, laundry), and overnight — the longest stretch — often sitting at 10–20% while everyone sleeps and only the fridge, freezer, and furnace blower cycle. Averaged over 24 hours, most homes I service land at an effective burn 15–30% below the steady 50% figure.
 
-That's also where your behavior buys real time. Every load you shed is runtime in the tank. Turning the electric water heater breaker off overnight, cooking on the grill instead of the electric range, and letting the house drift a few degrees on the thermostat can pull a 22 kW household's average burn from 2.0 toward 1.6 gal/hr — and that difference is a full extra day on this tank. Load discipline on a [whole-house system](/articles/whole-house-generator-cost/) isn't a moral exercise; it's gallons.
+That's also where your behavior buys real time. Every load you shed is runtime in the tank. Turning the electric water heater breaker off overnight, cooking on the grill instead of the electric range, and letting the house drift a few degrees on the thermostat can pull a 22 kW household's average burn from 2.0 toward 1.6 gal/hr — and that difference is a full extra day on this tank. Load discipline on a [whole-house system](/articles/whole-house-generator-cost) isn't a moral exercise; it's gallons.
 
 One more honest caveat: if your home is all-electric with a heat pump on auxiliary strip heat in cold weather, your "average" load is not average. Strip heat alone can pull 10 kW. In that house, plan on the steady-load column, not the optimistic one.
 
 ## What about portable generators on propane?
 
-Briefly, because it's a different arrangement: dual-fuel portables drink from cylinders — 20-lb grill tanks, 40-lb, or 100-lb cylinders — not from a stationary 250. A 5,000-watt dual-fuel portable at half load burns roughly 0.5–0.7 gal/hr of propane, so it would sip from a big tank for weeks *in theory*. In practice, tying a portable into a stationary tank requires the right two-stage regulation and hose setup, and that's a licensed gas technician's job, not a Saturday project — the pressures and regulators are different from what ships in the portable's box. If portables are your setup, the cylinder math in the [20-lb tank runtime guide](/articles/how-long-will-20-lb-propane-tank-run-generator/) is the one that applies to you.
+Briefly, because it's a different arrangement: dual-fuel portables drink from cylinders — 20-lb grill tanks, 40-lb, or 100-lb cylinders — not from a stationary 250. A 5,000-watt dual-fuel portable at half load burns roughly 0.5–0.7 gal/hr of propane, so it would sip from a big tank for weeks *in theory*. In practice, tying a portable into a stationary tank requires the right two-stage regulation and hose setup, and that's a licensed gas technician's job, not a Saturday project — the pressures and regulators are different from what ships in the portable's box. If portables are your setup, the cylinder math in the [20-lb tank runtime guide](/articles/how-long-will-20-lb-propane-tank-run-generator) is the one that applies to you.
 
 ## How does a 500-gallon tank compare?
 
@@ -77,7 +77,7 @@ It roughly doubles everything, exactly as you'd expect — and the doubling is w
 - **Runtime:** a 22 kW at realistic outage average runs **about 7–9 days**; a 14 kW, **10–12 days**; a 10 kW can pass two weeks
 - **Refill rhythm:** most 500 owners refill once or twice a year outside of major outages; 250 owners in outage-prone areas watch the gauge a lot more
 
-The installed-cost difference between the two sizes is usually a few hundred dollars on the tank itself plus the same trench, pad, and regulator work either way — small money next to the generator and transfer switch. Where the 500 earns its keep isn't the daily math; it's the bad week. If your area's realistic worst case is a 5–7 day outage with impassable roads for the first three, a 250 on a big generator is a plan that fails on day four. The fuel-choice side of this decision — tank ownership, leased versus purchased, price per gallon — is covered in my [natural gas vs. propane standby comparison](/articles/natural-gas-vs-propane-standby/).
+The installed-cost difference between the two sizes is usually a few hundred dollars on the tank itself plus the same trench, pad, and regulator work either way — small money next to the generator and transfer switch. Where the 500 earns its keep isn't the daily math; it's the bad week. If your area's realistic worst case is a 5–7 day outage with impassable roads for the first three, a 250 on a big generator is a plan that fails on day four. The fuel-choice side of this decision — tank ownership, leased versus purchased, price per gallon — is covered in my [natural gas vs. propane standby comparison](/articles/natural-gas-vs-propane-standby).
 
 My rule for customers: **size the tank for your worst historical outage plus two days**, not for your average outage. Averages are for the utility's annual report. You're buying for the storm with a name.
 
@@ -120,7 +120,7 @@ Either way, the habit that actually protects you costs nothing: **glance at the 
 
 ## Keep reading
 
-- [How Long Will a 20-lb Propane Tank Run a Generator?](/articles/how-long-will-20-lb-propane-tank-run-generator/)
-- [Natural Gas vs Propane for Standby Generators](/articles/natural-gas-vs-propane-standby/)
-- [Generator Fuel Consumption: Gallons Per Hour by Size and Fuel](/articles/generator-fuel-consumption/)
-- [How Much Does a Whole-House Generator Cost?](/articles/whole-house-generator-cost/)
+- [How Long Will a 20-lb Propane Tank Run a Generator?](/articles/how-long-will-20-lb-propane-tank-run-generator)
+- [Natural Gas vs Propane for Standby Generators](/articles/natural-gas-vs-propane-standby)
+- [Generator Fuel Consumption: Gallons Per Hour by Size and Fuel](/articles/generator-fuel-consumption)
+- [How Much Does a Whole-House Generator Cost?](/articles/whole-house-generator-cost)

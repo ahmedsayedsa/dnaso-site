@@ -221,7 +221,7 @@ De cualquier forma, la decisión del combustible va antes que la decisión de la
 
 ## Sigue leyendo
 
-- [Guía completa de energía de respaldo para el hogar: generadores, baterías y dimensionado](/es/articles/complete-home-backup-power-guide/)
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/)
-- [Costo de un generador para toda la casa: precios instalados por tamaño](/es/articles/whole-house-generator-cost/)
-- [Generadores dual fuel vs gasolina vs propano: pros, contras y costos](/es/articles/dual-fuel-vs-gas-vs-propane-generator/)
+- [Guía completa de energía de respaldo para el hogar: generadores, baterías y dimensionado](/es/articles/complete-home-backup-power-guide)
+- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house)
+- [Costo de un generador para toda la casa: precios instalados por tamaño](/es/articles/whole-house-generator-cost)
+- [Generadores dual fuel vs gasolina vs propano: pros, contras y costos](/es/articles/dual-fuel-vs-gas-vs-propane-generator)

@@ -103,7 +103,7 @@ Yes — and this is the part most outage advice leaves out. A refrigerator or fr
 
 Even better, you don't have to run it continuously. The strategy I set up for customers is **duty cycling**: run the generator or station for about **1 hour, then let the fridge and freezer coast, doors closed, for 2–3 hours**, then repeat. You cut fuel burn by two-thirds while keeping food comfortably below 40°F — on a small inverter generator, a full day of food protection costs less than a gallon of gas. Compare that with the $200–400 of food the average household I visit keeps in the freezer.
 
-A priority note from wiring houses through real outages: think in order of consequence. A sump pump protecting a finished basement outranks everything — our guide to [what size generator you need for a sump pump](/articles/generator-for-sump-pump/) covers that math — but the cold boxes come right after and ask for so little that there's rarely a conflict. The [what a 7,500-watt generator can run](/articles/what-can-7500-watt-generator-run/) breakdown shows the headroom a mid-size unit leaves, the [storm preparedness checklist](/articles/storm-preparedness-checklist/) covers the pre-storm routine, and a modest unit from our [portable power stations for home backup](/articles/portable-power-stations-home-backup/) guide is genuinely enough if food is your main worry.
+A priority note from wiring houses through real outages: think in order of consequence. A sump pump protecting a finished basement outranks everything — our guide to [what size generator you need for a sump pump](/articles/generator-for-sump-pump) covers that math — but the cold boxes come right after and ask for so little that there's rarely a conflict. The [what a 7,500-watt generator can run](/articles/what-can-7500-watt-generator-run) breakdown shows the headroom a mid-size unit leaves, the [storm preparedness checklist](/articles/storm-preparedness-checklist) covers the pre-storm routine, and a modest unit from our [portable power stations for home backup](/articles/portable-power-stations-home-backup) guide is genuinely enough if food is your main worry.
 
 ## Does insurance pay for spoiled food?
 
@@ -115,7 +115,7 @@ Keep the door shut and a full freezer buys you 48 hours, a half-full one 24, the
 
 ## Keep reading
 
-- [Storm Preparedness Checklist: Before, During & After](/articles/storm-preparedness-checklist/)
-- [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump/)
-- [Portable Power Stations for Home Backup: What They Can Run](/articles/portable-power-stations-home-backup/)
-- [What Can a 7,500-Watt Generator Run?](/articles/what-can-7500-watt-generator-run/)
+- [Storm Preparedness Checklist: Before, During & After](/articles/storm-preparedness-checklist)
+- [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump)
+- [Portable Power Stations for Home Backup: What They Can Run](/articles/portable-power-stations-home-backup)
+- [What Can a 7,500-Watt Generator Run?](/articles/what-can-7500-watt-generator-run)

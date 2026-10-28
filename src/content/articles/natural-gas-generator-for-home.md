@@ -19,7 +19,7 @@ keywords: ["natural gas generator for home", "natural gas home generator", "natu
 
 **Quick answer:** A natural gas generator for home backup is a standby (or tri-fuel portable) generator plumbed into your home's existing gas service — no tank, no refills, and the cheapest fuel per hour of any generator fuel. A typical whole-house installation costs **$8,000–$16,000 all-in**, of which the gas hookup itself is usually **$700–$2,000**. Once installed, a 22kW unit runs for about **$2.50–$3.50 per hour** at half load and can run indefinitely, as long as the utility gas supply holds. Below: how the system actually works, what the hookup requires (pipe size, meter capacity, licensed plumber, permits), the full cost picture, and the limits nobody puts in the brochure.
 
-Natural gas is the default fuel for residential standby power in the US — most Generac, Kohler, and Cummins home units leave the factory ready to run on it. If your house already has a gas meter on the wall, you're most of the way there. What follows is the homeowner's version of the story: not a brand comparison, and not the gas-vs-propane debate (we settled that in [natural gas vs propane for standby generators](/articles/natural-gas-vs-propane-standby/) — read it if you're still choosing a fuel).
+Natural gas is the default fuel for residential standby power in the US — most Generac, Kohler, and Cummins home units leave the factory ready to run on it. If your house already has a gas meter on the wall, you're most of the way there. What follows is the homeowner's version of the story: not a brand comparison, and not the gas-vs-propane debate (we settled that in [natural gas vs propane for standby generators](/articles/natural-gas-vs-propane-standby) — read it if you're still choosing a fuel).
 
 ## How does a natural gas generator work for a house?
 
@@ -49,7 +49,7 @@ Same job — keeping a house alive during an outage — three very different fue
 | Power output | ~10–15% derate vs propane rating | Full rated power | Full rated power (portables) |
 | Automatic whole-house? | Yes (standby) | Yes (standby) | No — portables are manual |
 
-The short version: natural gas wins on running cost and convenience, propane wins on independence from utilities, and gasoline only makes sense for portables you use a few hours a year. We do the full head-to-head, including cold-weather behavior and outage reliability, in [natural gas vs propane for standby generators](/articles/natural-gas-vs-propane-standby/).
+The short version: natural gas wins on running cost and convenience, propane wins on independence from utilities, and gasoline only makes sense for portables you use a few hours a year. We do the full head-to-head, including cold-weather behavior and outage reliability, in [natural gas vs propane for standby generators](/articles/natural-gas-vs-propane-standby).
 
 ## What does the hookup require?
 
@@ -77,7 +77,7 @@ Typically two permits: a **gas/mechanical permit** for the line and regulator, a
 
 Two numbers: what the system costs, and what the natural-gas part of it costs.
 
-**The whole project.** A professionally installed residential standby system runs **$8,000–$16,000** including the generator, with the common 22kW whole-house setup at **$10,000–$15,000**. Equipment-only, a 22kW unit with transfer switch is roughly $6,100–$7,400. The full size-by-size and line-item math — including how Generac, the brand on ~70% of these installs, prices out — is in our [Generac generator cost guide](/articles/generac-generator-cost/).
+**The whole project.** A professionally installed residential standby system runs **$8,000–$16,000** including the generator, with the common 22kW whole-house setup at **$10,000–$15,000**. Equipment-only, a 22kW unit with transfer switch is roughly $6,100–$7,400. The full size-by-size and line-item math — including how Generac, the brand on ~70% of these installs, prices out — is in our [Generac generator cost guide](/articles/generac-generator-cost).
 
 **The gas portion specifically:**
 
@@ -109,6 +109,6 @@ The comparison that matters: choosing propane instead would add a tank ($1,500�
 
 **Rethink it, if** you have no gas service (propane wins by default), your disaster planning centers on quakes or floods (propane's independence), or your outages are two hours a year (a portable and an interlock kit at $2,000–$4,000 solves your actual problem).
 
-If natural gas is your answer, the sequence is: load calculation and sizing first, gas-capacity check second, then three itemized quotes that separate the generator, electrical, and gas work. Our [complete home backup power guide](/articles/complete-home-backup-power-guide/) walks the whole decision — sizing, fuel, batteries, and budget — in one place.
+If natural gas is your answer, the sequence is: load calculation and sizing first, gas-capacity check second, then three itemized quotes that separate the generator, electrical, and gas work. Our [complete home backup power guide](/articles/complete-home-backup-power-guide) walks the whole decision — sizing, fuel, batteries, and budget — in one place.
 
 [END EXTERNAL CONTENT:

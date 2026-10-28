@@ -30,7 +30,7 @@ The two numbers, quickly:
 - **Running watts (3,500):** what it produces continuously, all day. This is your budget.
 - **Starting watts (~4,375):** a few seconds of surge for motor startups. This is your emergency fund.
 
-And the rule I give every customer: **plan your steady load at no more than 80% of running watts — 2,800 watts on this size.** An engine loafing at 60–75% load runs cooler, quieter, and sips fuel. An engine pinned at 98% all night is wearing itself out. For the full sizing method, see [What Size Generator Do I Need?](/articles/what-size-generator-run-house/).
+And the rule I give every customer: **plan your steady load at no more than 80% of running watts — 2,800 watts on this size.** An engine loafing at 60–75% load runs cooler, quieter, and sips fuel. An engine pinned at 98% all night is wearing itself out. For the full sizing method, see [What Size Generator Do I Need?](/articles/what-size-generator-run-house).
 
 ## How many watts does everything in your house actually use?
 
@@ -96,7 +96,7 @@ The outage most people actually live through: food safe, basement dry, house war
 | Phone and laptop charging | 70 |
 | **Total steady load** | **~2,150** |
 
-That's 61% of capacity. The worst moment — sump pump starting (2,000W surge) while the furnace blower runs and the fridge is on — peaks around 4,100 watts, inside the 4,375-watt ceiling but without much to spare. At this load the generator burns roughly 0.3–0.4 gal/hr and runs 10–12 hours on a typical tank. Sump sizing details live in [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump/).
+That's 61% of capacity. The worst moment — sump pump starting (2,000W surge) while the furnace blower runs and the fridge is on — peaks around 4,100 watts, inside the 4,375-watt ceiling but without much to spare. At this load the generator burns roughly 0.3–0.4 gal/hr and runs 10–12 hours on a typical tank. Sump sizing details live in [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump).
 
 ## Combo 2: Essentials plus one window AC (~3,100 watts)
 
@@ -125,7 +125,7 @@ Want the washing machine, the microwave, and the window AC across the same eveni
 - **Dinner:** AC off for ten minutes, microwave on (1,200W) — peaks around 3,400W while food heats.
 - **Laundry hour:** AC off, washer on (700W running, up to 2,300W surge as the agitator starts) — ~2,900W, and don't let the sump pump's start coincide; if the basement is dry, it's a non-issue in practice.
 
-Nothing here exceeds the generator. It just requires the one skill this size demands: one big intermittent load at a time. After the first day, the rotation is habit. If it sounds like a chore you don't want, that's the honest signal to buy the [5,000-watt class](/articles/what-can-5000w-generator-run/), where Combo 2 and the microwave coexist.
+Nothing here exceeds the generator. It just requires the one skill this size demands: one big intermittent load at a time. After the first day, the rotation is habit. If it sounds like a chore you don't want, that's the honest signal to buy the [5,000-watt class](/articles/what-can-5000w-generator-run), where Combo 2 and the microwave coexist.
 
 ## What can't a 3500 watt generator run?
 
@@ -133,7 +133,7 @@ Let me be blunt about the failures, because these are the returns and angry revi
 
 - **Electric water heater:** 4,500 watts, alone, exceeds the 3,500-watt running rating. Not a rotation candidate, not a solo candidate. Gas water heating is what makes this size work; electric water heating is what breaks it.
 - **Electric dryer:** 4,500–5,500 watts. Same answer, for the same reason. Line-dry for two days; you'll survive.
-- **Central AC:** a 3-ton compressor needs 9,000–12,000 watts to start. The generator can't — voltage collapses, the compressor strains, and you're risking a four-figure compressor to save nothing. The full explanation is in [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/).
+- **Central AC:** a 3-ton compressor needs 9,000–12,000 watts to start. The generator can't — voltage collapses, the compressor strains, and you're risking a four-figure compressor to save nothing. The full explanation is in [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac).
 - **1 HP well pump:** its 4,000–6,000W starting surge meets or beats the entire 4,375-watt peak. The 1/2 HP pump (2,000–3,000W surge) is this class's ceiling, and it fits.
 - **Two window ACs plus a pump:** each piece fits alone; the second AC's startup landing on the sump pump's startup is the trip. One AC is this size's honest cooling answer.
 
@@ -141,14 +141,14 @@ Notice the pattern: everything on the "can't" list is a big electric *heating* l
 
 ## How much gas will it burn while doing all this?
 
-At Combo 1, expect roughly 0.3–0.4 gal/hr; at Combo 2, closer to 0.45. A three-day outage at comfort load is roughly 25–35 gallons — plan cans and stabilizer accordingly. The inverter models sip less at light load because the engine throttles down; the Predator 3500's rated 11 hours at quarter load on 2.6 gallons works out to about 0.24 gal/hr. The per-size burn tables are in the broader [generator fuel consumption guide](/articles/generator-fuel-consumption/).
+At Combo 1, expect roughly 0.3–0.4 gal/hr; at Combo 2, closer to 0.45. A three-day outage at comfort load is roughly 25–35 gallons — plan cans and stabilizer accordingly. The inverter models sip less at light load because the engine throttles down; the Predator 3500's rated 11 hours at quarter load on 2.6 gallons works out to about 0.24 gal/hr. The per-size burn tables are in the broader [generator fuel consumption guide](/articles/generator-fuel-consumption).
 
 ## Which 3500 watt generators should you actually look at?
 
 Two classes, two different ownership experiences:
 
 - **Conventional open-frame (the workhorse):** the Champion and Westinghouse 3,500-running-watt open frames (~$350–550). Loud — low-to-mid 70s dB — mechanically simple, cheap to fix, and the best watts-per-dollar in the class. If it'll live in a shed 30 feet from the house, this is my default recommendation.
-- **Inverter (the quiet one):** Predator 3500 (3,500 peak / 3,000 running, ~$800) — 57 dB at quarter load, electric start, 11-hour quarter-load runtime. It's the pick from our [quietest generators](/articles/quietest-generators-noise-levels/) ranking, and the one to buy if the generator sits near a bedroom window or a neighbor's fence. Just remember to scale the combos to its 3,000 running watts.
+- **Inverter (the quiet one):** Predator 3500 (3,500 peak / 3,000 running, ~$800) — 57 dB at quarter load, electric start, 11-hour quarter-load runtime. It's the pick from our [quietest generators](/articles/quietest-generators-noise-levels) ranking, and the one to buy if the generator sits near a bedroom window or a neighbor's fence. Just remember to scale the combos to its 3,000 running watts.
 - **Dual-fuel versions** of the open frames (~$450–650) trade about 10% of wattage on propane for fuel that stores forever and never gums a carburetor. If your load plan fits in ~3,150 watts, that's a trade worth making.
 
 Skip any unit whose running watts are under 3,000 wearing a "3500" badge at a 3,500-watt price — you're buying Combo 1, not Combo 2.
@@ -157,14 +157,14 @@ Skip any unit whose running watts are under 3,000 wearing a "3500" badge at a 3,
 
 Small-to-medium homes where **heat, hot water, and cooking are gas**, and where one window AC is the summer requirement. Renters who can't do panel work and will run cords to the essentials plus the bedroom AC. Well-and-septic homes with a 1/2 HP pump. And campers stepping up from the 2,000-watt class who want a microwave and an AC in the RV without a second mortgage.
 
-Size up if: your water heater or dryer is electric and non-negotiable, your well pump is 1 HP, or you want the microwave and the AC at the same time without thinking. Size down if it's purely fridge, lights, and phones — the [2,000-watt inverters](/articles/what-can-2000-watt-generator-run/) do that quieter and cheaper.
+Size up if: your water heater or dryer is electric and non-negotiable, your well pump is 1 HP, or you want the microwave and the AC at the same time without thinking. Size down if it's purely fridge, lights, and phones — the [2,000-watt inverters](/articles/what-can-2000-watt-generator-run) do that quieter and cheaper.
 
 One rule with no exceptions at any size: cords to appliances, or a proper transfer switch or interlock kit installed by someone licensed — never a plug into a dryer outlet, never a generator indoors or in a garage. Twenty feet from the house, outdoors, exhaust away.
 
 ## Keep reading
 
-- [What Can a 2000 Watt Generator Run? Small Loads, Real Math](/articles/what-can-2000-watt-generator-run/)
-- [What Can a 5000 Watt Generator Run? Real Loads, Real Math](/articles/what-can-5000w-generator-run/)
-- [What Can a 7,500-Watt Generator Run? (With Real Examples)](/articles/what-can-7500-watt-generator-run/)
-- [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump/)
-- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption/)
+- [What Can a 2000 Watt Generator Run? Small Loads, Real Math](/articles/what-can-2000-watt-generator-run)
+- [What Can a 5000 Watt Generator Run? Real Loads, Real Math](/articles/what-can-5000w-generator-run)
+- [What Can a 7,500-Watt Generator Run? (With Real Examples)](/articles/what-can-7500-watt-generator-run)
+- [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump)
+- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption)

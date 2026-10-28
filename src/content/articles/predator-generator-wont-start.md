@@ -17,7 +17,7 @@ keywords: ["Predator generator won't start", "Predator 3500 won't start", "Harbo
 
 A Predator generator won't start for the same handful of reasons every other small engine won't — plus two or three quirks specific to Harbor Freight's machines. I've serviced a lot of these. They're Honda-clone engines built to a price, and once you know where the corners were cut, they're honestly some of the easiest generators in America to diagnose. The failures cluster in the same places: the carburetor, the low-oil sensor, and a stock spark plug I wouldn't trust to light a birthday cake.
 
-I'm Mike Donovan, licensed electrician, 18 years in the trades. This guide covers the models I see most: the **Predator 3500 Super Quiet inverter**, the **4375** open-frame workhorse, and the big **9000/9500** electric-start units. Different brand? Start with my general [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting/); this article goes deep on the Predator-specific stuff.
+I'm Mike Donovan, licensed electrician, 18 years in the trades. This guide covers the models I see most: the **Predator 3500 Super Quiet inverter**, the **4375** open-frame workhorse, and the big **9000/9500** electric-start units. Different brand? Start with my general [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting); this article goes deep on the Predator-specific stuff.
 
 Before you touch anything, three safety rules:
 
@@ -43,7 +43,7 @@ All of them run carburetors with small jets — and small jets plus ethanol fuel
 Every Predator has a fuel petcock — the small valve under or beside the tank — and it causes more confusion than any other part on the machine.
 **The labeling trap.** On several models the petcock lever positions are marked with small, easily misread icons. I've been called out to a "dead" 4375 that had the petcock a quarter-turn from ON — it would cough once on the fuel left in the bowl and quit, which sent the owner down a carburetor rabbit hole. Turn the valve fully to ON and confirm the lever actually points where the casting says it should; cheap valves can slip on their shaft.
 
-**The clogged petcock screen.** Inside the petcock there's a fine mesh screen, and the open-frame models (4375, 9000) often have a sediment bowl you can unscrew. Rust flakes and debris from a dirty gas can collect there. Unscrew the bowl over a rag, rinse the screen in fresh gas, and check flow with the line disconnected: a steady stream, not a drip-drip. A starved bowl gives you the classic starts-then-dies-in-a-minute pattern — which my guide to a [generator that starts then dies](/articles/generator-starts-then-dies/) walks through specifically.
+**The clogged petcock screen.** Inside the petcock there's a fine mesh screen, and the open-frame models (4375, 9000) often have a sediment bowl you can unscrew. Rust flakes and debris from a dirty gas can collect there. Unscrew the bowl over a rag, rinse the screen in fresh gas, and check flow with the line disconnected: a steady stream, not a drip-drip. A starved bowl gives you the classic starts-then-dies-in-a-minute pattern — which my guide to a [generator that starts then dies](/articles/generator-starts-then-dies) walks through specifically.
 
 **The vacuum fuel pump (9000/9500 and some inverters).** The big-frame Predators use a small vacuum-operated fuel pump driven by crankcase pressure pulses through a thin rubber hose. If that hose cracks, slips off its nipple, or gets pinched when the panel goes back on, the pump stops delivering and the engine starves. The pump is a $10–15 part, and it fails often enough that I check the hoses on every 9000 that comes in "dead."
 
@@ -94,7 +94,7 @@ On most brands this is where I walk you through a 45–90 minute carburetor clea
 
 For a machine that cost $350–900 new, a $35 carburetor is one of the best bargains in small-engine repair. Search by engine size and model ("Predator 212cc carburetor"), and photograph your linkage before unhooking anything — clone carbs occasionally need the choke linkage transferred from the old unit.
 
-When *would* I clean instead? If the swap carb is visibly worse cast than your original, or your model's replacement is out of stock during storm season — which happens, because everyone else's Predator died the same week. One more distinction: an engine that starts but *hunts* up and down has a partially clogged carb, not a dead one — see my guide to [generator surging](/articles/generator-surging/) first; that one's often a ten-minute pilot-jet cleaning.
+When *would* I clean instead? If the swap carb is visibly worse cast than your original, or your model's replacement is out of stock during storm season — which happens, because everyone else's Predator died the same week. One more distinction: an engine that starts but *hunts* up and down has a partially clogged carb, not a dead one — see my guide to [generator surging](/articles/generator-surging) first; that one's often a ten-minute pilot-jet cleaning.
 
 ## Warranty and Parts: the Honest Harbor Freight Picture
 
@@ -111,11 +111,11 @@ Work the steps in order and a Predator will almost always confess. Stop and hand
 - **Fuel is leaking** from anywhere you can't fix by re-clamping a hose. Don't run it — fix the leak or take it in.
 - **It's inside the 90-day warranty or ESP coverage.** Your help is the returns desk; that's what the coverage is for.
 
-For a shop, expect $100–175 for diagnosis in most markets — a third of a new 4375. That's the final Predator truth: these machines reward owners who'll turn a wrench for twenty minutes and punish owners who pay shop rates. Stay in the first group with the [generator maintenance checklist](/articles/generator-maintenance-checklist/) — fifteen minutes a season is the difference between the cheapest generator you'll ever own and a very expensive paperweight.
+For a shop, expect $100–175 for diagnosis in most markets — a third of a new 4375. That's the final Predator truth: these machines reward owners who'll turn a wrench for twenty minutes and punish owners who pay shop rates. Stay in the first group with the [generator maintenance checklist](/articles/generator-maintenance-checklist) — fifteen minutes a season is the difference between the cheapest generator you'll ever own and a very expensive paperweight.
 
 ## Keep reading
 
-- [Generator Won't Start? Troubleshooting in Order (15-Minute Fix)](/articles/generator-wont-start-troubleshooting/)
-- [Generator Starts Then Dies? Work This Checklist in Order](/articles/generator-starts-then-dies/)
-- [Generator Surging? Why It Hunts Up and Down (and How to Fix It)](/articles/generator-surging/)
-- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist/)
+- [Generator Won't Start? Troubleshooting in Order (15-Minute Fix)](/articles/generator-wont-start-troubleshooting)
+- [Generator Starts Then Dies? Work This Checklist in Order](/articles/generator-starts-then-dies)
+- [Generator Surging? Why It Hunts Up and Down (and How to Fix It)](/articles/generator-surging)
+- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist)

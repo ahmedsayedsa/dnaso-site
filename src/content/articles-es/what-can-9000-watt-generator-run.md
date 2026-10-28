@@ -24,14 +24,14 @@ lang: "es"
 
 ## ¿Esos 9.000 vatios son continuos o de arranque?
 
-Lee la caja con cuidado, porque el juego de números no se detiene en los tamaños grandes. Un generador de 9.000 W verdadero entrega **9.000 vatios continuos** y unos **11.250 vatios de arranque (pico)**. Pero una gran parte de las máquinas comercializadas en este vecindario se clasifican por su pico — unidades de «11.500 vatios» que funcionan a 9.200, unidades de «9.500 vatios» que funcionan a 7.500. Todo en este artículo trata de la clase verdadera de 9.000 vatios continuos. Revisa la línea de vatios continuos de la hoja de especificaciones, no el número más grande de la caja. Si estás viendo una unidad de 9.000 de *pico* (unos 7.200 continuos), el [artículo de 7.500 vatios](/es/articles/what-can-7500-watt-generator-run/) es tu referencia honesta.
+Lee la caja con cuidado, porque el juego de números no se detiene en los tamaños grandes. Un generador de 9.000 W verdadero entrega **9.000 vatios continuos** y unos **11.250 vatios de arranque (pico)**. Pero una gran parte de las máquinas comercializadas en este vecindario se clasifican por su pico — unidades de «11.500 vatios» que funcionan a 9.200, unidades de «9.500 vatios» que funcionan a 7.500. Todo en este artículo trata de la clase verdadera de 9.000 vatios continuos. Revisa la línea de vatios continuos de la hoja de especificaciones, no el número más grande de la caja. Si estás viendo una unidad de 9.000 de *pico* (unos 7.200 continuos), el [artículo de 7.500 vatios](/es/articles/what-can-7500-watt-generator-run) es tu referencia honesta.
 
 Los dos números, rápido:
 
 - **Vatios continuos (9.000):** lo que produce sin parar, todo el día. Este es tu presupuesto.
 - **Vatios de arranque (~11.250):** unos segundos de pico para los arranques de motores. Este es tu fondo de emergencia.
 
-Y la regla que le doy a cada cliente: **planea tu carga constante como máximo al 80% de los vatios continuos — 7.200 vatios en este tamaño.** El margen es lo que absorbe la bomba de pozo arrancando mientras el aire está en marcha. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/).
+Y la regla que le doy a cada cliente: **planea tu carga constante como máximo al 80% de los vatios continuos — 7.200 vatios en este tamaño.** El margen es lo que absorbe la bomba de pozo arrancando mientras el aire está en marcha. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house).
 
 ## ¿Cuántos vatios consume cada cosa de tu casa en realidad?
 
@@ -98,7 +98,7 @@ El montaje de «mantener la comida fría y el sótano seco» — incluido porque
 | Carga de teléfono y laptop | 70 |
 | **Carga constante total** | **~2.400** |
 
-Eso es como el 27% de la capacidad, y honestamente está holgado — el generador quema unos 2,3–3 litros por hora incluso aquí, el impuesto en combustible por tener capacidad de casa entera. El pico en el peor caso (bomba de sumidero 2.500 W + refrigerador 1.200 W en el mismo segundo) llega a unos 6.000 vatios, apenas la mitad del techo. Si esta combinación es todo lo que vas a necesitar, compraste dos tamaños de más — la [clase de 5.000 vatios](/es/articles/what-can-5000w-generator-run/) existe para ti.
+Eso es como el 27% de la capacidad, y honestamente está holgado — el generador quema unos 2,3–3 litros por hora incluso aquí, el impuesto en combustible por tener capacidad de casa entera. El pico en el peor caso (bomba de sumidero 2.500 W + refrigerador 1.200 W en el mismo segundo) llega a unos 6.000 vatios, apenas la mitad del techo. Si esta combinación es todo lo que vas a necesitar, compraste dos tamaños de más — la [clase de 5.000 vatios](/es/articles/what-can-5000w-generator-run) existe para ti.
 
 ## Combinación 2: confort de casa entera (~6.200 vatios)
 
@@ -119,7 +119,7 @@ El montaje de «vivir casi normal», y donde esta clase se gana el precio. La bo
 
 La regla de administración se reduce a una frase: no arranques el ciclo de calentamiento del lavavajillas ni el microondas mientras la bomba de pozo está a mitad de ciclo — e incluso esa colisión (unos 8.500 W momentáneos) se queda dentro de la capacidad continua. El pico de arranque de 6.000 W de la bomba sobre una carga de 5.000 W toca los 11.000 W, justo en el pico — el único evento que hay que evitar diseñar a propósito. En la práctica, el pico nominal lo absorbe porque la carga completa de la Combinación 2 rara vez está toda presente a la vez.
 
-Consumo con esta carga: unos 3,8–4,5 litros por hora. Con un tanque de 26 litros, una recarga cada 6–7 horas. Para las cuentas completas de combustible, ver [¿Cuánto combustible consume un generador?](/es/articles/generator-fuel-consumption/).
+Consumo con esta carga: unos 3,8–4,5 litros por hora. Con un tanque de 26 litros, una recarga cada 6–7 horas. Para las cuentas completas de combustible, ver [¿Cuánto combustible consume un generador?](/es/articles/generator-fuel-consumption).
 
 ## Combinación 3: modo aire central (~7.000 vatios) — la razón de ser de esta clase
 
@@ -134,7 +134,7 @@ Un aire central de 3 toneladas con arrancador suave (clase MicroAir EasyStart, ~
 | Wifi, TV, cargadores, oficina en casa | 550 |
 | **Carga constante total** | **~6.550** |
 
-Dentro del objetivo de planeación de 7.200 vatios, con el pico de la bomba absorbido por el pico nominal. La regla de rotación que queda: el ciclo de recuperación de 45 minutos del calentador de agua eléctrico ocurre con el aire *apagado* (o un día templado en que no hace ciclos) — calentador (4.500 W) + esenciales (2.400 W) = ~6.900 W, cómodo; calentador + aire + esenciales = ~10.400 W, por encima del presupuesto. Duchas por la mañana en el ciclo del calentador, aire de vuelta a las nueve. El desglose completo del arrancador suave está en [¿Qué tamaño de generador necesito para aire acondicionado central?](/es/articles/what-size-generator-central-ac/).
+Dentro del objetivo de planeación de 7.200 vatios, con el pico de la bomba absorbido por el pico nominal. La regla de rotación que queda: el ciclo de recuperación de 45 minutos del calentador de agua eléctrico ocurre con el aire *apagado* (o un día templado en que no hace ciclos) — calentador (4.500 W) + esenciales (2.400 W) = ~6.900 W, cómodo; calentador + aire + esenciales = ~10.400 W, por encima del presupuesto. Duchas por la mañana en el ciclo del calentador, aire de vuelta a las nueve. El desglose completo del arrancador suave está en [¿Qué tamaño de generador necesito para aire acondicionado central?](/es/articles/what-size-generator-central-ac).
 
 Un aire de 4 toneladas con arrancador suave (4.000–4.500 W continuos) encaja en la misma forma con el lavavajillas y el microondas en el banquillo mientras funciona. Uno de 5 toneladas no encaja en ninguna forma — su consumo continuo deja demasiado poco para el resto de la casa. Eso es territorio de estacionarios.
 
@@ -150,7 +150,7 @@ Lista más corta que la de cualquier clase menor — pero no está vacía:
 
 ## ¿Cuánta gasolina va a quemar haciendo todo esto?
 
-Con la Combinación 2, unos 3,8–4,5 litros por hora; con solo esenciales de noche, 2,3–3. Un apagón de tres días a carga de confort son 230–280 litros — esta es la clase donde un interruptor de transferencia y un plan serio de combustible dejan de ser accesorios opcionales, y donde los modelos de doble combustible se ganan la prima: un tanque de propano de 9 kg funciona unas 5–7 horas a estas cargas, y el propano nunca se echa a perder entre tormentas. Las tablas de consumo por tamaño están en la [guía de consumo de combustible](/es/articles/generator-fuel-consumption/).
+Con la Combinación 2, unos 3,8–4,5 litros por hora; con solo esenciales de noche, 2,3–3. Un apagón de tres días a carga de confort son 230–280 litros — esta es la clase donde un interruptor de transferencia y un plan serio de combustible dejan de ser accesorios opcionales, y donde los modelos de doble combustible se ganan la prima: un tanque de propano de 9 kg funciona unas 5–7 horas a estas cargas, y el propano nunca se echa a perder entre tormentas. Las tablas de consumo por tamaño están en la [guía de consumo de combustible](/es/articles/generator-fuel-consumption).
 
 ## ¿Qué generadores de 9000 vatios deberías mirar en serio?
 
@@ -158,7 +158,7 @@ Tres clases, tres experiencias de propiedad distintas:
 
 - **Convencional de bastidor abierto (el caballo de batalla):** los bastidores abiertos de la clase 9.000 de Champion, Westinghouse y DuroMax (~$900–1.300). Ruidosos — 70 y pocos decibeles — mecánicamente simples, y la ruta más barata a energía honesta de casa entera. En este tamaño casi todos ofrecen arranque eléctrico; exígelo, porque arrancar a tirón un motor de 450 cc en febrero no es el plan de nadie.
 - **Versiones de doble combustible:** (~$1.100–1.500) entregan unos 8.100 vatios con propano. Dado el consumo de esta clase, el propano es menos comodidad y más seguro de autonomía — un par de tanques de 9 kg son un día de energía.
-- **Inverter grandes:** (~$1.600–2.400) funcionan a unos 65 dB en vez de 70 y tantos, entregan energía limpia, y queman poco con la carga nocturna. Si el generador vive cerca de dormitorios — tuyos o de los vecinos — la prima es el producto. Nuestra guía de [generadores más silenciosos](/es/articles/quietest-generators-noise-levels/) cubre qué significan los dB a distancias reales.
+- **Inverter grandes:** (~$1.600–2.400) funcionan a unos 65 dB en vez de 70 y tantos, entregan energía limpia, y queman poco con la carga nocturna. Si el generador vive cerca de dormitorios — tuyos o de los vecinos — la prima es el producto. Nuestra guía de [generadores más silenciosos](/es/articles/quietest-generators-noise-levels) cubre qué significan los dB a distancias reales.
 
 Evita cualquier unidad con menos de 8.000 vatios continuos a precio de «clase 9000». En esta clase especialmente, el número de la caja y el número de la hoja de especificaciones son con frecuencia dos máquinas distintas.
 
@@ -166,12 +166,12 @@ Evita cualquier unidad con menos de 8.000 vatios continuos a precio de «clase 9
 
 Para la casa mediana o grande con **bomba de pozo de 1 HP**, agua caliente de gas o eléctrica, y un **aire central de 3 toneladas** que tiene que funcionar durante los apagones — el hogar al que la clase de 7.500 vatios casi servía. Casas donde los apagones duran días, no horas. Cualquiera que haya cotizado un estacionario de 14 kW, visto la cotización instalada, y quiera el 90% de la capacidad por el 20% del dinero con un interruptor de transferencia.
 
-Quédate en [7.500 vatios](/es/articles/what-can-7500-watt-generator-run/) si: no hay requisito de aire central, bomba de 1/2 HP, y el hábito de rotación no te molesta. Sube a la [clase de 10.000 vatios](/es/articles/what-can-10000-watt-generator-run/) si: tu aire es de 4 toneladas e innegociable, o quieres que el calentador y la secadora dejen de ser un horario.
+Quédate en [7.500 vatios](/es/articles/what-can-7500-watt-generator-run) si: no hay requisito de aire central, bomba de 1/2 HP, y el hábito de rotación no te molesta. Sube a la [clase de 10.000 vatios](/es/articles/what-can-10000-watt-generator-run) si: tu aire es de 4 toneladas e innegociable, o quieres que el calentador y la secadora dejen de ser un horario.
 
 ## Sigue leyendo
 
-- [¿Qué puede alimentar un generador de 7500 vatios? Ejemplos reales](/es/articles/what-can-7500-watt-generator-run/)
-- [¿Qué puede alimentar un generador de 10000 vatios? Cargas de casa](/es/articles/what-can-10000-watt-generator-run/)
-- [¿Qué tamaño de generador necesito para aire acondicionado central?](/es/articles/what-size-generator-central-ac/)
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/)
-- [¿Cuánto combustible consume un generador? Números reales](/es/articles/generator-fuel-consumption/)
+- [¿Qué puede alimentar un generador de 7500 vatios? Ejemplos reales](/es/articles/what-can-7500-watt-generator-run)
+- [¿Qué puede alimentar un generador de 10000 vatios? Cargas de casa](/es/articles/what-can-10000-watt-generator-run)
+- [¿Qué tamaño de generador necesito para aire acondicionado central?](/es/articles/what-size-generator-central-ac)
+- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house)
+- [¿Cuánto combustible consume un generador? Números reales](/es/articles/generator-fuel-consumption)

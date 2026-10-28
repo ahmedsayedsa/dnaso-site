@@ -143,8 +143,8 @@ Compra el generador primero — se agotan primero. Todo lo demás lo encuentras 
 
 ## Sigue leyendo
 
-- [Guía completa de respaldo eléctrico para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide/)
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/)
-- [Lista de mantenimiento del generador: haz que funcione cuando importa](/es/articles/generator-maintenance-checklist/)
-- [Portátil vs reserva vs generador inversor: ¿cuál tipo te conviene?](/es/articles/portable-vs-standby-vs-inverter-generator/)
-- [Generadores de doble combustible vs gasolina vs propano](/es/articles/dual-fuel-vs-gas-vs-propane-generator/)
+- [Guía completa de respaldo eléctrico para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide)
+- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house)
+- [Lista de mantenimiento del generador: haz que funcione cuando importa](/es/articles/generator-maintenance-checklist)
+- [Portátil vs reserva vs generador inversor: ¿cuál tipo te conviene?](/es/articles/portable-vs-standby-vs-inverter-generator)
+- [Generadores de doble combustible vs gasolina vs propano](/es/articles/dual-fuel-vs-gas-vs-propane-generator)

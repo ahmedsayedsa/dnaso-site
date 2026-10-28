@@ -24,14 +24,14 @@ lang: "es"
 
 ## ¿Esos 12.000 vatios son continuos o de arranque?
 
-Lee la caja con cuidado, porque en el tope de la gama portátil los juegos de nombres se vuelven teatrales. Un generador de 12.000 W verdadero entrega **12.000 vatios continuos** y unos **15.000 vatios de arranque (pico)**. El estante también guarda máquinas de «15000 vatios» que funcionan a 12.000 (bien — esa es esta clase), y máquinas de «12000 vatios» que son 12.000 de *pico* y 9.500 continuos (no es esta clase — es la hermana mayor del [artículo de 10.000 vatios](/es/articles/what-can-10000-watt-generator-run/)). Todo aquí trata de 12.000 vatios continuos verdaderos. Un pliegue más, único de esta clase: la mayoría son **trifuel**, y cada combustible tiene su propia capacidad continua — gasolina la más alta, propano un 10% menor, gas natural aproximadamente un 15–20% menor. Las combinaciones de abajo son números de gasolina; con gas natural, dimensiona contra unos 10.000 vatios continuos.
+Lee la caja con cuidado, porque en el tope de la gama portátil los juegos de nombres se vuelven teatrales. Un generador de 12.000 W verdadero entrega **12.000 vatios continuos** y unos **15.000 vatios de arranque (pico)**. El estante también guarda máquinas de «15000 vatios» que funcionan a 12.000 (bien — esa es esta clase), y máquinas de «12000 vatios» que son 12.000 de *pico* y 9.500 continuos (no es esta clase — es la hermana mayor del [artículo de 10.000 vatios](/es/articles/what-can-10000-watt-generator-run)). Todo aquí trata de 12.000 vatios continuos verdaderos. Un pliegue más, único de esta clase: la mayoría son **trifuel**, y cada combustible tiene su propia capacidad continua — gasolina la más alta, propano un 10% menor, gas natural aproximadamente un 15–20% menor. Las combinaciones de abajo son números de gasolina; con gas natural, dimensiona contra unos 10.000 vatios continuos.
 
 Los dos números, rápido:
 
 - **Vatios continuos (12.000):** lo que produce sin parar, todo el día. Este es tu presupuesto.
 - **Vatios de arranque (~15.000):** unos segundos de pico para los arranques de motores. Este es tu fondo de emergencia.
 
-Y la regla que le doy a cada cliente: **planea tu carga constante como máximo al 80% de los vatios continuos — 9.600 vatios en este tamaño.** Incluso aquí, el margen es lo que permite que el arranque de una bomba de pozo caiga sobre un aire en marcha sin drama. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/).
+Y la regla que le doy a cada cliente: **planea tu carga constante como máximo al 80% de los vatios continuos — 9.600 vatios en este tamaño.** Incluso aquí, el margen es lo que permite que el arranque de una bomba de pozo caiga sobre un aire en marcha sin drama. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house).
 
 ## ¿Cuántos vatios consume cada cosa de tu casa en realidad?
 
@@ -117,7 +117,7 @@ Una casa grande totalmente eléctrica viviendo con normalidad un día de apagón
 
 La coreografía se reduce a una regla: el ciclo de recuperación del calentador y el ciclo de la secadora no se solapan con la *bomba de pozo bajo presión* si puedes evitarlo — y si se solapan, las cuentas del peor caso (8.900 + 6.000 W de pico de la bomba = ~14.900) aún aterrizan dentro del pico de 15.000 vatios. Léelo otra vez: en este tamaño, incluso la acumulación de mala suerte cabe. Esa frase no es verdad para ninguna otra clase portátil, y es la razón entera de que esta exista.
 
-Consumo en este día: unos 4,5–5,7 litros por hora. Para las cuentas completas de combustible, ver [¿Cuánto combustible consume un generador?](/es/articles/generator-fuel-consumption/).
+Consumo en este día: unos 4,5–5,7 litros por hora. Para las cuentas completas de combustible, ver [¿Cuánto combustible consume un generador?](/es/articles/generator-fuel-consumption).
 
 ## Combinación 3: modo cinco toneladas (~7.900 vatios)
 
@@ -132,9 +132,9 @@ La capacidad titular. Un aire central de 5 toneladas con arrancador suave, el d�
 | Wifi, TV, cargadores, oficina en casa | 550 |
 | **Carga constante total** | **~8.550** |
 
-Llámalo 7.900 con la bomba apagada, 8.550 con ella en ciclo — dentro del objetivo de planeación de 9.600 vatios en cualquier caso. El arrancador suave hace el trabajo pesado: convierte un arranque de fuerza bruta de 13.000–16.000 vatios en un evento de 5.500–7.000 vatios que el pico de este generador se traga sin parpadear. Lo que se sienta durante el modo cinco toneladas: la secadora y el ciclo de recuperación del calentador (cualquiera puede funcionar en cuanto el aire se apaga, algo que hace regularmente incluso en días calurosos). El desglose completo del arrancador suave está en [¿Qué tamaño de generador necesito para aire acondicionado central?](/es/articles/what-size-generator-central-ac/).
+Llámalo 7.900 con la bomba apagada, 8.550 con ella en ciclo — dentro del objetivo de planeación de 9.600 vatios en cualquier caso. El arrancador suave hace el trabajo pesado: convierte un arranque de fuerza bruta de 13.000–16.000 vatios en un evento de 5.500–7.000 vatios que el pico de este generador se traga sin parpadear. Lo que se sienta durante el modo cinco toneladas: la secadora y el ciclo de recuperación del calentador (cualquiera puede funcionar en cuanto el aire se apaga, algo que hace regularmente incluso en días calurosos). El desglose completo del arrancador suave está en [¿Qué tamaño de generador necesito para aire acondicionado central?](/es/articles/what-size-generator-central-ac).
 
-Si tu casa es un aire de 5 toneladas con cocina y lavandería totalmente eléctricas, esta combinación — más un interruptor de transferencia — es el techo portátil, y es de verdad habitable. Por encima vive una sola categoría: los estacionarios, cotizados en la [guía de costo de generadores para casa entera](/es/articles/whole-house-generator-cost/).
+Si tu casa es un aire de 5 toneladas con cocina y lavandería totalmente eléctricas, esta combinación — más un interruptor de transferencia — es el techo portátil, y es de verdad habitable. Por encima vive una sola categoría: los estacionarios, cotizados en la [guía de costo de generadores para casa entera](/es/articles/whole-house-generator-cost).
 
 ## ¿Qué NO puede mover un generador de 12000 vatios?
 
@@ -148,7 +148,7 @@ La lista más corta de la serie, y la más específica:
 
 ## ¿Cuánta gasolina va a quemar haciendo todo esto?
 
-Más que cualquier otro portátil: 4,5–5,7 litros por hora a cargas de casa entera, unos 3–3,8 incluso con solo esenciales de noche. Un apagón de tres días a intensidad de Combinación 2 son 320–380 litros de gasolina — un problema de logística, no una ida de compras. Por eso la clase está dominada por modelos trifuel: el propano estira el almacenamiento indefinidamente, y una línea de gas natural elimina la pregunta del combustible por completo (a unos 10.000 vatios continuos con gas natural — aún dinero de casa entera). Las tablas por tamaño están en la [guía de consumo de combustible](/es/articles/generator-fuel-consumption/).
+Más que cualquier otro portátil: 4,5–5,7 litros por hora a cargas de casa entera, unos 3–3,8 incluso con solo esenciales de noche. Un apagón de tres días a intensidad de Combinación 2 son 320–380 litros de gasolina — un problema de logística, no una ida de compras. Por eso la clase está dominada por modelos trifuel: el propano estira el almacenamiento indefinidamente, y una línea de gas natural elimina la pregunta del combustible por completo (a unos 10.000 vatios continuos con gas natural — aún dinero de casa entera). Las tablas por tamaño están en la [guía de consumo de combustible](/es/articles/generator-fuel-consumption).
 
 ## ¿Qué generadores de 12000 vatios deberías mirar en serio?
 
@@ -156,7 +156,7 @@ Dos clases, y la división es más de estrategia de combustible que de marca:
 
 - **Trifuel convencionales de bastidor abierto (la opción por defecto):** los trifuel de la clase 12.000 de DuroMax y Westinghouse (~$1.500–2.100). Gasolina para potencia completa, propano para almacenamiento, gas natural para autonomía ilimitada; arranque eléctrico; motores de clase 713 cc; ruidosos — 75 dB y poco — porque en este tamaño todo lo es. Verifica la capacidad continua de cada combustible en la hoja de especificaciones antes de planear alrededor de ella.
 - **Versiones de doble combustible:** (~$1.300–1.800) se saltan la opción de gas natural y cuestan menos. La compra correcta si una línea de gas nunca llegará al sitio del generador y el almacenamiento de propano es tu plan de resiliencia.
-- **Inverter grandes** apenas llegan a esta clase y cuestan más de $2.800 cuando llegan; lo que compran es unos 65 dB y energía limpia. Vale la pena junto a vecinos cercanos; difícil de justificar en otro caso — las cuentas de distancia están en nuestra guía de [generadores más silenciosos](/es/articles/quietest-generators-noise-levels/).
+- **Inverter grandes** apenas llegan a esta clase y cuestan más de $2.800 cuando llegan; lo que compran es unos 65 dB y energía limpia. Vale la pena junto a vecinos cercanos; difícil de justificar en otro caso — las cuentas de distancia están en nuestra guía de [generadores más silenciosos](/es/articles/quietest-generators-noise-levels).
 
 Con más de 100 kilos, ninguno de estos es portátil en el sentido de acampada. Son *alternativas móviles a un estacionario*: con ruedas, guardados en el garaje, conectados a un interruptor de transferencia. Cómpralos como infraestructura, no como equipo.
 
@@ -164,12 +164,12 @@ Con más de 100 kilos, ninguno de estos es portátil en el sentido de acampada. 
 
 Para la casa grande con **aire central de 5 toneladas**, **cocina y lavandería totalmente eléctricas**, **bomba de pozo de 1 HP**, y un dueño que leyó una cotización de estacionario y la rechazó. Propiedades donde el generador también sirve a un taller, un granero o una segunda estructura. Hogares en regiones propensas a apagones que están en casa para administrar el combustible y quieren capacidad de clase estacionaria a costo de clase portátil.
 
-Baja a [10.000 vatios](/es/articles/what-can-10000-watt-generator-run/) si tu aire es de 4 toneladas — la capacidad que pierdes es la combinación de cinco toneladas y el solape calentador-más-secadora, y el dinero que ahorras es real. Ve a estacionario si nadie está en casa durante los apagones, si la calefacción es eléctrica, o si «simplemente arranca» vale cinco cifras para ti. Ambas son respuestas respetables. Lo que no es respetable es comprar una insignia de «12000 vatios» sin revisar los vatios continuos — a este precio, lee la hoja de especificaciones dos veces.
+Baja a [10.000 vatios](/es/articles/what-can-10000-watt-generator-run) si tu aire es de 4 toneladas — la capacidad que pierdes es la combinación de cinco toneladas y el solape calentador-más-secadora, y el dinero que ahorras es real. Ve a estacionario si nadie está en casa durante los apagones, si la calefacción es eléctrica, o si «simplemente arranca» vale cinco cifras para ti. Ambas son respuestas respetables. Lo que no es respetable es comprar una insignia de «12000 vatios» sin revisar los vatios continuos — a este precio, lee la hoja de especificaciones dos veces.
 
 ## Sigue leyendo
 
-- [¿Qué puede alimentar un generador de 10000 vatios? Guía real](/es/articles/what-can-10000-watt-generator-run/)
-- [¿Qué puede alimentar un generador de 9000 vatios? Casi todo](/es/articles/what-can-9000-watt-generator-run/)
-- [¿Qué tamaño de generador necesito para aire acondicionado central?](/es/articles/what-size-generator-central-ac/)
-- [Costo de un generador para casa entera: lo que pagarás de verdad](/es/articles/whole-house-generator-cost/)
-- [¿Cuánto combustible consume un generador? Números reales](/es/articles/generator-fuel-consumption/)
+- [¿Qué puede alimentar un generador de 10000 vatios? Guía real](/es/articles/what-can-10000-watt-generator-run)
+- [¿Qué puede alimentar un generador de 9000 vatios? Casi todo](/es/articles/what-can-9000-watt-generator-run)
+- [¿Qué tamaño de generador necesito para aire acondicionado central?](/es/articles/what-size-generator-central-ac)
+- [Costo de un generador para casa entera: lo que pagarás de verdad](/es/articles/whole-house-generator-cost)
+- [¿Cuánto combustible consume un generador? Números reales](/es/articles/generator-fuel-consumption)

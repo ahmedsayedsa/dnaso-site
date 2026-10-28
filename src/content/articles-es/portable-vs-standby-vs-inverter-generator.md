@@ -32,7 +32,7 @@ Generac y Kohler dominan este mercado. Una unidad de reserva enfriada por aire d
 
 **Lo que hace bien:** Respaldo de verdad sin manos. Bien dimensionado, alimenta toda tu casa — aire central, bomba de pozo, estufa eléctrica. También suma valor de reventa y, en zonas propensas a apagones, a algunas aseguradoras les importa.
 
-**Lo que no hace:** Es una compra mayor y un elemento permanente. La instalación toma semanas, no una tarde. También necesita mantenimiento programado (mira la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/)) — estas máquinas se ejercitan solas semanalmente, lo que ayuda, pero igual necesitan servicio anual. Y ahora dependes de tu suministro de gas: el gas natural casi siempre fluye, pero el propano significa vigilar un tanque.
+**Lo que no hace:** Es una compra mayor y un elemento permanente. La instalación toma semanas, no una tarde. También necesita mantenimiento programado (mira la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist)) — estas máquinas se ejercitan solas semanalmente, lo que ayuda, pero igual necesitan servicio anual. Y ahora dependes de tu suministro de gas: el gas natural casi siempre fluye, pero el propano significa vigilar un tanque.
 
 ### Generador inversor
 
@@ -91,7 +91,7 @@ El precio de la etiqueta nunca es el precio completo. Presupuesta estos:
 - **Extras de instalación de reserva:** más allá del total típico de $10,000–$15,000 — base de concreto ($200–$500), extensión de línea de gas si el medidor está lejos ($500–$2,000), permisos ($100–$500 según la jurisdicción), y posiblemente un medidor de gas más grande de la compañía ($300–$800). Pide tres cotizaciones; los precios de instalación de reserva varían enormemente por región.
 - **Inversor:** normalmente solo la unidad y un cable de extensión de alta resistencia. El costo total de propiedad más barato para arrancar.
 
-Toma en cuenta también el combustible: un portátil trabajando un apagón de tres días quema $200–$275 en gasolina (mira [doble combustible vs gasolina vs propano](/es/articles/dual-fuel-vs-gas-vs-propane-generator/) para el cálculo). Los dueños de generadores de reserva con gas natural pagan $50–$100 por el mismo apagón. En una década de temporadas de tormentas, esa diferencia se acumula.
+Toma en cuenta también el combustible: un portátil trabajando un apagón de tres días quema $200–$275 en gasolina (mira [doble combustible vs gasolina vs propano](/es/articles/dual-fuel-vs-gas-vs-propane-generator) para el cálculo). Los dueños de generadores de reserva con gas natural pagan $50–$100 por el mismo apagón. En una década de temporadas de tormentas, esa diferencia se acumula.
 
 ## Las desventajas honestas
 
@@ -108,6 +108,6 @@ Pasa por estos en orden:
 3. **¿Cuál es tu presupuesto, todo incluido?** Menos de $2,000 → portátil o inversor. $10,000+ → de reserva.
 4. **¿Qué estás alimentando?** Con muchos electrónicos o sensible al ruido → inversor. Toda la casa incluyendo aire central o bomba de pozo → de reserva (o el portátil más grande que puedas manejar). Lo esencial sencillo → portátil convencional.
 
-Si sigues atorado, el siguiente paso es el cálculo de tamaño: averigua exactamente cuántos vatios consume lo esencial antes de comprar nada. Pasa por la [guía de cálculo de tamaño de generador](/es/articles/what-size-generator-run-house/) — toma diez minutos y te va a ahorrar los dos errores clásicos: comprar muy poco, o pagar el doble de lo que necesitas.
+Si sigues atorado, el siguiente paso es el cálculo de tamaño: averigua exactamente cuántos vatios consume lo esencial antes de comprar nada. Pasa por la [guía de cálculo de tamaño de generador](/es/articles/what-size-generator-run-house) — toma diez minutos y te va a ahorrar los dos errores clásicos: comprar muy poco, o pagar el doble de lo que necesitas.
 
-¿No estás seguro de que los generadores sean siquiera la respuesta correcta? Las baterías se han vuelto de verdad competitivas para apagones cortos. Lee la guía principal, [energía de respaldo para el hogar explicada](/es/articles/complete-home-backup-power-guide/), para el panorama completo de generadores vs baterías, y luego nuestra [comparación batería vs generador](/es/articles/home-battery-vs-generator/) para el cálculo.
+¿No estás seguro de que los generadores sean siquiera la respuesta correcta? Las baterías se han vuelto de verdad competitivas para apagones cortos. Lee la guía principal, [energía de respaldo para el hogar explicada](/es/articles/complete-home-backup-power-guide), para el panorama completo de generadores vs baterías, y luego nuestra [comparación batería vs generador](/es/articles/home-battery-vs-generator) para el cálculo.

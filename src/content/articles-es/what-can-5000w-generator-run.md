@@ -27,7 +27,7 @@ Los dos números, rápido:
 - **Vatios continuos (5.000):** lo que produce sin parar, todo el día. Este es tu presupuesto.
 - **Vatios de arranque (~6.250):** unos segundos de pico para los arranques de motores. Este es tu fondo de emergencia.
 
-Y la regla que le doy a cada cliente: **planea tu carga constante como máximo al 80% de los vatios continuos — 4.000 vatios en este tamaño.** Un motor trabajando tranquilo al 60–75% de carga funciona más fresco, más silencioso y gasta menos. Un motor forzado al 98% toda la noche se está desgastando solo y quemando aceite para demostrarlo. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/).
+Y la regla que le doy a cada cliente: **planea tu carga constante como máximo al 80% de los vatios continuos — 4.000 vatios en este tamaño.** Un motor trabajando tranquilo al 60–75% de carga funciona más fresco, más silencioso y gasta menos. Un motor forzado al 98% toda la noche se está desgastando solo y quemando aceite para demostrarlo. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house).
 
 ## ¿Cuántos vatios consume cada cosa de tu casa en realidad?
 
@@ -93,7 +93,7 @@ Este es el apagón que la mayoría vive de verdad: mantener la comida segura, el
 | Carga de teléfonos y laptop | 70 |
 | **Carga constante total** | **~2.100** |
 
-Eso es el 42% de la capacidad. El peor momento — la bomba arrancando (pico de 2.000 W) con el soplador y el refrigerador funcionando — pica cerca de 4.300 vatios, muy lejos del techo de 6.250. Con esta carga el generador quema unos 1,3–1,7 litros por hora y funciona 11–14 horas con un tanque típico. Si esta combinación es todo lo que necesitas, francamente podrías bajar un tamaño — pero el margen aquí es lo que te deja sumar cargas de confort sin hacer aritmética en la oscuridad. Los detalles de dimensionado de bombas están en [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump/).
+Eso es el 42% de la capacidad. El peor momento — la bomba arrancando (pico de 2.000 W) con el soplador y el refrigerador funcionando — pica cerca de 4.300 vatios, muy lejos del techo de 6.250. Con esta carga el generador quema unos 1,3–1,7 litros por hora y funciona 11–14 horas con un tanque típico. Si esta combinación es todo lo que necesitas, francamente podrías bajar un tamaño — pero el margen aquí es lo que te deja sumar cargas de confort sin hacer aritmética en la oscuridad. Los detalles de dimensionado de bombas están en [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump).
 
 ## Combinación 2: esenciales más confort de verdad (~3.800 vatios)
 
@@ -127,7 +127,7 @@ Nada de esto supera al generador. Solo exige la única habilidad que este tamañ
 
 Voy a ser directo con los fracasos, porque estos son las devoluciones y las reseñas enojadas:
 
-- **Aire central de 3 toneladas:** el consumo continuo (~3.500 W) se ve bien en papel, pero el compresor necesita 9.000–12.000 vatios para arrancar. El generador no puede. El voltaje se cae, el compresor sufre, y estás arriesgando un compresor de cuatro cifras por no ahorrar nada. Un arrancador suave reduce ese pico un 60–70%, lo que deja un equipo pequeño de 1,5–2 toneladas al límite en este tamaño — y sin casi nada más. Mi consejo honesto: si el aire central no es negociable, compra la clase de 7.500 W — la comparativa completa está en [¿Qué puede alimentar un generador de 7500 vatios?](/es/articles/what-can-7500-watt-generator-run/).
+- **Aire central de 3 toneladas:** el consumo continuo (~3.500 W) se ve bien en papel, pero el compresor necesita 9.000–12.000 vatios para arrancar. El generador no puede. El voltaje se cae, el compresor sufre, y estás arriesgando un compresor de cuatro cifras por no ahorrar nada. Un arrancador suave reduce ese pico un 60–70%, lo que deja un equipo pequeño de 1,5–2 toneladas al límite en este tamaño — y sin casi nada más. Mi consejo honesto: si el aire central no es negociable, compra la clase de 7.500 W — la comparativa completa está en [¿Qué puede alimentar un generador de 7500 vatios?](/es/articles/what-can-7500-watt-generator-run).
 - **Calentador de agua eléctrico + cualquier cosa importante:** 4.500 vatios él solo. Puedes moverlo *solo* en un ciclo de recuperación de 45 minutos con todo lo demás apagado — un truco de rotación legítimo — pero junto a una secadora o un aire es imposible.
 - **Secadora eléctrica:** 4.500–5.500 vatios. Muchas unidades superan a este generador por completo. Tiende la ropa dos días; vas a sobrevivir.
 - **Estufa/horno eléctrico:** una hornilla (1.200–2.500 W) está bien. El horno más las hornillas, no.
@@ -137,7 +137,7 @@ Fíjate en el patrón: todo lo de la lista de «no puede» es una carga eléctri
 
 ## ¿Cuánta gasolina va a quemar haciendo todo esto?
 
-Con la carga de la Combinación 2 (~3.800 W, más o menos el 75%), espera unos 1,9–2,3 litros por hora; solo con esenciales, cerca de 1,5. Un apagón de tres días en carga de confort son unos 115–150 litros — planea tus bidones y tu estabilizador en consecuencia, porque eso son muchos viajes a la gasolinera si solo tienes dos bidones de 20 litros. Las tablas de consumo por tamaño, incluida la clase de 5.500 W que comparte estos motores, están en [¿Cuánta gasolina usa un generador de 5500W?](/es/articles/how-much-gas-does-5500w-generator-use/) y en la [guía de consumo de combustible de generadores](/es/articles/generator-fuel-consumption/).
+Con la carga de la Combinación 2 (~3.800 W, más o menos el 75%), espera unos 1,9–2,3 litros por hora; solo con esenciales, cerca de 1,5. Un apagón de tres días en carga de confort son unos 115–150 litros — planea tus bidones y tu estabilizador en consecuencia, porque eso son muchos viajes a la gasolinera si solo tienes dos bidones de 20 litros. Las tablas de consumo por tamaño, incluida la clase de 5.500 W que comparte estos motores, están en [¿Cuánta gasolina usa un generador de 5500W?](/es/articles/how-much-gas-does-5500w-generator-use) y en la [guía de consumo de combustible de generadores](/es/articles/generator-fuel-consumption).
 
 ## ¿Qué generadores de 5000 vatios deberías mirar en serio?
 
@@ -159,8 +159,8 @@ Si la lista de cargas está bien hecha, un generador de 5.000 vatios es el mejor
 
 ## Sigue leyendo
 
-- [¿Qué puede alimentar un generador de 7500 vatios?](/es/articles/what-can-7500-watt-generator-run/)
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/)
-- [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump/)
-- [¿Cuánta gasolina usa un generador de 5500W?](/es/articles/how-much-gas-does-5500w-generator-use/)
-- [¿Cuánto combustible usa un generador? Números reales de consumo](/es/articles/generator-fuel-consumption/)
+- [¿Qué puede alimentar un generador de 7500 vatios?](/es/articles/what-can-7500-watt-generator-run)
+- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house)
+- [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump)
+- [¿Cuánta gasolina usa un generador de 5500W?](/es/articles/how-much-gas-does-5500w-generator-use)
+- [¿Cuánto combustible usa un generador? Números reales de consumo](/es/articles/generator-fuel-consumption)

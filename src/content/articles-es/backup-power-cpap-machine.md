@@ -55,7 +55,7 @@ Tres conclusiones:
 2. **500 Wh es el punto ideal para apagones en casa** — una noche completa con tus ajustes normales, o una noche cómoda y sobrada con el humidificador apagado.
 3. **1,000 Wh compra seguridad de varias noches** y combina bien con recargas durante el día, como cubre la sección de camping más abajo.
 
-¿Buscando estación? Nuestra [guía de estaciones de energía para respaldo en casa](/es/articles/portable-power-stations-home-backup/) compara los tamaños y marcas principales, y la [guía completa de respaldo eléctrico para el hogar](/es/articles/complete-home-backup-power-guide/) pone la carga del CPAP en contexto con el resto de la casa.
+¿Buscando estación? Nuestra [guía de estaciones de energía para respaldo en casa](/es/articles/portable-power-stations-home-backup) compara los tamaños y marcas principales, y la [guía completa de respaldo eléctrico para el hogar](/es/articles/complete-home-backup-power-guide) pone la carga del CPAP en contexto con el resto de la casa.
 
 ## ¿Por qué un convertidor DC vence al inversor AC?
 
@@ -76,10 +76,10 @@ Sea un apagón de tres días o un viaje de camping, el manual es el mismo:
 - **Apaga el humidificador con calor.** Es el cambio grande — vale 40% o más de tu consumo total. Llena el depósito de todos modos y úsalo en modo pasivo: el aire que pasa sobre agua a temperatura ambiente recoge algo de humedad por cero vatios.
 - **Apaga el tubo calefactado** (o déjalo en el ajuste más bajo que toleres). Misma lógica, ganancia menor.
 - **Usa el convertidor DC** para no pagar el impuesto de la doble conversión cada noche.
-- **Recarga durante el día por cualquier medio disponible.** Un auto puede reponer la energía de una noche de CPAP en una hora de manejo con un cargador de 100 W o más. Un generador encendido para el refrigerador puede llenar la estación al mismo tiempo — las cuentas de combustible están en nuestra guía de [consumo de combustible de un generador](/es/articles/generator-fuel-consumption/). Un panel solar de 100 W con buen sol devuelve unos 400–500 Wh por día, que es una noche de CPAP con el humidificador apagado.
+- **Recarga durante el día por cualquier medio disponible.** Un auto puede reponer la energía de una noche de CPAP en una hora de manejo con un cargador de 100 W o más. Un generador encendido para el refrigerador puede llenar la estación al mismo tiempo — las cuentas de combustible están en nuestra guía de [consumo de combustible de un generador](/es/articles/generator-fuel-consumption). Un panel solar de 100 W con buen sol devuelve unos 400–500 Wh por día, que es una noche de CPAP con el humidificador apagado.
 - **No cambies tus ajustes de presión para ahorrar energía.** La diferencia de consumo es pequeña, y la terapia es el punto. Ahorra vatios en los calentadores, no en el tratamiento.
 
-Con esos hábitos, una estación de 1,000 Wh más recargas modestas de día cubre a la mayoría de la gente por tiempo indefinido. Y si en tu casa también hay cargas médicas más pesadas, nuestra guía de [respaldo eléctrico para un concentrador de oxígeno](/es/articles/backup-power-oxygen-concentrator/) cubre el equipo que consume diez veces lo que un CPAP.
+Con esos hábitos, una estación de 1,000 Wh más recargas modestas de día cubre a la mayoría de la gente por tiempo indefinido. Y si en tu casa también hay cargas médicas más pesadas, nuestra guía de [respaldo eléctrico para un concentrador de oxígeno](/es/articles/backup-power-oxygen-concentrator) cubre el equipo que consume diez veces lo que un CPAP.
 
 ## ¿Puedes volar con una batería de CPAP?
 
@@ -109,8 +109,8 @@ Haz el mismo truco de cinta que recomiendo para los generadores: etiqueta la est
 
 ## ¿Y si ya tienes respaldo para toda la casa?
 
-Entonces tu CPAP ya está cubierto, y tu trabajo es más simple: confírmalo, no lo supongas. Una batería doméstica tipo Powerwall guarda 13.5 kWh — un CPAP a 50 W es un error de redondeo en ese presupuesto, como más de 200 horas de autonomía. Un generador de reserva fijo también lo cubre con facilidad. Nuestra [comparación de batería doméstica vs generador](/es/articles/home-battery-vs-generator/) repasa ambas opciones. La única revisión que vale la pena: asegúrate de que el enchufe de la recámara donde conectas el CPAP esté realmente en el tablero de circuitos con respaldo. En instalaciones de tablero dividido, he visto la recámara principal quedarse del lado de la red más de una vez — descubierto, por supuesto, durante el primer apagón real.
+Entonces tu CPAP ya está cubierto, y tu trabajo es más simple: confírmalo, no lo supongas. Una batería doméstica tipo Powerwall guarda 13.5 kWh — un CPAP a 50 W es un error de redondeo en ese presupuesto, como más de 200 horas de autonomía. Un generador de reserva fijo también lo cubre con facilidad. Nuestra [comparación de batería doméstica vs generador](/es/articles/home-battery-vs-generator) repasa ambas opciones. La única revisión que vale la pena: asegúrate de que el enchufe de la recámara donde conectas el CPAP esté realmente en el tablero de circuitos con respaldo. En instalaciones de tablero dividido, he visto la recámara principal quedarse del lado de la red más de una vez — descubierto, por supuesto, durante el primer apagón real.
 
 ## En resumen
 
-Un CPAP es un problema de 30–60 vatios con disfraz de 90. Dimensiona para el consumo que tendrás de verdad: 500 Wh para una noche con ajustes normales, 1,000 Wh para dos o tres noches, y sea cual sea el tamaño que compres, úsalo con un convertidor DC y dale la noche libre al humidificador con calor. Con eso, el próximo apagón — o el próximo viaje de camping — no te costará nada de sueño. Preparar el resto de la casa es un proyecto más grande, y nuestra [lista de apagón por tormenta](/es/articles/storm-preparedness-checklist/) es el lugar para empezar.
+Un CPAP es un problema de 30–60 vatios con disfraz de 90. Dimensiona para el consumo que tendrás de verdad: 500 Wh para una noche con ajustes normales, 1,000 Wh para dos o tres noches, y sea cual sea el tamaño que compres, úsalo con un convertidor DC y dale la noche libre al humidificador con calor. Con eso, el próximo apagón — o el próximo viaje de camping — no te costará nada de sueño. Preparar el resto de la casa es un proyecto más grande, y nuestra [lista de apagón por tormenta](/es/articles/storm-preparedness-checklist) es el lugar para empezar.

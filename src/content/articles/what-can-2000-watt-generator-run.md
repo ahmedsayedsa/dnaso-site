@@ -30,7 +30,7 @@ The two numbers, quickly:
 - **Running watts (~1,800):** what it produces continuously, all day. This is your budget.
 - **Starting watts (~2,200):** a few seconds of surge for motor startups. This is your emergency fund — and in this class it's a small fund.
 
-And the rule I give every customer: **plan your steady load at no more than 80% of running watts — about 1,450 watts here.** Small inverter engines are happiest loafing; pinned at maximum they get loud (defeating the point of an inverter), hot, and thirsty. For the full sizing method, see [What Size Generator Do I Need?](/articles/what-size-generator-run-house/).
+And the rule I give every customer: **plan your steady load at no more than 80% of running watts — about 1,450 watts here.** Small inverter engines are happiest loafing; pinned at maximum they get loud (defeating the point of an inverter), hot, and thirsty. For the full sizing method, see [What Size Generator Do I Need?](/articles/what-size-generator-run-house).
 
 ## How many watts does everything actually use?
 
@@ -84,7 +84,7 @@ This is the load this size was born for — the things that turn an outage from 
 | CPAP machine | 40 |
 | **Total steady load** | **~440** |
 
-That's about 25% of capacity, and the worst moment — the fridge compressor starting (1,200W surge) on top of everything — peaks around 1,650 watts, inside the 2,200-watt ceiling. At this load an inverter throttles down to near-idle, burns roughly 0.1–0.15 gal/hr, and is quiet enough to talk over. This combo runs essentially forever on a couple of gallons of gas. If medical equipment is on your list, the dedicated planning guide is [Backup Power for a CPAP Machine](/articles/backup-power-cpap-machine/).
+That's about 25% of capacity, and the worst moment — the fridge compressor starting (1,200W surge) on top of everything — peaks around 1,650 watts, inside the 2,200-watt ceiling. At this load an inverter throttles down to near-idle, burns roughly 0.1–0.15 gal/hr, and is quiet enough to talk over. This combo runs essentially forever on a couple of gallons of gas. If medical equipment is on your list, the dedicated planning guide is [Backup Power for a CPAP Machine](/articles/backup-power-cpap-machine).
 
 ## Combo 2: Essentials plus comfort (~1,100 watts)
 
@@ -109,7 +109,7 @@ Want coffee, or a hot meal from the microwave? You can have either — as the *o
 - **Microwave:** 1,200W + fridge running 200W + lights = ~1,500W. Same surge warning. Ten minutes, then back to Combo 2.
 - **Kettle:** at 1,200–1,500W it's the biggest single plug in this class. Kettle plus *nothing else motor-driven*. Boil, unplug.
 
-The discipline is the same one the 5,000-watt owners learn, just with smaller numbers: one big resistive load at a time, and respect the fridge's surge. If that sounds fiddly, the fix isn't technique — it's the [3,500-watt class](/articles/what-can-3500-watt-generator-run/), where the microwave stops being an event.
+The discipline is the same one the 5,000-watt owners learn, just with smaller numbers: one big resistive load at a time, and respect the fridge's surge. If that sounds fiddly, the fix isn't technique — it's the [3,500-watt class](/articles/what-can-3500-watt-generator-run), where the microwave stops being an event.
 
 ## What can't a 2000 watt generator run?
 
@@ -117,7 +117,7 @@ Being blunt, because these are the returns and the one-star reviews:
 
 - **Window AC:** the running draw fits, the 2,200–3,000W starting surge does not. It is the single most common disappointment in this class. Fans and open windows, or a bigger generator.
 - **Well pump (1/2 HP):** 1,000 watts running would leave almost nothing, and the 2,000–3,000W startup surge meets or exceeds the whole peak rating. No.
-- **Sump pump (1/3 HP):** 800 watts running looks possible until the fridge starts in the same second — combined surge blows past the ceiling. A basement that floods is not the place for "usually works." The pump math is in [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump/).
+- **Sump pump (1/3 HP):** 800 watts running looks possible until the fridge starts in the same second — combined surge blows past the ceiling. A basement that floods is not the place for "usually works." The pump math is in [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump).
 - **Space heater plus anything:** 1,500 watts is 83% of your running budget before the fridge cycles. A heater *alone* in one closed room, with the fridge unplugged for the night, is the only version of this that works — and it's a poor trade.
 - **Anything with a heating element over ~1,500W:** electric water heaters (4,500W), dryers, ovens, and hair dryers at full blast are simply not in this world.
 
@@ -125,11 +125,11 @@ Notice the pattern: everything on the "can't" list either heats with electricity
 
 ## How much gas will it burn while doing all this?
 
-Barely any. At Combo 1 the leading models sip 0.1–0.15 gal/hr; at Combo 2, around 0.2 gal/hr. The Honda EU2200i's 0.95-gallon tank lasts 8.1 hours at quarter load; the Westinghouse iGen2200 stretches a 1.14-gallon tank to roughly 12 hours at quarter load. A single five-gallon can is a multi-day supply at essentials load — which is why this class is the preparedness crowd's favorite. The broader per-size burn tables are in [How Much Fuel Does a Generator Use?](/articles/generator-fuel-consumption/).
+Barely any. At Combo 1 the leading models sip 0.1–0.15 gal/hr; at Combo 2, around 0.2 gal/hr. The Honda EU2200i's 0.95-gallon tank lasts 8.1 hours at quarter load; the Westinghouse iGen2200 stretches a 1.14-gallon tank to roughly 12 hours at quarter load. A single five-gallon can is a multi-day supply at essentials load — which is why this class is the preparedness crowd's favorite. The broader per-size burn tables are in [How Much Fuel Does a Generator Use?](/articles/generator-fuel-consumption).
 
 ## Which 2000 watt generators should you actually look at?
 
-This class is all inverters, and three names dominate it — all three are also on our [quietest generators](/articles/quietest-generators-noise-levels/) ranking, because quiet is the whole point here:
+This class is all inverters, and three names dominate it — all three are also on our [quietest generators](/articles/quietest-generators-noise-levels) ranking, because quiet is the whole point here:
 
 - **Honda EU2200i (2,200 peak / 1,800 running, ~$1,100–1,300):** the benchmark. 48 dB at quarter load — the quietest mainstream generator you can buy — with the strongest dealer network and a 3-year residential warranty. You pay double for it, and owners rarely regret it.
 - **Westinghouse iGen2200 (2,200 / 1,800, ~$450–550):** 52 dB, nearly as quiet, half the Honda's price, parallel-capable. The value pick for camping and light home backup.
@@ -141,12 +141,12 @@ Skip no-name units whose "2000 watts" turns out to be 1,400 running. In this cla
 
 Apartment and condo owners keeping a fridge, lights, and connectivity alive (on a ground-floor patio or yard — never a balcony, never indoors). Campers and RV owners who value quiet over capacity. CPAP users who need a guaranteed quiet night of medical power. Homeowners with gas everything and no pumps, whose outage plan is "essentials, comfortably." And anyone who already owns a big open-frame portable and wants a quiet overnight sipper to pair with it.
 
-Size up if: you have a well or sump pump, you need a window AC, or "microwave without thinking" matters to you. The [5,000-watt class](/articles/what-can-5000w-generator-run/) is where a house starts living normally; this class is where an outage stops being scary. Both are legitimate plans — just don't buy one expecting the other.
+Size up if: you have a well or sump pump, you need a window AC, or "microwave without thinking" matters to you. The [5,000-watt class](/articles/what-can-5000w-generator-run) is where a house starts living normally; this class is where an outage stops being scary. Both are legitimate plans — just don't buy one expecting the other.
 
 ## Keep reading
 
-- [What Can a 3,500-Watt Generator Run? Loads and Limits](/articles/what-can-3500-watt-generator-run/)
-- [What Can a 5000 Watt Generator Run? Real Loads, Real Math](/articles/what-can-5000w-generator-run/)
-- [Quietest Generators in 2026: 6 Inverter Picks Ranked by dB Rating](/articles/quietest-generators-noise-levels/)
-- [Backup Power for a CPAP Machine](/articles/backup-power-cpap-machine/)
-- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption/)
+- [What Can a 3,500-Watt Generator Run? Loads and Limits](/articles/what-can-3500-watt-generator-run)
+- [What Can a 5000 Watt Generator Run? Real Loads, Real Math](/articles/what-can-5000w-generator-run)
+- [Quietest Generators in 2026: 6 Inverter Picks Ranked by dB Rating](/articles/quietest-generators-noise-levels)
+- [Backup Power for a CPAP Machine](/articles/backup-power-cpap-machine)
+- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption)

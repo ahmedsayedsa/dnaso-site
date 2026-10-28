@@ -34,7 +34,7 @@ lang: "es"
 | Deflector de escape | Direccional, sin dB nominal | $25–80 | Apunta el ruido arriba/lejos; no lo absorbe |
 | Barrera de sonido (cerca, pared) | Unos dB en la zona de sombra | Variable | Bloquea la línea de visión, no el retumbo grave |
 
-Dos hechos de física gobiernan todo lo de abajo. Primero, los decibeles son logarítmicos: **−10 dB suena más o menos la mitad de fuerte** y representa una décima parte de la intensidad del sonido, así que un recorte total de 10 dB es más importante de lo que parece en el papel. Segundo, un generador hace ruido desde cuatro sitios — escape, admisión, ventilador de refrigeración, y el motor/alternador vibrando a través de su bastidor y del suelo — y cada método solo ataca algunos de ellos. Por eso los recortes se apilan en vez de que un método haga todo. El panorama completo de clasificaciones está en nuestra guía de [generadores más silenciosos](/es/articles/quietest-generators-noise-levels/); este artículo trata de cerrar la brecha con la máquina que ya tienes.
+Dos hechos de física gobiernan todo lo de abajo. Primero, los decibeles son logarítmicos: **−10 dB suena más o menos la mitad de fuerte** y representa una décima parte de la intensidad del sonido, así que un recorte total de 10 dB es más importante de lo que parece en el papel. Segundo, un generador hace ruido desde cuatro sitios — escape, admisión, ventilador de refrigeración, y el motor/alternador vibrando a través de su bastidor y del suelo — y cada método solo ataca algunos de ellos. Por eso los recortes se apilan en vez de que un método haga todo. El panorama completo de clasificaciones está en nuestra guía de [generadores más silenciosos](/es/articles/quietest-generators-noise-levels); este artículo trata de cerrar la brecha con la máquina que ya tienes.
 
 ## ¿La distancia de verdad hace a un generador más silencioso?
 
@@ -47,7 +47,7 @@ Sí — es el único método a la vez gratis y garantizado, porque no es un prod
 | 28 m | ~48 dB | ~62 dB |
 | 56 m | ~42 dB | ~56 dB |
 
-La jugada práctica: pon el generador en la esquina más alejada de la propiedad — tan lejos de tus dormitorios *y* de los vecinos como el terreno permita — con el escape apuntando lejos de cada casa. El suelo de seguridad es fijo: **a 6 metros o más de la casa**, escape lejos de ventanas y puertas, porque el monóxido de carbono es el peligro que supera al ruido siempre. Nuestra guía de colocación sobre [a qué distancia debe estar un generador de la casa](/es/articles/how-far-should-generator-be-from-house/) cubre el razonamiento de CO y las cuentas de calibre de cable para tramos largos (la caída de voltaje es real: usa cable más grueso pasado los 15 metros). Toma toda la distancia que tengas y sigue leyendo — los métodos de abajo son para los dB que la distancia no pudo darte.
+La jugada práctica: pon el generador en la esquina más alejada de la propiedad — tan lejos de tus dormitorios *y* de los vecinos como el terreno permita — con el escape apuntando lejos de cada casa. El suelo de seguridad es fijo: **a 6 metros o más de la casa**, escape lejos de ventanas y puertas, porque el monóxido de carbono es el peligro que supera al ruido siempre. Nuestra guía de colocación sobre [a qué distancia debe estar un generador de la casa](/es/articles/how-far-should-generator-be-from-house) cubre el razonamiento de CO y las cuentas de calibre de cable para tramos largos (la caída de voltaje es real: usa cable más grueso pasado los 15 metros). Toma toda la distancia que tengas y sigue leyendo — los métodos de abajo son para los dB que la distancia no pudo darte.
 
 ## ¿Qué hace en realidad una caja insonorizada para generador?
 
@@ -60,7 +60,7 @@ Construir una tú mismo es legítimo **si** respetas la ingeniería:
 - **Revístela, no la encajones sin más.** Vinilo de alta densidad o espuma acústica en las paredes interiores hacen la absorción; una caja de contrachapado desnuda sobre todo refleja el sonido hasta que se escapa por las rejillas.
 - **Mantén el acceso.** Recargarás cada 7–10 horas y revisarás el aceite. Una caja que da pereza abrir es una caja que dejarás abierta — con 0 dB de beneficio.
 
-<div class="safety"><strong>Nota de seguridad:</strong> Una caja cambia adónde va el monóxido de carbono. Haz funcionar el generador al aire libre, a 6 metros o más de la casa, con el escape dirigido fuera de la caja y apuntando lejos de ventanas, puertas y rejillas — y nunca en un garaje, sótano o bajo una terraza, con caja o sin caja. El CO es inodoro y mata en minutos. Las reglas completas están en nuestra [guía de seguridad de monóxido de carbono en generadores](/es/articles/generator-carbon-monoxide-safety/).</div>
+<div class="safety"><strong>Nota de seguridad:</strong> Una caja cambia adónde va el monóxido de carbono. Haz funcionar el generador al aire libre, a 6 metros o más de la casa, con el escape dirigido fuera de la caja y apuntando lejos de ventanas, puertas y rejillas — y nunca en un garaje, sótano o bajo una terraza, con caja o sin caja. El CO es inodoro y mata en minutos. Las reglas completas están en nuestra [guía de seguridad de monóxido de carbono en generadores](/es/articles/generator-carbon-monoxide-safety).</div>
 
 ## ¿Un silenciador más grande puede silenciar un generador?
 
@@ -82,16 +82,16 @@ Un deflector es un simple accesorio angulado en el tubo de escape que redirige e
 
 ## ¿Cuándo deberías dejar de silenciar y simplemente comprar silencioso?
 
-Haz la pila honestamente primero: distancia (−6 dB por duplicación), caja (5–10 dB), silenciador (2–5 dB), soportes y superficie para el retumbo. En un portátil de bastidor abierto de 74 dB, un resultado realista aterrizado es **unos 60–64 dB a 7 metros** — tolerable para el vecindario, plausible para las ordenanzas, y un logro genuino. Si tu requisito está por debajo de eso — funcionamiento nocturno cerca de dormitorios, horas de silencio en campamentos, una comunidad de propietarios con medidor — la respuesta es otra máquina, no otro accesorio. Los generadores inverter empiezan donde estos métodos terminan: el Honda EU2200i está clasificado a **48 dB** a un cuarto de carga, el Westinghouse iGen2200 a **52 dB**, el Champion 2500 de doble combustible a **53 dB** — a 7 metros, de fábrica, sin proyecto de construcción. Nuestro [ranking de generadores más silenciosos](/es/articles/quietest-generators-noise-levels/) tiene las seis elecciones verificadas con precios.
+Haz la pila honestamente primero: distancia (−6 dB por duplicación), caja (5–10 dB), silenciador (2–5 dB), soportes y superficie para el retumbo. En un portátil de bastidor abierto de 74 dB, un resultado realista aterrizado es **unos 60–64 dB a 7 metros** — tolerable para el vecindario, plausible para las ordenanzas, y un logro genuino. Si tu requisito está por debajo de eso — funcionamiento nocturno cerca de dormitorios, horas de silencio en campamentos, una comunidad de propietarios con medidor — la respuesta es otra máquina, no otro accesorio. Los generadores inverter empiezan donde estos métodos terminan: el Honda EU2200i está clasificado a **48 dB** a un cuarto de carga, el Westinghouse iGen2200 a **52 dB**, el Champion 2500 de doble combustible a **53 dB** — a 7 metros, de fábrica, sin proyecto de construcción. Nuestro [ranking de generadores más silenciosos](/es/articles/quietest-generators-noise-levels) tiene las seis elecciones verificadas con precios.
 
-Y una nota de mantenimiento que no cuesta nada: un generador se vuelve *más ruidoso* con la edad — un silenciador oxidado, tornillos de panel sueltos y un filtro de aire tapado añaden ruido. Antes de gastar en silenciar, gasta veinte minutos con una llave y la [lista de mantenimiento](/es/articles/generator-maintenance-checklist/). A veces el silencio que perdiste es solo un tornillo flojo.
+Y una nota de mantenimiento que no cuesta nada: un generador se vuelve *más ruidoso* con la edad — un silenciador oxidado, tornillos de panel sueltos y un filtro de aire tapado añaden ruido. Antes de gastar en silenciar, gasta veinte minutos con una llave y la [lista de mantenimiento](/es/articles/generator-maintenance-checklist). A veces el silencio que perdiste es solo un tornillo flojo.
 
 La pila en orden, entonces: distancia, superficie y soportes, caja, silenciador, deflector. El ruido manejado en ese orden cuesta menos y no arriesga nada — y las reglas de seguridad del recuadro de arriba están por encima de cada decibel de este artículo.
 
 ## Sigue leyendo
 
-- [Los generadores más silenciosos de 2026: 6 inverter ordenados por dB](/es/articles/quietest-generators-noise-levels/)
-- [Seguridad con monóxido de carbono en generadores: las reglas que salvan vidas](/es/articles/generator-carbon-monoxide-safety/)
-- [¿A qué distancia debe estar un generador de la casa?](/es/articles/how-far-should-generator-be-from-house/)
-- [¿Qué puede alimentar un generador de 7500 vatios? Ejemplos reales](/es/articles/what-can-7500-watt-generator-run/)
-- [Guía completa de energía de respaldo para el hogar 2026](/es/articles/complete-home-backup-power-guide/)
+- [Los generadores más silenciosos de 2026: 6 inverter ordenados por dB](/es/articles/quietest-generators-noise-levels)
+- [Seguridad con monóxido de carbono en generadores: las reglas que salvan vidas](/es/articles/generator-carbon-monoxide-safety)
+- [¿A qué distancia debe estar un generador de la casa?](/es/articles/how-far-should-generator-be-from-house)
+- [¿Qué puede alimentar un generador de 7500 vatios? Ejemplos reales](/es/articles/what-can-7500-watt-generator-run)
+- [Guía completa de energía de respaldo para el hogar 2026](/es/articles/complete-home-backup-power-guide)

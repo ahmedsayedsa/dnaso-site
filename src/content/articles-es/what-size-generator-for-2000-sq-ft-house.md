@@ -43,7 +43,7 @@ En la mayor parte de EE. UU., una casa de 2.000 pies cuadrados lleva un **aire a
 | 3,5 toneladas | 3.500–4.000 W | 15.000–19.000 W |
 | 4 toneladas | 4.000–4.600 W | 17.000–22.000 W |
 
-Esa columna de picos es la razón por la que el aire acondicionado domina el dimensionamiento. Para profundizar en tonelaje, valores LRA y arrancadores suaves, consulta mi guía sobre [dimensionamiento de generador para aire acondicionado central](/es/articles/what-size-generator-central-ac/).
+Esa columna de picos es la razón por la que el aire acondicionado domina el dimensionamiento. Para profundizar en tonelaje, valores LRA y arrancadores suaves, consulta mi guía sobre [dimensionamiento de generador para aire acondicionado central](/es/articles/what-size-generator-central-ac).
 
 ## ¿Qué cargas tiene en realidad una casa típica de 2.000 pies cuadrados?
 
@@ -66,7 +66,7 @@ Aquí va un inventario realista de cargas para una casa de 2.000 pies cuadrados 
 | Lavadora | 400–800 | 1.100–1.600 |
 | Lavavajillas (con secado caliente) | 1.200–1.800 | 1.200–1.800 |
 
-Nadie enciende todo eso a la vez. Dimensionar consiste en pensar en el peor momento realista, no en el máximo teórico. Es el mismo método habitación por habitación que explico en la [guía general de dimensionamiento para una casa](/es/articles/what-size-generator-run-house/); aquí lo aplico a este tamaño concreto de casa.
+Nadie enciende todo eso a la vez. Dimensionar consiste en pensar en el peor momento realista, no en el máximo teórico. Es el mismo método habitación por habitación que explico en la [guía general de dimensionamiento para una casa](/es/articles/what-size-generator-run-house); aquí lo aplico a este tamaño concreto de casa.
 
 ## Nivel 1: ¿Un portátil de 5.000–7.500 W puede con una casa de 2.000 pies cuadrados?
 
@@ -94,7 +94,7 @@ Cuando quieres que el aire, el calentador eléctrico, la cocina y la bomba de po
 - **Bomba de calor con resistencias eléctricas de apoyo, o casa totalmente eléctrica:** 22 kW, porque las resistencias solas pueden pedir 10.000–15.000 vatios en la noche más fría del año — que, no por casualidad, es cuando se va la luz.
 - **Dos sistemas de aire** (algunas casas de dos plantas tienen uno por planta): 22 kW con gestión de carga para que nunca arranquen a la vez.
 
-Las unidades fijas de 18–22 kW cuestan unos 5.000–6.500 dólares antes de la instalación; un trabajo completo instalado suele quedar entre 11.000 y 14.500 dólares. Desgloso dónde va cada dólar en la [guía de costo de un generador para toda la casa](/es/articles/whole-house-generator-cost/).
+Las unidades fijas de 18–22 kW cuestan unos 5.000–6.500 dólares antes de la instalación; un trabajo completo instalado suele quedar entre 11.000 y 14.500 dólares. Desgloso dónde va cada dólar en la [guía de costo de un generador para toda la casa](/es/articles/whole-house-generator-cost).
 
 ## ¿Cuáles son las trampas de vatios de arranque en una casa de este tamaño?
 
@@ -142,7 +142,7 @@ Si me lo preguntas como el que tiene que volver cuando algo no funciona: **la ma
 
 ## Sigue leyendo
 
-- [¿Qué tamaño de generador necesito para alimentar mi casa?](/es/articles/what-size-generator-run-house/)
-- [¿Qué tamaño de generador para una casa de 1.500 pies cuadrados?](/es/articles/what-size-generator-for-1500-sq-ft-house/)
-- [Dimensionamiento para aire acondicionado central: tonelaje, LRA y arrancadores suaves](/es/articles/what-size-generator-central-ac/)
-- [¿Cuánto cuesta un generador para toda la casa?](/es/articles/whole-house-generator-cost/)
+- [¿Qué tamaño de generador necesito para alimentar mi casa?](/es/articles/what-size-generator-run-house)
+- [¿Qué tamaño de generador para una casa de 1.500 pies cuadrados?](/es/articles/what-size-generator-for-1500-sq-ft-house)
+- [Dimensionamiento para aire acondicionado central: tonelaje, LRA y arrancadores suaves](/es/articles/what-size-generator-central-ac)
+- [¿Cuánto cuesta un generador para toda la casa?](/es/articles/whole-house-generator-cost)

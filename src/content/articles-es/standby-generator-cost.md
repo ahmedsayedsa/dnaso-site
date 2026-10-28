@@ -20,7 +20,7 @@ keywords: ["costo de un generador de reserva", "generador standby precio", "cuá
 
 **Respuesta rápida:** Un generador de reserva doméstico cuesta **$9,500–$15,000 totalmente instalado** en los tamaños que compra la mayoría de las casas (14–22 kW, con interruptor de transferencia automático incluido), y **$7,000–$18,000** en todo el rango residencial enfriado por aire. La configuración individual más común — una unidad clase 22 kW conectada para cubrir toda la casa — queda en **$10,000–$15,000 instalada**. El generador en sí es solo la mitad de la factura; la instalación es la otra mitad, y eso es cierto para todas las marcas. Todas las cifras de esta guía son rangos del mercado de EE. UU. 2025–2026, verificados en octubre de 2026.
 
-Esta es la versión neutral por marca de la pregunta por el costo de un generador standby. Generac posee aproximadamente el 70% del mercado residencial de EE. UU., así que los precios de Generac anclan las tablas — pero Kohler, Cummins, Briggs & Stratton y Champion venden en los mismos tamaños, y sus precios instalados quedan más cerca entre sí de lo que sugiere el marketing, porque la mitad de instalación de cada cotización no depende de la marca. Si estás comprando una marca en específico, empieza con nuestra [guía de costos de generadores Generac](/es/articles/generac-generator-cost/); esta página es para comparar todo el campo.
+Esta es la versión neutral por marca de la pregunta por el costo de un generador standby. Generac posee aproximadamente el 70% del mercado residencial de EE. UU., así que los precios de Generac anclan las tablas — pero Kohler, Cummins, Briggs & Stratton y Champion venden en los mismos tamaños, y sus precios instalados quedan más cerca entre sí de lo que sugiere el marketing, porque la mitad de instalación de cada cotización no depende de la marca. Si estás comprando una marca en específico, empieza con nuestra [guía de costos de generadores Generac](/es/articles/generac-generator-cost); esta página es para comparar todo el campo.
 
 ## ¿Cuánto cuesta un generador de reserva por tamaño?
 
@@ -41,7 +41,7 @@ Dos patrones importan más que cualquier renglón. Primero, **la instalación es
 
 Por encima de 26 kW, el mercado residencial cambia de carácter. Los generadores de reserva enfriados por líquido (de 30 kW para arriba, con motores estilo automotriz de 1,800 RPM más lentos) empiezan en unos **$12,000–$20,000 solo la unidad** y quedan en **$20,000–$35,000+ instalados**. Corren más silenciosos, toleran un servicio continuo más largo y le quedan a casas grandes o totalmente eléctricas — pero para una casa estándar de 2,500 pies² con calefacción de gas, un distribuidor que empuja el enfriado por líquido normalmente está vendiendo de más, no resolviendo un problema. La tabla de enfriados por aire de arriba es donde pertenece casi cualquier cotización residencial.
 
-El tamaño sigue yendo antes que el precio. Cada número de arriba supone que el generador coincide con tus cargas; nuestra [guía de tamaños](/es/articles/what-size-generator-run-house/) explica el cálculo de cargas que decide qué renglón de esta tabla es el tuyo.
+El tamaño sigue yendo antes que el precio. Cada número de arriba supone que el generador coincide con tus cargas; nuestra [guía de tamaños](/es/articles/what-size-generator-run-house) explica el cálculo de cargas que decide qué renglón de esta tabla es el tuyo.
 
 ## ¿Cuánto cuestan las marcas? Generac vs. Kohler vs. Cummins vs. las demás
 
@@ -55,7 +55,7 @@ Mismo tamaño, misma casa, distinta marca — esto es lo que la clase de 22 kW (
 | Briggs & Stratton | $10,000–$14,500 | Precio nivel Generac con garantía integral de 7 años (piezas, mano de obra, traslado) |
 | Champion (máx. 14 kW) | $8,000–$11,500 | La opción económica; llega solo hasta 14 kW, garantía limitada de 10 años, menor cobertura de distribuidores |
 
-El resumen honesto: **la marca mueve el total en cientos; la instalación lo mueve en miles.** El electricista, el técnico de gas, la base y los permisos cuestan lo mismo en cada renglón de esa tabla. Lo que las primas compran en realidad es operación más silenciosa, materiales de la carcasa, estructura de garantía y profundidad de distribuidores — diferencias reales, pero no otra matemática de instalación. Comparamos las tres grandes especificación por especificación en [Generac vs Kohler vs Cummins](/es/articles/generac-vs-kohler-vs-cummins/).
+El resumen honesto: **la marca mueve el total en cientos; la instalación lo mueve en miles.** El electricista, el técnico de gas, la base y los permisos cuestan lo mismo en cada renglón de esa tabla. Lo que las primas compran en realidad es operación más silenciosa, materiales de la carcasa, estructura de garantía y profundidad de distribuidores — diferencias reales, pero no otra matemática de instalación. Comparamos las tres grandes especificación por especificación en [Generac vs Kohler vs Cummins](/es/articles/generac-vs-kohler-vs-cummins).
 
 Una advertencia sobre cazar cotizaciones en línea: los precios de solo equipo ($5,800–$7,500 por un 22 kW con interruptor) son lo que anuncian los resultados de búsqueda, y nunca incluyen la instalación. Compara cotizaciones instaladas contra cotizaciones instaladas, detalladas de la misma manera.
 
@@ -105,7 +105,7 @@ No — porque es el mismo equipo, y los dos términos describen cosas distintas.
 
 El precio sigue a la cobertura, no a la palabra. Un standby de circuitos esenciales — 10–14 kW respaldando el refrigerador, la calefacción, la bomba de pozo y unos cuantos circuitos — se instala por **$7,000–$12,000**. Una configuración de casa completa de 22–26 kW con manejo de cargas cuesta **$9,500–$18,000**. Si una cotización usa «para toda la casa» para justificar una prima sobre una cotización standby del mismo tamaño, esa prima es marketing, no equipo.
 
-Nuestro [desglose de costo de un generador para toda la casa](/es/articles/whole-house-generator-cost/) profundiza en leer cotizaciones concepto por concepto y detectar el relleno; esta guía es el mapa, aquella es la lupa.
+Nuestro [desglose de costo de un generador para toda la casa](/es/articles/whole-house-generator-cost) profundiza en leer cotizaciones concepto por concepto y detectar el relleno; esta guía es el mapa, aquella es la lupa.
 
 ## En resumen
 

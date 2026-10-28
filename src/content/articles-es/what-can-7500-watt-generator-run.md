@@ -20,7 +20,7 @@ Cada portátil de 7,500W también se vende con un número más grande en la caja
 
 Dimensionas tus cargas contra los 7,500 vatios continuos. La capacidad de pico existe para absorber los arranques de motores — compresores de refrigerador, bombas de pozo, sopladores de calefacción — sin disparar protecciones. Si tu carga constante es de 7,800 vatios, estás pasado de presupuesto aunque estés "debajo" del número pico, y el generador va a trabajar caliente, quemar aceite y eventualmente dispararse o fallar.
 
-La regla de oro: **planea como máximo el 80% de los vatios continuos como tu carga continua** — unos 6,000 vatios en una unidad de 7,500W. Eso deja margen para los picos de arranque de motores y mantiene el motor en su zona cómoda. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/).
+La regla de oro: **planea como máximo el 80% de los vatios continuos como tu carga continua** — unos 6,000 vatios en una unidad de 7,500W. Eso deja margen para los picos de arranque de motores y mantiene el motor en su zona cómoda. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house).
 
 ## Por cuarto: qué consume cada cosa en realidad
 
@@ -114,7 +114,7 @@ La configuración de "vivir casi normal, solo administrando lo grande". Este es 
 
 La regla de manejo aquí: no pongas el microondas y el ciclo de agitación de la lavadora mientras arrancan los compresores de los dos aires de ventana. Escalonas las cargas grandes intermitentes y te mantienes dentro del presupuesto. El pico de arranque de 3,000W de la bomba de pozo es el evento individual más grande — si coincide con el arranque de los dos compresores de AC (poco probable pero posible), podrías tocar brevemente 8,000–9,000W totales, que la capacidad de pico absorbe por el segundo o dos que dura.
 
-Consumo de gasolina a esta carga: unos 0.8–1.1 gal/hr. Con un tanque de 6.5 galones, eso es recargar cada 6–8 horas. Para las cuentas completas de combustible, ver [¿Cuánta gasolina consume un generador? Números reales de consumo](/es/articles/generator-fuel-consumption/).
+Consumo de gasolina a esta carga: unos 0.8–1.1 gal/hr. Con un tanque de 6.5 galones, eso es recargar cada 6–8 horas. Para las cuentas completas de combustible, ver [¿Cuánta gasolina consume un generador? Números reales de consumo](/es/articles/generator-fuel-consumption).
 
 ## Escenario 3: Casi todo (~7,200W) — el límite
 
@@ -143,7 +143,7 @@ Así vive la gente cómodamente una semana con un portátil de 7,500W. No es aut
 
 Un AC central de 3 toneladas trabaja a unos 3,500 vatios — bien dentro de la capacidad de un generador de 7,500W. Pero arrancar el compresor demanda 9,000–12,000 vatios durante el primer segundo o dos (amperaje de rotor bloqueado, típicamente 60–80A a 240V). La capacidad de pico de 9,500W del generador no lo puede entregar. El compresor se traba, el voltaje colapsa, y o se dispara el breaker del generador o — peor — el compresor se queda ahí intentando arrancar con bajo voltaje y cocina sus bobinados. Los intentos de arranque con bajo voltaje son una causa principal de muerte de compresores.
 
-Un **arrancador suave** (MicroAir EasyStart es la marca conocida, ~$300–400 más instalación) reduce el pico de arranque 60–70%, bajando el arranque de una unidad de 3 toneladas a unos 3,500–4,500W — que un generador de 7,500W sí maneja. Con un arrancador suave instalado, el AC central en un portátil de 7,500W pasa de "absolutamente no" a "sí, con manejo de cargas". Sin uno, ni lo intentes. El desglose completo está en [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac/).
+Un **arrancador suave** (MicroAir EasyStart es la marca conocida, ~$300–400 más instalación) reduce el pico de arranque 60–70%, bajando el arranque de una unidad de 3 toneladas a unos 3,500–4,500W — que un generador de 7,500W sí maneja. Con un arrancador suave instalado, el AC central en un portátil de 7,500W pasa de "absolutamente no" a "sí, con manejo de cargas". Sin uno, ni lo intentes. El desglose completo está en [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac).
 
 **También fuera de la lista:**
 
@@ -168,15 +168,15 @@ Notas del campo:
 - **Champion 100520** es el líder en volumen — ampliamente disponible, buen soporte de refacciones, y el apagado automático CO Shield viene de serie. El "primer generador" más común por buena razón.
 - **Westinghouse WGen7500DF** es la elección si quieres capacidad de propano sin un gran salto de precio. Recuerda la reducción de ~10% de potencia con propano (unos 6,750W continuos) — dimensiona tus escenarios contra el número de propano si ese es tu combustible.
 - **Predator 7500** es la jugada económica. La red de soporte de Harbor Freight es la contraparte — bien si hay una tienda cerca, molesto si no.
-- Ninguno de estos es silencioso (dB bajos en los 70 es lo estándar de la clase). Si el ruido es prioridad, mira modelos inverter en este rango de potencia o planea con distancia — ver [Niveles de ruido de generadores comparados: ¿qué tan ruidoso es demasiado?](/es/articles/quietest-generators-noise-levels/).
+- Ninguno de estos es silencioso (dB bajos en los 70 es lo estándar de la clase). Si el ruido es prioridad, mira modelos inverter en este rango de potencia o planea con distancia — ver [Niveles de ruido de generadores comparados: ¿qué tan ruidoso es demasiado?](/es/articles/quietest-generators-noise-levels).
 
-Todos necesitan cambio de aceite después de las primeras 20–30 horas (asentamiento), luego cada 50–100 horas de uso según el manual. Respeta el calendario — la rutina completa está en [Lista de mantenimiento del generador: qué hacer y cuándo](/es/articles/generator-maintenance-checklist/).
+Todos necesitan cambio de aceite después de las primeras 20–30 horas (asentamiento), luego cada 50–100 horas de uso según el manual. Respeta el calendario — la rutina completa está en [Lista de mantenimiento del generador: qué hacer y cuándo](/es/articles/generator-maintenance-checklist).
 
 ## Seguridad eléctrica: lee esto antes de enchufar nada
 
 Un generador de 7,500W produce suficiente energía para matarte y suficiente para incendiar tu casa si se conecta mal. Las reglas no negociables:
 
-- **Jamás conectes un generador directo a un enchufe de pared** ("retroalimentación"). Energiza las líneas de la compañía eléctrica afuera de tu casa y puede electrocutar a los técnicos que intentan restablecer el servicio. Además es ilegal en la mayoría de las jurisdicciones. Las únicas formas seguras de alimentar circuitos de la casa son un **transfer switch** o un **kit de interlock** instalado en tu panel — ver [Transfer switch vs kit de interlock: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit/).
+- **Jamás conectes un generador directo a un enchufe de pared** ("retroalimentación"). Energiza las líneas de la compañía eléctrica afuera de tu casa y puede electrocutar a los técnicos que intentan restablecer el servicio. Además es ilegal en la mayoría de las jurisdicciones. Las únicas formas seguras de alimentar circuitos de la casa son un **transfer switch** o un **kit de interlock** instalado en tu panel — ver [Transfer switch vs kit de interlock: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit).
 - **Úsalo afuera, a 20+ pies de la casa**, con el escape apuntando lejos. El monóxido de carbono no huele y mata en minutos. Nunca en el garage, el sótano ni debajo de una terraza — ni con la puerta abierta.
 - **Deja enfriar el motor antes de recargar gasolina.** Apágalo, espera 15 minutos y luego recarga. Gasolina sobre un escape a 500°F es exactamente tan malo como suena.
 - **Usa cables de extensión de calibre grueso** (calibre 12 mínimo, calibre 10 para tramos largos) para uso en exteriores. Los cables delgados se sobrecalientan, bajan el voltaje y se pueden derretir.
@@ -187,8 +187,8 @@ Si algo de esto es nuevo para ti, que un electricista instale el transfer switch
 
 ## Sigue leyendo
 
-- [Guía completa de energía de respaldo para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide/)
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/)
-- [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac/)
-- [¿Cuánta gasolina consume un generador? Números reales de consumo](/es/articles/generator-fuel-consumption/)
-- [Transfer switch vs kit de interlock: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit/)
+- [Guía completa de energía de respaldo para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide)
+- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house)
+- [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac)
+- [¿Cuánta gasolina consume un generador? Números reales de consumo](/es/articles/generator-fuel-consumption)
+- [Transfer switch vs kit de interlock: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit)

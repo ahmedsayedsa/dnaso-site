@@ -18,7 +18,7 @@ lang: "es"
 
 Un generador Predator no arranca por el mismo puñado de razones que cualquier motor chico — más dos o tres mañas propias de las máquinas de Harbor Freight. He dado servicio a muchos de estos. Son motores clon de Honda fabricados para un precio, y una vez que sabes dónde recortaron costos, son de los generadores más fáciles de diagnosticar en EE. UU. Las fallas se juntan en los mismos lugares: el carburador, el sensor de bajo aceite, y una bujía de fábrica en la que no confiaría ni para encender una vela de cumpleaños.
 
-Soy Mike Donovan, electricista licenciado, 18 años en el oficio. Esta guía cubre los modelos que más veo: el **inverter Predator 3500 Super Quiet**, el **4375** de bastidor abierto, y las unidades grandes **9000/9500** de arranque eléctrico. ¿Otra marca? Empieza por mi [guía general para cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting/).
+Soy Mike Donovan, electricista licenciado, 18 años en el oficio. Esta guía cubre los modelos que más veo: el **inverter Predator 3500 Super Quiet**, el **4375** de bastidor abierto, y las unidades grandes **9000/9500** de arranque eléctrico. ¿Otra marca? Empieza por mi [guía general para cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting).
 
 Antes de tocar nada, tres reglas de seguridad:
 
@@ -44,7 +44,7 @@ Todos trabajan con carburadores de surtidores pequeños — y surtidores pequeñ
 Todo Predator tiene una llave de paso de gasolina — la valvulita bajo el tanque o a un lado — y causa más confusión que cualquier otra pieza de la máquina.
 **La trampa de las marcas.** En varios modelos las posiciones de la palanca están marcadas con iconitos pequeños, fáciles de leer mal. Me han llamado por un 4375 "muerto" que tenía la llave a un cuarto de vuelta de ON: tosía una vez con la gasolina del tazón y se apagaba, y el dueño perseguía un problema de carburador que no existía. Gira la válvula por completo a ON y confirma que la palanca apunte a donde dice la fundición; las válvulas baratas pueden patinar en su eje.
 
-**La rejilla tapada de la llave.** Dentro de la llave hay una rejilla fina, y los modelos de bastidor abierto (4375, 9000) suelen traer un vasito de sedimentos que se desenrosca. Ahí se juntan escamas de óxido del tanque de acero y basura de un bidón sucio. Desenrosca el vasito sobre un trapo, enjuaga la rejilla con gasolina fresca y revisa el flujo con la línea desconectada: debe ser un chorro continuo, no un goteo. Un tazón hambriento da el patrón clásico de arranca con lo del tazón y muere al minuto — que mi guía de [el generador arranca y se apaga](/es/articles/generator-starts-then-dies/) recorre paso a paso.
+**La rejilla tapada de la llave.** Dentro de la llave hay una rejilla fina, y los modelos de bastidor abierto (4375, 9000) suelen traer un vasito de sedimentos que se desenrosca. Ahí se juntan escamas de óxido del tanque de acero y basura de un bidón sucio. Desenrosca el vasito sobre un trapo, enjuaga la rejilla con gasolina fresca y revisa el flujo con la línea desconectada: debe ser un chorro continuo, no un goteo. Un tazón hambriento da el patrón clásico de arranca con lo del tazón y muere al minuto — que mi guía de [el generador arranca y se apaga](/es/articles/generator-starts-then-dies) recorre paso a paso.
 
 **La bomba de gasolina por vacío (9000/9500 y algunos inverter).** Los Predator de bastidor grande usan una bombita accionada por vacío, con los pulsos de presión del cárter a través de una manguerita de hule. Si esa manguera se agrieta, se sale de su boquilla o queda aplastada al reinstalar el panel, la bomba deja de entregar y el motor se queda sin gasolina. La bomba es una pieza de $10–15, y falla lo bastante seguido como para que yo revise las mangueras en cada 9000 que llega "muerto".
 
@@ -95,7 +95,7 @@ Con la mayoría de las marcas aquí te guiaría por una limpieza de 45–90 minu
 
 Para una máquina que costó $350–900 nueva, un carburador de $35 es de las mejores gangas en reparación de motores chicos. Busca por tamaño de motor y modelo ("carburador Predator 212cc"), y fotografía la varilla antes de desenganchar nada — los carburadores clon a veces necesitan que transfieras la varilla del choke de la unidad vieja.
 
-¿Cuándo limpiaría yo en vez de eso? Si el repuesto se ve peor fundido que tu original, o si está agotado en temporada de tormentas — pasa, porque el Predator de todos los demás murió la misma semana. Y ojo con el síntoma intermedio: un motor que arranca pero *oscila* subiendo y bajando tiene el carburador parcialmente tapado, no muerto — mira primero mi guía de [generador que oscila](/es/articles/generator-surging/); ese suele ser una limpieza de diez minutos del surtidor piloto.
+¿Cuándo limpiaría yo en vez de eso? Si el repuesto se ve peor fundido que tu original, o si está agotado en temporada de tormentas — pasa, porque el Predator de todos los demás murió la misma semana. Y ojo con el síntoma intermedio: un motor que arranca pero *oscila* subiendo y bajando tiene el carburador parcialmente tapado, no muerto — mira primero mi guía de [generador que oscila](/es/articles/generator-surging); ese suele ser una limpieza de diez minutos del surtidor piloto.
 
 ## Garantía y piezas: el panorama honesto de Harbor Freight
 
@@ -112,11 +112,11 @@ Trabaja los pasos en orden y un Predator casi siempre confiesa. Detente y entré
 - **Hay fuga de gasolina** en cualquier punto que no puedas arreglar re-apretando una manguera. No lo trabajes: arregla la fuga o llévalo al taller.
 - **Está dentro de los 90 días de garantía o de la cobertura del plan extendido.** Tu ayuda es el mostrador de devoluciones; para eso es la cobertura.
 
-En un taller, calcula $100–175 por diagnóstico en la mayoría de los mercados — una tercera parte de un 4375 nuevo. Esa es la verdad final del Predator: estas máquinas premian a los dueños que giran una llave por veinte minutos y castigan a los que pagan tarifas de taller. Mantente en el primer grupo con la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/) — quince minutos por temporada separan al generador más barato que tendrás de un pisapapeles carísimo.
+En un taller, calcula $100–175 por diagnóstico en la mayoría de los mercados — una tercera parte de un 4375 nuevo. Esa es la verdad final del Predator: estas máquinas premian a los dueños que giran una llave por veinte minutos y castigan a los que pagan tarifas de taller. Mantente en el primer grupo con la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist) — quince minutos por temporada separan al generador más barato que tendrás de un pisapapeles carísimo.
 
 ## Sigue leyendo
 
-- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting/)
-- [El generador arranca y se apaga: trabaja esta lista en orden](/es/articles/generator-starts-then-dies/)
-- [Generador que oscila: por qué sube y baja de revoluciones (y cómo arreglarlo)](/es/articles/generator-surging/)
-- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist/)
+- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting)
+- [El generador arranca y se apaga: trabaja esta lista en orden](/es/articles/generator-starts-then-dies)
+- [Generador que oscila: por qué sube y baja de revoluciones (y cómo arreglarlo)](/es/articles/generator-surging)
+- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist)

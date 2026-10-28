@@ -32,7 +32,7 @@ Un generador convencional tiene que girar exactamente a 3.600 RPM todo el tiempo
 
 Un generador inverter rompe ese vínculo. El motor genera energía bruta, la electrónica la limpia y la convierte en corriente alterna estable, y eso significa que el motor solo tiene que girar tan rápido como exija la carga del momento. Conectas un cargador de teléfono y el motor se acomoda en un ronroneo bajo y silencioso. Arranca el compresor del refrigerador y se acelera para el pico, y luego vuelve a bajar. El consumo sigue a las revoluciones casi en línea recta, así que una carga ligera significa de verdad un consumo ligero.
 
-Por eso esta clase de 2000 vatios hoy es *casi puro* inverter. Quedan por ahí algunas unidades convencionales baratas de 2000 vatios, y queman notablemente más — calcula 0,3–0,4 gal/h incluso con cargas ligeras, porque no pueden bajar el ritmo. Si estás comprando y el consumo te importa, el sobreprecio del inverter (a menudo $100–200) se paga solo más rápido de lo que la gente cree. También es la razón por la que estas máquinas encabezan nuestro [ranking de los generadores más silenciosos](/es/articles/quietest-generators-noise-levels/): motor lento, poco ruido, poca gasolina. Una cosa sigue a la otra.
+Por eso esta clase de 2000 vatios hoy es *casi puro* inverter. Quedan por ahí algunas unidades convencionales baratas de 2000 vatios, y queman notablemente más — calcula 0,3–0,4 gal/h incluso con cargas ligeras, porque no pueden bajar el ritmo. Si estás comprando y el consumo te importa, el sobreprecio del inverter (a menudo $100–200) se paga solo más rápido de lo que la gente cree. También es la razón por la que estas máquinas encabezan nuestro [ranking de los generadores más silenciosos](/es/articles/quietest-generators-noise-levels): motor lento, poco ruido, poca gasolina. Una cosa sigue a la otra.
 
 ## ¿Cuánto dura un generador de 2000 vatios con un tanque de gasolina?
 
@@ -54,7 +54,7 @@ Una advertencia desde la experiencia: las cargas de la columna izquierda son vat
 
 Vamos a traducir los galones a los escenarios para los que la gente compra estas máquinas. Uso **$3,50 por galón**, más o menos el promedio nacional de EE. UU.; ajusta al precio de tu zona, que los galones no cambian.
 
-**La noche del CPAP (mi recomendación más común).** Un CPAP sin humidificador térmico consume 40–90 vatios. Súmale un cargador de teléfono y una luz LED y estás en unos 150 vatios totales. En modo eco eso es como 0,1 gal/h, así que una noche de 8 horas de sueño te cuesta **más o menos 0,8 galones — menos de $3** — y el tanque normalmente aguanta la noche sin tener que rellenar a las 3 de la mañana. Por eso exactamente oriento a los usuarios médicos hacia este tamaño en nuestra [guía de energía de respaldo para CPAP](/es/articles/backup-power-cpap-machine/): la máquina es lo bastante silenciosa para no arruinarte el sueño y lo bastante barata para trabajar cada noche de un apagón largo.
+**La noche del CPAP (mi recomendación más común).** Un CPAP sin humidificador térmico consume 40–90 vatios. Súmale un cargador de teléfono y una luz LED y estás en unos 150 vatios totales. En modo eco eso es como 0,1 gal/h, así que una noche de 8 horas de sueño te cuesta **más o menos 0,8 galones — menos de $3** — y el tanque normalmente aguanta la noche sin tener que rellenar a las 3 de la mañana. Por eso exactamente oriento a los usuarios médicos hacia este tamaño en nuestra [guía de energía de respaldo para CPAP](/es/articles/backup-power-cpap-machine): la máquina es lo bastante silenciosa para no arruinarte el sueño y lo bastante barata para trabajar cada noche de un apagón largo.
 
 **El fin de semana de campamento.** Refrigerador o hielera eléctrica ciclando, luces, teléfonos, quizá un ventilador chico: digamos 300–500 vatios de promedio. Calcula **0,12–0,18 gal/h**, así que una jornada de 10 horas entre la tarde y la noche son 1,2–1,8 galones. Un bidón de 5 galones — unos $17 — le alcanza a la mayoría para un fin de semana de tres días, y sobra.
 
@@ -71,7 +71,7 @@ Mi opinión honesta, después de ver algunos mal instalados: úsalos, pero respe
 - **Las fugas de vacío matan el sifón.** El sistema trabaja con un pulso suave de vacío de la bomba de gasolina. Una tapa barata con mal sello va a dejar seco el generador a las 2 de la mañana con el tanque externo lleno. Prueba cualquier instalación un día completo en casa antes de depender de ella en un apagón.
 - **Compra la tapa con la ventilación correcta para tu modelo.** Las tapas del EU2200i y del EU2000i no son la misma pieza, y una tapa que no ventila bien puede colapsar un tanque externo de plástico o matar de hambre al motor.
 - **Nada de rellenar en caliente. Nunca.** Con cualquier sistema que uses, apaga el generador y deja enfriar el escape antes de cambiar tanques. Verter gasolina junto a un escape que lleva tres horas trabajando es como empiezan los incendios de garage. Esto importa más con los sistemas externos, porque la gente se confía.
-- **Para guardarlo, déjalo seco igual.** Las tapas extendidas no cambian las reglas de guardado de nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/): la gasolina vieja en un carburador inverter diminuto sigue siendo la causa #1 de los no arranques por los que me llaman.
+- **Para guardarlo, déjalo seco igual.** Las tapas extendidas no cambian las reglas de guardado de nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist): la gasolina vieja en un carburador inverter diminuto sigue siendo la causa #1 de los no arranques por los que me llaman.
 
 ## ¿Cómo se compara un inverter de 2000 vatios con un convencional de 5.500?
 
@@ -84,7 +84,7 @@ Esta es la comparación que vende los inverter chicos, y no es mercadotecnia: es
 | Costo por noche a $3,50/gal | ~$3,50 | $11–14 |
 | Costo en un apagón de 5 días, solo noches | ~$18 | $56–70 |
 
-La máquina convencional grande quema la mayor parte de esa gasolina solo girando su motor más grande a 3.600 RPM: estás pagando por rotar masa, no por alimentar tu refrigerador. Este error lo veo seguido: alguien compra el generador más grande que le permite el presupuesto "por seguridad" y luego descubre que un apagón de tres días le costó $150 en gasolina que tuvo que cazar en estaciones con filas que dan la vuelta a la cuadra. Si tus cargas realistas son ligeras — y en la mayoría de los departamentos, campamentos y hogares con necesidades médicas lo son — el inverter chico no es la opción de compromiso. Es la herramienta correcta. Nuestra [guía completa de consumo de combustible de generadores](/es/articles/generator-fuel-consumption/) hace esta misma cuenta para cada clase de tamaño, si estás entre dos tamaños.
+La máquina convencional grande quema la mayor parte de esa gasolina solo girando su motor más grande a 3.600 RPM: estás pagando por rotar masa, no por alimentar tu refrigerador. Este error lo veo seguido: alguien compra el generador más grande que le permite el presupuesto "por seguridad" y luego descubre que un apagón de tres días le costó $150 en gasolina que tuvo que cazar en estaciones con filas que dan la vuelta a la cuadra. Si tus cargas realistas son ligeras — y en la mayoría de los departamentos, campamentos y hogares con necesidades médicas lo son — el inverter chico no es la opción de compromiso. Es la herramienta correcta. Nuestra [guía completa de consumo de combustible de generadores](/es/articles/generator-fuel-consumption) hace esta misma cuenta para cada clase de tamaño, si estás entre dos tamaños.
 
 El otro lado, para ser justos: una unidad de 2000 vatios jamás arrancará una central de aire acondicionado, ni trabajará una bomba de pozo y un refrigerador a la vez, ni alimentará un calentador de agua eléctrico. Es un especialista en cargas ligeras. Muchos de mis clientes terminan teniendo los dos: el convencional grande para las cargas pesadas del día durante un apagón, y el inverter chico para el turno de la noche. Esa pareja no es un lujo: haz la cuenta de gasolina de arriba para un apagón de una semana y se paga sola.
 
@@ -94,7 +94,7 @@ Algunos hábitos que aparecen una y otra vez en las cuentas de gasolina más baj
 
 1. **Deja el modo eco encendido** a menos que una carga de motor batalle para arrancar. El eco apagado con carga ligera es la forma más común en que la gente duplica su consumo sin enterarse.
 2. **Escalona las cargas grandes.** Usa el microondas *o* la cafetera, no los dos. Cada minuto cerca de plena carga cuesta el combustible de cuatro minutos en modo eco.
-3. **Carga las baterías en lote.** Carga los teléfonos, la laptop y las baterías de herramientas mientras el refrigerador ya está haciendo que el motor se acelere: el costo marginal de cargar durante un pico que de todos modos ibas a pagar es casi cero. Es la misma lógica de emparejar un generador chico con una de las unidades de nuestra [guía de estaciones de energía portátiles](/es/articles/portable-power-stations-home-backup/): deja que el generador cargue la estación rápido y con una carga eficiente, luego apágalo y pasa la noche en batería silenciosa.
+3. **Carga las baterías en lote.** Carga los teléfonos, la laptop y las baterías de herramientas mientras el refrigerador ya está haciendo que el motor se acelere: el costo marginal de cargar durante un pico que de todos modos ibas a pagar es casi cero. Es la misma lógica de emparejar un generador chico con una de las unidades de nuestra [guía de estaciones de energía portátiles](/es/articles/portable-power-stations-home-backup): deja que el generador cargue la estación rápido y con una carga eficiente, luego apágalo y pasa la noche en batería silenciosa.
 4. **Mantén limpio el filtro de aire y fresco el aceite.** Un filtro tapado en un motor chico enriquece la mezcla y desperdicia gasolina. Estos motores llevan casi nada de aceite — 0,42 cuartos en un EU2200i — así que un cambio de $6 es un seguro barato para el consumo y para la vida del motor.
 5. **No lo dejes en vacío "por si acaso".** Si nada va a consumir energía durante una hora, apágalo. Un generador sin carga en modo eco igual se bebe 0,08 gal/h haciendo literalmente nada por ti.
 
@@ -104,8 +104,8 @@ Un generador inverter de 2000 vatios consume **unos 0,1 galones por hora haciend
 
 ## Sigue leyendo
 
-- [Consumo de combustible de generadores: galones por hora por tamaño y carga](/es/articles/generator-fuel-consumption/)
-- [¿Cuánta gasolina consume un generador de 5500 W?](/es/articles/how-much-gas-does-5500w-generator-use/)
-- [Energía de respaldo para una máquina CPAP: vatios, baterías y autonomía](/es/articles/backup-power-cpap-machine/)
-- [Los generadores más silenciosos: niveles reales de ruido comparados](/es/articles/quietest-generators-noise-levels/)
-- [Estaciones de energía portátiles para respaldo en casa: una evaluación honesta](/es/articles/portable-power-stations-home-backup/)
+- [Consumo de combustible de generadores: galones por hora por tamaño y carga](/es/articles/generator-fuel-consumption)
+- [¿Cuánta gasolina consume un generador de 5500 W?](/es/articles/how-much-gas-does-5500w-generator-use)
+- [Energía de respaldo para una máquina CPAP: vatios, baterías y autonomía](/es/articles/backup-power-cpap-machine)
+- [Los generadores más silenciosos: niveles reales de ruido comparados](/es/articles/quietest-generators-noise-levels)
+- [Estaciones de energía portátiles para respaldo en casa: una evaluación honesta](/es/articles/portable-power-stations-home-backup)

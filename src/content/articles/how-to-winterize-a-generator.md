@@ -53,7 +53,7 @@ Swap the inline fuel filter now too, if your model has one. A $4 filter is one l
 
 Owners get this backwards constantly — fresh oil in spring *feels* right. It isn't. Used oil isn't just dirty; it's acidic. Combustion blow-by contaminates it with moisture and acid all season, and that acid sits against bearings, cylinder walls, and seals all winter, etching metal. A spring change drains it *after* five months of damage. A fall change means the engine sleeps in clean oil.
 
-So, with the engine warm from the fuel run (warm oil drains fully; cold oil leaves sludge), drain and refill with your manual's weight — **10W-30** for most portables, **5W-30 synthetic** if it must crank in deep cold. Most portables take **0.6 to 1.1 quarts**: a $6–8 job. Run it one minute, then check the level on flat ground. It's exactly the routine in our [generator maintenance checklist](/articles/generator-maintenance-checklist/) — winterizing is just the annual service, done at the right end of the season.
+So, with the engine warm from the fuel run (warm oil drains fully; cold oil leaves sludge), drain and refill with your manual's weight — **10W-30** for most portables, **5W-30 synthetic** if it must crank in deep cold. Most portables take **0.6 to 1.1 quarts**: a $6–8 job. Run it one minute, then check the level on flat ground. It's exactly the routine in our [generator maintenance checklist](/articles/generator-maintenance-checklist) — winterizing is just the annual service, done at the right end of the season.
 
 ## Step 3: What Does Fogging Oil Do, and How Do You Apply It?
 
@@ -96,7 +96,7 @@ The rules are mostly about moisture and fuel vapor:
 - **Never store a fueled generator in living space.** Gasoline vapor is a fire hazard and the smell migrates everywhere. Garage or shed, away from furnaces and pilot lights — and even a "dry" tank isn't vapor-free.
 - **Off the ground if you can.** A pallet or 2×4s under the frame keeps it out of puddles and spring melt.
 
-**The rodent problem is real.** It keeps showing up in my spring calls, and in the [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting/) too: mice nest in air boxes and muffler housings and chew filters into bedding. Defenses: clean the air box during Step 4, stuff steel wool in the exhaust outlet (tie a tag on the handle: REMOVE BEFORE STARTING — ask me how I know it matters), and put mothballs *around* the unit, never inside the air box.
+**The rodent problem is real.** It keeps showing up in my spring calls, and in the [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting) too: mice nest in air boxes and muffler housings and chew filters into bedding. Defenses: clean the air box during Step 4, stuff steel wool in the exhaust outlet (tie a tag on the handle: REMOVE BEFORE STARTING — ask me how I know it matters), and put mothballs *around* the unit, never inside the air box.
 
 **Covers:** a breathable cover or an old moving blanket — **$15–30** fitted. Not a sealed plastic tarp: it traps condensation all winter and you'll unwrap rust in April.
 
@@ -105,11 +105,11 @@ The rules are mostly about moisture and fuel vapor:
 Plenty of owners shouldn't fully winterize at all. If your winters bring ice-storm outages — or a sump pump or well pump depends on that machine in January — the right plan isn't storage, it's *readiness with storage habits*:
 
 - Stabilize the fuel (full tank, treated, per Step 1) and keep the fuel valve ON so it's genuinely one-pull ready.
-- **Exercise it monthly:** 20–30 minutes under at least 30–50% load — a space heater and some lights — not a 3-minute idle in the driveway. Idling without load wets the plug and never warms the oil enough to boil off moisture; loaded running does both jobs. It's why an exercised generator can skip most of this guide and still outlast a "properly stored" one — sitting kills these engines, not hours, as our guide to [how long generators actually last](/articles/how-long-do-generators-last/) shows with real numbers.
+- **Exercise it monthly:** 20–30 minutes under at least 30–50% load — a space heater and some lights — not a 3-minute idle in the driveway. Idling without load wets the plug and never warms the oil enough to boil off moisture; loaded running does both jobs. It's why an exercised generator can skip most of this guide and still outlast a "properly stored" one — sitting kills these engines, not hours, as our guide to [how long generators actually last](/articles/how-long-do-generators-last) shows with real numbers.
 - Keep the battery on a maintainer between runs, and do the fall oil change and plug/filter service anyway.
 - Store it near its running position so a 2 a.m. outage is a wheel-it-out job, not a shed treasure hunt.
 
-And the pre-season work in the [storm preparedness checklist](/articles/storm-preparedness-checklist/) — fuel on hand, cords checked, transfer setup tested — turns a ready generator into actual power when the ice comes.
+And the pre-season work in the [storm preparedness checklist](/articles/storm-preparedness-checklist) — fuel on hand, cords checked, transfer setup tested — turns a ready generator into actual power when the ice comes.
 
 ## Do Standby Generators Need Winterizing at All?
 
@@ -119,7 +119,7 @@ Mostly, they winterize themselves: weekly exercise keeps oil circulated and the 
 - **Liquid-cooled models:** verify coolant level and freeze protection — a 50/50 mix protects to about **−34°F**.
 - **Air path:** clear leaves from the intake and exhaust louvers, and in snow country keep the unit shoveled out — a buried exhaust is a shutdown, or worse.
 - **Exercise cycle:** confirm it's enabled, running weekly, completing without fault codes.
-- **New units:** break-in is a separate subject — see [how to break in a new generator](/articles/how-to-break-in-a-generator/) — and fogging doesn't apply to a machine that exercises weekly.
+- **New units:** break-in is a separate subject — see [how to break in a new generator](/articles/how-to-break-in-a-generator) — and fogging doesn't apply to a machine that exercises weekly.
 
 ## How Do You Wake a Winterized Generator Up in Spring?
 
@@ -131,11 +131,11 @@ The wake-up is 15 minutes of undoing:
 4. **Fuel:** run-dry owners refill with fresh gas, open the valve, and give the bowl a minute to fill before pulling. Full-tank owners: stabilized fuel is good, but past 12 months, drain and replace it instead of gambling.
 5. **First start outdoors,** warm it 2–3 minutes, then run a real load for 10–15 minutes and watch for surging, leaks, or smoke that doesn't clear. A fogged cylinder smokes blue-white for the first minute — that's the oil burning off, and it's the system working.
 
-If it still won't start, don't replace parts at random — work the ordered checklist in the [won't-start troubleshooting guide](/articles/generator-wont-start-troubleshooting/). That's the point of this whole hour in the fall: a winterized generator almost never needs that guide in spring.
+If it still won't start, don't replace parts at random — work the ordered checklist in the [won't-start troubleshooting guide](/articles/generator-wont-start-troubleshooting). That's the point of this whole hour in the fall: a winterized generator almost never needs that guide in spring.
 
 ## Keep reading
 
-- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting/)
-- [Generator Maintenance Checklist](/articles/generator-maintenance-checklist/)
-- [How Long Do Generators Last?](/articles/how-long-do-generators-last/)
-- [Storm Preparedness Checklist](/articles/storm-preparedness-checklist/)
+- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting)
+- [Generator Maintenance Checklist](/articles/generator-maintenance-checklist)
+- [How Long Do Generators Last?](/articles/how-long-do-generators-last)
+- [Storm Preparedness Checklist](/articles/storm-preparedness-checklist)

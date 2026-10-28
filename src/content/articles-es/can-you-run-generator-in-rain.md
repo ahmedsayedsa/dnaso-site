@@ -54,20 +54,20 @@ Aquí es donde ocurrirían la mayoría de las lesiones en clima húmedo, y las r
 5. **Solo cables para exteriores**, en buen estado: la misma guía de calibre grueso de siempre, sin cortes ni chaquetas agrietadas. El agua encuentra cada defecto.
 6. **Zapatos con suela de goma, guantes secos si tienes.** Cosas pequeñas, margen real.
 
-La configuración de clima húmedo más limpia de todas es una caja de entrada de energía con interruptor de transferencia o interlock: un solo cable grueso del generador a la entrada de pared, sin uniones de extensión tiradas en el patio. La [guía de interruptor de transferencia contra interlock](/es/articles/transfer-switch-vs-interlock-kit/) explica cómo funcionan ambos.
+La configuración de clima húmedo más limpia de todas es una caja de entrada de energía con interruptor de transferencia o interlock: un solo cable grueso del generador a la entrada de pared, sin uniones de extensión tiradas en el patio. La [guía de interruptor de transferencia contra interlock](/es/articles/transfer-switch-vs-interlock-kit) explica cómo funcionan ambos.
 
 ## ¿Dónde debe estar el generador durante una tormenta?
 
 La lluvia no cambia la ley de ubicación; la amplía:
 
-- **Sigue a al menos 20 pies de la casa, con el escape apuntando lejos.** El clima húmedo es exactamente cuando tienta hacer trampa con la distancia «solo por esta vez». No lo hagas. La [guía de distancia y monóxido de carbono](/es/articles/how-far-should-generator-be-from-house/) explica por qué 20 pies es el piso con cualquier clima.
+- **Sigue a al menos 20 pies de la casa, con el escape apuntando lejos.** El clima húmedo es exactamente cuando tienta hacer trampa con la distancia «solo por esta vez». No lo hagas. La [guía de distancia y monóxido de carbono](/es/articles/how-far-should-generator-be-from-house) explica por qué 20 pies es el piso con cualquier clima.
 - **Terreno alto.** Ni la esquina baja del jardín que se inunda, ni cerca de una ventana de sótano, jamás donde el agua se encharque.
 - **Fuera del camino de los escombros.** Lejos de ramas muertas y de cualquier cosa que el viento pueda entregar.
 - **Alcanzable con seguridad.** Lo revisarás, lo recargarás y lo rearrancarás en la oscuridad y la mojadura. Si llegar a él significa cruzar una sección inundada del jardín, elige otro sitio antes de la tormenta, no durante.
 
 ## ¿Y los generadores de reserva bajo la lluvia?
 
-Están construidos para eso. Una unidad de reserva vive afuera de forma permanente en un gabinete a prueba de intemperie y corrosión, arranca sola y se apaga sola: la lluvia, la nieve y las tormentas son su brief de diseño. Tus trabajos son mínimos: mantener la entrada de aire y el escape libres de hojas, mantillo y nieve; mantener los arbustos recortados a la distancia del fabricante; y tras un apagón largo de tormenta, echarle un vistazo por si hay escombros o daños antes de olvidarte de él por otra temporada. La [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist/) trae la rutina previa a la temporada que lo mantiene listo.
+Están construidos para eso. Una unidad de reserva vive afuera de forma permanente en un gabinete a prueba de intemperie y corrosión, arranca sola y se apaga sola: la lluvia, la nieve y las tormentas son su brief de diseño. Tus trabajos son mínimos: mantener la entrada de aire y el escape libres de hojas, mantillo y nieve; mantener los arbustos recortados a la distancia del fabricante; y tras un apagón largo de tormenta, echarle un vistazo por si hay escombros o daños antes de olvidarte de él por otra temporada. La [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist) trae la rutina previa a la temporada que lo mantiene listo.
 
 ## ¿Cuándo deberías apagarlo?
 
@@ -79,7 +79,7 @@ Trabajar con clima tiene límites. Apaga el generador (y déjalo apagado hasta q
 - **Las condiciones afuera son peligrosas para ti.** Si salir significa rayos cerca o escombros volando, el generador espera. La luz se repone; tú no.
 - **Es hora de recargar y no puedes hacerlo con seguridad.** Un generador caliente más gasolina más ropa de lluvia y manos mojadas es una mala combinación. Déjalo enfriar, tómate tu tiempo, o déjalo descansar.
 
-Para planear las recargas, recuerda las cuentas de combustible: un generador mediano que bebe medio galón por hora durante una tormenta de dos días es un problema de un bidón de cinco galones cada diez horas. La [guía de consumo de combustible](/es/articles/generator-fuel-consumption/) trae las cifras por carga para que planees bidones en vez de improvisar.
+Para planear las recargas, recuerda las cuentas de combustible: un generador mediano que bebe medio galón por hora durante una tormenta de dos días es un problema de un bidón de cinco galones cada diez horas. La [guía de consumo de combustible](/es/articles/generator-fuel-consumption) trae las cifras por carga para que planees bidones en vez de improvisar.
 
 ## ¿Cómo enciendes y apagas un generador con clima húmedo?
 
@@ -98,12 +98,12 @@ La rutina importa porque los momentos de riesgo son las transiciones: conexiones
 Sobrevivir una tormenta es fácil. Sobrevivir cinco temporadas de tormentas pide un poco de orden, porque el daño real del agua es lento:
 
 - **La corrosión encuentra primero el metal barato**: tornillos, el sello de la tapa de combustible, el arrancador de cuerda, las caras de las tomas. Un generador guardado húmedo tras una tormenta se corroe todo el invierno. Tras el último uso de la temporada, hazlo trabajar hasta secarse o estabiliza el combustible, déjalo enfriar por completo y guárdalo en un lugar seco sin la cubierta hasta que esté libre de humedad.
-- **El filtro de aire dice la verdad.** Un filtro que se empapó y se secó en su sitio puede restringir el flujo de aire y costarte potencia justo cuando llegue la próxima tormenta. Son baratos: tras una temporada húmeda dura, reemplázalo en vez de debatirlo. La rutina completa vive en la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/).
+- **El filtro de aire dice la verdad.** Un filtro que se empapó y se secó en su sitio puede restringir el flujo de aire y costarte potencia justo cuando llegue la próxima tormenta. Son baratos: tras una temporada húmeda dura, reemplázalo en vez de debatirlo. La rutina completa vive en la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist).
 - **Los ejercicios de rutina son la vacuna.** Veinte minutos con carga cada uno o dos meses mantienen los sellos bañados en aceite (el tipo correcto de humedad), cargan la batería y, igual de importante, prueban con clima tranquilo que la máquina aún arranca. El generador que falla en un huracán es casi siempre el que nadie tocó en catorce meses.
 
 ## ¿Y el equipo médico durante un apagón de tormenta?
 
-Si alguien en casa depende de equipo médico con electricidad, un apagón de tormenta es el escenario para el que hay que planear más duro, porque el pico de la tormenta es precisamente cuando quizá no puedas usar un generador portátil en absoluto. La configuración resistente va por capas: una estación de energía lleva el dispositivo en silencio durante las peores horas (segura en interiores, sin exposición al clima), y el generador toma el relevo para la cola larga cuando las condiciones lo permiten, recargando la estación entre sesiones. Las guías sobre [respaldo eléctrico para un concentrador de oxígeno](/es/articles/backup-power-oxygen-concentrator/) y [respaldo eléctrico para un CPAP](/es/articles/backup-power-cpap-machine/) repasan las cuentas de autonomía de los dos dispositivos más comunes.
+Si alguien en casa depende de equipo médico con electricidad, un apagón de tormenta es el escenario para el que hay que planear más duro, porque el pico de la tormenta es precisamente cuando quizá no puedas usar un generador portátil en absoluto. La configuración resistente va por capas: una estación de energía lleva el dispositivo en silencio durante las peores horas (segura en interiores, sin exposición al clima), y el generador toma el relevo para la cola larga cuando las condiciones lo permiten, recargando la estación entre sesiones. Las guías sobre [respaldo eléctrico para un concentrador de oxígeno](/es/articles/backup-power-oxygen-concentrator) y [respaldo eléctrico para un CPAP](/es/articles/backup-power-cpap-machine) repasan las cuentas de autonomía de los dos dispositivos más comunes.
 
 ## En resumen
 

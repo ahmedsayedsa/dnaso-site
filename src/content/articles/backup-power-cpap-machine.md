@@ -54,7 +54,7 @@ Three takeaways:
 2. **500 Wh is the sweet spot for home outages** — one full night with your normal settings, or a comfortable night-plus with the humidifier off.
 3. **1,000 Wh buys multi-night security** and pairs well with daytime recharging, which the camping section below covers.
 
-Shopping for a station? Our [portable power stations for home backup guide](/articles/portable-power-stations-home-backup/) compares the main sizes and brands, and the [complete home backup power guide](/articles/complete-home-backup-power-guide/) puts CPAP loads in context with the rest of the house.
+Shopping for a station? Our [portable power stations for home backup guide](/articles/portable-power-stations-home-backup) compares the main sizes and brands, and the [complete home backup power guide](/articles/complete-home-backup-power-guide) puts CPAP loads in context with the rest of the house.
 
 ## Why Does a DC Converter Beat the AC Inverter?
 
@@ -75,10 +75,10 @@ Whether it's a three-day outage or a camping trip, the playbook is the same:
 - **Turn off the heated humidifier.** This is the big one — worth 40% or more of your total draw. Fill the chamber anyway and run it in passover mode: air moving over room-temperature water picks up some humidity for zero watts.
 - **Turn off the heated tube** (or set it to the lowest setting you tolerate). Same logic, smaller win.
 - **Use the DC converter** so you're not paying the double-conversion tax every night.
-- **Recharge during the day by any means available.** A car can replace a night's CPAP energy in about an hour of driving with a 100 W+ charger. A generator run for the fridge can top the station off at the same time — fuel math is in our [generator fuel consumption guide](/articles/generator-fuel-consumption/). A 100 W solar panel in decent sun returns roughly 400–500 Wh per day, which is one night of CPAP with the humidifier off.
+- **Recharge during the day by any means available.** A car can replace a night's CPAP energy in about an hour of driving with a 100 W+ charger. A generator run for the fridge can top the station off at the same time — fuel math is in our [generator fuel consumption guide](/articles/generator-fuel-consumption). A 100 W solar panel in decent sun returns roughly 400–500 Wh per day, which is one night of CPAP with the humidifier off.
 - **Don't change your pressure settings to save power.** The draw difference is small, and the therapy is the point. Save watts on the heaters, not the treatment.
 
-With those habits, a 1,000 Wh station plus modest daytime charging covers most people indefinitely. And if your household also has heavier medical loads, our guide to [backup power for an oxygen concentrator](/articles/backup-power-oxygen-concentrator/) covers the machine that draws ten times what a CPAP does.
+With those habits, a 1,000 Wh station plus modest daytime charging covers most people indefinitely. And if your household also has heavier medical loads, our guide to [backup power for an oxygen concentrator](/articles/backup-power-oxygen-concentrator) covers the machine that draws ten times what a CPAP does.
 
 ## Can You Fly With a CPAP Battery?
 
@@ -108,8 +108,8 @@ Do the same tape trick I recommend for generators: label the station with its te
 
 ## What If You Already Have Whole-House Backup?
 
-Then your CPAP is already covered, and your job is simpler: confirm it, don't assume it. A whole-home battery like a Powerwall holds 13.5 kWh — a CPAP at 50 W is a rounding error in that budget, roughly 200+ hours of runtime. A standby generator covers it trivially too. Our [home battery vs generator comparison](/articles/home-battery-vs-generator/) walks through both. The one check worth doing: make sure the bedroom outlet your CPAP uses is actually on the backed-up circuits panel. In split-panel installs, I've seen the master bedroom left on the grid side more than once — discovered, of course, during the first real outage.
+Then your CPAP is already covered, and your job is simpler: confirm it, don't assume it. A whole-home battery like a Powerwall holds 13.5 kWh — a CPAP at 50 W is a rounding error in that budget, roughly 200+ hours of runtime. A standby generator covers it trivially too. Our [home battery vs generator comparison](/articles/home-battery-vs-generator) walks through both. The one check worth doing: make sure the bedroom outlet your CPAP uses is actually on the backed-up circuits panel. In split-panel installs, I've seen the master bedroom left on the grid side more than once — discovered, of course, during the first real outage.
 
 ## The Bottom Line
 
-A CPAP is a 30–60 watt problem wearing a 90 watt costume. Size for the draw you'll actually have: 500 Wh for one night with normal settings, 1,000 Wh for two to three nights, and whatever size you buy, run it through a DC converter and give the heated humidifier the night off. Do that, and the next outage — or the next camping trip — costs you nothing in sleep. Getting the rest of the house ready is a bigger project, and our [storm power outage checklist](/articles/storm-preparedness-checklist/) is the place to start.
+A CPAP is a 30–60 watt problem wearing a 90 watt costume. Size for the draw you'll actually have: 500 Wh for one night with normal settings, 1,000 Wh for two to three nights, and whatever size you buy, run it through a DC converter and give the heated humidifier the night off. Do that, and the next outage — or the next camping trip — costs you nothing in sleep. Getting the rest of the house ready is a bigger project, and our [storm power outage checklist](/articles/storm-preparedness-checklist) is the place to start.

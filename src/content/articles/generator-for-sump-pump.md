@@ -53,9 +53,9 @@ If you don't own one yet, here's how I'd steer you:
 
 **3,500 watts — the sweet spot for most homes.** Starts a 1/2 HP pump with the fridge already running, handles lights, a furnace blower, and device charging, and it's still a one-person carry. This is the size I recommend when a customer says "sump pump plus the basics."
 
-**5,000 watts and up — for 3/4 HP pumps and whole-basement confidence.** A 3/4 HP pump's 3,000-watt surge eats most of a small generator's capacity by itself. At 5,000 watts you stop doing math during storms. Fuel consumption climbs, though — a bigger engine drinks more at the same load, which is worth understanding before a three-day outage. Our [generator fuel consumption guide](/articles/generator-fuel-consumption/) has the gallons-per-hour numbers by size and load.
+**5,000 watts and up — for 3/4 HP pumps and whole-basement confidence.** A 3/4 HP pump's 3,000-watt surge eats most of a small generator's capacity by itself. At 5,000 watts you stop doing math during storms. Fuel consumption climbs, though — a bigger engine drinks more at the same load, which is worth understanding before a three-day outage. Our [generator fuel consumption guide](/articles/generator-fuel-consumption) has the gallons-per-hour numbers by size and load.
 
-Already own a generator and not sure it's enough for the whole house, pump included? The [whole-house sizing guide](/articles/what-size-generator-run-house/) walks through adding up every load the way an electrician would. And the [complete home backup power guide](/articles/complete-home-backup-power-guide/) covers the bigger picture — generators versus batteries versus both.
+Already own a generator and not sure it's enough for the whole house, pump included? The [whole-house sizing guide](/articles/what-size-generator-run-house) walks through adding up every load the way an electrician would. And the [complete home backup power guide](/articles/complete-home-backup-power-guide) covers the bigger picture — generators versus batteries versus both.
 
 ## Can a power station run a sump pump instead?
 
@@ -63,7 +63,7 @@ A big lithium power station is tempting: silent, no fuel, safe indoors, and it c
 
 **Surge first.** The station's surge rating must clear your pump's starting watts — not its running watts. Many popular 1 kWh stations top out around 1,800–2,000 watts of surge, which stalls a 1/2 HP pump dead. The newer 2 kWh-class units with 2,400W+ continuous output and 4,000W+ surge handle a 1/2 HP fine.
 
-**Runtime second.** A cycling pump in heavy rain might average 150–300 watts over an hour, but the station only holds what it holds. A 2 kWh station gives you roughly 6–10 hours of storm-duty pumping. That's a bridge, not a solution — long enough for a passing thunderstorm, not for a two-day nor'easter. The [portable power stations guide](/articles/portable-power-stations-home-backup/) goes deeper on realistic station runtimes, and the [battery versus generator comparison](/articles/home-battery-vs-generator/) lays out where each one wins.
+**Runtime second.** A cycling pump in heavy rain might average 150–300 watts over an hour, but the station only holds what it holds. A 2 kWh station gives you roughly 6–10 hours of storm-duty pumping. That's a bridge, not a solution — long enough for a passing thunderstorm, not for a two-day nor'easter. The [portable power stations guide](/articles/portable-power-stations-home-backup) goes deeper on realistic station runtimes, and the [battery versus generator comparison](/articles/home-battery-vs-generator) lays out where each one wins.
 
 Where a station genuinely shines is as the *automatic* layer: plugged in and charged, it catches the first hours of an outage before you're home to start a generator.
 
@@ -91,14 +91,14 @@ If you're on municipal water, there's a third option with no battery and no fuel
 
 People picture the pump running constantly. In reality it cycles: pit fills, float rises, pump empties the pit in 10–30 seconds, silence for a minute or five. Your generator's fuel burn follows the *average* load, and the pump's average contribution is modest — often under 200 watts across an hour even in steady rain.
 
-The exception is a true deluge, when inflow nearly matches the pump's capacity and it runs almost continuously. That's when your fuel plan gets tested. A 3,500-watt conventional generator at light load burns roughly 0.3–0.45 gallons an hour; across a 24-hour storm day that's 7–11 gallons. Two five-gallon cans in the garage is a plan. One is a hope. The [storm preparedness checklist](/articles/storm-preparedness-checklist/) covers fuel storage and the rest of the pre-storm routine.
+The exception is a true deluge, when inflow nearly matches the pump's capacity and it runs almost continuously. That's when your fuel plan gets tested. A 3,500-watt conventional generator at light load burns roughly 0.3–0.45 gallons an hour; across a 24-hour storm day that's 7–11 gallons. Two five-gallon cans in the garage is a plan. One is a hope. The [storm preparedness checklist](/articles/storm-preparedness-checklist) covers fuel storage and the rest of the pre-storm routine.
 
 ## How do you connect the pump to a generator safely?
 
-The pump is usually in the basement and the generator belongs outside — at least [20 feet from the house with the exhaust pointed away](/articles/how-far-should-generator-be-from-house/). That distance dictates the connection:
+The pump is usually in the basement and the generator belongs outside — at least [20 feet from the house with the exhaust pointed away](/articles/how-far-should-generator-be-from-house). That distance dictates the connection:
 
 - **Use one heavy-gauge outdoor extension cord** (12-gauge for runs up to about 50 feet, 10-gauge beyond that), plugged directly into the generator. Thin household cords waste voltage as heat, and a starved motor runs hot.
-- **Never backfeed through the pump's wall outlet** or any outlet. If you want the pump on your home's wiring during outages, that's a transfer switch or interlock job — the [transfer switch versus interlock guide](/articles/transfer-switch-vs-interlock-kit/) explains both.
+- **Never backfeed through the pump's wall outlet** or any outlet. If you want the pump on your home's wiring during outages, that's a transfer switch or interlock job — the [transfer switch versus interlock guide](/articles/transfer-switch-vs-interlock-kit) explains both.
 - **Keep the connection dry.** The plug junction shouldn't sit in a puddle or on a wet basement floor. Elevate it on a bucket or a hook.
 - **Test before the storm.** Start the generator, plug in the pump, and let it cycle twice. Discovering a surge problem in July beats discovering it in a hurricane.
 

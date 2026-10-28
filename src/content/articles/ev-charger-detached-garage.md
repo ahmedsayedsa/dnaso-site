@@ -126,7 +126,7 @@ Two separate things get conflated here:
 
 Farm it out or DIY? In most jurisdictions a homeowner can pull their own permit for work on their own house. The trench and conduit are genuinely DIY-able if you're handy and patient. The panel terminations and subpanel are where I'd tell my own neighbor to hire it out — a loose lug on a 60A continuous load is a fire that takes its time. Most people land in the middle: homeowner digs (saving $500–$1,500), electrician does everything electrical. Just agree on trench depth and conduit size with your electrician *before* you dig, and take photos of the open trench with a tape measure in frame. Inspectors love that, and it can save you a re-dig.
 
-While you're planning electrical work around the house, it's worth thinking about what else that garage subpanel and charger mean during an outage — your EV is the biggest battery you own. I cover what that does and doesn't do for you in [charging an EV during a power outage](/articles/charging-ev-during-outage/), and the broader backup picture is in [home battery vs generator](/articles/home-battery-vs-generator/).
+While you're planning electrical work around the house, it's worth thinking about what else that garage subpanel and charger mean during an outage — your EV is the biggest battery you own. I cover what that does and doesn't do for you in [charging an EV during a power outage](/articles/charging-ev-during-outage), and the broader backup picture is in [home battery vs generator](/articles/home-battery-vs-generator).
 
 ## Mike's Bottom Line
 

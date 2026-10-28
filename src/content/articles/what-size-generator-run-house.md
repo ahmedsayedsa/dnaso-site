@@ -126,7 +126,7 @@ Biggest surge: the AC — 8,000 W on top of its running draw. 6,000 + 8,000 = 14
 
 **Answer: a 20–22 kW standby generator.** No portable under about 12,000 watts will reliably start a 3-ton central AC — and even then it's marginal. This is exactly why homes with central AC usually end up with a Generac 22kW Guardian or Kohler 20RCA ($8,000–$15,000 installed).
 
-**The cheaper alternative:** install a [soft starter](/articles/what-size-generator-central-ac/) on the AC (~$300–$400) to cut the starting surge by 60–70%. That can drop the surge to ~3,500 W and bring a big portable back into play. Read the AC sizing guide for the full breakdown.
+**The cheaper alternative:** install a [soft starter](/articles/what-size-generator-central-ac) on the AC (~$300–$400) to cut the starting surge by 60–70%. That can drop the surge to ~3,500 W and bring a big portable back into play. Read the AC sizing guide for the full breakdown.
 
 ## The "add 20% headroom" rule — and why it exists
 
@@ -161,5 +161,5 @@ The exception: if you're buying a standby, the price jump from 14kW to 22kW is o
 
 ## Keep reading
 
-- [The Complete Home Backup Power Guide 2026](/articles/complete-home-backup-power-guide/) — the full landscape: generator types, costs, fuel, batteries, and how to choose.
-- [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/) — the AC problem in detail: tonnage tables, why starting watts kill undersized generators, and soft starters.
+- [The Complete Home Backup Power Guide 2026](/articles/complete-home-backup-power-guide) — the full landscape: generator types, costs, fuel, batteries, and how to choose.
+- [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac) — the AC problem in detail: tonnage tables, why starting watts kill undersized generators, and soft starters.

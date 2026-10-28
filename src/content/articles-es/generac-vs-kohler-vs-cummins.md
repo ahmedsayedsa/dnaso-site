@@ -126,8 +126,8 @@ Habla honesta: una vez que estás comparando las cuatro grandes a la misma poten
 
 ## Sigue leyendo
 
-- [Guía completa de respaldo eléctrico para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide/)
-- [¿Cuánto cuesta un generador para toda la casa?](/es/articles/whole-house-generator-cost/)
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/)
-- [Lista de mantenimiento del generador: haz que funcione cuando importa](/es/articles/generator-maintenance-checklist/)
-- [¿Cuánto duran los generadores?](/es/articles/how-long-do-generators-last/)
+- [Guía completa de respaldo eléctrico para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide)
+- [¿Cuánto cuesta un generador para toda la casa?](/es/articles/whole-house-generator-cost)
+- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house)
+- [Lista de mantenimiento del generador: haz que funcione cuando importa](/es/articles/generator-maintenance-checklist)
+- [¿Cuánto duran los generadores?](/es/articles/how-long-do-generators-last)

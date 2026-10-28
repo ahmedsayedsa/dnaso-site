@@ -44,7 +44,7 @@ Here's the realistic load inventory for a home this size. These are numbers I've
 | Electric water heater (4,500W element) | 4,500 | 4,500 | The hidden budget-breaker |
 | Electric range/oven | 3,000–8,000 | — | Rarely run during outages by choice |
 
-Notice what's *not* huge: everything except the AC, the electric water heater, and electric heat. A 1,500 sq ft home usually has one bathroom-plus, a modest kitchen, and no second AC zone. The base load of a house this size — fridge, lights, electronics, blower — sits around **1,200–2,000 watts** most of the time. That's why the tiers below shake out the way they do. For the full walk-through of adding loads this way on any house, see [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/) — this article is that method applied to one specific size.
+Notice what's *not* huge: everything except the AC, the electric water heater, and electric heat. A 1,500 sq ft home usually has one bathroom-plus, a modest kitchen, and no second AC zone. The base load of a house this size — fridge, lights, electronics, blower — sits around **1,200–2,000 watts** most of the time. That's why the tiers below shake out the way they do. For the full walk-through of adding loads this way on any house, see [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house) — this article is that method applied to one specific size.
 
 ## Tier 1: What will 3,500–5,500 watts run?
 
@@ -69,7 +69,7 @@ The running load of a comfortable outage in this house size is typically 3,500�
 
 When the requirement is "the outage is a non-event and nobody manages anything." A 14–18kW automatic standby with a whole-panel transfer switch runs the 3-ton AC without a soft starter, the electric water heater, the dryer, the range — everything, with standard load-shedding modules handling the rare moment when too much starts at once.
 
-For a 1,500 sq ft house, **14kW is the right standby size in gas-heat homes, and 18kW if you have an electric water heater, electric range, or a heat pump with aux strips.** Installed, you're looking at roughly **$11,000–14,500** for the 14kW and **$12,500–16,000** for the 18kW in most markets — unit, pad, transfer switch, gas line, permits, and my labor. The full installed-cost breakdown lives in [Whole House Generator Cost: What You'll Actually Pay](/articles/whole-house-generator-cost/).
+For a 1,500 sq ft house, **14kW is the right standby size in gas-heat homes, and 18kW if you have an electric water heater, electric range, or a heat pump with aux strips.** Installed, you're looking at roughly **$11,000–14,500** for the 14kW and **$12,500–16,000** for the 18kW in most markets — unit, pad, transfer switch, gas line, permits, and my labor. The full installed-cost breakdown lives in [Whole House Generator Cost: What You'll Actually Pay](/articles/whole-house-generator-cost).
 
 Above 18kW in a house this size, you're buying capacity you'll never use. Which brings us to the sales problem.
 
@@ -79,7 +79,7 @@ Because the math works for them, not you. The unit itself isn't dramatically mor
 
 What they don't mention: standby generators are happiest at **50–75% load**. A 22kW loafing along at 5kW of load in your 1,500 sq ft house runs cool and dirty. On gasoline-engine standbys (which is what residential units are — air-cooled V-twins, usually), chronic light loading means incomplete combustion, carbon fouling, and oil dilution over time. It also burns roughly **2.4–2.8 gallons of propane per hour** at the loads a house this size actually draws, versus about 1.8–2.2 for a 14kW doing the same job. Across a three-day outage, that's a difference of around 40 gallons — which can be the difference between your 250-gallon tank lasting the outage and not.
 
-An oversized generator is not a safety margin. It's a recurring fuel bill and a maintenance headache wearing a safety margin's clothes. If a quote for your 1,500 sq ft house says 22kW and the dealer can't show you a load calculation that justifies it, get a second quote. There's a deeper dive on what oversizing and undersizing do to AC starting in [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/) — the surge physics are the same whatever the house size.
+An oversized generator is not a safety margin. It's a recurring fuel bill and a maintenance headache wearing a safety margin's clothes. If a quote for your 1,500 sq ft house says 22kW and the dealer can't show you a load calculation that justifies it, get a second quote. There's a deeper dive on what oversizing and undersizing do to AC starting in [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac) — the surge physics are the same whatever the house size.
 
 ## A worked example: the house I see most often
 
@@ -108,7 +108,7 @@ Decide on these three questions, in order:
 2. **Is anyone home who can't set up a portable?** Standbys exist for medical equipment, elderly parents, and houses that sit empty. If someone in the home depends on powered medical gear, skip to Tier 3 and don't apologize for it.
 3. **Do you need the AC running unattended?** Cooling for pets, a server closet, or a wine cellar while you're away means automatic — standby.
 
-Bigger house on the same decision? My sizing walk-through for the next size up is [What Size Generator for a 2000 Sq Ft House?](/articles/what-size-generator-for-2000-sq-ft-house/) — the tiers shift up by roughly one notch.
+Bigger house on the same decision? My sizing walk-through for the next size up is [What Size Generator for a 2000 Sq Ft House?](/articles/what-size-generator-for-2000-sq-ft-house) — the tiers shift up by roughly one notch.
 
 ## My recommendation for most 1500 sq ft homes
 
@@ -118,7 +118,7 @@ Whatever you buy, hold the sizing rule I use on every job: add up your realistic
 
 ## Keep reading
 
-- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)
-- [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/)
-- [What Size Generator for a 2000 Sq Ft House?](/articles/what-size-generator-for-2000-sq-ft-house/)
-- [Whole House Generator Cost: What You'll Actually Pay](/articles/whole-house-generator-cost/)
+- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house)
+- [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac)
+- [What Size Generator for a 2000 Sq Ft House?](/articles/what-size-generator-for-2000-sq-ft-house)
+- [Whole House Generator Cost: What You'll Actually Pay](/articles/whole-house-generator-cost)

@@ -29,7 +29,7 @@ Less than the name suggests, and that's by design:
 - **Energy: roughly 430,000 BTU total**, at about 91,500 BTU per gallon of propane.
 - **Shelf life: effectively unlimited.** Unlike gasoline, propane doesn't go stale, absorb water, or gum anything. A tank filled in 2021 runs a generator in 2026 exactly as well. This is propane's superpower for backup power, and it's why dual-fuel owners forgive its lower energy per gallon.
 
-For the gasoline and natural-gas side of the comparison, the [generator fuel consumption guide](/articles/generator-fuel-consumption/) has consumption by size and load across all three fuels, and the [dual-fuel versus gasoline versus propane comparison](/articles/dual-fuel-vs-gas-vs-propane-generator/) weighs the fuels head-to-head.
+For the gasoline and natural-gas side of the comparison, the [generator fuel consumption guide](/articles/generator-fuel-consumption) has consumption by size and load across all three fuels, and the [dual-fuel versus gasoline versus propane comparison](/articles/dual-fuel-vs-gas-vs-propane-generator) weighs the fuels head-to-head.
 
 ## How is generator propane runtime calculated?
 
@@ -71,14 +71,14 @@ When your outage plan outgrows a single night. All three sizes connect the same 
 | 40 lb | 9.2 gal | ~72 lb | ~11–12 hours | A full day of essentials; still one-person movable (barely) |
 | 100 lb | 23.6 gal | ~175 lb | ~29 hours | Multi-day outages; set it by the generator pad and leave it |
 
-The 100-lb tank is the quiet hero of propane backup power: nearly a day and a half of half-load runtime per tank, better cold-weather vaporization, and refillable by the same propane service that fills home tanks in many areas. Two of them, rotated, cover most realistic outages without a single gasoline run. If your generator lives on a pad and runs through a [transfer switch or interlock](/articles/transfer-switch-vs-interlock-kit/), a big tank beside it is the closest a portable setup gets to standby convenience. Speaking of which — homes with a plumbed natural gas or bulk propane line skip this entire question; the [natural gas versus propane standby guide](/articles/natural-gas-vs-propane-standby/) covers that permanent-install world.
+The 100-lb tank is the quiet hero of propane backup power: nearly a day and a half of half-load runtime per tank, better cold-weather vaporization, and refillable by the same propane service that fills home tanks in many areas. Two of them, rotated, cover most realistic outages without a single gasoline run. If your generator lives on a pad and runs through a [transfer switch or interlock](/articles/transfer-switch-vs-interlock-kit), a big tank beside it is the closest a portable setup gets to standby convenience. Speaking of which — homes with a plumbed natural gas or bulk propane line skip this entire question; the [natural gas versus propane standby guide](/articles/natural-gas-vs-propane-standby) covers that permanent-install world.
 
 ## Why do real runtimes beat the table at light loads?
 
 Two reasons the math sometimes pleasantly surprises:
 
 1. **Eco/throttle modes.** Inverter generators drop engine speed at light load and sip dramatically less than their rated consumption. A fridge-and-lights load at "25%" on paper may cruise well under it in practice.
-2. **Loads cycle.** Your fridge compressor rests, the furnace blower stops between calls, the well pump sleeps. Real average load across an hour is usually lower than the sum you planned for — one more reason the [complete home backup power guide](/articles/complete-home-backup-power-guide/) preaches measuring your actual loads instead of guessing from nameplates.
+2. **Loads cycle.** Your fridge compressor rests, the furnace blower stops between calls, the well pump sleeps. Real average load across an hour is usually lower than the sum you planned for — one more reason the [complete home backup power guide](/articles/complete-home-backup-power-guide) preaches measuring your actual loads instead of guessing from nameplates.
 
 The reverse surprise exists too: a cold tank at high load, an aging engine, or a swap-cage tank that started at 15 lb instead of 20 will all shave your hours. Plan with the table, then keep a spare tank as your rounding error.
 
@@ -93,7 +93,7 @@ The table above is built on the popular 5,000-watt class. Same tank, different m
 | 5,000W portable | ~0.8 gal/hr | **~5.5–6 hours** |
 | 7,500–9,000W portable | ~1.2–1.5 gal/hr | **~3–3.5 hours** |
 
-The pattern worth remembering: runtime per tank is really about the *load*, and a big generator idling down at 1,500 watts burns close to what a mid-size one burns at the same output. Where the big machine costs you is when you actually use its capacity — and in its worse efficiency at very light loads, where it's dragging a bigger engine to do a small job. If your true outage load is a fridge, lights, and a [sump pump](/articles/generator-for-sump-pump/), a mid-size machine on propane is the endurance play.
+The pattern worth remembering: runtime per tank is really about the *load*, and a big generator idling down at 1,500 watts burns close to what a mid-size one burns at the same output. Where the big machine costs you is when you actually use its capacity — and in its worse efficiency at very light loads, where it's dragging a bigger engine to do a small job. If your true outage load is a fridge, lights, and a [sump pump](/articles/generator-for-sump-pump), a mid-size machine on propane is the endurance play.
 
 ## Can you mix propane and gasoline across a long outage?
 
@@ -111,7 +111,7 @@ One hard rule when switching: let the engine stop and cool a moment between fuel
 - **Batch the big loads.** Run the well pump, microwave, and laundry in one generator session rather than idling the machine all day for the fridge alone.
 - **Give the fridge hours off.** A closed fridge holds safe temperatures for about 4 hours, a full freezer for 24–48. Cycling the generator — two hours on, two off — can nearly double your tank's calendar life during a long outage.
 - **Keep the tank honest.** Weigh it before storm season; top it up at a refill station, not a swap cage; store it upright, outdoors, never in a basement or garage (a leaking tank indoors pools an invisible, explosive gas at floor level).
-- **Mind the placement rules** while you're at it: generator at least [20 feet from the house](/articles/how-far-should-generator-be-from-house/), tank connected where it sits — never bring the generator closer to shorten the hose.
+- **Mind the placement rules** while you're at it: generator at least [20 feet from the house](/articles/how-far-should-generator-be-from-house), tank connected where it sits — never bring the generator closer to shorten the hose.
 
 ## The bottom line
 

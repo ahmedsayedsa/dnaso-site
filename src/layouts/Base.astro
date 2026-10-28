@@ -593,7 +593,7 @@ const footerGuides = [
         </span>
       </a>
       <nav class="nav-desktop" aria-label={t.mainNavLabel}>
-        <a href={`${lp}/articles/complete-home-backup-power-guide/`} class={path.startsWith(`${lp}/articles/complete-home-backup-power-guide`) ? 'active' : ''}>{t.navStart}</a>
+        <a href={`${lp}/articles/complete-home-backup-power-guide`} class={path.startsWith(`${lp}/articles/complete-home-backup-power-guide`) ? 'active' : ''}>{t.navStart}</a>
         <a href={`${lp}/#guides`} class={path === `${lp}/` || path === `${lp}/#guides` ? 'active' : ''}>{t.navGuides}</a>
         <a href={`${lp}/about/`} class={path === `${lp}/about/` ? 'active' : ''}>{t.navAbout}</a>
         <a href={`${lp}/contact/`} class={path === `${lp}/contact/` ? 'active' : ''}>{t.navContact}</a>
@@ -605,7 +605,7 @@ const footerGuides = [
       </button>
     </div>
     <nav class="mobile-nav" id="mobile-nav" aria-label={t.mobileNavLabel}>
-      <a href={`${lp}/articles/complete-home-backup-power-guide/`}>{t.navStart}</a>
+      <a href={`${lp}/articles/complete-home-backup-power-guide`}>{t.navStart}</a>
       <a href={`${lp}/#guides`}>{t.navAllGuides}</a>
       <a href={`${lp}/about/`}>{t.navAbout}</a>
       <a href={`${lp}/contact/`}>{t.navContact}</a>
@@ -634,14 +634,14 @@ const footerGuides = [
           <h3>{t.footerTopGuides}</h3>
           <ul>
             {footerGuides.map((g) => (
-              <li><a href={`${lp}/articles/${g.slug}/`}>{t.guideLabels[g.slug] ?? g.label}</a></li>
+              <li><a href={`${lp}/articles/${g.slug}`}>{t.guideLabels[g.slug] ?? g.label}</a></li>
             ))}
           </ul>
         </div>
         <div class="footer-col">
           <h3>{t.footerSite}</h3>
           <ul>
-            <li><a href={`${lp}/articles/complete-home-backup-power-guide/`}>{t.navStart}</a></li>
+            <li><a href={`${lp}/articles/complete-home-backup-power-guide`}>{t.navStart}</a></li>
             <li><a href={`${lp}/#guides`}>{t.navAllGuides}</a></li>
             <li><a href={`${lp}/about/`}>{t.footerAbout}</a></li>
             <li><a href={`${lp}/contact/`}>{t.navContact}</a></li>

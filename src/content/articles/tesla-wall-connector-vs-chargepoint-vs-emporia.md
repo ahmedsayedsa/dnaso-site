@@ -43,7 +43,7 @@ Within a rounding error of each other. At 48 amps on a 60-amp circuit, both the 
 
 That's the thing nobody tells you at the charger aisle: **the charger rarely sets the speed. Your car's onboard charger does.** A Chevy Bolt tops out at 11.5 kW. A Model 3 tops out at 11.5 kW. Plug any of these three units into any of those cars and you get the same number on the dash in the morning: full.
 
-If you're still deciding whether you even need Level 2 speeds, do that math first — I walk through it honestly in [Level 1 vs Level 2 EV charging](/articles/level-1-vs-level-2-charging/), including the cases where the free cord that came with your car is genuinely enough.
+If you're still deciding whether you even need Level 2 speeds, do that math first — I walk through it honestly in [Level 1 vs Level 2 EV charging](/articles/level-1-vs-level-2-charging), including the cases where the free cord that came with your car is genuinely enough.
 
 ## The Tesla Universal Wall Connector: The Safe Default
 
@@ -94,4 +94,4 @@ Not everyone wants a smart charger. If your attitude is "just charge the car," l
 - **You're watching the budget or your panel is nearly full:** Emporia Pro, ideally with the Vue monitor. Same charging speed as the Tesla for $100 less, and the load management can save you thousands on electrical work.
 - **You hate all of the above:** Grizzl-E. Plug it in, charge the car, think about something else.
 
-One last installer's note: pick the charger second and the circuit first. The charger is $400–$650 of a project that usually totals $1,200–$2,500 with installation — I break down where that money goes in the [Level 2 EV charger installation cost guide](/articles/level-2-ev-charger-installation-cost/). And if your home also runs a battery or solar — or you're thinking about it — the load-management conversation here connects directly to [home battery vs generator backup](/articles/home-battery-vs-generator/), because a 48-amp charger is one of the biggest loads your panel will ever see. Get the panel math right once, and any of these three chargers will serve you for a decade.
+One last installer's note: pick the charger second and the circuit first. The charger is $400–$650 of a project that usually totals $1,200–$2,500 with installation — I break down where that money goes in the [Level 2 EV charger installation cost guide](/articles/level-2-ev-charger-installation-cost). And if your home also runs a battery or solar — or you're thinking about it — the load-management conversation here connects directly to [home battery vs generator backup](/articles/home-battery-vs-generator), because a 48-amp charger is one of the biggest loads your panel will ever see. Get the panel math right once, and any of these three chargers will serve you for a decade.

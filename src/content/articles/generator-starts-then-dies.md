@@ -17,7 +17,7 @@ keywords: ["generator starts then dies", "generator starts and dies", "generator
 
 Your generator starts then dies — almost more frustrating than one that won't start at all. It catches, it revs, you think you're back in business — and three seconds later it's silent again. I've been a licensed electrician for 18 years, and I get this exact call after nearly every storm: "Mike, it starts, so it can't be serious, right?" Usually it isn't. But the fix depends entirely on *when* it dies, so watch the timing before you touch a wrench.
 
-Good news: a generator that starts has proven it has spark, compression, and at least some fuel — half the problems in my [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting/) are already ruled out. What's left is a short list of causes that let an engine fire but won't let it keep running. We'll work them in order, most likely first.
+Good news: a generator that starts has proven it has spark, compression, and at least some fuel — half the problems in my [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting) are already ruled out. What's left is a short list of causes that let an engine fire but won't let it keep running. We'll work them in order, most likely first.
 
 Before you touch anything, three safety rules:
 
@@ -47,13 +47,13 @@ Here's what's happening: most modern generators have a **low-oil shutdown sensor
 
 **The check:** Put the generator on truly level ground — not your lawn, not a sloped driveway. Pull the dipstick or fill cap; on most portables the oil should be at or near the **top of the fill neck**. Check twice: wipe, reinsert, read again.
 
-**The fix:** Top off with the oil weight in your manual, typically **SAE 10W-30**, for about **$5–7** a quart (most small engines take 0.6–1.1 quarts total). Don't overfill — oil filled to the threads foams and can trigger the same sensor. This is why oil checks are step one of the [generator maintenance checklist](/articles/generator-maintenance-checklist/) I give every customer: five seconds with a dipstick beats an hour with a carburetor.
+**The fix:** Top off with the oil weight in your manual, typically **SAE 10W-30**, for about **$5–7** a quart (most small engines take 0.6–1.1 quarts total). Don't overfill — oil filled to the threads foams and can trigger the same sensor. This is why oil checks are step one of the [generator maintenance checklist](/articles/generator-maintenance-checklist) I give every customer: five seconds with a dipstick beats an hour with a carburetor.
 
 One warning: if the oil is full and it still dies in seconds, don't just unplug the sensor and run it. Sensors do fail (**$10–25** to replace), but a sensor telling the truth is the only thing between you and a seized engine.
 
 ## Is the engine starving for fuel?
 
-If it runs 30 seconds to a couple of minutes and then fades out — revs dropping, a little surging, then silence — the engine is drinking the carburetor bowl dry faster than fuel can refill it. (That's different from my [generator keeps shutting off](/articles/generator-keeps-shutting-off/) guide, which covers engines that quit after running fine for a while.) Here the supply is restricted from the start. Three usual suspects:
+If it runs 30 seconds to a couple of minutes and then fades out — revs dropping, a little surging, then silence — the engine is drinking the carburetor bowl dry faster than fuel can refill it. (That's different from my [generator keeps shutting off](/articles/generator-keeps-shutting-off) guide, which covers engines that quit after running fine for a while.) Here the supply is restricted from the start. Three usual suspects:
 
 ### Could the fuel filter be clogged?
 
@@ -77,13 +77,13 @@ This is my favorite diagnostic in small-engine repair — free, and it takes thi
 
 **The test:** Start it with the cap loose — cracked open, not removed, so fuel can't splash out. If it now runs indefinitely, the vent in the cap is blocked.
 
-**The fix:** Some caps can be cleaned (pick out the vent passage and blow it clear); most people just replace the cap for **$10–20**. Worth it — a vacuum-starved engine runs lean and hot while it struggles, and it throws your [fuel consumption and runtime numbers](/articles/generator-fuel-consumption/) off while it lasts.
+**The fix:** Some caps can be cleaned (pick out the vent passage and blow it clear); most people just replace the cap for **$10–20**. Worth it — a vacuum-starved engine runs lean and hot while it struggles, and it throws your [fuel consumption and runtime numbers](/articles/generator-fuel-consumption) off while it lasts.
 
 ## Does it run on choke but die when you open the choke?
 
 If the engine runs — roughly — with the choke on, and dies the moment you move it to RUN, stop guessing. That's a **partially clogged carburetor main jet**, almost always from stale fuel.
 
-Here's the logic: the choke enriches the mixture by restricting air. If the main jet is half-blocked with varnish, the engine is starved at normal mixture settings, and the choke's extra richness compensates just enough to keep it alive. Open the choke and it goes lean and dies. I see this constantly on generators that sat with untreated gas — gasoline degrades in as little as 30 days, and ethanol blends leave gum behind as they evaporate out of the bowl. The other telltales: months-old, sour-smelling fuel, and surging — if surging is the main event, see my [generator surging guide](/articles/generator-surging/) too, since a partially clogged jet causes both.
+Here's the logic: the choke enriches the mixture by restricting air. If the main jet is half-blocked with varnish, the engine is starved at normal mixture settings, and the choke's extra richness compensates just enough to keep it alive. Open the choke and it goes lean and dies. I see this constantly on generators that sat with untreated gas — gasoline degrades in as little as 30 days, and ethanol blends leave gum behind as they evaporate out of the bowl. The other telltales: months-old, sour-smelling fuel, and surging — if surging is the main event, see my [generator surging guide](/articles/generator-surging) too, since a partially clogged jet causes both.
 
 **The check:** Drain a little fuel from the carburetor bowl into a clear jar. Fresh gas is pale and clean-smelling. Yellow, dark, or varnish-smelling fuel — or any grit or jelly-like blobs — confirms the fuel system needs attention, not just the jet.
 
@@ -103,7 +103,7 @@ A plug that's fouled or worn can fire well enough to start a cold engine, then b
 
 **The check:** Pull the plug — five minutes with a plug socket. Spec gap on most portables is **0.028–0.031 inches**. Read what you find: black and sooty means rich running or chronic choke use; oily means oil getting past rings or valve seals; a worn, rounded center electrode with a gap drifted well past spec means it's simply used up. A plug tells the truth about what the engine has been burning.
 
-**The fix:** Replace it. A plug is **$3–8**; cleaning a fouled one is false economy. If the *new* plug fouls within a few hours, the plug was a symptom, not the cause — go back to the choke and carburetor sections. Keep a spare in the toolkit; plug life is part of the bigger picture in [how long generators last](/articles/how-long-do-generators-last/).
+**The fix:** Replace it. A plug is **$3–8**; cleaning a fouled one is false economy. If the *new* plug fouls within a few hours, the plug was a symptom, not the cause — go back to the choke and carburetor sections. Keep a spare in the toolkit; plug life is part of the bigger picture in [how long generators last](/articles/how-long-do-generators-last).
 
 ## Is the air filter choking it off?
 

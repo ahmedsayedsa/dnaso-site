@@ -31,7 +31,7 @@ Generac and Kohler dominate this market. A 22–26 kW air-cooled standby unit co
 
 **What it does well:** True hands-off backup. Sized right, it runs your whole house — central AC, well pump, electric range. It also adds resale value and, in outage-prone areas, some insurers care about it.
 
-**What it doesn't do:** It's a major purchase and a permanent fixture. Installation takes weeks, not an afternoon. It also needs scheduled maintenance (see the [generator maintenance checklist](/articles/generator-maintenance-checklist/)) — these machines exercise themselves weekly, which helps, but they still need annual service. And you're now dependent on your gas supply: natural gas is nearly always flowing, but propane means monitoring a tank.
+**What it doesn't do:** It's a major purchase and a permanent fixture. Installation takes weeks, not an afternoon. It also needs scheduled maintenance (see the [generator maintenance checklist](/articles/generator-maintenance-checklist)) — these machines exercise themselves weekly, which helps, but they still need annual service. And you're now dependent on your gas supply: natural gas is nearly always flowing, but propane means monitoring a tank.
 
 ### Inverter generator
 
@@ -90,7 +90,7 @@ The sticker price is never the whole price. Budget for these:
 - **Standby installation extras:** beyond the $10,000–$15,000 typical total — concrete pad ($200–$500), gas line extension if the meter is far ($500–$2,000), permits ($100–$500 depending on jurisdiction), and possibly a larger gas meter from the utility ($300–$800). Get three quotes; standby install pricing varies wildly by region.
 - **Inverter:** usually just the unit and a heavy-duty extension cord. The cheapest total cost of ownership to get running.
 
-Factor in fuel, too: a portable running a three-day outage burns $200–$275 in gasoline (see [dual-fuel vs gasoline vs propane](/articles/dual-fuel-vs-gas-vs-propane-generator/) for the math). Standby owners on natural gas pay $50–$100 for the same outage. Over a decade of storm seasons, that gap adds up.
+Factor in fuel, too: a portable running a three-day outage burns $200–$275 in gasoline (see [dual-fuel vs gasoline vs propane](/articles/dual-fuel-vs-gas-vs-propane-generator) for the math). Standby owners on natural gas pay $50–$100 for the same outage. Over a decade of storm seasons, that gap adds up.
 
 ## The Honest Downsides
 
@@ -107,6 +107,6 @@ Run through these in order:
 3. **What's your budget, all-in?** Under $2,000 → portable or inverter. $10,000+ → standby.
 4. **What are you powering?** Electronics-heavy or noise-sensitive → inverter. Whole house including central AC or well pump → standby (or the biggest portable you can manage). Simple essentials → conventional portable.
 
-If you're still stuck, the next step is sizing: figure out exactly how many watts your essentials draw before you buy anything. Walk through the [generator sizing guide](/articles/what-size-generator-run-house/) — it takes ten minutes and will save you from the two classic mistakes: buying too little, or paying for twice what you need.
+If you're still stuck, the next step is sizing: figure out exactly how many watts your essentials draw before you buy anything. Walk through the [generator sizing guide](/articles/what-size-generator-run-house) — it takes ten minutes and will save you from the two classic mistakes: buying too little, or paying for twice what you need.
 
-Not sure generators are even the right answer? Batteries have gotten genuinely competitive for short outages. Read the pillar guide, [home backup power explained](/articles/complete-home-backup-power-guide/), for the full landscape of generators vs batteries, then our [battery vs generator comparison](/articles/home-battery-vs-generator/) for the math.
+Not sure generators are even the right answer? Batteries have gotten genuinely competitive for short outages. Read the pillar guide, [home backup power explained](/articles/complete-home-backup-power-guide), for the full landscape of generators vs batteries, then our [battery vs generator comparison](/articles/home-battery-vs-generator) for the math.

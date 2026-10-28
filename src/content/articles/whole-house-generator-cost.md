@@ -108,7 +108,7 @@ Two quotes $2,000 apart aren't really $2,000 apart if the cheaper one omits the 
 
 ## Air-cooled vs. liquid-cooled: the price jump
 
-Air-cooled units (everything up to 26kW) are the standard residential choice. Liquid-cooled models — 36kW and up, car-style engines running at 1,800 RPM — cost **$12,000–$20,000+ for the unit** and $20,000–$35,000+ installed. They run quieter, last 10,000+ hours (see our [lifespan guide](/articles/how-long-do-generators-last/)), and suit large or all-electric homes with heavy, sustained loads.
+Air-cooled units (everything up to 26kW) are the standard residential choice. Liquid-cooled models — 36kW and up, car-style engines running at 1,800 RPM — cost **$12,000–$20,000+ for the unit** and $20,000–$35,000+ installed. They run quieter, last 10,000+ hours (see our [lifespan guide](/articles/how-long-do-generators-last)), and suit large or all-electric homes with heavy, sustained loads.
 
 For most homes, liquid-cooled is overkill. If a contractor pushes you toward one for a 2,500 sq ft gas-heated house, get a second opinion — that's a red flag, not an upgrade.
 
@@ -132,4 +132,4 @@ Most dealers offer financing through partners like Synchrony or manufacturer pro
 
 Budget **$10,000–$13,000** for a typical whole-house install, get three itemized quotes, and pay the most attention to the gas and electrical line items — that's where the real money moves. A well-installed 22kW air-cooled unit will run your home for decades of normal outage use.
 
-For the full picture — sizing, fuel choice, batteries vs. generators, and maintenance — start with our [Complete Home Backup Power Guide](/articles/complete-home-backup-power-guide/). And if you're weighing how the generator connects to your panel, read [Transfer Switch vs Interlock Kit: Cost, Code, and Safety](/articles/transfer-switch-vs-interlock-kit/) before you sign anything.
+For the full picture — sizing, fuel choice, batteries vs. generators, and maintenance — start with our [Complete Home Backup Power Guide](/articles/complete-home-backup-power-guide). And if you're weighing how the generator connects to your panel, read [Transfer Switch vs Interlock Kit: Cost, Code, and Safety](/articles/transfer-switch-vs-interlock-kit) before you sign anything.

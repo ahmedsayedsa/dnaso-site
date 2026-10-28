@@ -42,7 +42,7 @@ In most of the US, a 2000 sq ft house runs a **3 to 3.5-ton central AC** (or a h
 | 3.5 ton | 3,500–4,000W | 15,000–19,000W |
 | 4 ton | 4,000–4,600W | 17,000–22,000W |
 
-That surge column is why AC dominates generator sizing. For the deep dive on tonnage, LRA numbers, and soft starters, see my guide to [generator sizing for central AC](/articles/what-size-generator-central-ac/).
+That surge column is why AC dominates generator sizing. For the deep dive on tonnage, LRA numbers, and soft starters, see my guide to [generator sizing for central AC](/articles/what-size-generator-central-ac).
 
 ## What loads does a typical 2000 sq ft house actually have?
 
@@ -65,7 +65,7 @@ Here's a realistic load inventory for a 2000 sq ft, 3–4 bedroom house — the 
 | Washing machine | 400–800 | 1,100–1,600 |
 | Dishwasher (with heated dry) | 1,200–1,800 | 1,200–1,800 |
 
-Nobody runs all of that at once. Sizing is about a realistic worst moment, not the theoretical maximum. This is the same room-by-room method I lay out in the general [house generator sizing guide](/articles/what-size-generator-run-house/); here I'm applying it to this specific house size.
+Nobody runs all of that at once. Sizing is about a realistic worst moment, not the theoretical maximum. This is the same room-by-room method I lay out in the general [house generator sizing guide](/articles/what-size-generator-run-house); here I'm applying it to this specific house size.
 
 ## Tier 1: Can a 5,000–7,500W portable cover a 2000 sq ft house?
 
@@ -95,7 +95,7 @@ For a 2000 sq ft house, the sizing usually lands here:
 - **Heat pump with electric backup strips, or any all-electric house:** 22kW, because the heat strips alone can demand 10,000–15,000 watts on the coldest night of the year — which, not coincidentally, is when the power fails.
 - **Two AC systems** (some two-story homes have one per floor): 22kW with load management so they never start simultaneously.
 
-Unit prices for 18–22kW standbys run roughly $5,000–6,500 before installation; a full installed job typically lands between $11,000 and $14,500. I break down where every dollar goes in the [whole house generator cost guide](/articles/whole-house-generator-cost/).
+Unit prices for 18–22kW standbys run roughly $5,000–6,500 before installation; a full installed job typically lands between $11,000 and $14,500. I break down where every dollar goes in the [whole house generator cost guide](/articles/whole-house-generator-cost).
 
 ## What are the starting-watt traps in a house this size?
 
@@ -143,7 +143,7 @@ If you're asking me as the guy who has to come back when it doesn't work: **most
 
 ## Keep reading
 
-- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)
-- [What Size Generator for a 1500 Sq Ft House?](/articles/what-size-generator-for-1500-sq-ft-house/)
-- [Generator Sizing for Central AC: Tonnage, LRA & Soft Starters](/articles/what-size-generator-central-ac/)
-- [How Much Does a Whole House Generator Cost?](/articles/whole-house-generator-cost/)
+- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house)
+- [What Size Generator for a 1500 Sq Ft House?](/articles/what-size-generator-for-1500-sq-ft-house)
+- [Generator Sizing for Central AC: Tonnage, LRA & Soft Starters](/articles/what-size-generator-central-ac)
+- [How Much Does a Whole House Generator Cost?](/articles/whole-house-generator-cost)

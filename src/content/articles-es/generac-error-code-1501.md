@@ -37,7 +37,7 @@ Dos patrones que conviene notar, porque apuntan en direcciones distintas:
 - **1501 durante la marcha, con el motor sonando lento y pesado** — eléctrico: batería, bornes o motor de arranque. Es el patrón más común por mucho.
 - **1501 después de que el motor arranca, trabaja áspero 10–30 segundos y muere** — combustible o aire: presión de gas, un filtro de aire tapado, una bujía ahogada. Alcanzó la velocidad, pero no pudo mantenerla.
 
-Si tu unidad ni siquiera da marcha — sin ruido, controlador muerto — ese es otro problema; empieza mejor con mi [guía de solución de problemas cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting/).
+Si tu unidad ni siquiera da marcha — sin ruido, controlador muerto — ese es otro problema; empieza mejor con mi [guía de solución de problemas cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting).
 
 ## ¿Podría ser solo una batería débil? (Causa #1: revisa esto primero)
 
@@ -87,7 +87,7 @@ Esos números no son trivia: una unidad que trabaja bien en vacío con presión 
 
 Un motor que no puede respirar ni echar chispa limpia no puede mantener sus RPM. Un filtro de aire tapado ahoga el flujo: el motor arranca, se pone rico y trastabilla. Las bujías sucias (los bicilíndricos Generac llevan dos) dan una chispa débil e intermitente, con el mismo resultado.
 
-Son las piezas más baratas de la lista. Las bujías cuestan **$4–8 cada una** — calibralas a la especificación (comúnmente **0,030 pulgadas** en los bicilíndricos enfriados por aire; revisa tu manual) — y el filtro de aire cuesta **$10–20**. Los kits de mantenimiento de Generac juntan filtro de aceite, filtro de aire y bujías por **$30–60**. Si no recuerdas el último servicio, hazlo antes que cualquier cosa exótica; he «arreglado» más de un 1501 con un kit de $40 y veinte minutos. La [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/) cubre la rutina anual que previene casi todo esto.
+Son las piezas más baratas de la lista. Las bujías cuestan **$4–8 cada una** — calibralas a la especificación (comúnmente **0,030 pulgadas** en los bicilíndricos enfriados por aire; revisa tu manual) — y el filtro de aire cuesta **$10–20**. Los kits de mantenimiento de Generac juntan filtro de aceite, filtro de aire y bujías por **$30–60**. Si no recuerdas el último servicio, hazlo antes que cualquier cosa exótica; he «arreglado» más de un 1501 con un kit de $40 y veinte minutos. La [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist) cubre la rutina anual que previene casi todo esto.
 
 ## ¿El motor de arranque está fallando? (Causa #6)
 
@@ -113,7 +113,7 @@ Borrar el código sin corregir la causa es lo único que no debes hacer: va a re
 4. **Compruébalo:** pulsa MANUAL y déjalo trabajar 5–10 minutos, bajo la carga de la casa si tu instalación permite una transferencia de prueba. Luego de regreso a AUTO.
 5. Deja que el siguiente **ejercicio programado** se complete antes de cerrar el caso. Dos ejercicios limpios seguidos significan reparado; una realarma significa que el diagnóstico no terminó.
 
-Si el motor se apaga a media marcha en vez de fallar al arrancar, trabaja después la guía de [el generador se apaga solo](/es/articles/generator-keeps-shutting-off/). Y para ver cómo se compara Generac con las otras marcas grandes de reserva, lee [Generac vs Kohler vs Cummins](/es/articles/generac-vs-kohler-vs-cummins/).
+Si el motor se apaga a media marcha en vez de fallar al arrancar, trabaja después la guía de [el generador se apaga solo](/es/articles/generator-keeps-shutting-off). Y para ver cómo se compara Generac con las otras marcas grandes de reserva, lee [Generac vs Kohler vs Cummins](/es/articles/generac-vs-kohler-vs-cummins).
 
 ## ¿Cuánto cuesta una visita del distribuidor por un 1501?
 
@@ -140,7 +140,7 @@ Haz esas tres cosas y el próximo mensaje de tu generador será el aburrido: *ej
 
 ## Sigue leyendo
 
-- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting/)
-- [Generac vs Kohler vs Cummins: marcas de reserva comparadas](/es/articles/generac-vs-kohler-vs-cummins/)
-- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist/)
-- [El generador se apaga solo: diagnóstica según cuándo muere](/es/articles/generator-keeps-shutting-off/)
+- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting)
+- [Generac vs Kohler vs Cummins: marcas de reserva comparadas](/es/articles/generac-vs-kohler-vs-cummins)
+- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist)
+- [El generador se apaga solo: diagnóstica según cuándo muere](/es/articles/generator-keeps-shutting-off)

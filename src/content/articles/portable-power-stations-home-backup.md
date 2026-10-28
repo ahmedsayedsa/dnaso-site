@@ -97,7 +97,7 @@ Runtimes below use the 0.85 usable-capacity rule on each unit's base battery. Fr
 | 4 LED lamps (40W) | ~87 hrs | ~82 hrs | ~59 hrs | ~130 hrs |
 | Well pump (240V, 1 hp) | Yes — in 240V mode | Yes — native split-phase | **No** — 120V only, single unit | Yes — full 240V output |
 
-The well-pump row deserves a footnote — it's the most misunderstood spec here. A typical 1 hp submersible pump runs at 1,000–1,500W and *cycles*, consuming maybe 100–300 Wh in a day. Energy is not the problem; the 3,000–6,000W starting surge and the 240V requirement are. That's why the single AC500 fails this row despite ample watt-hours: for motor loads, surge rating matters more than capacity. Full sizing walkthrough: our guide to whether a [solar generator can power a whole house](/articles/can-a-solar-generator-power-a-whole-house/) covers pumps and other 240V loads in depth.
+The well-pump row deserves a footnote — it's the most misunderstood spec here. A typical 1 hp submersible pump runs at 1,000–1,500W and *cycles*, consuming maybe 100–300 Wh in a day. Energy is not the problem; the 3,000–6,000W starting surge and the 240V requirement are. That's why the single AC500 fails this row despite ample watt-hours: for motor loads, surge rating matters more than capacity. Full sizing walkthrough: our guide to whether a [solar generator can power a whole house](/articles/can-a-solar-generator-power-a-whole-house) covers pumps and other 240V loads in depth.
 
 ## Solar charging and battery expansion
 
@@ -126,14 +126,14 @@ Where the picks differ:
 - You run **sustained heavy loads**: central AC for days, electric water heating, a dryer. Only the Ultra-class batteries play here at all, at several times the price.
 - Outages last **a week**: gas refuels in five minutes, indefinitely. A battery without serious solar is a 1–3 day device.
 
-**The middle ground most households should consider:** a mid-size gas generator ($800–$1,200) for heavy daytime loads plus a mid-size power station ($1,000–$2,000) for silent overnight essentials. The generator handles the fridge and cooking by day; at night it shuts down and the station runs the CPAP, phones, a lamp, and the Wi-Fi until morning — roughly $2,000–$3,000 total, less than one flagship station, and better than either device alone at both jobs. Where a station fits into a layered whole-home strategy is covered in our [complete home backup power guide](/articles/complete-home-backup-power-guide/).
+**The middle ground most households should consider:** a mid-size gas generator ($800–$1,200) for heavy daytime loads plus a mid-size power station ($1,000–$2,000) for silent overnight essentials. The generator handles the fridge and cooking by day; at night it shuts down and the station runs the CPAP, phones, a lamp, and the Wi-Fi until morning — roughly $2,000–$3,000 total, less than one flagship station, and better than either device alone at both jobs. Where a station fits into a layered whole-home strategy is covered in our [complete home backup power guide](/articles/complete-home-backup-power-guide).
 
 ## The bottom line
 
-For most households, the **EcoFlow Delta Pro 3** is the buy: real 240V capability, a day of essentials, the best ecosystem. The **Anker Solix F3800** is the pick when a well pump or other 240V load is non-negotiable. The **Bluetti AC500** is the budget-friendly modular start — just don't buy it expecting 240V. The **Delta Pro Ultra** is the whole-home system, priced like one. And if your outages run past three days or your budget is tight, keep a gas generator in the plan — our [home battery vs. generator comparison](/articles/home-battery-vs-generator/) walks through that decision load by load.
+For most households, the **EcoFlow Delta Pro 3** is the buy: real 240V capability, a day of essentials, the best ecosystem. The **Anker Solix F3800** is the pick when a well pump or other 240V load is non-negotiable. The **Bluetti AC500** is the budget-friendly modular start — just don't buy it expecting 240V. The **Delta Pro Ultra** is the whole-home system, priced like one. And if your outages run past three days or your budget is tight, keep a gas generator in the plan — our [home battery vs. generator comparison](/articles/home-battery-vs-generator) walks through that decision load by load.
 
 ## Keep reading
 
-- [Complete Home Backup Power Guide: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
-- [Can a Solar Generator Power a Whole House?](/articles/can-a-solar-generator-power-a-whole-house/)
-- [Home Battery vs Generator: Which Backup Is Right for You?](/articles/home-battery-vs-generator/)
+- [Complete Home Backup Power Guide: Generators vs Batteries](/articles/complete-home-backup-power-guide)
+- [Can a Solar Generator Power a Whole House?](/articles/can-a-solar-generator-power-a-whole-house)
+- [Home Battery vs Generator: Which Backup Is Right for You?](/articles/home-battery-vs-generator)

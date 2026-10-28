@@ -48,7 +48,7 @@ Propane's lower energy density (about 91,500 BTU per gallon vs ~114,000 for gaso
 
 Natural gas is measured differently — about 1,037 BTU per cubic foot, and utilities bill in therms (100,000 BTU each). A 20kW standby generator at half load pulls roughly 200–250 cubic feet per hour. At full load, 300+ cubic feet per hour. Your meter needs to be sized for it — many residential meters are, but check with your gas utility before installing a big standby unit.
 
-The deep-dive on which fuel to pick lives in [Dual-Fuel vs Gasoline vs Propane Generators: Running Costs Compared](/articles/dual-fuel-vs-gas-vs-propane-generator/) — storage life, cold weather behavior, and availability during outages.
+The deep-dive on which fuel to pick lives in [Dual-Fuel vs Gasoline vs Propane Generators: Running Costs Compared](/articles/dual-fuel-vs-gas-vs-propane-generator) — storage life, cold weather behavior, and availability during outages.
 
 ## Runtime math: what common tanks actually buy you
 
@@ -99,7 +99,7 @@ This is the number nobody runs until they're living it. At roughly $3.20–$3.60
 \* 20kW standby at 50% ≈ 2.2–2.5 therms/hr × 24
 \*\* Natural gas residential rates vary wildly by state ($1–$2 per therm typical); check your bill.
 
-A 5-day outage on a 7,500W portable at $55/day is $275 in fuel alone — more than many people paid for a quarter of the generator's purchase price. A 10-day outage approaches $550. This is the honest math that belongs in every backup-power plan: the generator is the cheap part; feeding it is the expensive part. It's also why [Home Battery Backup vs Generator: An Honest Comparison](/articles/home-battery-vs-generator/) exists — batteries have no fuel cost at all, which changes the long-term math considerably.
+A 5-day outage on a 7,500W portable at $55/day is $275 in fuel alone — more than many people paid for a quarter of the generator's purchase price. A 10-day outage approaches $550. This is the honest math that belongs in every backup-power plan: the generator is the cheap part; feeding it is the expensive part. It's also why [Home Battery Backup vs Generator: An Honest Comparison](/articles/home-battery-vs-generator) exists — batteries have no fuel cost at all, which changes the long-term math considerably.
 
 ## Fuel storage limits and stabilizer
 
@@ -132,12 +132,12 @@ A practical approach for a multi-day outage:
 3. Run 3–4 hours in the evening (dinner, showers, recharge devices)
 4. Optionally one overnight hour if the fridge needs it
 
-This cuts daily consumption roughly in half versus continuous running, and your fuel stock lasts twice as long. For the full picture on what to run and when, see [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/).
+This cuts daily consumption roughly in half versus continuous running, and your fuel stock lasts twice as long. For the full picture on what to run and when, see [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house).
 
 ## Keep reading
 
-- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
-- [Dual-Fuel vs Gasoline vs Propane Generators: Running Costs Compared](/articles/dual-fuel-vs-gas-vs-propane-generator/)
-- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)
-- [Home Battery Backup vs Generator: An Honest Comparison](/articles/home-battery-vs-generator/)
-- [Generator Maintenance Checklist: What to Do and When](/articles/generator-maintenance-checklist/)
+- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide)
+- [Dual-Fuel vs Gasoline vs Propane Generators: Running Costs Compared](/articles/dual-fuel-vs-gas-vs-propane-generator)
+- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house)
+- [Home Battery Backup vs Generator: An Honest Comparison](/articles/home-battery-vs-generator)
+- [Generator Maintenance Checklist: What to Do and When](/articles/generator-maintenance-checklist)

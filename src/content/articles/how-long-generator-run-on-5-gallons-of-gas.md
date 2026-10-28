@@ -29,7 +29,7 @@ If you just want the planning numbers, here they are. These assume gasoline, a h
 
 One important catch on the small inverter row: a 2,000W inverter's tank only holds about a gallon. "Five gallons" for that machine means the fuel in the tank plus your gas can, with refills along the way — a Honda EU2200i runs about 8 hours per tankful at quarter load and about 3.2 hours per tankful flat-out. The consumption rate is what's tiny; the tank is too. Mid-size and large portables, with 4- to 7-gallon tanks, get much closer to swallowing 5 gallons in one fill.
 
-For the full consumption breakdown by size, see our [generator fuel consumption guide](/articles/generator-fuel-consumption/) — and if you own one specific size, the dedicated pages go deeper: [how much gas a 2,000W generator uses](/articles/how-much-gas-does-2000w-generator-use/), [the 5,500W numbers](/articles/how-much-gas-does-5500w-generator-use/), and [the 7,500W numbers](/articles/how-much-gas-does-7500w-generator-use/).
+For the full consumption breakdown by size, see our [generator fuel consumption guide](/articles/generator-fuel-consumption) — and if you own one specific size, the dedicated pages go deeper: [how much gas a 2,000W generator uses](/articles/how-much-gas-does-2000w-generator-use), [the 5,500W numbers](/articles/how-much-gas-does-5500w-generator-use), and [the 7,500W numbers](/articles/how-much-gas-does-7500w-generator-use).
 
 ## How do you work out the runtime for your own generator?
 
@@ -72,7 +72,7 @@ Here's the planning number I give customers with a mid-size portable: **budget a
 
 What does that cost? At around $3.00–3.50 a gallon, a day of mid-size generator power runs you roughly **$15–18 in fuel** — cheap compared to a fridge full of spoiled food ($200–400, easily) or one burst pipe. Running a 7,500W unit hard all day is a different story: at 0.65–1.0 gph around the clock, you're burning 15–24 gallons a day, or $45–80. Big generators are wonderful for two hours of heavy loads and expensive pets the other twenty-two.
 
-And a word on standby generators, since people ask: whole-house standby units don't really play the 5-gallon game — they run on natural gas or propane. A 22kW standby on propane burns roughly 2 gallons per hour at half load and close to 4 at full load, so a 5-gallon cylinder's worth of propane is gone in about an hour and a half to two and a half hours. That's why standbys get plumbed into 250- or 500-gallon tanks, not grill bottles. Our [storm preparedness checklist](/articles/storm-preparedness-checklist/) covers sizing your stored fuel before the weather turns, which is when this planning actually has to happen.
+And a word on standby generators, since people ask: whole-house standby units don't really play the 5-gallon game — they run on natural gas or propane. A 22kW standby on propane burns roughly 2 gallons per hour at half load and close to 4 at full load, so a 5-gallon cylinder's worth of propane is gone in about an hour and a half to two and a half hours. That's why standbys get plumbed into 250- or 500-gallon tanks, not grill bottles. Our [storm preparedness checklist](/articles/storm-preparedness-checklist) covers sizing your stored fuel before the weather turns, which is when this planning actually has to happen.
 
 ## How do you stretch 5 gallons when it's all you have?
 
@@ -88,7 +88,7 @@ This is where outage experience pays. When fuel is the limit, you manage hours, 
 
 ## How do you store 5 gallons safely — and refuel without burning the garage down?
 
-Two rules I don't bend on. First, **gasoline has a shelf life.** Untreated pump gas starts degrading in 30–90 days and is genuinely stale by six months. Add stabilizer the day you fill the can — a bottle runs $8–12 and treats 40–80 gallons — and stabilized fuel keeps 12–24 months. Rotate your stored cans into your car every six months and refill with fresh, stabilized gas. The generator that won't start on outage day is almost always drinking last year's fuel; if that's your situation, our [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting/) walks the fix in order.
+Two rules I don't bend on. First, **gasoline has a shelf life.** Untreated pump gas starts degrading in 30–90 days and is genuinely stale by six months. Add stabilizer the day you fill the can — a bottle runs $8–12 and treats 40–80 gallons — and stabilized fuel keeps 12–24 months. Rotate your stored cans into your car every six months and refill with fresh, stabilized gas. The generator that won't start on outage day is almost always drinking last year's fuel; if that's your situation, our [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting) walks the fix in order.
 
 Second, **never refuel a running or hot generator.** Shut it down and wait at least 5–10 minutes — mufflers run hot enough to ignite gasoline vapor on contact, and a "quick top-off" with the engine running is the single most common generator fire scenario I hear about. Refuel outdoors, on the ground (never in a truck bed, where static can build), and let the machine cool before you restart. Yes, waiting is annoying at midnight in the rain. Do it anyway.
 
@@ -98,8 +98,8 @@ Work it backwards from your load, not forwards from the gas can. A 2,000W invert
 
 ## Keep reading
 
-- [Generator Fuel Consumption: Gallons per Hour by Size and Load](/articles/generator-fuel-consumption/)
-- [How Much Gas Does a 7,500W Generator Use?](/articles/how-much-gas-does-7500w-generator-use/)
-- [How Much Gas Does a 5,500W Generator Use?](/articles/how-much-gas-does-5500w-generator-use/)
-- [How Much Gas Does a 2,000W Generator Use?](/articles/how-much-gas-does-2000w-generator-use/)
-- [Storm Preparedness Checklist: Before, During, and After](/articles/storm-preparedness-checklist/)
+- [Generator Fuel Consumption: Gallons per Hour by Size and Load](/articles/generator-fuel-consumption)
+- [How Much Gas Does a 7,500W Generator Use?](/articles/how-much-gas-does-7500w-generator-use)
+- [How Much Gas Does a 5,500W Generator Use?](/articles/how-much-gas-does-5500w-generator-use)
+- [How Much Gas Does a 2,000W Generator Use?](/articles/how-much-gas-does-2000w-generator-use)
+- [Storm Preparedness Checklist: Before, During, and After](/articles/storm-preparedness-checklist)

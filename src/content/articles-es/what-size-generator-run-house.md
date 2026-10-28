@@ -127,7 +127,7 @@ Pico más grande: el aire — 8,000 W encima de su consumo. 6,000 + 8,000 = 14,0
 
 **Respuesta: un generador de reserva de 20–22 kW.** Ningún portátil de menos de unos 12,000 vatios arranca de forma confiable un aire central de 3 toneladas — y aun así es marginal. Por eso las casas con aire central casi siempre terminan con un Generac 22kW Guardian o un Kohler 20RCA ($8,000–$15,000 instalados).
 
-**La alternativa más barata:** instala un [arrancador suave](/es/articles/what-size-generator-central-ac/) en el aire (~$300–$400) para reducir el pico de arranque un 60–70%. Eso puede bajar el pico a ~3,500 W y devolver un portátil grande al juego. Lee la guía de cálculo del aire para el desglose completo.
+**La alternativa más barata:** instala un [arrancador suave](/es/articles/what-size-generator-central-ac) en el aire (~$300–$400) para reducir el pico de arranque un 60–70%. Eso puede bajar el pico a ~3,500 W y devolver un portátil grande al juego. Lee la guía de cálculo del aire para el desglose completo.
 
 ## La regla del "20% de margen" — y por qué existe
 
@@ -162,5 +162,5 @@ La excepción: si vas a comprar un generador de reserva, el salto de precio de 1
 
 ## Sigue leyendo
 
-- [Guía de energía de respaldo para el hogar 2026](/es/articles/complete-home-backup-power-guide/) — el panorama completo: tipos de generadores, costos, combustible, baterías, y cómo elegir.
-- [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac/) — el problema del aire en detalle: tablas por tonelaje, por qué los vatios de arranque matan a los generadores pequeños, y los arrancadores suaves.
+- [Guía de energía de respaldo para el hogar 2026](/es/articles/complete-home-backup-power-guide) — el panorama completo: tipos de generadores, costos, combustible, baterías, y cómo elegir.
+- [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac) — el problema del aire en detalle: tablas por tonelaje, por qué los vatios de arranque matan a los generadores pequeños, y los arrancadores suaves.

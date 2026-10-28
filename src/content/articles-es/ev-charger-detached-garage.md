@@ -127,7 +127,7 @@ Dos cosas distintas que aquí se confunden:
 
 ¿Lo subcontratas o lo haces tú? En la mayoría de las jurisdicciones un dueño de casa puede sacar su propio permiso para trabajo en su propia casa. La zanja y el conducto son genuinamente aptos para hacerlo uno mismo si eres mañoso y paciente. Las terminales del panel y el subpanel son donde yo le diría a mi propio vecino que contrate a alguien — una terminal floja en una carga continua de 60A es un incendio que se toma su tiempo. La mayoría queda en el medio: el dueño cava (ahorrando $500–$1,500), el electricista hace todo lo eléctrico. Solo acuerda la profundidad de la zanja y el tamaño del conducto con tu electricista *antes* de cavar, y toma fotos de la zanja abierta con una cinta métrica en el encuadre. A los inspectores les encanta eso, y te puede ahorrar una re-excavación.
 
-Mientras planeas trabajo eléctrico alrededor de la casa, vale la pena pensar en lo que ese subpanel de cochera y ese cargador significan durante un apagón — tu VE es la batería más grande que tienes. Cubro lo que eso hace y no hace por ti en [cargar un VE durante un apagón](/es/articles/charging-ev-during-outage/), y el panorama general del respaldo está en [batería casera vs generador](/es/articles/home-battery-vs-generator/).
+Mientras planeas trabajo eléctrico alrededor de la casa, vale la pena pensar en lo que ese subpanel de cochera y ese cargador significan durante un apagón — tu VE es la batería más grande que tienes. Cubro lo que eso hace y no hace por ti en [cargar un VE durante un apagón](/es/articles/charging-ev-during-outage), y el panorama general del respaldo está en [batería casera vs generador](/es/articles/home-battery-vs-generator).
 
 ## La Conclusión de Mike
 

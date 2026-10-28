@@ -101,7 +101,7 @@ Lo bonito: los VE son la carga TOU perfecta. El auto está en la cochera toda la
 
 La trampa — y siempre hay una: cambiar toda tu casa a un plan TOU significa que tu electricidad del día también se encarece. Si alguien está en casa con el aire acondicionado toda la tarde en julio, la tarifa pico puede comerse tus ahorros nocturnos del VE. Haz la matemática de tu recibo total, no solo del auto. Algunas compañías ofrecen tarifas submedidas específicas para VE que solo aplican al circuito del cargador — esas son la mejor oferta cuando existen, porque la casa se queda en la tarifa plana. Pregunta a tu compañía específicamente por planes de tarifa para VE antes de cambiar nada.
 
-Aquí es también donde una batería casera se gana su lugar de una forma completamente distinta — cargando barato de noche y cubriendo tu pico caro de la tarde. El [desglose de batería casera vs generador](/es/articles/home-battery-vs-generator/) explica esa matemática de arbitraje si el diferencial de tarifas de tu compañía es lo suficientemente amplio como para importar.
+Aquí es también donde una batería casera se gana su lugar de una forma completamente distinta — cargando barato de noche y cubriendo tu pico caro de la tarde. El [desglose de batería casera vs generador](/es/articles/home-battery-vs-generator) explica esa matemática de arbitraje si el diferencial de tarifas de tu compañía es lo suficientemente amplio como para importar.
 
 ## ¿Cuánto Cuesta Cargar un VE para 1,000 Millas al Mes?
 
@@ -123,7 +123,7 @@ Y el otro lado — California a $0.30/kWh plano: 303 × $0.30 = **$91/mes**, aho
 
 Escálalo a tu manejo: a 15,000 millas al año (una asignación común de arrendamiento), los ahorros a tarifa promedio contra un auto de gasolina de 30 mpg andan por **$920/año**. Los que manejan mucho — 20,000+ millas al año, rideshare, trayectos largos — ahorran más en dólares absolutos, que es exactamente por qué los conductores de alto kilometraje son los mejores candidatos económicos para un VE.
 
-¿Y el retorno de la instalación del cargador? Una instalación de nivel 2 de $1,500 (mira el [desglose de costos de instalación](/es/articles/level-2-ev-charger-installation-cost/)) pagada solo con ahorro de combustible toma más o menos dos años a tarifas y kilometraje promedio. Pero ese es el encuadre equivocado — con un auto de gasolina también pagarías "infraestructura de combustible," en forma de manejar a gasolineras. El retorno honesto incluye tu tiempo, que nadie cotiza.
+¿Y el retorno de la instalación del cargador? Una instalación de nivel 2 de $1,500 (mira el [desglose de costos de instalación](/es/articles/level-2-ev-charger-installation-cost)) pagada solo con ahorro de combustible toma más o menos dos años a tarifas y kilometraje promedio. Pero ese es el encuadre equivocado — con un auto de gasolina también pagarías "infraestructura de combustible," en forma de manejar a gasolineras. El retorno honesto incluye tu tiempo, que nadie cotiza.
 
 ## Los Costos Escondidos: Pérdidas de Carga, Consumo Parásito y Cargos por Demanda
 
@@ -137,7 +137,7 @@ La matemática de arriba es ligeramente optimista. Esto es lo que le recorta los
 
 **Cargos por demanda (raros en residencial, revisa de todos modos).** Algunas compañías con facturación residencial por demanda pueden cobrarte por el pico de kW de un cargador de 48A (11.5 kW) aunque el total de kWh sea modesto. Si tu compañía tiene cargos por demanda, programa la carga de noche Y considera un ajuste de amperaje más bajo. La mayoría de los clientes residenciales nunca ve cargos por demanda, pero los que sí se llevan la sorpresa.
 
-**El panel y el costo de instalación.** Ya cubierto en detalle en la [guía de costos de instalación de nivel 2](/es/articles/level-2-ev-charger-installation-cost/) — $800 a $4,000+ según tu situación. Es un costo único, pero es dinero real que pertenece en la matemática del retorno.
+**El panel y el costo de instalación.** Ya cubierto en detalle en la [guía de costos de instalación de nivel 2](/es/articles/level-2-ev-charger-installation-cost) — $800 a $4,000+ según tu situación. Es un costo único, pero es dinero real que pertenece en la matemática del retorno.
 
 Ninguno de estos voltea la economía por sí solo. Juntos recortan tal vez 15–20% del número ingenuo de ahorro. Sigue siendo sólidamente más barato que la gasolina en 49 estados.
 
@@ -161,4 +161,4 @@ El hilo conductor: cargar en casa es barato *cuando tienes electricidad nocturna
 
 A tarifas promedio de EE.UU., cargar un VE en casa cuesta más o menos **4–6 centavos por milla** — como un tercio de la gasolina. Las tarifas nocturnas por horario pueden bajarlo a menos de 3 centavos. Tu estado determina si ahorras $80 al mes o $20, y el consumo parásito más las pérdidas de carga recortan como 10–15% de la matemática ingenua. La economía es genuinamente buena para la mayoría de los dueños de casa con cochera y una tarifa decente — y genuinamente mala para quienes viven en apartamento atascados en cargadores públicos.
 
-Si estás presupuestando el panorama completo, combínalo con la [guía de costos de instalación de cargador EV de nivel 2](/es/articles/level-2-ev-charger-installation-cost/) para los números únicos de instalación, y si el diferencial de tarifas de tu compañía te tiene pensando en almacenamiento, la guía de [estaciones de energía portátiles para respaldo en casa](/es/articles/portable-power-stations-home-backup/) cubre las opciones de batería a menor escala.
+Si estás presupuestando el panorama completo, combínalo con la [guía de costos de instalación de cargador EV de nivel 2](/es/articles/level-2-ev-charger-installation-cost) para los números únicos de instalación, y si el diferencial de tarifas de tu compañía te tiene pensando en almacenamiento, la guía de [estaciones de energía portátiles para respaldo en casa](/es/articles/portable-power-stations-home-backup) cubre las opciones de batería a menor escala.

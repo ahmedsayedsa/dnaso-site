@@ -220,7 +220,7 @@ Either way, the fuel decision comes before the unit decision — size the genera
 
 ## Keep reading
 
-- [Complete Home Backup Power Guide: Generators, Batteries & Sizing](/articles/complete-home-backup-power-guide/)
-- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)
-- [Whole House Generator Cost: Installed Prices by Size](/articles/whole-house-generator-cost/)
-- [Dual Fuel vs Gas vs Propane Generators: Pros, Cons & Costs](/articles/dual-fuel-vs-gas-vs-propane-generator/)
+- [Complete Home Backup Power Guide: Generators, Batteries & Sizing](/articles/complete-home-backup-power-guide)
+- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house)
+- [Whole House Generator Cost: Installed Prices by Size](/articles/whole-house-generator-cost)
+- [Dual Fuel vs Gas vs Propane Generators: Pros, Cons & Costs](/articles/dual-fuel-vs-gas-vs-propane-generator)

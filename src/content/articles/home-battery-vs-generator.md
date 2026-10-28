@@ -115,7 +115,7 @@ If you already have solar — or are considering it — batteries make more sens
 
 - **Short outages** (a few hours): silent, instant, no fuel, no going outside in a storm.
 - **Noise restrictions:** HOAs, close neighbors, local noise ordinances. Batteries are silent. This alone decides it for some homeowners.
-- **No maintenance:** no oil changes, no fuel stabilizer, no exercise schedule, no dead starting battery. (See what generator owners deal with in the [generator maintenance checklist](/articles/generator-maintenance-checklist/).)
+- **No maintenance:** no oil changes, no fuel stabilizer, no exercise schedule, no dead starting battery. (See what generator owners deal with in the [generator maintenance checklist](/articles/generator-maintenance-checklist).)
 - **No emissions on-site:** no exhaust, no carbon monoxide risk, no fuel storage.
 - **Solar homes:** unlock your panels during outages + daily rate arbitrage.
 - **Electronics:** pure sine-wave output, cleaner than utility power. Zero THD concerns.
@@ -137,4 +137,4 @@ Answer these three questions:
 
 The "both" answer is real, by the way: a battery for the instant, silent, short outages (which are most outages) plus a portable generator for the rare multi-day event is a combination I see more homeowners land on. The battery handles 90% of outages beautifully; the generator sits in the garage for the hurricane week.
 
-For the full landscape — generator types, sizing, transfer switches, and how batteries fit in — start with the pillar guide: [home backup power explained](/articles/complete-home-backup-power-guide/). And before you buy either one, run the numbers on your actual loads with the [generator sizing guide](/articles/what-size-generator-run-house/) — the same wattage math applies to sizing a battery's kW output.
+For the full landscape — generator types, sizing, transfer switches, and how batteries fit in — start with the pillar guide: [home backup power explained](/articles/complete-home-backup-power-guide). And before you buy either one, run the numbers on your actual loads with the [generator sizing guide](/articles/what-size-generator-run-house) — the same wattage math applies to sizing a battery's kW output.

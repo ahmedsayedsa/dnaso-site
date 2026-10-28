@@ -41,7 +41,7 @@ Antes de quitar un solo tornillo, haz esta prueba de dos minutos. Calienta el ge
 
 - **Muere con el choke abierto, trabaja suave a medio choke, trabaja rico con el choke completo** — restricción clásica de gasolina. El medio choke está compensando exactamente la gasolina que el carburador debería estar entregando.
 - **Trabaja bien con el choke abierto cuando ya está bien caliente (5+ minutos)** — quizá no es falla. Algunos Honda chicos vienen con surtidores pobres de fábrica por emisiones y son genuinamente friolentos.
-- **Muere en el instante en que mueves el choke, incluso caliente** — la obstrucción es severa. Estos a menudo se cruzan con máquinas que [arrancan y mueren a los pocos segundos](/es/articles/generator-starts-then-dies/).
+- **Muere en el instante en que mueves el choke, incluso caliente** — la obstrucción es severa. Estos a menudo se cruzan con máquinas que [arrancan y mueren a los pocos segundos](/es/articles/generator-starts-then-dies).
 - **Trabaja mejor bajo carga que en vacío** — otra huella: un surtidor piloto tapado estrangula más el circuito de baja, así que el motor se suaviza cuando una carga abre el acelerador y el surtidor principal toma el relevo, y se desarma cuando la carga se quita.
 - **Mover el choke no cambia nada** — revisa que la varilla realmente mueva la placa antes de culpar a la mezcla.
 
@@ -55,7 +55,7 @@ La historia es casi siempre la misma: trabajó perfecto en octubre, luego estuvo
 
 La gasolina vieja y un surtidor tapado suelen ser dos capítulos de la misma historia, pero a veces tienes suerte: la gasolina del tazón se echó a perder mientras los pasajes aún están limpios. La gasolina pierde volatilidad en tan solo 30 días, y a los seis meses la E10 sin estabilizar huele a barniz y quema pobre.
 
-**La prueba con gasolina fresca no cuesta nada, así que hazla primero.** Cierra la válvula, drena el tazón del carburador (un tornillito de drenaje al fondo en los carburadores EU), drena o sifonea el tanque y rellena con gasolina fresca comprada esta semana, con estabilizador. Dale cinco minutos para purgar la gasolina vieja. Si ahora trabaja limpio sin choke, te acabas de ahorrar un desarme —no desperdicies la suerte: convierte la gasolina estabilizada (o drenar el tazón) en tu rutina de guardado. La [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/) trae la rutina completa de temporada. Si la gasolina fresca no cambia nada, los depósitos ya están en los surtidores. Sigue adelante.
+**La prueba con gasolina fresca no cuesta nada, así que hazla primero.** Cierra la válvula, drena el tazón del carburador (un tornillito de drenaje al fondo en los carburadores EU), drena o sifonea el tanque y rellena con gasolina fresca comprada esta semana, con estabilizador. Dale cinco minutos para purgar la gasolina vieja. Si ahora trabaja limpio sin choke, te acabas de ahorrar un desarme —no desperdicies la suerte: convierte la gasolina estabilizada (o drenar el tazón) en tu rutina de guardado. La [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist) trae la rutina completa de temporada. Si la gasolina fresca no cambia nada, los depósitos ya están en los surtidores. Sigue adelante.
 
 ## ¿Y el filtro de gasolina y el sedimento?
 
@@ -107,8 +107,8 @@ Mi regla: limpia primero —el depósito es el problema, no la pieza. Ve por el 
 
 El síntoma del choke está a la profundidad del carburador —territorio de dueño de casa con herramientas básicas. Entrégalo cuando:
 
-- **Lo limpiaste bien y sigue necesitando el choke.** Algo estructural está pasando —un eje de acelerador gastado que deja pasar aire, una brida deformada, baja compresión— y eso necesita medición, no más limpieza. Si ahora se niega a arrancar por completo, pasa primero por la [lista de revisión de generador que no arranca](/es/articles/generator-wont-start-troubleshooting/).
-- **Oscila y se apaga bajo carga incluso después del arreglo.** Eso se cruza con los problemas de gobernador y salida de nuestra [guía de generador que sube y baja de revoluciones](/es/articles/generator-surging/).
+- **Lo limpiaste bien y sigue necesitando el choke.** Algo estructural está pasando —un eje de acelerador gastado que deja pasar aire, una brida deformada, baja compresión— y eso necesita medición, no más limpieza. Si ahora se niega a arrancar por completo, pasa primero por la [lista de revisión de generador que no arranca](/es/articles/generator-wont-start-troubleshooting).
+- **Oscila y se apaga bajo carga incluso después del arreglo.** Eso se cruza con los problemas de gobernador y salida de nuestra [guía de generador que sube y baja de revoluciones](/es/articles/generator-surging).
 - **Está en garantía.** Una queja de choke dentro de la ventana de garantía es problema del distribuidor, no tuyo.
 - **Encontraste una fuga de gasolina en cualquier parte.** Las fugas de gasolina en un motor caliente son donde termina el hazlo-tú-mismo.
 
@@ -116,7 +116,7 @@ Un taller típicamente cobra **$120–200** ya todo incluido —estás comprando
 
 ## Sigue leyendo
 
-- [Generador que sube y baja de revoluciones: causas y soluciones](/es/articles/generator-surging/)
-- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting/)
-- [El generador arranca y se apaga: la lista en orden](/es/articles/generator-starts-then-dies/)
-- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist/)
+- [Generador que sube y baja de revoluciones: causas y soluciones](/es/articles/generator-surging)
+- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting)
+- [El generador arranca y se apaga: la lista en orden](/es/articles/generator-starts-then-dies)
+- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist)

@@ -135,7 +135,7 @@ Ejemplo: nevera (200 de uso / 1,200 de arranque) + 6 luces LED (60) + Wi-Fi y ca
 
 Así que un portátil de 5,500 vatios cubre esto con comodidad. Ese es el método — funciona para cualquier casa.
 
-Para el paso a paso completo con tablas de aparatos y ejemplos resueltos para casas de 1,500–3,000 pies cuadrados, mira [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/). Si el aire acondicionado central está en tu lista, lee [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac/) — el cálculo del aire tiene sus propias trampas.
+Para el paso a paso completo con tablas de aparatos y ejemplos resueltos para casas de 1,500–3,000 pies cuadrados, mira [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house). Si el aire acondicionado central está en tu lista, lee [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac) — el cálculo del aire tiene sus propias trampas.
 
 <div class="safety"><strong>Nota de seguridad:</strong> Nunca pongas un generador en el garaje, el sótano ni ningún espacio cerrado — el monóxido de carbono mata en minutos y no se puede oler. Mantén los portátiles a por lo menos 20 pies de la casa con el escape apuntando lejos de ventanas y puertas.</div>
 
@@ -195,27 +195,27 @@ No olvides los costos continuos: combustible, mantenimiento anual, y en los port
 ## A dónde ir después
 
 **Tamaño:**
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/) — el paso a paso completo del cálculo: vatios de uso vs. de arranque, tablas de aparatos, ejemplos resueltos.
-- [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac/) — el aire es la carga más difícil de calcular. Tablas por tonelaje, la trampa de los vatios de arranque, y cómo los arrancadores suaves cambian el cálculo.
-- [¿Qué puede alimentar un generador de 7500 vatios?](/es/articles/what-can-7500-watt-generator-run/) — el punto ideal para respaldo solo de lo esencial, con combinaciones de carga reales.
+- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house) — el paso a paso completo del cálculo: vatios de uso vs. de arranque, tablas de aparatos, ejemplos resueltos.
+- [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac) — el aire es la carga más difícil de calcular. Tablas por tonelaje, la trampa de los vatios de arranque, y cómo los arrancadores suaves cambian el cálculo.
+- [¿Qué puede alimentar un generador de 7500 vatios?](/es/articles/what-can-7500-watt-generator-run) — el punto ideal para respaldo solo de lo esencial, con combinaciones de carga reales.
 
 **Costos y tipos:**
-- [Costo de un generador para toda la casa en 2026](/es/articles/whole-house-generator-cost/) — rangos de precio instalado, qué eleva el costo, y la alternativa económica.
-- [Generador portátil vs de reserva vs inversor](/es/articles/portable-vs-standby-vs-inverter-generator/) — los tres tipos comparados sin adornos, con para quién es cada uno.
-- [Batería doméstica vs generador](/es/articles/home-battery-vs-generator/) — cuándo ganan las baterías, cuándo no, y el enfoque híbrido.
-- [Generac vs Kohler vs Cummins](/es/articles/generac-vs-kohler-vs-cummins/) — las tres grandes marcas de reserva comparadas.
+- [Costo de un generador para toda la casa en 2026](/es/articles/whole-house-generator-cost) — rangos de precio instalado, qué eleva el costo, y la alternativa económica.
+- [Generador portátil vs de reserva vs inversor](/es/articles/portable-vs-standby-vs-inverter-generator) — los tres tipos comparados sin adornos, con para quién es cada uno.
+- [Batería doméstica vs generador](/es/articles/home-battery-vs-generator) — cuándo ganan las baterías, cuándo no, y el enfoque híbrido.
+- [Generac vs Kohler vs Cummins](/es/articles/generac-vs-kohler-vs-cummins) — las tres grandes marcas de reserva comparadas.
 
 **Combustible e instalación:**
-- [Doble combustible vs gasolina vs propano](/es/articles/dual-fuel-vs-gas-vs-propane-generator/) — costos de operación comparados, vida útil del almacenamiento, y qué elegir.
-- [Interruptor de transferencia vs kit de interbloqueo](/es/articles/transfer-switch-vs-interlock-kit/) — cómo conectarlo de forma segura y legal.
+- [Doble combustible vs gasolina vs propano](/es/articles/dual-fuel-vs-gas-vs-propane-generator) — costos de operación comparados, vida útil del almacenamiento, y qué elegir.
+- [Interruptor de transferencia vs kit de interbloqueo](/es/articles/transfer-switch-vs-interlock-kit) — cómo conectarlo de forma segura y legal.
 
 **Propiedad:**
-- [Lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/) — la rutina que decide si funciona cuando lo necesitas.
-- [¿Cuánto duran los generadores?](/es/articles/how-long-do-generators-last/) — vida útil realista por tipo y qué los mata antes de tiempo.
-- [¿El generador no arranca? Guía de solución de problemas](/es/articles/generator-wont-start-troubleshooting/) — las soluciones para las causas más comunes de no arranque.
+- [Lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist) — la rutina que decide si funciona cuando lo necesitas.
+- [¿Cuánto duran los generadores?](/es/articles/how-long-do-generators-last) — vida útil realista por tipo y qué los mata antes de tiempo.
+- [¿El generador no arranca? Guía de solución de problemas](/es/articles/generator-wont-start-troubleshooting) — las soluciones para las causas más comunes de no arranque.
 
 **Carga de EV y energía de respaldo:**
-- [¿Puede un EV alimentar tu casa? V2H explicado](/es/articles/can-ev-power-house-v2h/) — carga bidireccional: qué camionetas pueden respaldar una casa, cuánto cuesta el hardware, y los límites honestos.
-- [Cargar un EV durante un apagón](/es/articles/charging-ev-during-outage/) — lo que de verdad funciona: cargar con generador, requisitos de energía limpia, y el cálculo real de millas por galón.
+- [¿Puede un EV alimentar tu casa? V2H explicado](/es/articles/can-ev-power-house-v2h) — carga bidireccional: qué camionetas pueden respaldar una casa, cuánto cuesta el hardware, y los límites honestos.
+- [Cargar un EV durante un apagón](/es/articles/charging-ev-during-outage) — lo que de verdad funciona: cargar con generador, requisitos de energía limpia, y el cálculo real de millas por galón.
 
 Mide dos veces, compra una. Un generador bien dimensionado y con mantenimiento es un aparato aburrido que te salva la semana una vez cada par de años. Eso es exactamente lo que quieres.

@@ -40,7 +40,7 @@ Before you remove a single screw, run this two-minute test. Warm the generator u
 
 - **Dies at full open, runs smoothly at half choke, runs rich at full choke** — classic fuel restriction. Half choke is exactly compensating for fuel the carburetor should be delivering.
 - **Runs fine at full open once genuinely warm (5+ minutes)** — maybe not a fault at all. Some small Hondas are jetted lean from the factory and genuinely cold-blooded.
-- **Dies the instant you move the choke at all, even warm** — the blockage is severe. These often overlap with machines that [start and then die within seconds](/articles/generator-starts-then-dies/).
+- **Dies the instant you move the choke at all, even warm** — the blockage is severe. These often overlap with machines that [start and then die within seconds](/articles/generator-starts-then-dies).
 - **Runs better under load than at idle** — another fingerprint: a clogged pilot jet starves the idle circuit worst, so the engine smooths out when a load opens the throttle and the main jet takes over, then falls apart when the load drops.
 - **Moving the choke changes nothing** — check the linkage is actually moving the plate before blaming mixture at all.
 
@@ -54,7 +54,7 @@ The timeline is almost always the same: it ran perfectly in October, then sat al
 
 Stale fuel and a clogged jet are usually two chapters of the same story, but sometimes you get lucky: the fuel in the bowl has gone off while the passages are still clean. Fuel loses volatility in as little as 30 days, and by six months unstabilized E10 smells like varnish and burns lean.
 
-**The fresh-fuel trial costs nothing, so do it first.** Shut the valve, drain the carb bowl (small drain screw at the bottom on EU carbs), drain or siphon the tank, and refill with fresh gasoline bought this week, stabilizer added. Give it five minutes to purge the old fuel. If it now runs cleanly off choke, you just saved yourself a teardown — don't waste the luck: make stabilized fuel (or running the bowl dry) your storage routine. The [generator maintenance checklist](/articles/generator-maintenance-checklist/) has the full seasonal version. If fresh fuel changes nothing, the deposits are already in the jets. Move on.
+**The fresh-fuel trial costs nothing, so do it first.** Shut the valve, drain the carb bowl (small drain screw at the bottom on EU carbs), drain or siphon the tank, and refill with fresh gasoline bought this week, stabilizer added. Give it five minutes to purge the old fuel. If it now runs cleanly off choke, you just saved yourself a teardown — don't waste the luck: make stabilized fuel (or running the bowl dry) your storage routine. The [generator maintenance checklist](/articles/generator-maintenance-checklist) has the full seasonal version. If fresh fuel changes nothing, the deposits are already in the jets. Move on.
 
 ## What About the Fuel Filter and Sediment?
 
@@ -106,8 +106,8 @@ My rule: clean first — the deposit is the problem, not the part. Go OEM if the
 
 The choke symptom is carburetor-deep — homeowner territory with basic tools. Hand it off when:
 
-- **You cleaned it properly and it still needs choke.** Something structural is going on — a worn throttle shaft leaking air, a warped flange, low compression — needing measurement, not more cleaning. If it now refuses to start at all, work the [generator won't start checklist](/articles/generator-wont-start-troubleshooting/) first.
-- **It hunts and stalls under load even after the fix.** That overlaps with the governor and output issues in our [generator surging guide](/articles/generator-surging/).
+- **You cleaned it properly and it still needs choke.** Something structural is going on — a worn throttle shaft leaking air, a warped flange, low compression — needing measurement, not more cleaning. If it now refuses to start at all, work the [generator won't start checklist](/articles/generator-wont-start-troubleshooting) first.
+- **It hunts and stalls under load even after the fix.** That overlaps with the governor and output issues in our [generator surging guide](/articles/generator-surging).
 - **It's under warranty.** A choke complaint inside the warranty window is the dealer's problem, not yours.
 - **You found fuel leaking anywhere.** Fuel leaks on a hot engine are where DIY ends.
 
@@ -115,7 +115,7 @@ A shop typically charges **$120–200** all-in — you're buying the hour and th
 
 ## Keep reading
 
-- [Generator Surging? Causes and Fixes, in Order](/articles/generator-surging/)
-- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting/)
-- [Generator Starts Then Dies? The Ordered Checklist](/articles/generator-starts-then-dies/)
-- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist/)
+- [Generator Surging? Causes and Fixes, in Order](/articles/generator-surging)
+- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting)
+- [Generator Starts Then Dies? The Ordered Checklist](/articles/generator-starts-then-dies)
+- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist)

@@ -109,7 +109,7 @@ Dos cotizaciones a $2,000 de distancia no están realmente a $2,000 de distancia
 
 ## Enfriado por aire vs. enfriado por líquido: el salto de precio
 
-Las unidades enfriadas por aire (todo hasta 26 kW) son la opción residencial estándar. Los modelos enfriados por líquido — 36 kW y más, motores estilo carro trabajando a 1,800 RPM — cuestan **$12,000–$20,000+ la unidad** y $20,000–$35,000+ instalados. Trabajan más silenciosos, duran 10,000+ horas (mira nuestra [guía de vida útil](/es/articles/how-long-do-generators-last/)), y convienen para casas grandes o totalmente eléctricas con cargas pesadas y sostenidas.
+Las unidades enfriadas por aire (todo hasta 26 kW) son la opción residencial estándar. Los modelos enfriados por líquido — 36 kW y más, motores estilo carro trabajando a 1,800 RPM — cuestan **$12,000–$20,000+ la unidad** y $20,000–$35,000+ instalados. Trabajan más silenciosos, duran 10,000+ horas (mira nuestra [guía de vida útil](/es/articles/how-long-do-generators-last)), y convienen para casas grandes o totalmente eléctricas con cargas pesadas y sostenidas.
 
 Para la mayoría de las casas, lo enfriado por líquido es excesivo. Si un contratista te empuja hacia uno para una casa de 2,500 pies cuadrados con calefacción de gas, busca una segunda opinión — eso es una bandera roja, no una mejora.
 
@@ -133,4 +133,4 @@ La mayoría de los distribuidores ofrecen financiamiento a través de socios com
 
 Presupuesta **$10,000–$13,000** para una instalación típica para toda la casa, pide tres cotizaciones detalladas, y presta la mayor atención a los conceptos de gas y electricidad — ahí es donde se mueve el dinero de verdad. Una unidad enfriada por aire de 22 kW bien instalada va a alimentar tu casa por décadas de uso normal en apagones.
 
-Para el panorama completo — cálculo de tamaño, elección de combustible, baterías vs. generadores, y mantenimiento — empieza con nuestra [Guía de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide/). Y si estás evaluando cómo se conecta el generador a tu tablero, lee [Interruptor de transferencia vs kit de interbloqueo: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit/) antes de firmar nada.
+Para el panorama completo — cálculo de tamaño, elección de combustible, baterías vs. generadores, y mantenimiento — empieza con nuestra [Guía de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide). Y si estás evaluando cómo se conecta el generador a tu tablero, lee [Interruptor de transferencia vs kit de interbloqueo: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit) antes de firmar nada.

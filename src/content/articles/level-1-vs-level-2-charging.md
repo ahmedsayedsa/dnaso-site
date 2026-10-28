@@ -87,7 +87,7 @@ Level 1: $0, plus whatever your car's mobile connector cost (free with most bran
 
 Level 2, broken down honestly:
 
-- **Charger hardware:** $400–$650 for one of the good units — [my three-way comparison of the Tesla, ChargePoint, and Emporia](/articles/tesla-wall-connector-vs-chargepoint-vs-emporia/) covers which one fits which house.
+- **Charger hardware:** $400–$650 for one of the good units — [my three-way comparison of the Tesla, ChargePoint, and Emporia](/articles/tesla-wall-connector-vs-chargepoint-vs-emporia) covers which one fits which house.
 - **Electrician install:** $500–$1,200 for a typical job — new 40 or 60-amp breaker, a short wire run to the garage, permit, and inspection.
 - **Total:** $1,200–$2,500 all-in for most homes.
 
@@ -128,4 +128,4 @@ This is the answer for renters, too. Your landlord may not love a new circuit, b
 
 Don't start with the charger. Start with the math: your daily miles, your overnight hours, your winters, your other cars. Level 1 at 3–5 miles per hour is free, gentle on the battery, and genuinely enough for most 30-mile commutes — do the arithmetic before you spend $2,000. If the math says you need more, Level 2 at 25–44 miles per hour charges anything overnight and is the best home electrical upgrade most EV owners make.
 
-If you decide Level 2 is right, your next two reads are the [installation cost breakdown](/articles/level-2-ev-charger-installation-cost/) — so you know exactly what an electrician should charge you — and my honest [Tesla vs ChargePoint vs Emporia shootout](/articles/tesla-wall-connector-vs-chargepoint-vs-emporia/) for which charger to put on that circuit. And if a 48-amp charger is the thing pushing your panel to its limit, read up on [how home batteries and generators compare for backup](/articles/home-battery-vs-generator/) — because panel capacity planning is where these conversations always end up.
+If you decide Level 2 is right, your next two reads are the [installation cost breakdown](/articles/level-2-ev-charger-installation-cost) — so you know exactly what an electrician should charge you — and my honest [Tesla vs ChargePoint vs Emporia shootout](/articles/tesla-wall-connector-vs-chargepoint-vs-emporia) for which charger to put on that circuit. And if a 48-amp charger is the thing pushing your panel to its limit, read up on [how home batteries and generators compare for backup](/articles/home-battery-vs-generator) — because panel capacity planning is where these conversations always end up.

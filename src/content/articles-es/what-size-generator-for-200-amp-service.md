@@ -56,7 +56,7 @@ Por completo: es la palanca más grande de toda la decisión. Hay tres maneras d
 
 **2. Transferencia de casa completa con gestión de cargas.** La misma alimentación a todo el panel, pero con módulos de desconexión en los circuitos pesados. Los Smart Management Modules (SMM) de Generac son la versión común: módulos con o sin cable, unos **$150–250 cada uno ya instalados**, que vigilan la frecuencia del generador y retiran una carga (un aire acondicionado, la secadora, la estufa, el calentador de agua, un cargador de auto eléctrico) en el momento en que el generador se acerca a la sobrecarga, y la restablecen cuando hay margen. La NEC 702.4(B) lo permite expresamente: con un sistema automático de gestión, el generador ya no tiene que cargar con todo él solo. Con dos a cuatro módulos gestionando lo pesado, un generador de **10–14 kW** alimenta esa misma casa de 2.000 pies cuadrados de arriba sin que el dueño note nada. Hoy es lo que más instalo.
 
-**3. Subpanel de cargas críticas.** El generador alimenta solo un subpanel de circuitos elegidos: refrigerador, ventilador de la calefacción, bomba de pozo, algunas luces y contactos, puerta del garage, bomba de sumidero. Una unidad de **7,5–12 kW** lo cubre con holgura. Es la instalación más barata, pero el resto de la casa queda a oscuras, y no hay aire acondicionado a menos que lo incluyas a propósito (y dimensiones para su pico de arranque). En mi [comparativa entre interruptor de transferencia y kit de enclavamiento](/es/articles/transfer-switch-vs-interlock-kit/) repaso las ventajas y desventajas de cada hardware.
+**3. Subpanel de cargas críticas.** El generador alimenta solo un subpanel de circuitos elegidos: refrigerador, ventilador de la calefacción, bomba de pozo, algunas luces y contactos, puerta del garage, bomba de sumidero. Una unidad de **7,5–12 kW** lo cubre con holgura. Es la instalación más barata, pero el resto de la casa queda a oscuras, y no hay aire acondicionado a menos que lo incluyas a propósito (y dimensiones para su pico de arranque). En mi [comparativa entre interruptor de transferencia y kit de enclavamiento](/es/articles/transfer-switch-vs-interlock-kit) repaso las ventajas y desventajas de cada hardware.
 
 Una verdad dura sobre la gestión de cargas: gestiona de maravilla los vatios *en marcha*, pero **el pico de arranque de los motores sigue importando**. Un aire acondicionado de 4 toneladas puede jalar 70–100 amperios de rotor bloqueado por una fracción de segundo. Los buenos sistemas de gestión lo resuelven desconectando primero el propio aire; los kits de arranque suave (soft start) en el aire, unos $300–400 instalados, recortan ese pico en como dos tercios y hacen que las instalaciones con generador chico se comporten muchísimo mejor. Si una cotización de generador chico para casa grande no menciona el arranque suave, pregunta por qué.
 
@@ -70,14 +70,14 @@ Después del cálculo de carga y de la decisión de gestión, casi toda casa de 
 | Casa completa, todo disponible, un sistema de aire acondicionado, casa promedio de 1.800–3.000 pies cuadrados | **18–24 kW** |
 | Todo eléctrico, dos sistemas de aire, carga de auto eléctrico durante apagones, pozo + alberca + jacuzzi | **26 kW en adelante** |
 
-La **clase enfriada por aire de 22–24 kW** (Generac Guardian 22/24 kW, Kohler 20–24 kW, Cummins QuietConnect 20 kW) es el tamaño de casa completa más vendido en Estados Unidos justamente porque es la respuesta sin compromisos para la casa mediana de 200 amperios. En mi [comparativa Generac vs Kohler vs Cummins](/es/articles/generac-vs-kohler-vs-cummins/) cubro cómo difieren esas marcas en este tamaño. Pero "el más vendido" no es lo mismo que "el correcto para ti": si tu cálculo dice 14 kW con gestión, el de 24 kW son $2.000–3.000 extra de hardware, más consumo de combustible y más desgaste de ejercicio por el resto de su vida, comprando un margen que nunca vas a usar.
+La **clase enfriada por aire de 22–24 kW** (Generac Guardian 22/24 kW, Kohler 20–24 kW, Cummins QuietConnect 20 kW) es el tamaño de casa completa más vendido en Estados Unidos justamente porque es la respuesta sin compromisos para la casa mediana de 200 amperios. En mi [comparativa Generac vs Kohler vs Cummins](/es/articles/generac-vs-kohler-vs-cummins) cubro cómo difieren esas marcas en este tamaño. Pero "el más vendido" no es lo mismo que "el correcto para ti": si tu cálculo dice 14 kW con gestión, el de 24 kW son $2.000–3.000 extra de hardware, más consumo de combustible y más desgaste de ejercicio por el resto de su vida, comprando un margen que nunca vas a usar.
 
 Dos trampas de reducción de potencia que encogen tu generador después de comprarlo:
 
 - **Potencia en gas natural vs propano.** Las unidades de reserva enfriadas por aire se clasifican con propano. La misma unidad de "22 kW" normalmente entrega unos **19,5 kW con gas natural**. Si tu cálculo dice 20 kW y estás con gas natural, una placa de 22 kW se queda *corta*. Dimensiona con la potencia del combustible que vas a quemar de verdad.
 - **Altitud y calor.** Los motores de aspiración natural pierden cerca del 3,5 % de potencia por cada 1.000 pies (305 m) de elevación. A 5.000 pies (1.524 m), tu 24 kW es un ~20 kW. El fabricante publica la reducción; asegúrate de que tu instalador la aplique.
 
-Si quieres la versión cuarto por cuarto de estas cuentas antes de pensar siquiera en el tamaño del servicio, mi [guía de dimensionado para casa completa](/es/articles/what-size-generator-run-house/) repasa el método aparato por aparato en detalle.
+Si quieres la versión cuarto por cuarto de estas cuentas antes de pensar siquiera en el tamaño del servicio, mi [guía de dimensionado para casa completa](/es/articles/what-size-generator-run-house) repasa el método aparato por aparato en detalle.
 
 ## ¿Un generador portátil puede alimentar un panel de 200 amperios?
 
@@ -87,9 +87,9 @@ Lo que implica vivir con él:
 
 - **Tú eres la gestión de cargas.** El generador no puede con la estufa eléctrica, la secadora, el calentador de agua y el aire acondicionado a la vez. Secuencias: cocinar *o* secar *o* el consumo fuerte de agua caliente, una carga grande a la vez. Refrigerador, calefacción, bomba de pozo, luces e internet van montados en todo ello sin pensar.
 - **El aire acondicionado es el ajuste más justo.** Un aire de 3 toneladas con kit de arranque suave arranca con un pico de unos 30–40 amperios en vez de 70 o más; con un portátil de 12 kW eso es muy factible. Sin el arranque suave, queda al límite y vas a aprender cómo suena un compresor que no logra arrancar.
-- **Es manual, cada vez.** Sacarlo, conectar, mover el enclavamiento, arrancarlo. Diez minutos bajo la lluvia a las 2 de la mañana. Tampoco hay ejercicio semanal automático: mantenerlo listo depende de ti (mi [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/) cubre la rutina).
+- **Es manual, cada vez.** Sacarlo, conectar, mover el enclavamiento, arrancarlo. Diez minutos bajo la lluvia a las 2 de la mañana. Tampoco hay ejercicio semanal automático: mantenerlo listo depende de ti (mi [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist) cubre la rutina).
 
-Realidad de costos: caja de entrada, enclavamiento y cable cuestan unos **$500–1.000 instalados**, más $900–1.400 del portátil mismo. Compáralo con los precios instalados de mi [desglose de costos de generador para casa completa](/es/articles/whole-house-generator-cost/): un 22 kW permanente con transferencia de acometida completa suele quedar en **$12.000–15.000** ya todo instalado. La ruta portátil renuncia a la automatización y a algo de capacidad; no renuncia a la casa.
+Realidad de costos: caja de entrada, enclavamiento y cable cuestan unos **$500–1.000 instalados**, más $900–1.400 del portátil mismo. Compáralo con los precios instalados de mi [desglose de costos de generador para casa completa](/es/articles/whole-house-generator-cost): un 22 kW permanente con transferencia de acometida completa suele quedar en **$12.000–15.000** ya todo instalado. La ruta portátil renuncia a la automatización y a algo de capacidad; no renuncia a la casa.
 
 ## Entonces, ¿cuál es la respuesta para tu servicio de 200 amperios?
 
@@ -103,8 +103,8 @@ Si tu número sale en 18–24 kW sin gestión, compra ese nivel con confianza: e
 
 ## Sigue leyendo
 
-- [Interruptor de transferencia vs kit de enclavamiento: ¿cuál le conviene a tu casa?](/es/articles/transfer-switch-vs-interlock-kit/)
-- [¿Qué tamaño de generador necesitas para alimentar una casa completa?](/es/articles/what-size-generator-run-house/)
-- [Costo de un generador para casa completa: lo que vas a pagar en realidad](/es/articles/whole-house-generator-cost/)
-- [Generac vs Kohler vs Cummins: marcas de generadores de reserva comparadas](/es/articles/generac-vs-kohler-vs-cummins/)
-- [Guía completa de energía de respaldo para el hogar: generadores, baterías y dimensionado](/es/articles/complete-home-backup-power-guide/)
+- [Interruptor de transferencia vs kit de enclavamiento: ¿cuál le conviene a tu casa?](/es/articles/transfer-switch-vs-interlock-kit)
+- [¿Qué tamaño de generador necesitas para alimentar una casa completa?](/es/articles/what-size-generator-run-house)
+- [Costo de un generador para casa completa: lo que vas a pagar en realidad](/es/articles/whole-house-generator-cost)
+- [Generac vs Kohler vs Cummins: marcas de generadores de reserva comparadas](/es/articles/generac-vs-kohler-vs-cummins)
+- [Guía completa de energía de respaldo para el hogar: generadores, baterías y dimensionado](/es/articles/complete-home-backup-power-guide)

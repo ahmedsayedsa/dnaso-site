@@ -49,7 +49,7 @@ La menor densidad energética del propano (unos 91,500 BTU por galón vs ~114,00
 
 El gas natural se mide diferente — unos 1,037 BTU por pie cúbico, y las compañías cobran en termias (100,000 BTU cada una). Un generador de reserva de 20kW a media carga jala unos 200–250 pies cúbicos por hora. A plena carga, 300+ pies cúbicos por hora. Tu medidor necesita estar dimensionado para eso — muchos medidores residenciales sí lo están, pero revisa con tu compañía de gas antes de instalar una unidad de reserva grande.
 
-La guía profunda de qué combustible elegir vive en [Doble combustible vs gasolina vs propano: costos de operación comparados](/es/articles/dual-fuel-vs-gas-vs-propane-generator/) — vida útil de almacenamiento, comportamiento en clima frío y disponibilidad durante apagones.
+La guía profunda de qué combustible elegir vive en [Doble combustible vs gasolina vs propano: costos de operación comparados](/es/articles/dual-fuel-vs-gas-vs-propane-generator) — vida útil de almacenamiento, comportamiento en clima frío y disponibilidad durante apagones.
 
 ## Cuentas de autonomía: lo que realmente te compran los tanques comunes
 
@@ -100,7 +100,7 @@ Este es el número que nadie corre hasta que lo está viviendo. A unos $3.20–$
 \* Reserva de 20kW al 50% ≈ 2.2–2.5 termias/hr × 24
 \*\* Las tarifas residenciales de gas natural varían muchísimo por estado ($1–$2 por termia típico); revisa tu recibo.
 
-Un apagón de 5 días en un portátil de 7,500 W a $55/día son $275 solo en combustible — más de lo que mucha gente pagó por un cuarto del precio de compra del generador. Un apagón de 10 días se acerca a $550. Estas son las cuentas honestas que pertenecen a cada plan de respaldo eléctrico: el generador es la parte barata; alimentarlo es la parte cara. También es por eso que existe [Batería doméstica vs generador: una comparación honesta](/es/articles/home-battery-vs-generator/) — las baterías no tienen costo de combustible, lo que cambia las cuentas de largo plazo considerablemente.
+Un apagón de 5 días en un portátil de 7,500 W a $55/día son $275 solo en combustible — más de lo que mucha gente pagó por un cuarto del precio de compra del generador. Un apagón de 10 días se acerca a $550. Estas son las cuentas honestas que pertenecen a cada plan de respaldo eléctrico: el generador es la parte barata; alimentarlo es la parte cara. También es por eso que existe [Batería doméstica vs generador: una comparación honesta](/es/articles/home-battery-vs-generator) — las baterías no tienen costo de combustible, lo que cambia las cuentas de largo plazo considerablemente.
 
 ## Límites de almacenamiento de combustible y estabilizador
 
@@ -133,12 +133,12 @@ Un enfoque práctico para un apagón de varios días:
 3. Opera 3–4 horas en la noche (cena, duchas, recarga de dispositivos)
 4. Opcionalmente una hora nocturna si el refrigerador la necesita
 
-Esto corta el consumo diario más o menos a la mitad versus operar continuamente, y tu inventario de combustible dura el doble. Para el panorama completo de qué operar y cuándo, consulta [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/).
+Esto corta el consumo diario más o menos a la mitad versus operar continuamente, y tu inventario de combustible dura el doble. Para el panorama completo de qué operar y cuándo, consulta [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house).
 
 ## Sigue leyendo
 
-- [Guía completa de respaldo eléctrico para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide/)
-- [Doble combustible vs gasolina vs propano: costos de operación comparados](/es/articles/dual-fuel-vs-gas-vs-propane-generator/)
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/)
-- [Batería doméstica vs generador: una comparación honesta](/es/articles/home-battery-vs-generator/)
-- [Lista de mantenimiento del generador: qué hacer y cuándo](/es/articles/generator-maintenance-checklist/)
+- [Guía completa de respaldo eléctrico para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide)
+- [Doble combustible vs gasolina vs propano: costos de operación comparados](/es/articles/dual-fuel-vs-gas-vs-propane-generator)
+- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house)
+- [Batería doméstica vs generador: una comparación honesta](/es/articles/home-battery-vs-generator)
+- [Lista de mantenimiento del generador: qué hacer y cuándo](/es/articles/generator-maintenance-checklist)

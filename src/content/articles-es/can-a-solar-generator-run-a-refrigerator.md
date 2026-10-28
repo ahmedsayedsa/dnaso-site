@@ -79,7 +79,7 @@ Lee la tabla como la lee un electricista. Una estación de 500 Wh es un *puente 
 
 Una estación de 1 kWh —el tamaño más vendido— sí alimenta un refrigerador durante la noche y una jornada de trabajo. Es el punto dulce para «la compañía eléctrica dice que vuelve mañana». (En cualquier modelo que mires, revisa los Wh, no el nombre comercial.)
 
-A partir de 2 kWh entras en territorio de día completo, y la clase de 3,6 kWh empieza a comportarse como un sistema de respaldo de verdad: de día y medio a dos días y medio de refrigerador, con margen para luces y teléfonos si eres disciplinado. Esa clase es también donde empieza el pensamiento de casa completa: mira [puede un generador solar alimentar una casa entera](/es/articles/can-a-solar-generator-power-a-whole-house/) y nuestra [guía de estaciones de energía portátiles para respaldo en casa](/es/articles/portable-power-stations-home-backup/).
+A partir de 2 kWh entras en territorio de día completo, y la clase de 3,6 kWh empieza a comportarse como un sistema de respaldo de verdad: de día y medio a dos días y medio de refrigerador, con margen para luces y teléfonos si eres disciplinado. Esa clase es también donde empieza el pensamiento de casa completa: mira [puede un generador solar alimentar una casa entera](/es/articles/can-a-solar-generator-power-a-whole-house) y nuestra [guía de estaciones de energía portátiles para respaldo en casa](/es/articles/portable-power-stations-home-backup).
 
 ## No olvides el recorte de eficiencia del inversor
 
@@ -97,7 +97,7 @@ Esta es la pregunta que separa un *respaldo* de refrigerador de un *sistema* de 
 
 Así que un solo panel de 200 W *no* mantiene un refrigerador vivo para siempre. Cubre quizá la mitad de su apetito diario — suficiente para estirar una estación de 1 kWh de «muerta al amanecer» a «muerta mañana a media mañana», que es la diferencia entre salvar la comida y tirarla. Pero funcionar de forma indefinida exige unos **400 W o más de panel en un clima soleado, un refrigerador eficiente y al menos 1–2 kWh de batería** para cruzar la noche, porque el refrigerador no deja de comer al atardecer y el panel no empieza a producir al amanecer. Hay un hueco cada día, y la batería lo puentea.
 
-Si estás sopesando una estación grande contra un generador de gasolina o una batería de casa completa para apagones largos y repetidos, la comparativa honesta está en nuestro [análisis de batería doméstica contra generador](/es/articles/home-battery-vs-generator/). Las baterías ganan en silencio y en seguridad dentro de casa. Pierden en un hecho brutal: la gasolina es energía recargable, y el sol es clima.
+Si estás sopesando una estación grande contra un generador de gasolina o una batería de casa completa para apagones largos y repetidos, la comparativa honesta está en nuestro [análisis de batería doméstica contra generador](/es/articles/home-battery-vs-generator). Las baterías ganan en silencio y en seguridad dentro de casa. Pierden en un hecho brutal: la gasolina es energía recargable, y el sol es clima.
 
 ## ¿Sale más fácil un congelador o un mini refrigerador?
 
@@ -105,7 +105,7 @@ Más fácil, los dos — por razones distintas.
 
 **Los mini refrigeradores** consumen tan poco (50–100 W en marcha, picos pequeños, 0,3–0,6 kWh al día) que hasta una estación de 500 Wh alimenta uno durante un día o más. Si tu plan de apagón es «mantener frías la insulina y la comida del bebé», un mini refrigerador con una estación pequeña es de las combinaciones con mejor valor que existen.
 
-**Los congeladores** son los maratonistas. El aislamiento grueso y la tapa superior de un congelador horizontal hacen que el frío se quede dentro, el compresor cicle menos y el consumo diario quede a menudo en 0,8–1,5 kWh incluso en unidades grandes. El «pero» es el mismo pico de arranque —un arcón grande puede picar por encima de 800 W— y la consecuencia cuando pierdes: cuando un congelador lleno de carne pasa de 4 °C (40 °F) por dos horas, esa comida se acabó. Para saber exactamente cuánto aguanta la comida congelada sin electricidad, mira [cuánto dura la comida en un congelador sin luz](/es/articles/how-long-will-food-last-in-freezer-without-power/).
+**Los congeladores** son los maratonistas. El aislamiento grueso y la tapa superior de un congelador horizontal hacen que el frío se quede dentro, el compresor cicle menos y el consumo diario quede a menudo en 0,8–1,5 kWh incluso en unidades grandes. El «pero» es el mismo pico de arranque —un arcón grande puede picar por encima de 800 W— y la consecuencia cuando pierdes: cuando un congelador lleno de carne pasa de 4 °C (40 °F) por dos horas, esa comida se acabó. Para saber exactamente cuánto aguanta la comida congelada sin electricidad, mira [cuánto dura la comida en un congelador sin luz](/es/articles/how-long-will-food-last-in-freezer-without-power).
 
 **Los refrigeradores side-by-side y las unidades de garaje** están en el extremo difícil: compresores más grandes, fábrica de hielo, resistencias de deshielo y ciclos de trabajo brutales con calor. Presupuesta 2 kWh al día.
 
@@ -133,7 +133,7 @@ Mi veredicto honesto, por escenario:
 
 ## Seguir leyendo
 
-- [Estaciones de energía portátiles para respaldo en casa: tamaños, autonomía y costos](/es/articles/portable-power-stations-home-backup/)
-- [¿Puede un generador solar alimentar una casa entera?](/es/articles/can-a-solar-generator-power-a-whole-house/)
-- [Batería doméstica contra generador: ¿qué respaldo gana?](/es/articles/home-battery-vs-generator/)
-- [¿Cuánto dura la comida en un congelador sin luz?](/es/articles/how-long-will-food-last-in-freezer-without-power/)
+- [Estaciones de energía portátiles para respaldo en casa: tamaños, autonomía y costos](/es/articles/portable-power-stations-home-backup)
+- [¿Puede un generador solar alimentar una casa entera?](/es/articles/can-a-solar-generator-power-a-whole-house)
+- [Batería doméstica contra generador: ¿qué respaldo gana?](/es/articles/home-battery-vs-generator)
+- [¿Cuánto dura la comida en un congelador sin luz?](/es/articles/how-long-will-food-last-in-freezer-without-power)

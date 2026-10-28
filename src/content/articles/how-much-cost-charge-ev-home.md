@@ -100,7 +100,7 @@ The beautiful part: EVs are the perfect TOU load. The car sits in the garage all
 
 The catch — and there's always a catch: switching your whole house to a TOU plan means your daytime electricity gets more expensive too. If someone's home running the AC all afternoon in July, the peak rate can eat your overnight EV savings. Do the math on your total bill, not just the car. Some utilities offer EV-specific sub-metered rates that only apply to the charger circuit — those are the best deal when available, because the house stays on the flat rate. Ask your utility specifically about EV rate plans before you switch anything.
 
-This is also where a home battery earns its keep in a completely different way — charging cheap overnight and covering your expensive evening peak. The [home battery vs generator breakdown](/articles/home-battery-vs-generator/) walks through that arbitrage math if your utility's rate spread is wide enough to matter.
+This is also where a home battery earns its keep in a completely different way — charging cheap overnight and covering your expensive evening peak. The [home battery vs generator breakdown](/articles/home-battery-vs-generator) walks through that arbitrage math if your utility's rate spread is wide enough to matter.
 
 ## How Much Does It Cost to Charge an EV for 1,000 Miles a Month?
 
@@ -122,7 +122,7 @@ And the flip side — California at $0.30/kWh flat: 303 × $0.30 = **$91/month**
 
 Scale it to your driving: at 15,000 miles a year (a common lease allowance), the average-rate savings versus a 30-mpg gas car run about **$920/year**. Heavy drivers — 20,000+ miles a year, rideshare, long commutes — save the most in absolute dollars, which is exactly why high-mileage drivers are the best EV candidates economically.
 
-What about the charger install cost payback? A $1,500 Level 2 install (see the [installation cost breakdown](/articles/level-2-ev-charger-installation-cost/)) paid back purely from fuel savings takes roughly two years at average rates and average mileage. But that's the wrong framing — you'd pay for "fueling infrastructure" with a gas car too, in the form of driving to gas stations. The honest payback includes your time, which nobody prices.
+What about the charger install cost payback? A $1,500 Level 2 install (see the [installation cost breakdown](/articles/level-2-ev-charger-installation-cost)) paid back purely from fuel savings takes roughly two years at average rates and average mileage. But that's the wrong framing — you'd pay for "fueling infrastructure" with a gas car too, in the form of driving to gas stations. The honest payback includes your time, which nobody prices.
 
 ## The Hidden Costs: Charging Losses, Vampire Drain, and Demand Charges
 
@@ -136,7 +136,7 @@ The math above is slightly optimistic. Here's what shaves the edges off:
 
 **Demand charges (rare for residential, check anyway).** A few utilities with residential demand billing can ding you for the peak kW draw of a 48A charger (11.5 kW) even if total kWh is modest. If your utility has demand charges, schedule charging overnight AND consider a lower-amperage setting. Most residential customers never see demand charges, but the ones who do get surprised.
 
-**The panel and install cost.** Already covered in detail in the [Level 2 installation cost guide](/articles/level-2-ev-charger-installation-cost/) — $800 to $4,000+ depending on your situation. It's a one-time cost, but it's real money that belongs in the payback math.
+**The panel and install cost.** Already covered in detail in the [Level 2 installation cost guide](/articles/level-2-ev-charger-installation-cost) — $800 to $4,000+ depending on your situation. It's a one-time cost, but it's real money that belongs in the payback math.
 
 None of these flip the economics by themselves. Together they trim maybe 15–20% off the naive savings number. Still solidly cheaper than gas in 49 states.
 
@@ -160,4 +160,4 @@ The through-line: home charging is cheap *when you have cheap overnight electric
 
 At average US rates, home EV charging costs roughly **4–6 cents a mile** — about a third of gas. Time-of-use overnight rates can push that under 3 cents. Your state determines whether you save $80 a month or $20, and vampire drain plus charging losses trim about 10–15% off the naive math. The economics are genuinely good for most homeowners with a garage and a decent utility rate — and genuinely bad for apartment dwellers stuck on public chargers.
 
-If you're budgeting the full picture, pair this with the [Level 2 EV charger installation cost guide](/articles/level-2-ev-charger-installation-cost/) for the one-time setup numbers, and if your utility's rate spread has you thinking about storage, the [portable power stations for home backup](/articles/portable-power-stations-home-backup/) guide covers the smaller-scale battery options.
+If you're budgeting the full picture, pair this with the [Level 2 EV charger installation cost guide](/articles/level-2-ev-charger-installation-cost) for the one-time setup numbers, and if your utility's rate spread has you thinking about storage, the [portable power stations for home backup](/articles/portable-power-stations-home-backup) guide covers the smaller-scale battery options.

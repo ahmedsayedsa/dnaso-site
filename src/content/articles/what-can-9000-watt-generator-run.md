@@ -23,14 +23,14 @@ keywords: ["what can a 9000 watt generator run", "9000 watt generator", "9000w g
 
 ## Is that 9,000 watts running or starting?
 
-Read the box carefully, because the shell game doesn't stop at the big sizes. A true 9,000W generator delivers **9,000 running watts** and around **11,250 starting (peak) watts**. But a large share of machines marketed in this neighborhood are rated by their peak — "11,500 watt" units that run 9,200, "9,500 watt" units that run 7,500. Everything in this article is about the true 9,000-running-watt class. Check the running-watts line on the spec sheet, not the biggest number on the carton. If you're looking at a unit that's 9,000 *peak* (about 7,200 running), the [7,500-watt article](/articles/what-can-7500-watt-generator-run/) is your honest reference.
+Read the box carefully, because the shell game doesn't stop at the big sizes. A true 9,000W generator delivers **9,000 running watts** and around **11,250 starting (peak) watts**. But a large share of machines marketed in this neighborhood are rated by their peak — "11,500 watt" units that run 9,200, "9,500 watt" units that run 7,500. Everything in this article is about the true 9,000-running-watt class. Check the running-watts line on the spec sheet, not the biggest number on the carton. If you're looking at a unit that's 9,000 *peak* (about 7,200 running), the [7,500-watt article](/articles/what-can-7500-watt-generator-run) is your honest reference.
 
 The two numbers, quickly:
 
 - **Running watts (9,000):** what it produces continuously, all day. This is your budget.
 - **Starting watts (~11,250):** a few seconds of surge for motor startups. This is your emergency fund.
 
-And the rule I give every customer: **plan your steady load at no more than 80% of running watts — 7,200 watts on this size.** Headroom is what absorbs the well pump starting while the AC is running. For the full sizing method, see [What Size Generator Do I Need?](/articles/what-size-generator-run-house/).
+And the rule I give every customer: **plan your steady load at no more than 80% of running watts — 7,200 watts on this size.** Headroom is what absorbs the well pump starting while the AC is running. For the full sizing method, see [What Size Generator Do I Need?](/articles/what-size-generator-run-house).
 
 ## How many watts does everything in your house actually use?
 
@@ -97,7 +97,7 @@ The "keep the food cold and the basement dry" setup — included because it's th
 | Phone and laptop charging | 70 |
 | **Total steady load** | **~2,400** |
 
-That's about 27% of capacity, and honestly it's loafing — the generator burns roughly 0.6–0.8 gal/hr even here, which is the fuel tax you pay for owning whole-house capacity. The worst-case surge (sump pump 2,500W + fridge 1,200W in the same second) peaks around 6,000 watts, barely half the ceiling. If this combo is genuinely all you ever need, you bought two sizes too many — the [5,000-watt class](/articles/what-can-5000w-generator-run/) exists for you.
+That's about 27% of capacity, and honestly it's loafing — the generator burns roughly 0.6–0.8 gal/hr even here, which is the fuel tax you pay for owning whole-house capacity. The worst-case surge (sump pump 2,500W + fridge 1,200W in the same second) peaks around 6,000 watts, barely half the ceiling. If this combo is genuinely all you ever need, you bought two sizes too many — the [5,000-watt class](/articles/what-can-5000w-generator-run) exists for you.
 
 ## Combo 2: Whole-house comfort (~6,200 watts)
 
@@ -118,7 +118,7 @@ The "live almost normally" setup, and where this class earns its price. Well pum
 
 The management rule shrinks to one sentence: don't start the dishwasher's heating cycle or the microwave while the well pump is mid-cycle — and even that collision (about 8,500W momentary) stays inside the running rating. The pump's 6,000W starting surge on top of a 5,000W running load touches 11,000W, right at the peak — that's the one event to avoid engineering deliberately. In practice, pumps start when they start, and the peak rating absorbs it because the full Combo 2 load is rarely all present at once.
 
-Fuel burn at this load: roughly 1.0–1.2 gal/hr. On a 7-gallon tank, a refuel every 6–7 hours. For the full fuel math, see [How Much Fuel Does a Generator Use?](/articles/generator-fuel-consumption/).
+Fuel burn at this load: roughly 1.0–1.2 gal/hr. On a 7-gallon tank, a refuel every 6–7 hours. For the full fuel math, see [How Much Fuel Does a Generator Use?](/articles/generator-fuel-consumption).
 
 ## Combo 3: Central AC mode (~7,000 watts) — the reason this class exists
 
@@ -133,7 +133,7 @@ A 3-ton central AC with a soft starter (MicroAir EasyStart class, ~$300–400 in
 | Wi-Fi, TVs, chargers, home office | 550 |
 | **Total steady load** | **~6,550** |
 
-Inside the 7,200-watt planning target, with the pump's surge absorbed by the peak rating. The rotation rule that remains: the electric water heater's 45-minute recovery cycle happens with the AC *off* (or on a mild day when it isn't cycling) — water heater (4,500W) + essentials (2,400W) = ~6,900W, comfortable; water heater + AC + essentials = ~10,400W, over budget. Morning showers on the water-heater cycle, AC back on by nine. The complete soft-starter breakdown is in [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/).
+Inside the 7,200-watt planning target, with the pump's surge absorbed by the peak rating. The rotation rule that remains: the electric water heater's 45-minute recovery cycle happens with the AC *off* (or on a mild day when it isn't cycling) — water heater (4,500W) + essentials (2,400W) = ~6,900W, comfortable; water heater + AC + essentials = ~10,400W, over budget. Morning showers on the water-heater cycle, AC back on by nine. The complete soft-starter breakdown is in [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac).
 
 A 4-ton AC with a soft starter (running 4,000–4,500W) fits the same shape with the dishwasher and microwave benched while it runs. A 5-ton does not fit in any shape — its running draw alone leaves under 4,000 watts for a house that also has a well pump and a water heater. That's standby territory.
 
@@ -149,7 +149,7 @@ Shorter list than any smaller class — but it's not empty:
 
 ## How much gas will it burn while doing all this?
 
-At Combo 2, roughly 1.0–1.2 gal/hr; at overnight essentials, 0.6–0.8. A three-day outage at comfort load is 60–75 gallons — this is the class where a transfer switch and a serious fuel plan stop being optional accessories, and where dual-fuel models earn their premium: a 20-lb propane tank runs about 5–7 hours at these loads, and propane never goes stale between storms. Per-size burn tables are in the [generator fuel consumption guide](/articles/generator-fuel-consumption/).
+At Combo 2, roughly 1.0–1.2 gal/hr; at overnight essentials, 0.6–0.8. A three-day outage at comfort load is 60–75 gallons — this is the class where a transfer switch and a serious fuel plan stop being optional accessories, and where dual-fuel models earn their premium: a 20-lb propane tank runs about 5–7 hours at these loads, and propane never goes stale between storms. Per-size burn tables are in the [generator fuel consumption guide](/articles/generator-fuel-consumption).
 
 ## Which 9000 watt generators should you actually look at?
 
@@ -157,7 +157,7 @@ Three classes, three different ownership experiences:
 
 - **Conventional open-frame (the workhorse):** the Champion, Westinghouse, and DuroMax 9,000-class open frames (~$900–1,300). Loud — low-to-mid 70s dB — mechanically simple, and the cheapest route to honest whole-house power. At this size nearly all of them offer electric start; insist on it, because pull-starting a 450cc engine in February is nobody's plan.
 - **Dual-fuel versions:** (~$1,100–1,500) deliver about 8,100 watts on propane. Given this class's fuel burn, the propane option is less about convenience and more about runtime insurance — a pair of 20-lb tanks is a day of power, and a 100-lb tank is most of a week.
-- **Large inverters:** (~$1,600–2,400) run in the mid-60s dB instead of the mid-70s, make clean power for everything, and sip fuel at the overnight load where open frames still guzzle. If the generator lives near bedrooms — yours or the neighbors' — the premium is the product. Our [quietest generators](/articles/quietest-generators-noise-levels/) guide covers what the dB numbers mean at real distances.
+- **Large inverters:** (~$1,600–2,400) run in the mid-60s dB instead of the mid-70s, make clean power for everything, and sip fuel at the overnight load where open frames still guzzle. If the generator lives near bedrooms — yours or the neighbors' — the premium is the product. Our [quietest generators](/articles/quietest-generators-noise-levels) guide covers what the dB numbers mean at real distances.
 
 Skip any unit whose running watts are under 8,000 wearing a "9000-class" price. In this class especially, the carton number and the spec-sheet number are frequently two different machines.
 
@@ -165,12 +165,12 @@ Skip any unit whose running watts are under 8,000 wearing a "9000-class" price. 
 
 The medium-to-large home with a **1 HP well pump**, gas or electric water heating, and a **3-ton central AC** that has to run during outages — the household that the 7,500-watt class almost served. Homes where outages last days, not hours. Anyone who has priced a 14kW standby, seen the installed quote, and wants 90% of the capability for 20% of the money with a transfer switch.
 
-Stay at [7,500 watts](/articles/what-can-7500-watt-generator-run/) if: no central AC requirement, 1/2 HP pump, and the rotation habit doesn't bother you. Step up to the [10,000-watt class](/articles/what-can-10000-watt-generator-run/) if: your AC is 4 tons and non-negotiable, or you want the water heater and dryer to stop being a schedule.
+Stay at [7,500 watts](/articles/what-can-7500-watt-generator-run) if: no central AC requirement, 1/2 HP pump, and the rotation habit doesn't bother you. Step up to the [10,000-watt class](/articles/what-can-10000-watt-generator-run) if: your AC is 4 tons and non-negotiable, or you want the water heater and dryer to stop being a schedule.
 
 ## Keep reading
 
-- [What Can a 7,500-Watt Generator Run? (With Real Examples)](/articles/what-can-7500-watt-generator-run/)
-- [What Can a 10,000 Watt Generator Run? Whole-House Loads](/articles/what-can-10000-watt-generator-run/)
-- [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/)
-- [What Size Generator Do I Need? Complete Sizing Chart by Home Size](/articles/what-size-generator-run-house/)
-- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption/)
+- [What Can a 7,500-Watt Generator Run? (With Real Examples)](/articles/what-can-7500-watt-generator-run)
+- [What Can a 10,000 Watt Generator Run? Whole-House Loads](/articles/what-can-10000-watt-generator-run)
+- [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac)
+- [What Size Generator Do I Need? Complete Sizing Chart by Home Size](/articles/what-size-generator-run-house)
+- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption)

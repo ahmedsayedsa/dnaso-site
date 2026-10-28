@@ -29,11 +29,42 @@ const lede =
 const wordCount = rawBody.split(/\s+/).filter(Boolean).length;
 
 const all = await getCollection('articles');
-const related = all
+
+// Topical related guides: score every other article by shared keyword
+// phrases/tokens and shared slug words (generic terms excluded), take top 3.
+// Falls back to the old pillar-first order only if nothing scores above 0.
+const STOP = new Set(['generator', 'generators', 'home', 'backup', 'power', 'the', 'a', 'an', 'for', 'vs', 'to', 'of', 'in', 'on', 'how', 'what', 'can', 'you', 'your', 'run', 'and', 'with']);
+const kwPhrases = (arr?: string[]) => new Set((arr ?? []).map((k) => k.toLowerCase().trim()));
+const kwTokens = (arr?: string[]) =>
+  new Set(
+    (arr ?? [])
+      .join(' ')
+      .toLowerCase()
+      .replace(/[^a-z0-9\s-]/g, ' ')
+      .split(/[\s-]+/)
+      .filter((w) => w.length > 2 && !STOP.has(w)),
+  );
+const slugTokens = (s: string) => new Set(s.split('-').filter((w) => w.length > 2 && !STOP.has(w)));
+
+const myPhrases = kwPhrases(entry.data.keywords);
+const myTokens = kwTokens(entry.data.keywords);
+const mySlug = slugTokens(entry.slug);
+
+const scored = all
   .filter((a) => a.slug !== entry.slug)
-  .sort((a, b) => (a.slug === 'complete-home-backup-power-guide' ? -1 : b.slug === 'complete-home-backup-power-guide' ? 1 : 0))
+  .map((a) => {
+    let score = 0;
+    for (const p of kwPhrases(a.data.keywords)) if (myPhrases.has(p)) score += 4;
+    for (const t of kwTokens(a.data.keywords)) if (myTokens.has(t)) score += 1;
+    for (const t of slugTokens(a.slug)) if (mySlug.has(t)) score += 1;
+    return { a, score };
+  })
+  .sort((x, y) => y.score - x.score || x.a.slug.localeCompare(y.a.slug));
+
+const topical = scored.filter((s) => s.score > 0);
+const related = (topical.length >= 3 ? topical : scored)
   .slice(0, 3)
-  .map((a) => ({
+  .map(({ a }) => ({
     slug: a.slug,
     title: a.data.title,
     description: a.data.description,

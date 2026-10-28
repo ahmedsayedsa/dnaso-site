@@ -33,7 +33,7 @@ keywords: ["how to make a generator quiet", "generator quiet box", "how to make 
 | Exhaust deflector | Directional, not rated in dB | $25–80 | Aims noise up/away; doesn't absorb it |
 | Sound barrier (fence, shed wall) | A few dB in the shadow zone | Varies | Blocks line of sight, not low rumble |
 
-Two physics facts govern everything below. First, decibels are logarithmic: **−10 dB sounds roughly half as loud** and represents a tenth of the sound intensity, so a 10 dB total cut is a bigger deal than it looks on paper. Second, a generator makes noise from four places — exhaust, intake, cooling fan, and the engine/alternator vibrating through its frame and the ground — and every method only attacks some of them. That's why the cuts stack instead of one method doing everything. The full ratings picture is in our [quietest generators](/articles/quietest-generators-noise-levels/) guide; this article is about closing the gap with the machine you already own.
+Two physics facts govern everything below. First, decibels are logarithmic: **−10 dB sounds roughly half as loud** and represents a tenth of the sound intensity, so a 10 dB total cut is a bigger deal than it looks on paper. Second, a generator makes noise from four places — exhaust, intake, cooling fan, and the engine/alternator vibrating through its frame and the ground — and every method only attacks some of them. That's why the cuts stack instead of one method doing everything. The full ratings picture is in our [quietest generators](/articles/quietest-generators-noise-levels) guide; this article is about closing the gap with the machine you already own.
 
 ## Does distance actually make a generator quieter?
 
@@ -46,7 +46,7 @@ Yes — it's the only method that's both free and guaranteed, because it's not a
 | 92 ft | ~48 dB | ~62 dB |
 | 184 ft | ~42 dB | ~56 dB |
 
-The working move: put the generator at the far corner of the property — as far from your bedrooms *and* the neighbors' as the lot allows — with the exhaust pointing away from every house. The safety floor is fixed: **at least 20 feet from the house**, exhaust away from windows and doors, because carbon monoxide is the hazard that outranks noise every time. Our placement guide on [how far a generator should be from the house](/articles/how-far-should-generator-be-from-house/) covers the CO reasoning and the cord-sizing math for long runs (voltage drop is real: use heavier-gauge cord past 50 feet). Take all the distance you have, then keep reading — the methods below are for the dB that distance couldn't give you.
+The working move: put the generator at the far corner of the property — as far from your bedrooms *and* the neighbors' as the lot allows — with the exhaust pointing away from every house. The safety floor is fixed: **at least 20 feet from the house**, exhaust away from windows and doors, because carbon monoxide is the hazard that outranks noise every time. Our placement guide on [how far a generator should be from the house](/articles/how-far-should-generator-be-from-house) covers the CO reasoning and the cord-sizing math for long runs (voltage drop is real: use heavier-gauge cord past 50 feet). Take all the distance you have, then keep reading — the methods below are for the dB that distance couldn't give you.
 
 ## What does a generator quiet box actually do?
 
@@ -59,7 +59,7 @@ Building one yourself is legitimate **if** you respect the engineering:
 - **Line it, don't just box it.** Mass-loaded vinyl or acoustic foam on the inner walls does the absorbing; a bare plywood box mostly reflects sound around until it leaks out the vents.
 - **Keep access.** You'll refuel every 7–10 hours and check oil. A box you dread opening is a box you'll leave open — at 0 dB of benefit.
 
-<div class="safety"><strong>Safety note:</strong> An enclosure changes where carbon monoxide goes. Run the generator outdoors, at least 20 feet from the house, exhaust routed out of the box and pointed away from windows, doors, and vents — and never in a garage, basement, or under a deck, enclosure or not. CO is odorless and kills in minutes. The full rules are in our [generator carbon monoxide safety guide](/articles/generator-carbon-monoxide-safety/).</div>
+<div class="safety"><strong>Safety note:</strong> An enclosure changes where carbon monoxide goes. Run the generator outdoors, at least 20 feet from the house, exhaust routed out of the box and pointed away from windows, doors, and vents — and never in a garage, basement, or under a deck, enclosure or not. CO is odorless and kills in minutes. The full rules are in our [generator carbon monoxide safety guide](/articles/generator-carbon-monoxide-safety).</div>
 
 ## Can a bigger muffler make a generator quiet?
 
@@ -81,16 +81,16 @@ A deflector is a simple angled fitting on the tailpipe that redirects the exhaus
 
 ## When should you stop quieting and just buy quiet?
 
-Do the stack honestly first: distance (−6 dB per doubling), box (5–10 dB), muffler (2–5 dB), pads and surface for rumble. On a 74 dB open-frame portable, a realistic landed result is **around 60–64 dB at 23 feet** — neighborhood-tolerable, ordinance-plausible, and a genuine achievement. If your requirement is below that — nighttime running near bedrooms, campground quiet hours, an HOA with a meter — the answer is a different machine, not another accessory. Inverter generators start where these methods end: the Honda EU2200i is rated **48 dB** at quarter load, the Westinghouse iGen2200 **52 dB**, the Champion 2500 dual-fuel **53 dB** — at 23 feet, out of the box, with no construction project. Our [quietest generators ranking](/articles/quietest-generators-noise-levels/) has all six verified picks with prices.
+Do the stack honestly first: distance (−6 dB per doubling), box (5–10 dB), muffler (2–5 dB), pads and surface for rumble. On a 74 dB open-frame portable, a realistic landed result is **around 60–64 dB at 23 feet** — neighborhood-tolerable, ordinance-plausible, and a genuine achievement. If your requirement is below that — nighttime running near bedrooms, campground quiet hours, an HOA with a meter — the answer is a different machine, not another accessory. Inverter generators start where these methods end: the Honda EU2200i is rated **48 dB** at quarter load, the Westinghouse iGen2200 **52 dB**, the Champion 2500 dual-fuel **53 dB** — at 23 feet, out of the box, with no construction project. Our [quietest generators ranking](/articles/quietest-generators-noise-levels) has all six verified picks with prices.
 
-And one maintenance note that costs nothing: a generator gets *louder* as it ages — a rusted-out muffler, loose panel screws, and a clogged air filter all add noise. Before you spend on quieting, spend twenty minutes with a wrench and the [maintenance checklist](/articles/generator-maintenance-checklist/). Sometimes the quiet you lost is just a loose bolt.
+And one maintenance note that costs nothing: a generator gets *louder* as it ages — a rusted-out muffler, loose panel screws, and a clogged air filter all add noise. Before you spend on quieting, spend twenty minutes with a wrench and the [maintenance checklist](/articles/generator-maintenance-checklist). Sometimes the quiet you lost is just a loose bolt.
 
 The stack in order, then: distance, surface and pads, box, muffler, deflector. Noise handled in that order costs the least and risks nothing — and the safety rules in the box above outrank every decibel in this article.
 
 ## Keep reading
 
-- [Quietest Generators in 2026: 6 Inverter Picks Ranked by dB Rating](/articles/quietest-generators-noise-levels/)
-- [Generator Carbon Monoxide Safety: The Rules That Save Lives](/articles/generator-carbon-monoxide-safety/)
-- [How Far Should a Generator Be from the House?](/articles/how-far-should-generator-be-from-house/)
-- [What Can a 7,500-Watt Generator Run? (With Real Examples)](/articles/what-can-7500-watt-generator-run/)
-- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
+- [Quietest Generators in 2026: 6 Inverter Picks Ranked by dB Rating](/articles/quietest-generators-noise-levels)
+- [Generator Carbon Monoxide Safety: The Rules That Save Lives](/articles/generator-carbon-monoxide-safety)
+- [How Far Should a Generator Be from the House?](/articles/how-far-should-generator-be-from-house)
+- [What Can a 7,500-Watt Generator Run? (With Real Examples)](/articles/what-can-7500-watt-generator-run)
+- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide)

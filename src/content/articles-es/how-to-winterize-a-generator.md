@@ -54,7 +54,7 @@ Cambia el filtro de gasolina en línea si tu modelo tiene: $4, una variable meno
 
 La gente lo hace al revés: el aceite fresco en primavera *se siente* correcto. No lo es. El aceite usado no solo está sucio; está ácido. Los gases de combustión lo contaminan con humedad y ácidos toda la temporada, y ese ácido queda contra rodamientos, paredes del cilindro y sellos todo el invierno, corroyendo el metal. Cambiarlo en primavera lo saca *después* de cinco meses de daño. En otoño, el motor duerme en aceite limpio.
 
-Con el motor caliente de la marcha de gasolina (el caliente drena completo; el frío deja lodo), drénalo y rellena con el peso del manual: **10W-30** para la mayoría de los portátiles, **5W-30 sintético** si debe dar marcha en frío profundo. La mayoría lleva de **0,6 a 1,1 cuartos**: un trabajo de $6–8. Enciéndelo un minuto y revisa el nivel en plano. Es la rutina de nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/): preparar para el invierno es el servicio anual hecho en el extremo correcto de la temporada.
+Con el motor caliente de la marcha de gasolina (el caliente drena completo; el frío deja lodo), drénalo y rellena con el peso del manual: **10W-30** para la mayoría de los portátiles, **5W-30 sintético** si debe dar marcha en frío profundo. La mayoría lleva de **0,6 a 1,1 cuartos**: un trabajo de $6–8. Enciéndelo un minuto y revisa el nivel en plano. Es la rutina de nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist): preparar para el invierno es el servicio anual hecho en el extremo correcto de la temporada.
 
 ## Paso 3: ¿Qué hace el aceite nebulizador y cómo se aplica?
 
@@ -95,7 +95,7 @@ Dueños de reserva: tu unidad ya carga su batería en lento; tu trabajo es verif
 - **Nunca en espacios habitados.** El vapor de gasolina es riesgo de incendio y el olor se mete a todas partes. Garage o cobertizo, lejos de calderas y pilotos — y ni un tanque «seco» está libre de vapores.
 - **Levantado del piso si puedes.** Una tarima o unos 2×4 lo mantienen fuera de charcos y del deshielo.
 
-**El problema de los roedores es real.** Sigue apareciendo en mis llamadas de primavera, y en la [guía de solución de problemas cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting/): los ratones anidan en cajas de aire y carcasas de escape y mastican los filtros para su cama. Defensas: limpia la caja de aire en el Paso 4, mete lana de acero en la salida del escape (ata una etiqueta: QUITAR ANTES DE ENCENDER — pregúntame cómo sé que importa) y pon naftalina *alrededor* de la unidad, nunca dentro de la caja.
+**El problema de los roedores es real.** Sigue apareciendo en mis llamadas de primavera, y en la [guía de solución de problemas cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting): los ratones anidan en cajas de aire y carcasas de escape y mastican los filtros para su cama. Defensas: limpia la caja de aire en el Paso 4, mete lana de acero en la salida del escape (ata una etiqueta: QUITAR ANTES DE ENCENDER — pregúntame cómo sé que importa) y pon naftalina *alrededor* de la unidad, nunca dentro de la caja.
 
 **Fundas:** una transpirable — **$15–30** a la medida. No una lona de plástico sellada: atrapa la condensación y en abril desenvuelves óxido.
 
@@ -104,11 +104,11 @@ Dueños de reserva: tu unidad ya carga su batería en lento; tu trabajo es verif
 Muchos no deberían guardarlo por completo. Si tus inviernos traen apagones por hielo — o una bomba de sumidero o de pozo depende de esa máquina en enero — el plan correcto no es el guardado, es *listo, con hábitos de guardado*:
 
 - Estabiliza la gasolina (tanque lleno, Paso 1) y deja la válvula ABIERTA, listo a un jalón.
-- **Ejercítalo cada mes:** 20–30 minutos con al menos 30–50% de carga — un calefactor y unas luces — no 3 minutos en vacío. El ralentí sin carga moja la bujía y nunca calienta el aceite lo bastante para evaporar la humedad; con carga hace ambas cosas. Por eso un generador ejercitado puede saltarse casi toda esta guía y durar más que uno «bien guardado»: lo que mata estos motores es estar parados, no las horas, como muestra nuestra guía de [cuánto duran los generadores en realidad](/es/articles/how-long-do-generators-last/).
+- **Ejercítalo cada mes:** 20–30 minutos con al menos 30–50% de carga — un calefactor y unas luces — no 3 minutos en vacío. El ralentí sin carga moja la bujía y nunca calienta el aceite lo bastante para evaporar la humedad; con carga hace ambas cosas. Por eso un generador ejercitado puede saltarse casi toda esta guía y durar más que uno «bien guardado»: lo que mata estos motores es estar parados, no las horas, como muestra nuestra guía de [cuánto duran los generadores en realidad](/es/articles/how-long-do-generators-last).
 - Mantén la batería con mantenedor entre marchas, y haz de todas formas el cambio de aceite y el servicio de bujía y filtro.
 - Guárdalo cerca de su posición de trabajo: que un apagón a las 2 a.m. sea sacarlo rodando, no una cacería.
 
-Y la [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist/) convierte un generador listo en energía real.
+Y la [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist) convierte un generador listo en energía real.
 
 ## ¿Los generadores de reserva necesitan preparación invernal?
 
@@ -118,7 +118,7 @@ En su mayoría se preparan solos: el ejercicio semanal mantiene el aceite circul
 - **Modelos enfriados por líquido:** nivel de refrigerante y anticongelante — una mezcla 50/50 protege hasta unos **−34 °F**.
 - **Camino de aire:** hojas fuera de las rejillas, y en zona de nieve mantén la unidad despejada: un escape enterrado es una parada, o peor.
 - **Ciclo de ejercicio:** confirma que esté activado, corra semanal y termine sin códigos de falla.
-- **Unidades nuevas:** el asentamiento es otro tema — mira [cómo asentar un generador nuevo](/es/articles/how-to-break-in-a-generator/) — y el nebulizado no aplica a una máquina que se ejercita cada semana.
+- **Unidades nuevas:** el asentamiento es otro tema — mira [cómo asentar un generador nuevo](/es/articles/how-to-break-in-a-generator) — y el nebulizado no aplica a una máquina que se ejercita cada semana.
 
 ## ¿Cómo se despierta un generador guardado en primavera?
 
@@ -130,11 +130,11 @@ Despertarlo es deshacer, en 15 minutos:
 4. **Gasolina:** los de «seco» rellenan con fresca, abren la válvula y le dan un minuto al tazón antes de jalar. Los de tanque lleno: la estabilizada sirve, pero si pasó de 12 meses, drénala y cámbiala en vez de apostar.
 5. **Primer arranque afuera:** caliéntalo 2–3 minutos, ponle una carga real 10–15 minutos y vigila oscilaciones, fugas o humo que no se quite. Un cilindro nebulizado humea azul-blanco el primer minuto: es el aceite quemándose.
 
-Si aun así no arranca, no cambies piezas al azar: trabaja la lista ordenada de la [guía de solución de problemas de no arranque](/es/articles/generator-wont-start-troubleshooting/). Es el punto de esta hora en otoño: un generador preparado casi nunca necesita esa guía en primavera.
+Si aun así no arranca, no cambies piezas al azar: trabaja la lista ordenada de la [guía de solución de problemas de no arranque](/es/articles/generator-wont-start-troubleshooting). Es el punto de esta hora en otoño: un generador preparado casi nunca necesita esa guía en primavera.
 
 ## Sigue leyendo
 
-- [El generador no arranca: solución de problemas](/es/articles/generator-wont-start-troubleshooting/)
-- [Lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/)
-- [¿Cuánto duran los generadores?](/es/articles/how-long-do-generators-last/)
-- [Lista de preparación para tormentas](/es/articles/storm-preparedness-checklist/)
+- [El generador no arranca: solución de problemas](/es/articles/generator-wont-start-troubleshooting)
+- [Lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist)
+- [¿Cuánto duran los generadores?](/es/articles/how-long-do-generators-last)
+- [Lista de preparación para tormentas](/es/articles/storm-preparedness-checklist)

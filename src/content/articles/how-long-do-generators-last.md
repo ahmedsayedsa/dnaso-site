@@ -68,7 +68,7 @@ If your unit has a "quiet test" mode, use it — it exercises at lower RPM and k
 
 ## Maintenance habits that add years
 
-The full routine is in our [generator maintenance checklist](/articles/generator-maintenance-checklist/). The short version that covers 90% of it:
+The full routine is in our [generator maintenance checklist](/articles/generator-maintenance-checklist). The short version that covers 90% of it:
 
 - **Oil and filter:** yearly or per the manual's hour interval — whichever comes first. Use the specified weight (typically 5W-30 synthetic for air-cooled).
 - **Air filter and spark plugs:** inspect yearly, replace per schedule (plugs typically every 200–400 hours or 2 years).
@@ -114,4 +114,4 @@ One nuance: a well-maintained 20-year-old air-cooled unit with low hours can sti
 
 Expect **2,000–3,000 hours (20–30 years of normal use)** from an air-cooled standby, **10,000+ hours** from liquid-cooled, and **1,000–2,000 hours** from a portable. The hour rating is generous for residential use — what actually decides lifespan is oil changes, batteries, and whether the exercise cycle runs. Maintain it and it'll be there when the lights go out; neglect it and it won't.
 
-Next steps: our [generator maintenance checklist](/articles/generator-maintenance-checklist/) for the full routine, installed pricing in [Whole House Generator Cost in 2026](/articles/whole-house-generator-cost/), and the big picture in our [Complete Home Backup Power Guide](/articles/complete-home-backup-power-guide/).
+Next steps: our [generator maintenance checklist](/articles/generator-maintenance-checklist) for the full routine, installed pricing in [Whole House Generator Cost in 2026](/articles/whole-house-generator-cost), and the big picture in our [Complete Home Backup Power Guide](/articles/complete-home-backup-power-guide).

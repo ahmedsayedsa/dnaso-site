@@ -53,7 +53,7 @@ Here's how I actually walk customers through it, in three honest tiers.
 
 A **26kW air-cooled** unit (the top of the air-cooled class — Generac and Kohler both cap out around 26kW) can protect a 5,000 sq ft home surprisingly well if the house is gas-heavy and you're willing to let a load-management system play traffic cop. One AC system runs; the second is locked out or rotated. The electric dryer waits. The pool pump runs on a timer window. Everything that keeps people safe and food cold stays on.
 
-This tier makes sense when: gas furnace, gas water heat, gas cooking, and an owner who says "I just don't want to be in the dark or lose the freezers." Installed cost typically runs **$13,000–$17,000** for the unit, transfer switch, pad, gas work, and permits. I wrote up the full cost picture in our [whole house generator cost guide](/articles/whole-house-generator-cost/) — the generator itself is barely half the installed price at any size.
+This tier makes sense when: gas furnace, gas water heat, gas cooking, and an owner who says "I just don't want to be in the dark or lose the freezers." Installed cost typically runs **$13,000–$17,000** for the unit, transfer switch, pad, gas work, and permits. I wrote up the full cost picture in our [whole house generator cost guide](/articles/whole-house-generator-cost) — the generator itself is barely half the installed price at any size.
 
 ### Tier 2: True whole-house — 30–38kW
 
@@ -65,7 +65,7 @@ The jump from Tier 1 isn't just capacity — it's a different class of machine. 
 
 All-electric 5,000 sq ft house, tankless electric water heat you refuse to lock out, EV charging during outages, pool and spa, guest house on the same panel? You're in **40–60kW liquid-cooled** territory, and at that point I start asking whether we should shed or sub-panel some loads instead of buying our way out — a 60kW residential install with the gas or propane infrastructure to feed it can pass **$40,000** installed. It exists, and for a medical-equipment household it can be the right answer. Just go in with your eyes open.
 
-For stepping down a size class, compare the numbers in [what size generator for a 3000 sq ft house](/articles/what-size-generator-for-3000-sq-ft-house/) — the gap between the two house sizes is smaller than most people expect, precisely because the big loads (kitchen, laundry, water heat) don't scale with floor area. And if you haven't done the basic load math yet, start with [what size generator to run a house](/articles/what-size-generator-run-house/) before reading any of this as a shopping list.
+For stepping down a size class, compare the numbers in [what size generator for a 3000 sq ft house](/articles/what-size-generator-for-3000-sq-ft-house) — the gap between the two house sizes is smaller than most people expect, precisely because the big loads (kitchen, laundry, water heat) don't scale with floor area. And if you haven't done the basic load math yet, start with [what size generator to run a house](/articles/what-size-generator-run-house) before reading any of this as a shopping list.
 
 ## Is air-cooled enough, or do you need liquid-cooled?
 
@@ -92,7 +92,7 @@ At 5,000 sq ft, a typical priority list looks like this:
 2. **Shed last:** second AC system, pool pump.
 3. **Shed first:** electric dryer, electric range/oven, EV charger, tankless water heater (locked out entirely, per the earlier discussion), third AC zone, spa heater.
 
-Modern systems (Generac's load-shed modules, Kohler's load control, and third-party units) can manage 4–8 circuits this way, and soft starters on the AC compressors — a **$300–$450** part per unit installed — cut compressor startup surge by 50–70%, which is often the difference between "needs 38kW" and "runs fine on 32kW." One caution that ties into service size: houses this big usually have 320- or 400-amp service, or dual 200-amp panels, and the transfer-switch architecture follows the panels, not the square footage. If you're not sure what's in your house, [what size generator for 200-amp service](/articles/what-size-generator-for-200-amp-service/) explains the panel side of it — and your installer may end up speccing two transfer switches on a dual-panel home.
+Modern systems (Generac's load-shed modules, Kohler's load control, and third-party units) can manage 4–8 circuits this way, and soft starters on the AC compressors — a **$300–$450** part per unit installed — cut compressor startup surge by 50–70%, which is often the difference between "needs 38kW" and "runs fine on 32kW." One caution that ties into service size: houses this big usually have 320- or 400-amp service, or dual 200-amp panels, and the transfer-switch architecture follows the panels, not the square footage. If you're not sure what's in your house, [what size generator for 200-amp service](/articles/what-size-generator-for-200-amp-service) explains the panel side of it — and your installer may end up speccing two transfer switches on a dual-panel home.
 
 ## How much does it cost to run a 30kW+ generator all day?
 
@@ -103,7 +103,7 @@ A 30–38kW liquid-cooled unit on propane burns roughly **2.8–3.6 gallons per 
 - **Half load, 24 hours:** 65–85 gallons → **$170–$290 per day**
 - **Heavy load, 24 hours:** 110–130 gallons → **$280–$450 per day**
 
-That burn rate is why homes this size install **500- or 1,000-gallon propane tanks** — a 250-gallon tank at a safe 80% fill gives you barely two to three days at half load. I ran the tank math in detail in [how long a generator runs on a 250-gallon propane tank](/articles/how-long-generator-run-on-250-gallon-propane-tank/), and the same ratios scale straight up: at these loads, tank size *is* outage endurance. On natural gas the same day costs roughly **$60–$130** in most markets, with no tank to refill — which is why, if you have a gas main on your street, it's the automatic choice at this generator size despite the lower energy density.
+That burn rate is why homes this size install **500- or 1,000-gallon propane tanks** — a 250-gallon tank at a safe 80% fill gives you barely two to three days at half load. I ran the tank math in detail in [how long a generator runs on a 250-gallon propane tank](/articles/how-long-generator-run-on-250-gallon-propane-tank), and the same ratios scale straight up: at these loads, tank size *is* outage endurance. On natural gas the same day costs roughly **$60–$130** in most markets, with no tank to refill — which is why, if you have a gas main on your street, it's the automatic choice at this generator size despite the lower energy density.
 
 Also budget the boring stuff: liquid-cooled units want coolant service, hoses, and belts on a car-like schedule, and annual maintenance on a 30kW+ system typically runs **$400–$600**, versus $300–$400 for air-cooled.
 
@@ -142,4 +142,4 @@ If you've read this far, you probably already know which house you have:
 - **The typical 5,000 sq ft home that wants the outage invisible:** 30–38kW liquid-cooled, natural gas if you have it, 500-gallon propane tank if you don't. Roughly $22,000–$32,000 installed.
 - **All-electric with tankless water heat:** decide on the water heater first (lockout, or gas conversion), then size — usually 32–38kW with the lockout, 45kW+ without.
 
-Whatever tier you choose, get the load calculation in writing from your installer, with the managed-load list spelled out. A quote that just says "38kW — trust me" is a quote from someone who didn't do the math. And if your home is a step smaller than this one, the ladder in [what size generator for a 3000 sq ft house](/articles/what-size-generator-for-3000-sq-ft-house/) will fit you better than the numbers here.
+Whatever tier you choose, get the load calculation in writing from your installer, with the managed-load list spelled out. A quote that just says "38kW — trust me" is a quote from someone who didn't do the math. And if your home is a step smaller than this one, the ladder in [what size generator for a 3000 sq ft house](/articles/what-size-generator-for-3000-sq-ft-house) will fit you better than the numbers here.

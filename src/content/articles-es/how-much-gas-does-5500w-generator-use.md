@@ -35,7 +35,7 @@ Compruébalo contra lo que imprimen los fabricantes: un 5.500 con tanque de 6–
 
 Algo que sorprende: el motor no ahorra en proporción cuando la carga es ligera. Baja de media carga a un cuarto y ahorras quizá un tercio del combustible, no la mitad. El motor de un generador convencional gira a 3.600 RPM haga 5.000 vatios o 500, y una buena parte de cada galón se va en girar el propio motor, no en tu casa. Es física y no hay compra que la evite en esta clase de máquinas. (Los inverter son la excepción: bajan las revoluciones con carga ligera, y por eso la comparativa de más abajo no le hace ningún favor a los convencionales grandes.)
 
-Si quieres las mismas tablas para todos los tamaños y combustibles, nuestra [guía de consumo de combustible de generadores](/es/articles/generator-fuel-consumption/) las trae todas.
+Si quieres las mismas tablas para todos los tamaños y combustibles, nuestra [guía de consumo de combustible de generadores](/es/articles/generator-fuel-consumption) las trae todas.
 
 ## ¿Cuánto dura realmente un tanque durante un apagón?
 
@@ -63,7 +63,7 @@ Por dónde se sienta en realidad la carga de una casa. Suma las cargas honestas 
 - Router, TV, cargadores, laptop: 150–250 W
 - Bomba de sumidero: 800–1.050 W cuando está bombeando de verdad, que son minutos por hora
 
-En estado estable, la mayoría de las casas caminan a **1.500–2.500 vatios**: eso es el 27–45% de un 5.500. La máquina pasa su vida holgada en la zona suficientemente eficiente, quemando alrededor de 0,5 galones por hora, con reserva de arranque de sobra para que el compresor del refri, la bomba y un microondas (1.000–1.200 W) arranquen a la vez. Más chico y estás botando breakers a la hora del desayuno. Más grande y estás alimentando un motor mayor para hacer los mismos 2.000 vatios. En [qué puede alimentar un generador de 7500 vatios](/es/articles/what-can-7500-watt-generator-run/) desglosamos la matemática de arranques aparato por aparato; la misma lógica aplica, solo que a menor escala.
+En estado estable, la mayoría de las casas caminan a **1.500–2.500 vatios**: eso es el 27–45% de un 5.500. La máquina pasa su vida holgada en la zona suficientemente eficiente, quemando alrededor de 0,5 galones por hora, con reserva de arranque de sobra para que el compresor del refri, la bomba y un microondas (1.000–1.200 W) arranquen a la vez. Más chico y estás botando breakers a la hora del desayuno. Más grande y estás alimentando un motor mayor para hacer los mismos 2.000 vatios. En [qué puede alimentar un generador de 7500 vatios](/es/articles/what-can-7500-watt-generator-run) desglosamos la matemática de arranques aparato por aparato; la misma lógica aplica, solo que a menor escala.
 
 Mi opinión honesta, y se la digo a los clientes aunque hayan llegado queriendo el grande: para una casa con agua de la red y calefacción a gas, un 5.500 es el generador más grande que todavía tiene sentido económico, y el consumo de combustible es exactamente la razón.
 
@@ -77,9 +77,9 @@ La comparación justa no es cada máquina a su propio 50%, sino las tres aliment
 | Convencional de 5.500 W | ~0,35–0,40 gal/h | ~0,60 gal/h |
 | Convencional de 7.500 W | ~0,45 gal/h | ~0,75 gal/h |
 
-Dos lecciones. Primera: el motor más grande del 7.500 (típicamente 420 cc o más) te cuesta unos **0,15 gal/h extra con la misma carga**; en un apagón de 72 horas eso son unos 10 galones, dos bidones extra, por una capacidad que la mayoría de las casas nunca usa. El desglose hora por hora de la unidad grande está en [cuánta gasolina consume un generador de 7500 W](/es/articles/how-much-gas-does-7500w-generator-use/).
+Dos lecciones. Primera: el motor más grande del 7.500 (típicamente 420 cc o más) te cuesta unos **0,15 gal/h extra con la misma carga**; en un apagón de 72 horas eso son unos 10 galones, dos bidones extra, por una capacidad que la mayoría de las casas nunca usa. El desglose hora por hora de la unidad grande está en [cuánta gasolina consume un generador de 7500 W](/es/articles/how-much-gas-does-7500w-generator-use).
 
-Segunda: mira el inverter con carga ligera. Un inverter de 2.000 vatios baja las revoluciones de su motor cuando cae la demanda, así que avanzando a 1.000 vatios quema la mitad que el 5.500, y su tanquecito de 1 galón todavía dura 4–5 horas. Si tu plan de apagón es refri, luces e internet y nada con un motor más grande que un ventilador de caja, el inverter gana en combustible y por mucho; [nuestras cifras de consumo del 2000 W](/es/articles/how-much-gas-does-2000w-generator-use/) muestran un día completo con menos de 5 galones. El 5.500 justifica su cuenta de combustible en cuanto entra un soplador de calefacción, una bomba de pozo o una bomba de sumidero: esos arranques son lo que las máquinas chicas no pueden tragar.
+Segunda: mira el inverter con carga ligera. Un inverter de 2.000 vatios baja las revoluciones de su motor cuando cae la demanda, así que avanzando a 1.000 vatios quema la mitad que el 5.500, y su tanquecito de 1 galón todavía dura 4–5 horas. Si tu plan de apagón es refri, luces e internet y nada con un motor más grande que un ventilador de caja, el inverter gana en combustible y por mucho; [nuestras cifras de consumo del 2000 W](/es/articles/how-much-gas-does-2000w-generator-use) muestran un día completo con menos de 5 galones. El 5.500 justifica su cuenta de combustible en cuanto entra un soplador de calefacción, una bomba de pozo o una bomba de sumidero: esos arranques son lo que las máquinas chicas no pueden tragar.
 
 ## ¿Y si el tuyo es dual fuel? ¿Cuánto propano quema?
 
@@ -88,7 +88,7 @@ El propano tiene menos energía por galón que la gasolina — unos 91.500 BTU c
 - Al 50% de carga con propano: unos **0,75–0,85 gal/h**
 - Un tanque estándar de parrilla de 20 lb guarda unos 4,6 galones de propano, así que hablamos de **5–6,5 horas** a media carga por tanque, contra las 10–12 horas del tanque de gasolina con el que vino la máquina.
 
-Suena a perder, y en autonomía lo es. Pero el propano no se pone viejo, no tapa carburadores, y un tanque de repuesto se guarda para siempre en la esquina del garage. Mi consejo de siempre: usa la gasolina como combustible principal durante el apagón, guarda el propano como la reserva de la que nunca tienes que preocuparte, y arranca la máquina con propano cada pocos meses para que el regulador y las mangueras se mantengan honestos. La comparativa completa combustible por combustible está en la [guía de consumo de combustible](/es/articles/generator-fuel-consumption/).
+Suena a perder, y en autonomía lo es. Pero el propano no se pone viejo, no tapa carburadores, y un tanque de repuesto se guarda para siempre en la esquina del garage. Mi consejo de siempre: usa la gasolina como combustible principal durante el apagón, guarda el propano como la reserva de la que nunca tienes que preocuparte, y arranca la máquina con propano cada pocos meses para que el regulador y las mangueras se mantengan honestos. La comparativa completa combustible por combustible está en la [guía de consumo de combustible](/es/articles/generator-fuel-consumption).
 
 ## ¿Cómo medir lo que quema *tu* 5500 en realidad?
 
@@ -107,7 +107,7 @@ Algunas cosas que sí funcionan, en orden de beneficio:
 
 1. **Recorta la carga, no las horas.** Cada 500 vatios sostenidos que quitas ahorran unos 0,05–0,08 gal/h. El calentador de agua eléctrico y la secadora son las dos cargas que se comen un bidón en silencio; sáltalas durante el apagón.
 2. **Trabájalo por ciclos.** Como ya dije: el refri no necesita el compresor alimentado las 24 horas para mantenerse frío. Es el ahorro más grande de todos.
-3. **Mantén limpio el filtro de aire y fresco el aceite.** Un filtro tapado enriquece la mezcla y regularmente veo un consumo 5–10% peor en máquinas descuidadas. Es una revisión de dos minutos en nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/).
+3. **Mantén limpio el filtro de aire y fresco el aceite.** Un filtro tapado enriquece la mezcla y regularmente veo un consumo 5–10% peor en máquinas descuidadas. Es una revisión de dos minutos en nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist).
 4. **No persigas las cifras de un inverter.** Si consistentemente estás bajo los 1.000 vatios, la respuesta correcta es una segunda máquina más chica para el trabajo ligero, no trucos para que un 5.500 trague menos.
 
 Lo que no funciona: aditivos que prometen grandes ganancias de eficiencia, e interruptores de "economía" en unidades convencionales que en su mayoría solo bajan tu margen de voltaje. Mejor gasta ese dinero en otro bidón: guardado con estabilizador y rotado a tu carro cada seis meses para que nunca se ponga viejo.
@@ -116,7 +116,7 @@ Lo que no funciona: aditivos que prometen grandes ganancias de eficiencia, e int
 
 ## Sigue leyendo
 
-- [¿Cuánto combustible consume un generador? Cifras reales de consumo](/es/articles/generator-fuel-consumption/)
-- [¿Cuánta gasolina consume un generador de 7500 W?](/es/articles/how-much-gas-does-7500w-generator-use/)
-- [¿Cuánta gasolina consume un generador de 2000 W?](/es/articles/how-much-gas-does-2000w-generator-use/)
-- [¿Qué puede alimentar un generador de 7500 vatios?](/es/articles/what-can-7500-watt-generator-run/)
+- [¿Cuánto combustible consume un generador? Cifras reales de consumo](/es/articles/generator-fuel-consumption)
+- [¿Cuánta gasolina consume un generador de 7500 W?](/es/articles/how-much-gas-does-7500w-generator-use)
+- [¿Cuánta gasolina consume un generador de 2000 W?](/es/articles/how-much-gas-does-2000w-generator-use)
+- [¿Qué puede alimentar un generador de 7500 vatios?](/es/articles/what-can-7500-watt-generator-run)

@@ -16,7 +16,7 @@ Your AC's compressor is a big electric motor. When it starts, it draws a massive
 
 A 3-ton AC might run at 3,500 watts but demand **10,000+ watts** to start. The generator has to deliver that surge instantly. If it can't, voltage collapses, the compressor stalls, the generator's breaker trips — or worse, the compressor keeps trying to start against low voltage, overheats, and burns out a winding. Low-voltage starting attempts are how compressors die.
 
-This is also why the general sizing rules don't quite work for AC. For the full method, see [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/) — but know that AC gets its own treatment here because the surge is so disproportionate.
+This is also why the general sizing rules don't quite work for AC. For the full method, see [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house) — but know that AC gets its own treatment here because the surge is so disproportionate.
 
 ## Wattage by tonnage: the table
 
@@ -111,5 +111,5 @@ The cruelest detail: you need AC most on the hottest days, and hot days are when
 
 ## Keep reading
 
-- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/) — the general sizing method with appliance tables and worked examples for 1,500–3,000 sq ft homes.
-- [The Complete Home Backup Power Guide 2026](/articles/complete-home-backup-power-guide/) — the full landscape: generator types vs. batteries, costs, fuel, transfer switches, maintenance.
+- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house) — the general sizing method with appliance tables and worked examples for 1,500–3,000 sq ft homes.
+- [The Complete Home Backup Power Guide 2026](/articles/complete-home-backup-power-guide) — the full landscape: generator types vs. batteries, costs, fuel, transfer switches, maintenance.

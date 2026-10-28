@@ -17,7 +17,7 @@ keywords: ["can a portable generator charge an ev", "charge ev with generator", 
 
 The storm takes the power out, the car is sitting at 35%, and it's a 28-mile drive to your in-laws — who have power. So: can a portable generator charge an EV well enough to get you there? I've been asked this on service calls more times in the last two years than in the previous eighteen combined, and my answer is always the same: yes, it works, it's slower than you hope, and there are two traps that stop most people cold on the first try.
 
-This is the generator-specific version of the problem. For the full outage picture — batteries, standby units — see my guide to [charging an EV during a power outage](/articles/charging-ev-during-outage/). Here we're talking strictly about the portable in your garage, and how to set it up so the car accepts the charge instead of throwing an error and going dark.
+This is the generator-specific version of the problem. For the full outage picture — batteries, standby units — see my guide to [charging an EV during a power outage](/articles/charging-ev-during-outage). Here we're talking strictly about the portable in your garage, and how to set it up so the car accepts the charge instead of throwing an error and going dark.
 
 ## Can a Portable Generator Actually Charge an EV?
 
@@ -45,7 +45,7 @@ That power goes into the battery at whatever efficiency your car manages, which 
 | Mid-size crossover (Model Y, Mach-E, EV6) | 3–4 | 30–45 |
 | Full-size truck (F-150 Lightning, R1T) | 2–3 | 20–30 |
 
-My rule of thumb for planning: **one hour of generator run ≈ 4 miles, one overnight run ≈ 40–60 miles** in a typical EV. That's a commute. That's getting to a DC fast charger two towns over. That's an evacuation buffer. It is not a road trip, and no generator purchase makes it one — if you need a refresher on why Level 1 is what it is, I broke down the speeds in [Level 1 vs Level 2 charging](/articles/level-1-vs-level-2-charging/).
+My rule of thumb for planning: **one hour of generator run ≈ 4 miles, one overnight run ≈ 40–60 miles** in a typical EV. That's a commute. That's getting to a DC fast charger two towns over. That's an evacuation buffer. It is not a road trip, and no generator purchase makes it one — if you need a refresher on why Level 1 is what it is, I broke down the speeds in [Level 1 vs Level 2 charging](/articles/level-1-vs-level-2-charging).
 
 One practical tip: the car pulls a *continuous* 12 amps for hours — a real, sustained load, not a fridge cycling on and off. A little 2,000-watt inverter will do it, but it'll sit at 70%+ load the whole time, loud and thirsty. A **3,500–4,500-watt inverter generator** is the sweet spot for Level 1 EV duty: loafing at a third of capacity, quieter, and much better on fuel.
 
@@ -104,11 +104,11 @@ People do this calculation hopefully, so let me do it honestly. A generator maki
 
 **≈ 25–30 miles per gallon — the fuel economy of an ordinary gasoline sedan.**
 
-Which makes sense when you think about it: you've built a gasoline car out of two machines, with conversion losses at every step. Compare the cost side: a gallon at $3.20 buying you ~28 miles is about **11–12 cents a mile in fuel**, versus roughly 4–5 cents a mile charging from the grid at typical US residential rates — the numbers I used in [what it costs to charge an EV at home](/articles/how-much-cost-charge-ev-home/) make the gap obvious. A Level 2 session off a big generator lands in the same neighborhood per mile, sometimes a bit worse.
+Which makes sense when you think about it: you've built a gasoline car out of two machines, with conversion losses at every step. Compare the cost side: a gallon at $3.20 buying you ~28 miles is about **11–12 cents a mile in fuel**, versus roughly 4–5 cents a mile charging from the grid at typical US residential rates — the numbers I used in [what it costs to charge an EV at home](/articles/how-much-cost-charge-ev-home) make the gap obvious. A Level 2 session off a big generator lands in the same neighborhood per mile, sometimes a bit worse.
 
 So the use case is not savings. It's this: **charge just enough to reach a working charger.** Thirty or forty generator-miles gets you to the fast charger in the next county, where the car fills at grid prices. Burning ten gallons to "fill" the car at home is the expensive way to feel self-sufficient. I've done the overnight thing once, in a three-day outage with nowhere open to go — and that's exactly the scenario it's for.
 
-Worth knowing, in the other direction: many EVs can now *give* power back. If your car supports vehicle-to-load, it may be the better tool for the house side — I covered that in [can an EV power a house (V2H)?](/articles/can-ev-power-house-v2h/). Generator charges car, car powers fridge: during a long outage, that loop is sometimes the smartest arrangement of the equipment you already own.
+Worth knowing, in the other direction: many EVs can now *give* power back. If your car supports vehicle-to-load, it may be the better tool for the house side — I covered that in [can an EV power a house (V2H)?](/articles/can-ev-power-house-v2h). Generator charges car, car powers fridge: during a long outage, that loop is sometimes the smartest arrangement of the equipment you already own.
 
 ## How Do You Set It Up Safely? The Non-Negotiables
 
@@ -128,7 +128,7 @@ Setting this up before storm season? My list is short: an inverter generator siz
 
 ## Keep reading
 
-- [Charging an EV During a Power Outage: What Works](/articles/charging-ev-during-outage/)
-- [Level 1 vs Level 2 EV Charging: Speed & Cost](/articles/level-1-vs-level-2-charging/)
-- [Can an EV Power a House? V2H Explained](/articles/can-ev-power-house-v2h/)
-- [How Much Does It Cost to Charge an EV at Home?](/articles/how-much-cost-charge-ev-home/)
+- [Charging an EV During a Power Outage: What Works](/articles/charging-ev-during-outage)
+- [Level 1 vs Level 2 EV Charging: Speed & Cost](/articles/level-1-vs-level-2-charging)
+- [Can an EV Power a House? V2H Explained](/articles/can-ev-power-house-v2h)
+- [How Much Does It Cost to Charge an EV at Home?](/articles/how-much-cost-charge-ev-home)

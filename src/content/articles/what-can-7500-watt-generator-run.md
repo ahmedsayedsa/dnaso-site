@@ -19,7 +19,7 @@ Every 7,500W portable is also sold with a bigger number on the box — usually 9
 
 You size your loads against the 7,500 running watts. The surge capacity exists to absorb motor startups — fridge compressors, well pumps, furnace blowers — without tripping. If your steady load is 7,800 watts, you're over budget even though you're "under" the peak number, and the generator will run hot, burn oil, and eventually trip or fail.
 
-The golden rule: **plan for no more than 80% of running watts as your continuous load** — about 6,000 watts on a 7,500W unit. That leaves headroom for motor surges and keeps the engine in its happy zone. For the full sizing method, see [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/).
+The golden rule: **plan for no more than 80% of running watts as your continuous load** — about 6,000 watts on a 7,500W unit. That leaves headroom for motor surges and keeps the engine in its happy zone. For the full sizing method, see [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house).
 
 ## Room-by-room: what things actually draw
 
@@ -113,7 +113,7 @@ The "live almost normally, just manage the big stuff" setup. This is the 80%-of-
 
 The management rule here: don't run the microwave and the washing machine's agitation cycle while both window AC compressors are starting. Stagger the big intermittent loads and you stay inside budget. The well pump's 3,000W starting surge is the biggest single event — if it coincides with both AC compressors starting (unlikely but possible), you could briefly touch 8,000–9,000W total, which the surge capacity absorbs for the second or two it lasts.
 
-Fuel burn at this load: roughly 0.8–1.1 gal/hr. On a 6.5-gallon tank, that's a refuel every 6–8 hours. For the full fuel math, see [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption/).
+Fuel burn at this load: roughly 0.8–1.1 gal/hr. On a 6.5-gallon tank, that's a refuel every 6–8 hours. For the full fuel math, see [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption).
 
 ## Scenario 3: Almost everything (~7,200W) — the edge
 
@@ -142,7 +142,7 @@ This is how people live comfortably for a week on a 7,500W portable. It's not au
 
 A 3-ton central AC runs at about 3,500 watts — well within a 7,500W generator's capacity. But starting the compressor demands 9,000–12,000 watts for the first second or two (locked-rotor amps, typically 60–80A at 240V). The generator's 9,500W surge rating can't deliver it. The compressor stalls, voltage collapses, and either the generator's breaker trips or — worse — the compressor sits there trying to start against low voltage and cooks its windings. Low-voltage start attempts are a leading cause of compressor death.
 
-A **soft starter** (MicroAir EasyStart is the well-known brand, ~$300–400 plus installation) reduces the starting surge by 60–70%, bringing a 3-ton unit's startup down to roughly 3,500–4,500W — which a 7,500W generator handles. With a soft starter installed, central AC on a 7,500W portable goes from "absolutely not" to "yes, with load management." Without one, don't try it. The complete breakdown is in [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/).
+A **soft starter** (MicroAir EasyStart is the well-known brand, ~$300–400 plus installation) reduces the starting surge by 60–70%, bringing a 3-ton unit's startup down to roughly 3,500–4,500W — which a 7,500W generator handles. With a soft starter installed, central AC on a 7,500W portable goes from "absolutely not" to "yes, with load management." Without one, don't try it. The complete breakdown is in [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac).
 
 **Also off the list:**
 
@@ -167,15 +167,15 @@ Notes on the field:
 - **Champion 100520** is the volume leader — widely available, strong parts support, and the CO Shield auto-shutoff is standard. The most common "first generator" for good reason.
 - **Westinghouse WGen7500DF** is the pick if you want propane capability without a big price jump. Remember the ~10% wattage derate on propane (about 6,750W running) — size your scenarios against the propane number if that's your fuel.
 - **Predator 7500** is the budget play. Harbor Freight's support network is the tradeoff — fine if there's a store nearby, annoying if there isn't.
-- None of these are quiet (low-70s dB is standard for the class). If noise is a priority, look at inverter models in this wattage range or plan on distance — see [Generator Noise Levels Compared: How Loud Is Too Loud?](/articles/quietest-generators-noise-levels/).
+- None of these are quiet (low-70s dB is standard for the class). If noise is a priority, look at inverter models in this wattage range or plan on distance — see [Generator Noise Levels Compared: How Loud Is Too Loud?](/articles/quietest-generators-noise-levels).
 
-All of these need an oil change after the first 20–30 hours (break-in), then every 50–100 hours of runtime depending on the manual. Keep the schedule — the full routine is in [Generator Maintenance Checklist: What to Do and When](/articles/generator-maintenance-checklist/).
+All of these need an oil change after the first 20–30 hours (break-in), then every 50–100 hours of runtime depending on the manual. Keep the schedule — the full routine is in [Generator Maintenance Checklist: What to Do and When](/articles/generator-maintenance-checklist).
 
 ## Electrical safety: read this before you plug in anything
 
 A 7,500W generator produces enough power to kill you and enough to burn your house down if connected wrong. The non-negotiable rules:
 
-- **Never plug a generator directly into a wall outlet** ("backfeeding"). It energizes the utility lines outside your house and can electrocute lineworkers trying to restore power. It's also illegal in most jurisdictions. The only safe ways to power house circuits are a **transfer switch** or an **interlock kit** installed on your panel — see [Transfer Switch vs Interlock Kit: Cost, Code, and Safety](/articles/transfer-switch-vs-interlock-kit/).
+- **Never plug a generator directly into a wall outlet** ("backfeeding"). It energizes the utility lines outside your house and can electrocute lineworkers trying to restore power. It's also illegal in most jurisdictions. The only safe ways to power house circuits are a **transfer switch** or an **interlock kit** installed on your panel — see [Transfer Switch vs Interlock Kit: Cost, Code, and Safety](/articles/transfer-switch-vs-interlock-kit).
 - **Run it outdoors, 20+ feet from the house**, exhaust pointed away. Carbon monoxide is odorless and kills in minutes. Never in a garage, basement, or under a deck — even with the door open.
 - **Let the engine cool before refueling.** Shut it down, wait 15 minutes, then refuel. Gasoline on a 500°F exhaust is exactly as bad as it sounds.
 - **Use heavy-gauge extension cords** (12-gauge minimum, 10-gauge for long runs) rated for outdoor use. Undersized cords overheat, drop voltage, and can melt.
@@ -186,8 +186,8 @@ If any of this is new to you, have an electrician install the transfer switch or
 
 ## Keep reading
 
-- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
-- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)
-- [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/)
-- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption/)
-- [Transfer Switch vs Interlock Kit: Cost, Code, and Safety](/articles/transfer-switch-vs-interlock-kit/)
+- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide)
+- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house)
+- [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac)
+- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption)
+- [Transfer Switch vs Interlock Kit: Cost, Code, and Safety](/articles/transfer-switch-vs-interlock-kit)

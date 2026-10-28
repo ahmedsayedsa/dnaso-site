@@ -76,7 +76,7 @@ Read the table the way an electrician reads it. A 500Wh station is an *overnight
 
 A 1 kWh station — the most popular size sold — genuinely runs a fridge through the night and a workday. That's the sweet spot for "the power company says it'll be back by tomorrow." (Check the Wh on whatever model you're eyeing, not the marketing name.)
 
-At 2 kWh and above you're into full-day territory, and the 3.6 kWh class behaves like a real backup system: a day and a half to two and a half days of fridge, with enough left for lights and phones if you're disciplined. That class is also where whole-house thinking starts — see [can a solar generator power a whole house](/articles/can-a-solar-generator-power-a-whole-house/) and our [portable power stations for home backup guide](/articles/portable-power-stations-home-backup/).
+At 2 kWh and above you're into full-day territory, and the 3.6 kWh class behaves like a real backup system: a day and a half to two and a half days of fridge, with enough left for lights and phones if you're disciplined. That class is also where whole-house thinking starts — see [can a solar generator power a whole house](/articles/can-a-solar-generator-power-a-whole-house) and our [portable power stations for home backup guide](/articles/portable-power-stations-home-backup).
 
 ## Don't forget the inverter efficiency haircut
 
@@ -94,7 +94,7 @@ This is the question that separates a fridge *backup* from a fridge *system*. Th
 
 So one 200W panel does *not* keep a fridge alive forever. It covers maybe half the fridge's daily appetite — enough to stretch a 1 kWh station from "dead by morning" to "dead sometime tomorrow," which is the difference between saving the food and tossing it. But indefinite running needs roughly **400W+ of panel in a sunny climate, an efficient fridge, and at least 1–2 kWh of battery** to carry the night, because the fridge doesn't stop eating at sunset and the panel doesn't start at sunrise. There's a gap every single day, and the battery bridges it.
 
-If you're weighing a big station against a gas generator or a whole-home battery for repeated long outages, the honest comparison is in our [home battery vs generator breakdown](/articles/home-battery-vs-generator/). Batteries win on silence and indoor safety. They lose on one brutal fact: gasoline is refillable energy, and sunlight is weather.
+If you're weighing a big station against a gas generator or a whole-home battery for repeated long outages, the honest comparison is in our [home battery vs generator breakdown](/articles/home-battery-vs-generator). Batteries win on silence and indoor safety. They lose on one brutal fact: gasoline is refillable energy, and sunlight is weather.
 
 ## Is a freezer or a mini fridge easier to run?
 
@@ -102,7 +102,7 @@ Easier, both of them — for different reasons.
 
 **Mini fridges** draw so little (50–100W running, tiny surges, 0.3–0.6 kWh/day) that even a 500Wh station runs one for a day or more. If your outage plan is "keep the insulin and the baby formula cold," a mini fridge on a small station is one of the best-value setups there is.
 
-**Freezers** are the marathon runners. A chest freezer's thick insulation and top-opening design mean the cold stays put, the compressor cycles less, and daily consumption often lands at 0.8–1.5 kWh even for a big unit. The catch is the same startup surge — a big chest freezer can still kick at 800W+ — and the consequence when you lose: once a freezer full of meat thaws past 40°F for two hours, that food is done. For how long frozen food survives with no power at all, see [how long food lasts in a freezer without power](/articles/how-long-will-food-last-in-freezer-without-power/).
+**Freezers** are the marathon runners. A chest freezer's thick insulation and top-opening design mean the cold stays put, the compressor cycles less, and daily consumption often lands at 0.8–1.5 kWh even for a big unit. The catch is the same startup surge — a big chest freezer can still kick at 800W+ — and the consequence when you lose: once a freezer full of meat thaws past 40°F for two hours, that food is done. For how long frozen food survives with no power at all, see [how long food lasts in a freezer without power](/articles/how-long-will-food-last-in-freezer-without-power).
 
 **Side-by-side fridge-freezers and garage units** sit at the hard end: bigger compressors, ice makers, defrost heaters, and brutal duty cycles in the heat. Budget 2 kWh/day.
 
@@ -130,7 +130,7 @@ Can a solar generator run a refrigerator? Yes. Just buy for the surge, size for 
 
 ## Keep reading
 
-- [Portable Power Stations for Home Backup: Sizes, Runtime & Costs](/articles/portable-power-stations-home-backup/)
-- [Can a Solar Generator Power a Whole House?](/articles/can-a-solar-generator-power-a-whole-house/)
-- [Home Battery vs Generator: Which Backup Wins?](/articles/home-battery-vs-generator/)
-- [How Long Will Food Last in a Freezer Without Power?](/articles/how-long-will-food-last-in-freezer-without-power/)
+- [Portable Power Stations for Home Backup: Sizes, Runtime & Costs](/articles/portable-power-stations-home-backup)
+- [Can a Solar Generator Power a Whole House?](/articles/can-a-solar-generator-power-a-whole-house)
+- [Home Battery vs Generator: Which Backup Wins?](/articles/home-battery-vs-generator)
+- [How Long Will Food Last in a Freezer Without Power?](/articles/how-long-will-food-last-in-freezer-without-power)

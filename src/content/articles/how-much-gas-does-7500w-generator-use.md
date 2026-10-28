@@ -30,9 +30,9 @@ These are planning numbers for a typical conventional 7,500-watt portable — th
 | 75% load | ~5,625W | 0.9–1.05 gal/hr | 1.0 gal/hr |
 | 100% load | 7,500W | 1.1–1.3 gal/hr | 1.2 gal/hr |
 
-Three things to notice. First, the burn never drops to zero at light load. A conventional generator spins at a governed 3,600 RPM whether it's powering a house or a phone charger, so even at 25% load it's burning half its half-load rate just keeping the engine turning. Second, the jump from half to full load is smaller than people expect — roughly 0.75 to 1.2 gallons — because so much of the baseline burn is the engine itself. Third, sustained full load is a place you shouldn't live anyway. I tell customers to plan continuous loads at no more than 80% of rating, which is also where the [what a 7,500-watt generator can run](/articles/what-can-7500-watt-generator-run/) guide lands.
+Three things to notice. First, the burn never drops to zero at light load. A conventional generator spins at a governed 3,600 RPM whether it's powering a house or a phone charger, so even at 25% load it's burning half its half-load rate just keeping the engine turning. Second, the jump from half to full load is smaller than people expect — roughly 0.75 to 1.2 gallons — because so much of the baseline burn is the engine itself. Third, sustained full load is a place you shouldn't live anyway. I tell customers to plan continuous loads at no more than 80% of rating, which is also where the [what a 7,500-watt generator can run](/articles/what-can-7500-watt-generator-run) guide lands.
 
-For the same table across every size from 2,000 watts up, the [generator fuel consumption guide](/articles/generator-fuel-consumption/) has the full grid, gasoline, propane, and natural gas side by side.
+For the same table across every size from 2,000 watts up, the [generator fuel consumption guide](/articles/generator-fuel-consumption) has the full grid, gasoline, propane, and natural gas side by side.
 
 ## Why won't manufacturers just give you one number?
 
@@ -68,7 +68,7 @@ Now multiply. At the gas prices most of the US has seen lately — call it **$3.
 
 Sit with the middle row for a second. **Eighteen gallons a day.** A three-day outage at a normal cruising load burns about 54 gallons — that's the generator's tank plus ten 5-gallon can fill-ups, roughly $175–$195 in fuel. I watched a customer learn this in real time during an ice storm, doing the math on a gas station receipt with a look on his face I usually see during panel-upgrade quotes. The generator itself cost him $850. The fuel habit is the part nobody budgets for.
 
-This is also why storage matters. Fifty gallons of gasoline is a lot of flammable liquid to keep around, it goes stale in 3–6 months without stabilizer, and rotating it through your car every couple of months is the only honest way to keep the stock fresh. The [generator maintenance checklist](/articles/generator-maintenance-checklist/) has the storage and stabilizer routine I give my own customers — follow it and storm-week fuel is a solved problem instead of a scramble.
+This is also why storage matters. Fifty gallons of gasoline is a lot of flammable liquid to keep around, it goes stale in 3–6 months without stabilizer, and rotating it through your car every couple of months is the only honest way to keep the stock fresh. The [generator maintenance checklist](/articles/generator-maintenance-checklist) has the storage and stabilizer routine I give my own customers — follow it and storm-week fuel is a solved problem instead of a scramble.
 
 
 ## Does a 7500 watt inverter generator burn less?
@@ -83,7 +83,7 @@ One caveat: compare running watts to running watts, and read the fine print on a
 
 If your 7,500-watt unit is a dual-fuel, propane changes two numbers at once. Propane carries about 91,500 BTU per gallon against gasoline's roughly 114,000–120,000, so the engine burns more gallons to make the same watts — figure **1.1–1.3 gallons of propane per hour at half load**, against 0.75 on gasoline. It also derates: most dual-fuel engines give up about 10% of their peak wattage on propane, so your "7,500-watt" machine is really a ~6,750-watt machine on LP.
 
-Run that through a tank and the trade gets stark. A 20-lb grill tank holds 4.6 gallons of propane, which is roughly **3.5–4 hours at half load** on a generator this size. The [20-lb propane tank runtime guide](/articles/how-long-will-20-lb-propane-tank-run-generator/) walks through the math and the bigger-tank options. My take for this size class: propane is a superb *storage* fuel — it never goes stale — and a poor *endurance* fuel in grill tanks. If propane is your plan for a 7,500, you want a 100-lb cylinder or a plumbed tank, not a stack of grill bottles. Gasoline for the heavy days, propane as the reserve that never expires, is the combination I set up most often.
+Run that through a tank and the trade gets stark. A 20-lb grill tank holds 4.6 gallons of propane, which is roughly **3.5–4 hours at half load** on a generator this size. The [20-lb propane tank runtime guide](/articles/how-long-will-20-lb-propane-tank-run-generator) walks through the math and the bigger-tank options. My take for this size class: propane is a superb *storage* fuel — it never goes stale — and a poor *endurance* fuel in grill tanks. If propane is your plan for a 7,500, you want a 100-lb cylinder or a plumbed tank, not a stack of grill bottles. Gasoline for the heavy days, propane as the reserve that never expires, is the combination I set up most often.
 
 ## How can you burn less without buying anything?
 
@@ -103,7 +103,7 @@ Usually no, and this is the opinion I'll defend at any supply-house counter: a 7
 
 The two-generator setup sounds extravagant until you price the fuel: a small 2,000–2,500-watt inverter on overnight duty burns roughly **0.15–0.2 gallons per hour** at those loads — about 1.4 gallons for the whole night against the big unit's 4. Across a four-night outage, that's 10 gallons saved, plus sleep. I've watched more than one customer buy the little inverter *during* an outage, on day two, purely for the nights. If you only own the 7,500, use the batch-and-shutdown method above and let the house coast while you sleep.
 
-And if you're still shopping and sizing the job, the companion question comes first: [how much gas a 5,500-watt generator uses](/articles/how-much-gas-does-5500w-generator-use/) — because plenty of houses discover their real cruising load fits the smaller, thriftier machine, and the fuel table is where that decision pays out for years.
+And if you're still shopping and sizing the job, the companion question comes first: [how much gas a 5,500-watt generator uses](/articles/how-much-gas-does-5500w-generator-use) — because plenty of houses discover their real cruising load fits the smaller, thriftier machine, and the fuel table is where that decision pays out for years.
 
 ## The bottom line
 
@@ -111,7 +111,7 @@ A 7,500-watt generator uses about **0.5 gallons per hour at quarter load, 0.75 a
 
 ## Keep reading
 
-- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption/)
-- [What Can a 7,500-Watt Generator Run? (With Real Examples)](/articles/what-can-7500-watt-generator-run/)
-- [How Long Will a 20-lb Propane Tank Run a Generator?](/articles/how-long-will-20-lb-propane-tank-run-generator/)
-- [How Much Gas Does a 5,500W Generator Use?](/articles/how-much-gas-does-5500w-generator-use/)
+- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption)
+- [What Can a 7,500-Watt Generator Run? (With Real Examples)](/articles/what-can-7500-watt-generator-run)
+- [How Long Will a 20-lb Propane Tank Run a Generator?](/articles/how-long-will-20-lb-propane-tank-run-generator)
+- [How Much Gas Does a 5,500W Generator Use?](/articles/how-much-gas-does-5500w-generator-use)

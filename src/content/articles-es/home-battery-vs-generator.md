@@ -116,7 +116,7 @@ Si ya tienes solar — o lo estás considerando — las baterías tienen más se
 
 - **Apagones cortos** (unas horas): silencioso, instantáneo, sin combustible, sin salir afuera en una tormenta.
 - **Restricciones de ruido:** HOA, vecinos cerca, ordenanzas locales de ruido. Las baterías son silenciosas. Esto solo decide el asunto para algunos dueños de casa.
-- **Sin mantenimiento:** sin cambios de aceite, sin estabilizador de combustible, sin programa de ejercicio, sin batería de arranque muerta. (Mira con qué lidian los dueños de generadores en la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/).)
+- **Sin mantenimiento:** sin cambios de aceite, sin estabilizador de combustible, sin programa de ejercicio, sin batería de arranque muerta. (Mira con qué lidian los dueños de generadores en la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist).)
 - **Sin emisiones en el sitio:** sin escape, sin riesgo de monóxido de carbono, sin almacenamiento de combustible.
 - **Casas con solar:** desbloquea tus paneles durante apagones + arbitraje diario de tarifas.
 - **Electrónicos:** salida de onda senoidal pura, más limpia que la energía de la red. Cero preocupaciones de THD.
@@ -138,4 +138,4 @@ Responde estas tres preguntas:
 
 La respuesta de "ambos" es real, por cierto: una batería para los apagones instantáneos, silenciosos y cortos (que son la mayoría de los apagones) más un generador portátil para el raro evento de varios días es una combinación en la que veo aterrizar a más dueños de casa. La batería maneja el 90% de los apagones de maravilla; el generador se queda en el garaje para la semana del huracán.
 
-Para el panorama completo — tipos de generadores, cálculo de tamaño, interruptores de transferencia, y cómo encajan las baterías — empieza con la guía principal: [energía de respaldo para el hogar explicada](/es/articles/complete-home-backup-power-guide/). Y antes de comprar cualquiera de los dos, haz los números de tus cargas reales con la [guía de cálculo de tamaño de generador](/es/articles/what-size-generator-run-house/) — el mismo cálculo de vatios aplica para dimensionar la salida en kW de una batería.
+Para el panorama completo — tipos de generadores, cálculo de tamaño, interruptores de transferencia, y cómo encajan las baterías — empieza con la guía principal: [energía de respaldo para el hogar explicada](/es/articles/complete-home-backup-power-guide). Y antes de comprar cualquiera de los dos, haz los números de tus cargas reales con la [guía de cálculo de tamaño de generador](/es/articles/what-size-generator-run-house) — el mismo cálculo de vatios aplica para dimensionar la salida en kW de una batería.

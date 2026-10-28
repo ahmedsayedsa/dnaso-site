@@ -26,7 +26,7 @@ Haz la cuenta una vez y se te queda:
 
 - **Tanque de 250 galones, llenado correctamente: unos 200 galones de propano**
 - Un tanque de 500 galones: unos 400 galones
-- Un cilindro portátil de 100 lb: unos 23,6 galones — por eso las [cuentas de autonomía con tanques chicos](/es/articles/how-long-will-20-lb-propane-tank-run-generator/) se sienten tan brutales en comparación
+- Un cilindro portátil de 100 lb: unos 23,6 galones — por eso las [cuentas de autonomía con tanques chicos](/es/articles/how-long-will-20-lb-propane-tank-run-generator) se sienten tan brutales en comparación
 
 Y 200 tampoco es tu número de planeación. Nunca trabajas un tanque hasta cero, por tres razones que le doy a cada cliente:
 
@@ -46,7 +46,7 @@ El consumo es donde el folleto y la realidad se separan. Las hojas de especifica
 | Reserva de 14 kW | ~1,3 gal/h | ~1,8 gal/h | ~2,6 gal/h |
 | Reserva de 22 kW | ~1,6 gal/h | ~2,3 gal/h | ~3,5–3,9 gal/h |
 
-Dos cosas que vale la pena saber de estos números. Primero: un motor de reserva quema una cantidad sorprendente de combustible solo para girar — el salto del 25% al 50% de carga cuesta mucho menos que el salto de apagado al 25%. Hacer girar un motor grande para alimentar un refri y tres focos es inherentemente derrochador, y por eso el de 22 kW se ve tan sediento con carga ligera. Segundo: el propano lleva unas 91.500 BTU por galón contra unas 114.000 de la gasolina, así que cualquier generador quema más galones de propano para hacer el mismo trabajo — el desglose completo combustible por combustible está en mi [guía de consumo de combustible de generadores](/es/articles/generator-fuel-consumption/).
+Dos cosas que vale la pena saber de estos números. Primero: un motor de reserva quema una cantidad sorprendente de combustible solo para girar — el salto del 25% al 50% de carga cuesta mucho menos que el salto de apagado al 25%. Hacer girar un motor grande para alimentar un refri y tres focos es inherentemente derrochador, y por eso el de 22 kW se ve tan sediento con carga ligera. Segundo: el propano lleva unas 91.500 BTU por galón contra unas 114.000 de la gasolina, así que cualquier generador quema más galones de propano para hacer el mismo trabajo — el desglose completo combustible por combustible está en mi [guía de consumo de combustible de generadores](/es/articles/generator-fuel-consumption).
 
 Las marcas varían algunas décimas para un lado o el otro — un Kohler, un Generac y un Cummins de la misma potencia no publican números idénticos — pero si un vendedor te promete un gasto muy por debajo de esta tabla, pídele la hoja de especificaciones.
 
@@ -62,13 +62,13 @@ Aquí está la tabla que la gente en realidad quiere. Supone un tanque de 250 ga
 
 \*La columna de «promedio realista» es la que yo uso para planear, y aquí está el porqué de que sea más larga que la cuenta de carga constante. Una casa no consume el 50% de un generador de 22 kW las 24 horas. Tu perfil real de consumo se ve así: picos en la mañana (el calentador recuperándose, la cafetera, la bomba del pozo), una calma a mediodía de quizá 15–25% de carga, un pico en la tarde-noche (cocina, aire acondicionado, lavadora) y la madrugada — el tramo más largo — a menudo al 10–20% mientras todos duermen y solo ciclan el refri, el congelador y el ventilador de la calefacción. Promediado en 24 horas, la mayoría de las casas que atiendo quedan con un gasto efectivo 15–30% por debajo de la cifra constante del 50%.
 
-Y ahí es donde tu comportamiento compra tiempo de verdad. Cada carga que apagas es autonomía en el tanque. Cortar el interruptor del calentador eléctrico de agua por la noche, cocinar en la parrilla en vez de en la cocina eléctrica y dejar que la casa se desvíe unos grados en el termostato puede bajar el gasto promedio de una casa con 22 kW de 2,0 hacia 1,6 galones por hora — y esa diferencia es una jornada completa extra en este tanque. La disciplina de cargas en un [sistema para toda la casa](/es/articles/whole-house-generator-cost/) no es un ejercicio moral: son galones.
+Y ahí es donde tu comportamiento compra tiempo de verdad. Cada carga que apagas es autonomía en el tanque. Cortar el interruptor del calentador eléctrico de agua por la noche, cocinar en la parrilla en vez de en la cocina eléctrica y dejar que la casa se desvíe unos grados en el termostato puede bajar el gasto promedio de una casa con 22 kW de 2,0 hacia 1,6 galones por hora — y esa diferencia es una jornada completa extra en este tanque. La disciplina de cargas en un [sistema para toda la casa](/es/articles/whole-house-generator-cost) no es un ejercicio moral: son galones.
 
 Una advertencia honesta más: si tu casa es totalmente eléctrica, con bomba de calor que entra a resistencias auxiliares en clima frío, tu carga «promedio» no es promedio. Las resistencias solas pueden jalar 10 kW. En esa casa, planea con la columna de carga constante, no con la optimista.
 
 ## ¿Y los generadores portátiles a propano?
 
-Breve, porque es un arreglo distinto: los portátiles dual fuel beben de cilindros — tanques de parrilla de 20 lb, de 40 lb o cilindros de 100 lb — no de un tanque estacionario de 250. Un portátil dual fuel de 5.000 vatios a media carga quema unos 0,5–0,7 galones por hora de propano, así que en teoría sorbería de un tanque grande por semanas. En la práctica, conectar un portátil a un tanque estacionario requiere la regulación de dos etapas y las mangueras correctas, y ese es trabajo de un técnico de gas licenciado, no un proyecto de sábado — las presiones y los reguladores son distintos de los que trae la caja del portátil. Si tu equipo es portátil, las cuentas que te aplican son las de la [guía de autonomía del tanque de 20 lb](/es/articles/how-long-will-20-lb-propane-tank-run-generator/).
+Breve, porque es un arreglo distinto: los portátiles dual fuel beben de cilindros — tanques de parrilla de 20 lb, de 40 lb o cilindros de 100 lb — no de un tanque estacionario de 250. Un portátil dual fuel de 5.000 vatios a media carga quema unos 0,5–0,7 galones por hora de propano, así que en teoría sorbería de un tanque grande por semanas. En la práctica, conectar un portátil a un tanque estacionario requiere la regulación de dos etapas y las mangueras correctas, y ese es trabajo de un técnico de gas licenciado, no un proyecto de sábado — las presiones y los reguladores son distintos de los que trae la caja del portátil. Si tu equipo es portátil, las cuentas que te aplican son las de la [guía de autonomía del tanque de 20 lb](/es/articles/how-long-will-20-lb-propane-tank-run-generator).
 
 ## ¿Cómo se compara un tanque de 500 galones?
 
@@ -78,7 +78,7 @@ Duplica todo, más o menos, exactamente como esperarías — y vale la pena coti
 - **Autonomía:** un 22 kW a promedio realista de apagón trabaja **unas 7–9 jornadas**; un 14 kW, **10–12 días**; un 10 kW puede pasar de las dos semanas
 - **Ritmo de relleno:** la mayoría de los dueños de un 500 rellenan una o dos veces al año fuera de apagones grandes; los dueños de un 250 en zonas de apagones vigilan el medidor mucho más
 
-La diferencia de costo instalado entre los dos tamaños suele ser unos cientos de dólares en el tanque mismo, más la misma zanja, base y trabajo de regulador en cualquiera de los dos casos — dinero menor junto al generador y el transfer switch. Donde el 500 se gana su lugar no es en la cuenta diaria: es en la semana mala. Si el peor caso realista de tu zona es un apagón de 5–7 días con caminos intransitables los primeros tres, un 250 con un generador grande es un plan que fracasa el cuarto día. El lado de elección de combustible en esta decisión — tanque propio o rentado, precio por galón — está cubierto en mi [comparativa de gas natural vs propano para generadores de reserva](/es/articles/natural-gas-vs-propane-standby/).
+La diferencia de costo instalado entre los dos tamaños suele ser unos cientos de dólares en el tanque mismo, más la misma zanja, base y trabajo de regulador en cualquiera de los dos casos — dinero menor junto al generador y el transfer switch. Donde el 500 se gana su lugar no es en la cuenta diaria: es en la semana mala. Si el peor caso realista de tu zona es un apagón de 5–7 días con caminos intransitables los primeros tres, un 250 con un generador grande es un plan que fracasa el cuarto día. El lado de elección de combustible en esta decisión — tanque propio o rentado, precio por galón — está cubierto en mi [comparativa de gas natural vs propano para generadores de reserva](/es/articles/natural-gas-vs-propane-standby).
 
 Mi regla para los clientes: **dimensiona el tanque para tu peor apagón histórico más dos días**, no para tu apagón promedio. Los promedios son para el reporte anual de la compañía eléctrica. Tú estás comprando para la tormenta que tiene nombre.
 
@@ -121,7 +121,7 @@ De cualquier forma, el hábito que de verdad te protege no cuesta nada: **échal
 
 ## Sigue leyendo
 
-- [¿Cuánto tiempo funciona un generador con un tanque de propano de 20 lb?](/es/articles/how-long-will-20-lb-propane-tank-run-generator/)
-- [Gas natural vs propano para generadores de reserva](/es/articles/natural-gas-vs-propane-standby/)
-- [Consumo de combustible de generadores: galones por hora por tamaño y combustible](/es/articles/generator-fuel-consumption/)
-- [¿Cuánto cuesta un generador para toda la casa?](/es/articles/whole-house-generator-cost/)
+- [¿Cuánto tiempo funciona un generador con un tanque de propano de 20 lb?](/es/articles/how-long-will-20-lb-propane-tank-run-generator)
+- [Gas natural vs propano para generadores de reserva](/es/articles/natural-gas-vs-propane-standby)
+- [Consumo de combustible de generadores: galones por hora por tamaño y combustible](/es/articles/generator-fuel-consumption)
+- [¿Cuánto cuesta un generador para toda la casa?](/es/articles/whole-house-generator-cost)

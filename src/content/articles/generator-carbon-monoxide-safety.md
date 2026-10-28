@@ -55,7 +55,7 @@ Near a generator's exhaust, concentrations can run far past the top of that tabl
 
 ## How far from the house does a generator need to be?
 
-The CPSC rule, and the one I give every customer: **at least 20 feet from the house, exhaust pointed away** from every door, window, soffit vent, dryer vent, and fresh-air intake. I break placement down fully in our guide on [how far a generator should be from the house](/articles/how-far-should-generator-be-from-house/) — but distance alone isn't the whole rule. Three conditions have to hold at once:
+The CPSC rule, and the one I give every customer: **at least 20 feet from the house, exhaust pointed away** from every door, window, soffit vent, dryer vent, and fresh-air intake. I break placement down fully in our guide on [how far a generator should be from the house](/articles/how-far-should-generator-be-from-house) — but distance alone isn't the whole rule. Three conditions have to hold at once:
 
 1. **20 feet minimum** — measured from the nearest opening CO could enter through, not just the nearest wall.
 2. **Exhaust pointed away** from the house and your neighbor's windows too. The muffler is the source; aim it like it matters, because it does.
@@ -65,7 +65,7 @@ The CPSC rule, and the one I give every customer: **at least 20 feet from the ho
 
 Yes, and this is the piece people skip. A steady breeze blowing **from the generator toward the house** can carry exhaust to a window or soffit vent even at 20 feet. On a windy outage night, check which way the air is moving before you pick the spot, and if the exhaust ends up upwind of an open window, close that window. After any big wind shift during a long outage, step outside and confirm the setup still makes sense. Generators also walk — vibration creeps a portable across concrete over hours, slowly changing its distance and exhaust angle. Chock the wheels or set it on a mat.
 
-One more placement conflict I see constantly: rain. People pull the generator under an eave or into the garage doorway to keep it dry — trading a weather problem for a CO problem. Don't. Our guide on [running a generator in the rain](/articles/can-you-run-generator-in-rain/) covers the options that don't kill you, including purpose-built ventilated canopies made for exactly this.
+One more placement conflict I see constantly: rain. People pull the generator under an eave or into the garage doorway to keep it dry — trading a weather problem for a CO problem. Don't. Our guide on [running a generator in the rain](/articles/can-you-run-generator-in-rain) covers the options that don't kill you, including purpose-built ventilated canopies made for exactly this.
 
 ## What are the symptoms of CO poisoning — and what do you do?
 
@@ -99,7 +99,7 @@ Yes — they're the only layer of this defense that works while you're asleep, w
 - **They expire.** CO sensor elements age out — most alarms have a **5–10 year** life and an end-of-life signal. A yellowed detector from 2014 is furniture, not protection. Check the date on the back when you check the batteries, twice a year.
 - **Know the alarm pattern.** UL 2034 alarms sound at sustained levels — 70 ppm over 1–4 hours, faster at higher concentrations. They're tuned to catch dangerous accumulation, not whiffs, so **a silent detector is not a guarantee the air is clean right now**.
 
-Test them the same weekend you check the generator — our [storm preparedness checklist](/articles/storm-preparedness-checklist/) has them on it for exactly this reason.
+Test them the same weekend you check the generator — our [storm preparedness checklist](/articles/storm-preparedness-checklist) has them on it for exactly this reason.
 
 ## Do automatic CO shutoff sensors make a generator safe indoors?
 
@@ -110,7 +110,7 @@ But understand precisely what the sensor is:
 - It samples air **at the generator**. It cannot know what's happening inside your house or at a bedroom window the exhaust is drifting toward.
 - It is a **backup for correct placement**, designed to catch a setup that's already gone wrong. "It has a sensor" never moves the generator one foot closer to the house.
 - The sensors have a **service life (typically 5–7 years)** and can be thrown off by exhaust recirculation in odd wind. An older unit's sensor is not a lifetime guarantee.
-- **Never, ever defeat one.** If your generator keeps shutting off on CO faults, it's telling you exhaust is accumulating somewhere it shouldn't — I wrote about exactly that in our guide on why a [generator keeps shutting off](/articles/generator-keeps-shutting-off/). The fix is to move the generator farther out and re-aim the exhaust. People have bypassed sensors to stop "nuisance" trips; some of them are in the CPSC data now. If it trips repeatedly in a genuinely open location, that's a service issue — take it in.
+- **Never, ever defeat one.** If your generator keeps shutting off on CO faults, it's telling you exhaust is accumulating somewhere it shouldn't — I wrote about exactly that in our guide on why a [generator keeps shutting off](/articles/generator-keeps-shutting-off). The fix is to move the generator farther out and re-aim the exhaust. People have bypassed sensors to stop "nuisance" trips; some of them are in the CPSC data now. If it trips repeatedly in a genuinely open location, that's a service issue — take it in.
 
 ## Why do most generator CO deaths happen after the storm?
 
@@ -120,13 +120,13 @@ Because the storm is when you're careful, and the outage is when you're human. T
 - It's dark and raining, and dragging a 150-pound generator 20 feet into the open feels miserable. The garage is *right there*, dry, door already open.
 - The generator runs. Everyone feels better. People go to bed — the most dangerous combination, because sleeping people don't notice headaches, and detectors, if they exist, have last year's dead batteries.
 
-None of that changes the physics. So decide **now**, in daylight, with the power on: pick the spot 20 feet out, stage the cords or the transfer switch connection, and test your CO detectors. Our [storm preparedness checklist](/articles/storm-preparedness-checklist/) walks through that pre-storm setup. The version of you choosing at midnight in a blackout is not the version you want designing this system.
+None of that changes the physics. So decide **now**, in daylight, with the power on: pick the spot 20 feet out, stage the cords or the transfer switch connection, and test your CO detectors. Our [storm preparedness checklist](/articles/storm-preparedness-checklist) walks through that pre-storm setup. The version of you choosing at midnight in a blackout is not the version you want designing this system.
 
 ## What about apartments, balconies, and RVs?
 
 Shorter answers, same physics:
 
-- **Apartments and condos:** A gasoline generator on a balcony is a garage scenario with neighbors. Balconies are enclosed on multiple sides, exhaust enters through the sliding door and into the units above and beside you, and most leases and fire codes prohibit it outright. There is no safe balcony placement. The realistic renter option is a battery power station indoors — no combustion, no CO — covered in our [guide to generators for an apartment](/articles/generator-for-an-apartment/) and our guide to [portable power stations for home backup](/articles/portable-power-stations-home-backup/).
+- **Apartments and condos:** A gasoline generator on a balcony is a garage scenario with neighbors. Balconies are enclosed on multiple sides, exhaust enters through the sliding door and into the units above and beside you, and most leases and fire codes prohibit it outright. There is no safe balcony placement. The realistic renter option is a battery power station indoors — no combustion, no CO — covered in our [guide to generators for an apartment](/articles/generator-for-an-apartment) and our guide to [portable power stations for home backup](/articles/portable-power-stations-home-backup).
 - **RVs and camping:** Never run a generator inside an RV, a tent, or a truck bed with a camper shell, and never sleep with one running next to an open RV window — exhaust drifts in at concentrations that don't care that you're "outdoors." A portable beside the rig needs the same distance-and-direction respect as at home, aimed away from the rig and the next campsite.
 
 ## The bottom line

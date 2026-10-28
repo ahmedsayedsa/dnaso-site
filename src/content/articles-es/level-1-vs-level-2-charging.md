@@ -88,7 +88,7 @@ Nivel 1: $0, más lo que haya costado el conector móvil de tu auto (gratis con 
 
 Nivel 2, desglosado honestamente:
 
-- **Equipo del cargador:** $400–$650 por una de las buenas unidades — [mi comparación de tres vías del Tesla, ChargePoint y Emporia](/es/articles/tesla-wall-connector-vs-chargepoint-vs-emporia/) cubre cuál le queda a qué casa.
+- **Equipo del cargador:** $400–$650 por una de las buenas unidades — [mi comparación de tres vías del Tesla, ChargePoint y Emporia](/es/articles/tesla-wall-connector-vs-chargepoint-vs-emporia) cubre cuál le queda a qué casa.
 - **Instalación del electricista:** $500–$1,200 por un trabajo típico — breaker nuevo de 40 o 60 amperios, un tramo corto de cable a la cochera, permiso e inspección.
 - **Total:** $1,200–$2,500 todo incluido para la mayoría de las casas.
 
@@ -129,4 +129,4 @@ Esta es la respuesta para quienes rentan, también. A tu casero puede no encanta
 
 No empieces con el cargador. Empieza con la matemática: tus millas diarias, tus horas nocturnas, tus inviernos, tus otros autos. El nivel 1 a 3–5 millas por hora es gratis, suave con la batería, y genuinamente suficiente para la mayoría de los trayectos de 30 millas — haz la aritmética antes de gastar $2,000. Si la matemática dice que necesitas más, el nivel 2 a 25–44 millas por hora carga cualquier cosa durante la noche y es la mejor mejora eléctrica casera que hacen la mayoría de los dueños de VE.
 
-Si decides que el nivel 2 es lo correcto, tus próximas dos lecturas son el [desglose de costos de instalación](/es/articles/level-2-ev-charger-installation-cost/) — para que sepas exactamente qué debería cobrarte un electricista — y mi honesta [comparativa Tesla vs ChargePoint vs Emporia](/es/articles/tesla-wall-connector-vs-chargepoint-vs-emporia/) para decidir qué cargador poner en ese circuito. Y si un cargador de 48 amperios es lo que está empujando tu panel al límite, lee sobre [cómo se comparan las baterías caseras y los generadores para respaldo](/es/articles/home-battery-vs-generator/) — porque la planificación de capacidad del panel es donde estas conversaciones siempre terminan.
+Si decides que el nivel 2 es lo correcto, tus próximas dos lecturas son el [desglose de costos de instalación](/es/articles/level-2-ev-charger-installation-cost) — para que sepas exactamente qué debería cobrarte un electricista — y mi honesta [comparativa Tesla vs ChargePoint vs Emporia](/es/articles/tesla-wall-connector-vs-chargepoint-vs-emporia) para decidir qué cargador poner en ese circuito. Y si un cargador de 48 amperios es lo que está empujando tu panel al límite, lee sobre [cómo se comparan las baterías caseras y los generadores para respaldo](/es/articles/home-battery-vs-generator) — porque la planificación de capacidad del panel es donde estas conversaciones siempre terminan.

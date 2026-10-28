@@ -185,7 +185,7 @@ No tiene nada de malo detenerse. Llama a un taller de motores chicos o a un téc
 
 ## Sigue leyendo
 
-- [Guía completa de energía de respaldo para el hogar: generadores, baterías y dimensionado](/es/articles/complete-home-backup-power-guide/)
-- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist/)
-- [¿Cuánto duran los generadores? Vida útil real por tipo](/es/articles/how-long-do-generators-last/)
-- [Generadores dual fuel vs gasolina vs propano: pros, contras y costos](/es/articles/dual-fuel-vs-gas-vs-propane-generator/)
+- [Guía completa de energía de respaldo para el hogar: generadores, baterías y dimensionado](/es/articles/complete-home-backup-power-guide)
+- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist)
+- [¿Cuánto duran los generadores? Vida útil real por tipo](/es/articles/how-long-do-generators-last)
+- [Generadores dual fuel vs gasolina vs propano: pros, contras y costos](/es/articles/dual-fuel-vs-gas-vs-propane-generator)

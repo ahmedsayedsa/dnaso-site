@@ -17,7 +17,7 @@ El compresor de tu aire es un motor eléctrico grande. Cuando arranca, consume u
 
 Un aire de 3 toneladas puede trabajar a 3,500 vatios pero exigir **más de 10,000 vatios** para arrancar. El generador tiene que entregar ese pico al instante. Si no puede, el voltaje se desploma, el compresor se atasca, el breaker del generador se dispara — o peor, el compresor sigue intentando arrancar con bajo voltaje, se sobrecalienta y quema un devanado. Los intentos de arranque con bajo voltaje son lo que mata compresores.
 
-Por esto también las reglas generales de cálculo no funcionan bien para el aire. Para el método completo, mira [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/) — pero ten claro que aquí el aire recibe su propio tratamiento porque su pico es desproporcionado.
+Por esto también las reglas generales de cálculo no funcionan bien para el aire. Para el método completo, mira [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house) — pero ten claro que aquí el aire recibe su propio tratamiento porque su pico es desproporcionado.
 
 ## Vatios por tonelaje: la tabla
 
@@ -112,5 +112,5 @@ El detalle más cruel: necesitas el aire más en los días más calurosos, y los
 
 ## Sigue leyendo
 
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/) — el método general de cálculo con tablas de aparatos y ejemplos resueltos para casas de 1,500–3,000 pies cuadrados.
-- [Guía de energía de respaldo para el hogar 2026](/es/articles/complete-home-backup-power-guide/) — el panorama completo: tipos de generadores vs. baterías, costos, combustible, interruptores de transferencia, mantenimiento.
+- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house) — el método general de cálculo con tablas de aparatos y ejemplos resueltos para casas de 1,500–3,000 pies cuadrados.
+- [Guía de energía de respaldo para el hogar 2026](/es/articles/complete-home-backup-power-guide) — el panorama completo: tipos de generadores vs. baterías, costos, combustible, interruptores de transferencia, mantenimiento.

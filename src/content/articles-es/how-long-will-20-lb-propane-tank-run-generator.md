@@ -30,7 +30,7 @@ Menos de lo que sugiere el nombre, y es por diseño:
 - **Energía: unos 430.000 BTU en total**, a unos 91.500 BTU por galón de propano.
 - **Vida útil: efectivamente ilimitada.** A diferencia de la gasolina, el propano no se echa a perder, no absorbe agua y no atasca nada. Un tanque llenado en 2021 alimenta un generador en 2026 exactamente igual de bien. Ese es el superpoder del propano para energía de respaldo, y la razón por la que los dueños de bicombustibles le perdonan su menor energía por galón.
 
-Para el lado de gasolina y gas natural de la comparación, la [guía de consumo de combustible](/es/articles/generator-fuel-consumption/) trae el consumo por tamaño y carga en los tres combustibles, y la [comparativa bicombustible contra gasolina contra propano](/es/articles/dual-fuel-vs-gas-vs-propane-generator/) enfrenta los combustibles directamente.
+Para el lado de gasolina y gas natural de la comparación, la [guía de consumo de combustible](/es/articles/generator-fuel-consumption) trae el consumo por tamaño y carga en los tres combustibles, y la [comparativa bicombustible contra gasolina contra propano](/es/articles/dual-fuel-vs-gas-vs-propane-generator) enfrenta los combustibles directamente.
 
 ## ¿Cómo se calcula la autonomía con propano?
 
@@ -72,14 +72,14 @@ Cuando tu plan de apagón supere una sola noche. Los tres tamaños se conectan i
 | 40 lb | 9,2 gal | ~72 lb | ~11–12 horas | Un día completo de esenciales; aún movible por una persona (apenas) |
 | 100 lb | 23,6 gal | ~175 lb | ~29 horas | Apagones de varios días; déjalo junto a la base del generador |
 
-El tanque de 100 lb es el héroe silencioso del respaldo a propano: casi día y medio de autonomía a media carga por tanque, mejor vaporización en frío, y recargable por el mismo servicio de propano que llena los tanques domésticos en muchas zonas. Dos de ellos, en rotación, cubren la mayoría de los apagones realistas sin una sola carrera por gasolina. Si tu generador vive en una base y trabaja a través de un [interruptor de transferencia o interlock](/es/articles/transfer-switch-vs-interlock-kit/), un tanque grande a su lado es lo más cerca que una instalación portátil llega a la comodidad de un equipo de reserva. Y hablando de eso: las casas con línea entubada de gas natural o propano a granel se saltan toda esta pregunta; la [guía de gas natural contra propano para reserva](/es/articles/natural-gas-vs-propane-standby/) cubre ese mundo de instalación permanente.
+El tanque de 100 lb es el héroe silencioso del respaldo a propano: casi día y medio de autonomía a media carga por tanque, mejor vaporización en frío, y recargable por el mismo servicio de propano que llena los tanques domésticos en muchas zonas. Dos de ellos, en rotación, cubren la mayoría de los apagones realistas sin una sola carrera por gasolina. Si tu generador vive en una base y trabaja a través de un [interruptor de transferencia o interlock](/es/articles/transfer-switch-vs-interlock-kit), un tanque grande a su lado es lo más cerca que una instalación portátil llega a la comodidad de un equipo de reserva. Y hablando de eso: las casas con línea entubada de gas natural o propano a granel se saltan toda esta pregunta; la [guía de gas natural contra propano para reserva](/es/articles/natural-gas-vs-propane-standby) cubre ese mundo de instalación permanente.
 
 ## ¿Por qué la autonomía real a veces supera la tabla con cargas ligeras?
 
 Dos razones por las que las cuentas a veces sorprenden para bien:
 
 1. **Modos eco/de aceleración variable.** Los generadores inverter bajan las revoluciones del motor con cargas ligeras y beben dramáticamente menos que su consumo nominal. Una carga de refrigerador y luces al «25%» en el papel puede navegar muy por debajo en la práctica.
-2. **Las cargas ciclan.** El compresor del refrigerador descansa, el ventilador de la caldera se detiene entre llamadas, la bomba de pozo duerme. La carga promedio real durante una hora suele ser menor que la suma que planeaste, otra razón por la que la [guía completa de energía de respaldo](/es/articles/complete-home-backup-power-guide/) predica medir tus cargas reales en vez de adivinarlas por las placas.
+2. **Las cargas ciclan.** El compresor del refrigerador descansa, el ventilador de la caldera se detiene entre llamadas, la bomba de pozo duerme. La carga promedio real durante una hora suele ser menor que la suma que planeaste, otra razón por la que la [guía completa de energía de respaldo](/es/articles/complete-home-backup-power-guide) predica medir tus cargas reales en vez de adivinarlas por las placas.
 
 La sorpresa inversa también existe: un tanque frío a alta carga, un motor envejecido o un tanque de intercambio que empezó en 15 lb en vez de 20 recortarán tus horas. Planea con la tabla y guarda un tanque de repuesto como tu margen de redondeo.
 
@@ -94,7 +94,7 @@ La tabla de arriba se construyó sobre la clase popular de 5.000 vatios. Mismo t
 | Portátil de 5.000 W | ~0,8 gal/h | **~5,5–6 horas** |
 | Portátil de 7.500–9.000 W | ~1,2–1,5 gal/h | **~3–3,5 horas** |
 
-El patrón que vale la pena recordar: la autonomía por tanque trata en realidad de la *carga*, y un generador grande en ralentí a 1.500 vatios quema cerca de lo que uno mediano quema con la misma salida. Donde la máquina grande te cuesta es cuando usas su capacidad de verdad, y en su peor eficiencia con cargas muy ligeras, donde arrastra un motor mayor para un trabajo pequeño. Si tu carga real de apagón es un refrigerador, luces y una [bomba de sumidero](/es/articles/generator-for-sump-pump/), una máquina mediana a propano es la jugada de resistencia.
+El patrón que vale la pena recordar: la autonomía por tanque trata en realidad de la *carga*, y un generador grande en ralentí a 1.500 vatios quema cerca de lo que uno mediano quema con la misma salida. Donde la máquina grande te cuesta es cuando usas su capacidad de verdad, y en su peor eficiencia con cargas muy ligeras, donde arrastra un motor mayor para un trabajo pequeño. Si tu carga real de apagón es un refrigerador, luces y una [bomba de sumidero](/es/articles/generator-for-sump-pump), una máquina mediana a propano es la jugada de resistencia.
 
 ## ¿Puedes mezclar propano y gasolina durante un apagón largo?
 
@@ -112,7 +112,7 @@ Una regla dura al cambiar: deja que el motor se detenga y se enfríe un momento 
 - **Agrupa las cargas grandes.** Haz trabajar la bomba de pozo, el microondas y la lavandería en una sola sesión de generador, en vez de dejar la máquina en ralentí todo el día solo para el refrigerador.
 - **Dale horas de descanso al refrigerador.** Un refrigerador cerrado mantiene temperaturas seguras unas 4 horas; un congelador lleno, 24–48. Ciclar el generador — dos horas encendido, dos apagado — puede casi duplicar la vida calendario de tu tanque en un apagón largo.
 - **Mantén el tanque honesto.** Pésalo antes de la temporada de tormentas; recarga en una estación de llenado, no en una jaula de intercambio; guárdalo vertical, al aire libre, nunca en un sótano o garaje (un tanque con fuga adentro acumula un gas invisible y explosivo a nivel del piso).
-- **Respeta las reglas de ubicación** mientras tanto: generador a [al menos 20 pies de la casa](/es/articles/how-far-should-generator-be-from-house/), el tanque conectado donde está; nunca acerques el generador para acortar la manguera.
+- **Respeta las reglas de ubicación** mientras tanto: generador a [al menos 20 pies de la casa](/es/articles/how-far-should-generator-be-from-house), el tanque conectado donde está; nunca acerques el generador para acortar la manguera.
 
 ## En resumen
 

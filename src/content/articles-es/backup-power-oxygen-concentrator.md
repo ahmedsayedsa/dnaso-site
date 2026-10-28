@@ -60,7 +60,7 @@ Lee esa tabla con sobriedad: una popular estación de 1 kWh te da **menos de tre
 
 Los concentradores portátiles cambian el panorama por completo. A 40–100 W, esa misma estación de 1 kWh funciona de 8 a 20 horas. Si tu prescripción permite una unidad portátil, es de lejos el equipo más fácil de mantener vivo en un apagón.
 
-Para una comparación más profunda de tamaños y marcas, ve nuestra guía de [estaciones de energía para respaldo en casa](/es/articles/portable-power-stations-home-backup/).
+Para una comparación más profunda de tamaños y marcas, ve nuestra guía de [estaciones de energía para respaldo en casa](/es/articles/portable-power-stations-home-backup).
 
 ## ¿Puedes usar un concentrador de oxígeno con un generador?
 
@@ -68,9 +68,9 @@ Sí — y para apagones largos, el generador es el caballo de trabajo. Un galón
 
 **Por qué dirijo las cargas médicas a generadores inversores:**
 
-- **Energía limpia.** Los generadores inversores producen una onda senoidal real con baja distorsión, muy parecida a la de la red eléctrica. Los concentradores tienen controles electrónicos y motores de compresor que trabajan más frescos y duran más con energía limpia. Es la misma razón por la que los recomiendo para todo lo que tenga tarjeta electrónica — ve los tipos de generador en nuestra [guía completa de respaldo eléctrico para el hogar](/es/articles/complete-home-backup-power-guide/).
+- **Energía limpia.** Los generadores inversores producen una onda senoidal real con baja distorsión, muy parecida a la de la red eléctrica. Los concentradores tienen controles electrónicos y motores de compresor que trabajan más frescos y duran más con energía limpia. Es la misma razón por la que los recomiendo para todo lo que tenga tarjeta electrónica — ve los tipos de generador en nuestra [guía completa de respaldo eléctrico para el hogar](/es/articles/complete-home-backup-power-guide).
 - **Silencio.** Un buen generador inversor con carga ligera suena a nivel de conversación. Durante un desastre, no anunciar que tienes energía y combustible tiene un valor real.
-- **Consumo mínimo.** Con una carga de 350 W — menos del 20% de la capacidad de una unidad de 2,000 W — el consumo cae a unos 0.1–0.15 galones por hora. Nuestra guía de [consumo de combustible de un generador](/es/articles/generator-fuel-consumption/) tiene las cifras completas por nivel de carga.
+- **Consumo mínimo.** Con una carga de 350 W — menos del 20% de la capacidad de una unidad de 2,000 W — el consumo cae a unos 0.1–0.15 galones por hora. Nuestra guía de [consumo de combustible de un generador](/es/articles/generator-fuel-consumption) tiene las cifras completas por nivel de carga.
 
 **Tamaño:** un generador inversor de 2,000–2,500 W cubre un concentrador de 350 W más un refrigerador, luces y cargadores, y sobra. No hay premio por sobredimensionar; un motor más grande quema más combustible solo por mantenerse encendido.
 
@@ -87,7 +87,7 @@ Cada opción gana en una duración de apagón distinta, y por eso la respuesta h
 | Generador inversor de 2,000 W | 8–15 horas por galón | No — solo exteriores | $450–1,100 | Apagones de varios días |
 | Batería doméstica (13.5 kWh) | ~30 horas (solo el concentrador) | Sí | $11,000–15,000 instalada | Respaldo automático de toda la casa, sin esfuerzo |
 
-La batería doméstica merece una palabra justa: es la única opción que entra al instante, en silencio y en automático a las 3 a.m. sin que nadie se despierte. Si la persona que usa oxígeno vive sola o tiene movilidad limitada, esa automatización vale más que las cuentas. Nuestra [comparación de batería doméstica vs generador](/es/articles/home-battery-vs-generator/) analiza cuándo la opción de cinco cifras sí se paga sola.
+La batería doméstica merece una palabra justa: es la única opción que entra al instante, en silencio y en automático a las 3 a.m. sin que nadie se despierte. Si la persona que usa oxígeno vive sola o tiene movilidad limitada, esa automatización vale más que las cuentas. Nuestra [comparación de batería doméstica vs generador](/es/articles/home-battery-vs-generator) analiza cuándo la opción de cinco cifras sí se paga sola.
 
 ## ¿Qué sistema de respaldo recomiendo para quien usa oxígeno?
 
@@ -109,11 +109,11 @@ El equipo de respaldo es solo la mitad del plan. Estos pasos cuestan poco o nada
 - **Regístrate con tu compañía eléctrica.** La mayoría mantiene un registro de prioridad médica o de soporte vital. No garantiza reconexión instantánea, pero marca tu cuenta para reconexión prioritaria y aviso anticipado de apagones programados. Una llamada que vale la pena.
 - **Consigue una alarma de corte de energía.** Una alarma enchufable ($15–30) suena fuerte cuando muere el circuito, para que alguien en la casa sepa que el concentrador acaba de pasar a batería — o, si alguien olvidó el sistema por capas, que se detuvo por completo.
 - **Haz una prueba real.** Desconecta el concentrador de la pared (con la orientación de tu proveedor si tienes dudas) y cronometra cómo rinde tu sistema de verdad. Descubrir que tu autonomía es la mitad de lo estimado es mucho mejor un martes tranquilo que durante un huracán. Repite la prueba cada pocos meses.
-- **Arma el kit de apagón desde ahora** — extensión clasificada para la carga, lámpara de cabeza, y los teléfonos del proveedor y la compañía eléctrica impresos en papel. Nuestra [lista de apagón por tormenta](/es/articles/storm-preparedness-checklist/) cubre la parte de la casa en detalle.
+- **Arma el kit de apagón desde ahora** — extensión clasificada para la carga, lámpara de cabeza, y los teléfonos del proveedor y la compañía eléctrica impresos en papel. Nuestra [lista de apagón por tormenta](/es/articles/storm-preparedness-checklist) cubre la parte de la casa en detalle.
 
 ## ¿Y si en casa también hay un CPAP?
 
-Muchas casas tienen los dos equipos, y el CPAP es mucho más fácil de alimentar — consume la décima parte. El problema es que su humidificador con calor triplica el consumo en silencio, y ahí es donde se caen la mayoría de los planes de batería. Cubrí esas cuentas en nuestra guía complementaria de [respaldo eléctrico para un CPAP](/es/articles/backup-power-cpap-machine/).
+Muchas casas tienen los dos equipos, y el CPAP es mucho más fácil de alimentar — consume la décima parte. El problema es que su humidificador con calor triplica el consumo en silencio, y ahí es donde se caen la mayoría de los planes de batería. Cubrí esas cuentas en nuestra guía complementaria de [respaldo eléctrico para un CPAP](/es/articles/backup-power-cpap-machine).
 
 ## En resumen
 

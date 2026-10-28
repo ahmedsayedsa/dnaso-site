@@ -184,7 +184,7 @@ There's no shame in stopping. Call a small-engine shop or generator service tech
 
 ## Keep reading
 
-- [Complete Home Backup Power Guide: Generators, Batteries & Sizing](/articles/complete-home-backup-power-guide/)
-- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist/)
-- [How Long Do Generators Last? Real Lifespans by Type](/articles/how-long-do-generators-last/)
-- [Dual Fuel vs Gas vs Propane Generators: Pros, Cons & Costs](/articles/dual-fuel-vs-gas-vs-propane-generator/)
+- [Complete Home Backup Power Guide: Generators, Batteries & Sizing](/articles/complete-home-backup-power-guide)
+- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist)
+- [How Long Do Generators Last? Real Lifespans by Type](/articles/how-long-do-generators-last)
+- [Dual Fuel vs Gas vs Propane Generators: Pros, Cons & Costs](/articles/dual-fuel-vs-gas-vs-propane-generator)

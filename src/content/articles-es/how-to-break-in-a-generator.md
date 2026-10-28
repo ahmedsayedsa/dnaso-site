@@ -39,7 +39,7 @@ Junta esto antes de que el motor encienda por primera vez:
 - **Un tapón de drenaje magnético** (más o menos $12–18, opcional pero inteligente). Mira la sección del cambio de aceite.
 - **Tu manual.** Honda, Champion, Westinghouse y Generac imprimen todos una nota de rodaje o de primer servicio. Si las cifras de tu manual difieren de las mías, gana el manual — es su motor y su garantía.
 
-Seguridad, como siempre: trabájalo afuera, a por lo menos 20 pies de la casa con el escape apuntando lejos, y déjalo enfriar antes de tocar el tapón de drenaje. Nuestra [lista completa de preparación para tormentas](/es/articles/storm-preparedness-checklist/) cubre la colocación y la seguridad con CO si quieres la versión larga.
+Seguridad, como siempre: trabájalo afuera, a por lo menos 20 pies de la casa con el escape apuntando lejos, y déjalo enfriar antes de tocar el tapón de drenaje. Nuestra [lista completa de preparación para tormentas](/es/articles/storm-preparedness-checklist) cubre la colocación y la seguridad con CO si quieres la versión larga.
 
 ## ¿Cómo se hace el rodaje de un generador, paso a paso?
 
@@ -67,7 +67,7 @@ Sube hasta como el 75% de los vatios nominales (~3.750 W en el ejemplo). En la �
 
 - **Horas en ralentí o con carga casi cero.** Este es el error clásico — "lo dejé trabajando toda la tarde sin nada conectado para asentarlo". La carga baja significa presión baja en el cilindro, contacto débil de los anillos y combustión fría que deposita cristalización. El ralentí es el único patrón que de verdad puede des-asentar un motor.
 - **Carga plena sostenida.** Un banco completo de calefactores por tres horas seguidas en un motor verde sobrecalienta unos anillos que aún no encuentran su forma.
-- **Ahogarlo por sobrecarga.** Pararlo o casi pararlo repetidamente con picos de arranque que no puede manejar. Dimensiona tus cargas a la máquina (nuestra [guía de consumo de combustible del generador](/es/articles/generator-fuel-consumption/) trae las cifras reales por carga).
+- **Ahogarlo por sobrecarga.** Pararlo o casi pararlo repetidamente con picos de arranque que no puede manejar. Dimensiona tus cargas a la máquina (nuestra [guía de consumo de combustible del generador](/es/articles/generator-fuel-consumption) trae las cifras reales por carga).
 
 ## ¿Cuándo se cambia el aceite durante el rodaje?
 
@@ -83,7 +83,7 @@ Drénalo tibio, no caliente — trabaja el motor dos minutos, apágalo, espera u
 
 Los toques de ñoño que sí valen la pena: un **tapón de drenaje magnético** instalado en el primer cambio te va a mostrar una pelusa gris fina de partículas ferrosas en el segundo cambio — la prueba de que el proceso funciona, y mantiene ese metal fuera de circulación en el ínterin. Y si quieres una respuesta real en vez de folclor, un **análisis de aceite** por correo (unos $30–40 de Blackstone o un kit de NAPA) en el segundo cambio te dice cuánto metal de desgaste produjo tu motor y si va bajando como debe. En las instalaciones que mantengo, el segundo reporte casi siempre muestra esos metales cayendo en picada: la firma de unos anillos bien asentados.
 
-Si tu motor quema un poco de aceite durante el rodaje, no entres en pánico — unas pocas onzas en las primeras 20 horas mientras los anillos se asientan es normal. El consumo de aceite que *continúa* pasadas las 25 horas no lo es. El consumo persistente en un motor joven es exactamente lo que un buen asentamiento previene; nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/) trae la rutina de consumo e inspección para la vida después del rodaje.
+Si tu motor quema un poco de aceite durante el rodaje, no entres en pánico — unas pocas onzas en las primeras 20 horas mientras los anillos se asientan es normal. El consumo de aceite que *continúa* pasadas las 25 horas no lo es. El consumo persistente en un motor joven es exactamente lo que un buen asentamiento previene; nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist) trae la rutina de consumo e inspección para la vida después del rodaje.
 
 ## ¿El rodaje es distinto en los generadores inverter?
 
@@ -110,7 +110,7 @@ Gasolina regular fresca de 87 octanos, comprada esta semana. Dos advertencias:
 - **Jamás E15 o E85** en un motor chico no clasificado para ello (la mayoría no lo está) — el etanol extra lo trabaja pobre y se come las piezas del sistema de combustible. Revisa la bomba; el E15 está apareciendo ahora en gasolineras comunes.
 - **La gasolina sin etanol es una mejora agradable** si se vende cerca de ti, principalmente porque el rodaje se estira a lo largo de varios días y el E10 empieza a absorber humedad en cuanto se queda quieto. Es opcional, no obligatoria.
 
-Sáltate el pasillo de aditivos: los aceites de rodaje con potenciadores de zinc y los "tratamientos de motor" son soluciones a problemas que tu motor nuevo con garantía no tiene. Agrega estabilizador solo si el generador va a guardarse después — y si lo siguiente es guardarlo, la [guía cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting/) muestra lo que les pasa a los motores que se quedaron con gasolina sin tratar.
+Sáltate el pasillo de aditivos: los aceites de rodaje con potenciadores de zinc y los "tratamientos de motor" son soluciones a problemas que tu motor nuevo con garantía no tiene. Agrega estabilizador solo si el generador va a guardarse después — y si lo siguiente es guardarlo, la [guía cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting) muestra lo que les pasa a los motores que se quedaron con gasolina sin tratar.
 
 ## ¿Qué cuesta en realidad saltarse el rodaje?
 
@@ -120,7 +120,7 @@ Respuesta honesta: no es una catástrofe. El mecanizado moderno es bueno, y un g
 - **Fuga de gases y bujías sucias** — el gas que se escapa por los anillos presuriza el cárter y contamina el aceite más rápido, acortando cada intervalo de cambio en adelante.
 - **Unos puntos porcentuales de potencia y compresión**, para siempre. No puedes re-asentar un motor a las 500 horas; el rayado ya no está.
 
-El rodaje es una póliza de seguro de una tarde sobre un motor que esperas que dure una década o más — la cuenta es fácil. (Nuestro artículo sobre [cuánto duran los generadores](/es/articles/how-long-do-generators-last/) desglosa lo que separa a los motores de 500 horas de los de 3.000 horas.)
+El rodaje es una póliza de seguro de una tarde sobre un motor que esperas que dure una década o más — la cuenta es fácil. (Nuestro artículo sobre [cuánto duran los generadores](/es/articles/how-long-do-generators-last) desglosa lo que separa a los motores de 500 horas de los de 3.000 horas.)
 
 ## Mitos del rodaje que escucho todo el tiempo
 
@@ -132,7 +132,7 @@ El rodaje es una póliza de seguro de una tarde sobre un motor que esperas que d
 
 ## Sigue leyendo
 
-- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist/)
-- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting/)
-- [¿Cuánto duran los generadores? Vida útil real por tipo](/es/articles/how-long-do-generators-last/)
-- [Consumo de combustible del generador: galones por hora por tamaño y carga](/es/articles/generator-fuel-consumption/)
+- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist)
+- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting)
+- [¿Cuánto duran los generadores? Vida útil real por tipo](/es/articles/how-long-do-generators-last)
+- [Consumo de combustible del generador: galones por hora por tamaño y carga](/es/articles/generator-fuel-consumption)

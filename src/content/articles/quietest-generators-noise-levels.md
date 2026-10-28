@@ -47,7 +47,7 @@ Westinghouse rates the iGen2200 at **52 dBA** — just 4 dB behind the Honda —
 
 ### Champion 2500 Dual Fuel — the quietest way to run propane
 
-Champion rates model 200962 at **53 dBA from 23 feet**, and it's the only pick here that runs on gasoline or propane out of the box: 2,500 starting watts either way, 1,850 running watts on gasoline, 1,665 on propane, with up to 11.5 hours on a gallon of gas or around 34 hours on a 20 lb propane tank at quarter load. At 39 lb it's also the lightest generator in this table — genuinely one-hand portable. Propane stores indefinitely and burns cleaner, which makes this the natural pick for apartment and balcony-adjacent backup, RV use, and anyone who hates stale gasoline. (If you're weighing fuels more broadly, our [generator for an apartment](/articles/generator-for-an-apartment/) guide covers the storage rules that come with them.)
+Champion rates model 200962 at **53 dBA from 23 feet**, and it's the only pick here that runs on gasoline or propane out of the box: 2,500 starting watts either way, 1,850 running watts on gasoline, 1,665 on propane, with up to 11.5 hours on a gallon of gas or around 34 hours on a 20 lb propane tank at quarter load. At 39 lb it's also the lightest generator in this table — genuinely one-hand portable. Propane stores indefinitely and burns cleaner, which makes this the natural pick for apartment and balcony-adjacent backup, RV use, and anyone who hates stale gasoline. (If you're weighing fuels more broadly, our [generator for an apartment](/articles/generator-for-an-apartment) guide covers the storage rules that come with them.)
 
 ### Yamaha EF2200iS — the runtime pick
 
@@ -63,7 +63,7 @@ At **60 dB at 25% load**, the GP2500i is the loudest generator on this list — 
 
 ## Why inverter generators are so much quieter
 
-Three engineering differences stack up. First, **engine speed**: a conventional generator runs at a fixed 3,600 RPM no matter the load, while an inverter throttles down — sometimes to ~2,000 RPM — when demand is light, and engine noise tracks RPM closely. Second, **the enclosure**: inverter portables are wrapped in insulated housings; open-frame conventionals radiate noise in every direction. An enclosure alone is worth roughly 5–10 dB. Third, **exhaust tuning**: inverter units carry larger, better-matched mufflers, and lower RPM softens each exhaust pulse. The trade-off is cost per watt and a ceiling around 7,500W in portable inverter sizes. The full three-way breakdown is in our [inverter generator vs regular generator](/articles/portable-vs-standby-vs-inverter-generator/) comparison.
+Three engineering differences stack up. First, **engine speed**: a conventional generator runs at a fixed 3,600 RPM no matter the load, while an inverter throttles down — sometimes to ~2,000 RPM — when demand is light, and engine noise tracks RPM closely. Second, **the enclosure**: inverter portables are wrapped in insulated housings; open-frame conventionals radiate noise in every direction. An enclosure alone is worth roughly 5–10 dB. Third, **exhaust tuning**: inverter units carry larger, better-matched mufflers, and lower RPM softens each exhaust pulse. The trade-off is cost per watt and a ceiling around 7,500W in portable inverter sizes. The full three-way breakdown is in our [inverter generator vs regular generator](/articles/portable-vs-standby-vs-inverter-generator) comparison.
 
 ## The decibel scale, in 30 seconds
 
@@ -87,7 +87,7 @@ Sound drops about **6 dB every time you double the distance** from the source. T
 | 92 ft | −12 dB | ~48 dB |
 | 184 ft | −18 dB | ~42 dB |
 
-Two limits on this trick. One is safety: carbon monoxide rules come first, so the generator stays **at least 20 feet from the house** with the exhaust pointed away — our placement guide on [how far a generator should be from the house](/articles/how-far-should-generator-be-from-house/) has the full reasoning and cord-sizing math (voltage drop is real; use 10-gauge cord for runs over 50 feet at 30 amps). The other is physics: the 6 dB rule assumes open space. Between houses, reflections off walls can add 2–3 dB back. Measure at your property line with a phone dB app instead of trusting the arithmetic.
+Two limits on this trick. One is safety: carbon monoxide rules come first, so the generator stays **at least 20 feet from the house** with the exhaust pointed away — our placement guide on [how far a generator should be from the house](/articles/how-far-should-generator-be-from-house) has the full reasoning and cord-sizing math (voltage drop is real; use 10-gauge cord for runs over 50 feet at 30 amps). The other is physics: the 6 dB rule assumes open space. Between houses, reflections off walls can add 2–3 dB back. Measure at your property line with a phone dB app instead of trusting the arithmetic.
 
 ## Campground, HOA, and ordinance rules that actually bite
 
@@ -102,8 +102,8 @@ Distance first (the 6 dB rule above is free), then: set the unit on grass or dir
 
 ## Keep reading
 
-- [Inverter Generator vs Regular Generator (vs Standby): Which Do You Need?](/articles/portable-vs-standby-vs-inverter-generator/)
-- [How Far Should a Generator Be from the House?](/articles/how-far-should-generator-be-from-house/)
-- [Best Generator for an Apartment](/articles/generator-for-an-apartment/)
-- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
-- [What Size Generator Do I Need? Complete Sizing Chart by Home Size](/articles/what-size-generator-run-house/)
+- [Inverter Generator vs Regular Generator (vs Standby): Which Do You Need?](/articles/portable-vs-standby-vs-inverter-generator)
+- [How Far Should a Generator Be from the House?](/articles/how-far-should-generator-be-from-house)
+- [Best Generator for an Apartment](/articles/generator-for-an-apartment)
+- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide)
+- [What Size Generator Do I Need? Complete Sizing Chart by Home Size](/articles/what-size-generator-run-house)

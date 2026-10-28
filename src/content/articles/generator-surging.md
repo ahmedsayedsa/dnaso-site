@@ -30,7 +30,7 @@ First, four safety rules, because you'll be working around fuel and a hot engine
 
 A healthy conventional generator holds a steady 3,600 RPM, because engine speed is output: 3,600 RPM gives you 60 Hz and roughly 120 volts. When the engine hunts, speed swings — say 3,200 to 3,800 RPM — and voltage swings with it, about 100 to 135 volts. You hear it as the revving cycle and see it as flickering lights.
 
-Those swings are why you fix this rather than live with it. Compressor motors (fridge, freezer, AC) overheat on low voltage and get hammered on high voltage. Control boards hate cycling power. And conventional generators already produce dirty power — total harmonic distortion of 15–25% on cheap portables isn't unusual — so a surging conventional unit is the worst-case diet for electronics. That's the whole argument for the inverter models in our [quietest generators rundown](/articles/quietest-generators-noise-levels/): their output stays stable even as engine speed varies. For a surging conventional machine, fix the engine first.
+Those swings are why you fix this rather than live with it. Compressor motors (fridge, freezer, AC) overheat on low voltage and get hammered on high voltage. Control boards hate cycling power. And conventional generators already produce dirty power — total harmonic distortion of 15–25% on cheap portables isn't unusual — so a surging conventional unit is the worst-case diet for electronics. That's the whole argument for the inverter models in our [quietest generators rundown](/articles/quietest-generators-noise-levels): their output stays stable even as engine speed varies. For a surging conventional machine, fix the engine first.
 
 ## What's the fastest test to find the cause?
 
@@ -39,7 +39,7 @@ Before you take anything apart, do this two-minute test. Start it cold, warm it 
 - **Surges at no load, smooths out under load:** pilot jet. This is the classic tell, and it's cause #1 below.
 - **Surges at no load and under load:** fuel delivery, governor, or a badly clogged carb overall.
 - **Only surges when a specific appliance cycles on and off:** probably load behavior, not a fault — see the last cause.
-- **Surges and then dies outright:** that's drifting into a different fault — see our guide to a [generator that starts then dies](/articles/generator-starts-then-dies/).
+- **Surges and then dies outright:** that's drifting into a different fault — see our guide to a [generator that starts then dies](/articles/generator-starts-then-dies).
 
 Note which pattern you have. It saves real time.
 
@@ -66,13 +66,13 @@ You need a screwdriver, a socket for the bowl bolt, carb cleaner, and one strand
 
 **Costs:** carb cleaner is $5–10 a can. If cleaning doesn't cure it — carb body passages sometimes corrode beyond saving — a replacement carburetor for a common portable is **$20–60** online and bolts on in 15 minutes. A shop charges **$75–120/hour** labor; a clean-and-tune totals $120–250. My take: try cleaning once. If it still hunts, replace the carb rather than paying shop labor to clean it twice.
 
-If your generator won't start at all, that's a different checklist — work through our [generator won't start troubleshooting](/articles/generator-wont-start-troubleshooting/) first, then come back here.
+If your generator won't start at all, that's a different checklist — work through our [generator won't start troubleshooting](/articles/generator-wont-start-troubleshooting) first, then come back here.
 
 ## Cause #2: Is the air filter choked?
 
 A clogged air filter starves the engine of air, the mixture goes rich, and the governor hunts trying to hold speed on a mixture that won't burn consistently. It's the easiest check on this list — don't skip it even though it's cause #2.
 
-Pop the filter cover. Paper elements: hold it to the light — if you can't see light through the pleats, replace it ($8–20). Foam elements (common on inverter models): wash in warm soapy water, dry completely, re-oil lightly. If the foam crumbles in your hand, it's done. While the housing is open, look for the mouse nest — I've found nests, acorns, and once a very committed wasp colony in air boxes after winter storage. Check the filter every 50 hours or at the start of storm season — it's item one on our [generator maintenance checklist](/articles/generator-maintenance-checklist/) for a reason.
+Pop the filter cover. Paper elements: hold it to the light — if you can't see light through the pleats, replace it ($8–20). Foam elements (common on inverter models): wash in warm soapy water, dry completely, re-oil lightly. If the foam crumbles in your hand, it's done. While the housing is open, look for the mouse nest — I've found nests, acorns, and once a very committed wasp colony in air boxes after winter storage. Check the filter every 50 hours or at the start of storm season — it's item one on our [generator maintenance checklist](/articles/generator-maintenance-checklist) for a reason.
 
 ## Cause #3: Is the governor linkage sticking or the spring wrong?
 
@@ -90,7 +90,7 @@ A partially blocked fuel path gives the same lean-surge pattern as a clogged pil
 - **Gas cap vent — the sneaky one:** The tank needs air to replace the fuel that leaves. If the cap vent clogs, a vacuum builds and fuel flow slows until the engine stumbles. Test: when it starts surging, loosen the gas cap. If the surge stops within seconds, you've found it. Clean the vent or replace the cap ($8–15).
 - **Fuel lines and petcock:** Cracked lines suck air; a petcock half-blocked with tank rust passes enough fuel for idle but not for load. Replace anything stiff or cracked.
 
-Bad fuel belongs here too. If the gas is more than a month or two old and wasn't stabilized, drain and refill before you blame hardware — a hunting engine also wastes fuel, which is why the numbers in our [generator fuel consumption guide](/articles/generator-fuel-consumption/) assume a healthy, steady engine.
+Bad fuel belongs here too. If the gas is more than a month or two old and wasn't stabilized, drain and refill before you blame hardware — a hunting engine also wastes fuel, which is why the numbers in our [generator fuel consumption guide](/articles/generator-fuel-consumption) assume a healthy, steady engine.
 
 ## Cause #5: Could it just be the spark plug?
 
@@ -100,11 +100,11 @@ A worn, fouled, or wide-gapped plug misfires irregularly, and a misfire cycle fe
 
 Yes, and this trips people up. An inverter generator's engine speed is *supposed* to vary — electronics throttle the engine with demand, and eco mode idles it right down. A Honda EU2200i quietly changing pitch as loads come and go is healthy, not hunting.
 
-Judge it this way: put a **steady** load on it (that space heater again) with eco mode **off**. A healthy inverter settles to one steady speed. If it hunts at a steady load, the cause list is the same as a conventional machine — and the pilot jet is still suspect #1, because inverter carbs have the same tiny idle circuits and the same ethanol problems. If it only hunts in eco mode at very light load, run light loads with eco off; some stepper-motor throttle controls genuinely hunt a little near zero load, and that's a quirk, not a failure. The real difference is what comes out of the outlets: an inverter's output stays clean 120V/60 Hz while its engine moves around, while a conventional unit's voltage follows its engine up and down — another reason the machines in our [quietest generators guide](/articles/quietest-generators-noise-levels/) earn their keep for electronics.
+Judge it this way: put a **steady** load on it (that space heater again) with eco mode **off**. A healthy inverter settles to one steady speed. If it hunts at a steady load, the cause list is the same as a conventional machine — and the pilot jet is still suspect #1, because inverter carbs have the same tiny idle circuits and the same ethanol problems. If it only hunts in eco mode at very light load, run light loads with eco off; some stepper-motor throttle controls genuinely hunt a little near zero load, and that's a quirk, not a failure. The real difference is what comes out of the outlets: an inverter's output stays clean 120V/60 Hz while its engine moves around, while a conventional unit's voltage follows its engine up and down — another reason the machines in our [quietest generators guide](/articles/quietest-generators-noise-levels) earn their keep for electronics.
 
 ## Is it the load, not the generator?
 
-Some loads cycle: an AC compressor, a well pump, a furnace blower, a fridge. Every time one kicks on, the governor reacts — a brief dip and recovery is the governor doing its job, and an undersized generator reacts harder and longer. If the "surge" lines up exactly with an appliance cycling, time it against the appliance before you open the carburetor. If the generator runs steady on the heater test but wobbles all evening powering the house, it may simply be undersized for your largest motor's starting surge. Don't confuse this with the harder fault where the unit runs fine for 15–20 minutes and then shuts down completely under load — that's overheating or oil-related, covered in our guide to a [generator that keeps shutting off](/articles/generator-keeps-shutting-off/).
+Some loads cycle: an AC compressor, a well pump, a furnace blower, a fridge. Every time one kicks on, the governor reacts — a brief dip and recovery is the governor doing its job, and an undersized generator reacts harder and longer. If the "surge" lines up exactly with an appliance cycling, time it against the appliance before you open the carburetor. If the generator runs steady on the heater test but wobbles all evening powering the house, it may simply be undersized for your largest motor's starting surge. Don't confuse this with the harder fault where the unit runs fine for 15–20 minutes and then shuts down completely under load — that's overheating or oil-related, covered in our guide to a [generator that keeps shutting off](/articles/generator-keeps-shutting-off).
 
 ## When should you call a pro — and what's the short version?
 
@@ -114,7 +114,7 @@ Call a small-engine shop if you've cleaned the pilot jet, confirmed the filter, 
 
 ## Keep reading
 
-- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting/)
-- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist/)
-- [Generator Fuel Consumption: Gallons per Hour by Size](/articles/generator-fuel-consumption/)
-- [Quietest Generators: Noise Levels Compared](/articles/quietest-generators-noise-levels/)
+- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting)
+- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist)
+- [Generator Fuel Consumption: Gallons per Hour by Size](/articles/generator-fuel-consumption)
+- [Quietest Generators: Noise Levels Compared](/articles/quietest-generators-noise-levels)

@@ -31,7 +31,7 @@ La palabra clave es *bidireccional*. Un cargador normal de auto eléctrico es un
 
 - Un auto eléctrico con hardware interno capaz de bidireccionalidad (la mayoría de los eléctricos no lo tienen)
 - Un cargador bidireccional o dispositivo de puerta de enlace (distinto de un cargador Nivel 2 estándar)
-- Un interruptor automático de transferencia/aislamiento que desconecta tu casa de la red durante un apagón — el mismo concepto de seguridad que un [transfer switch para generador](/es/articles/transfer-switch-vs-interlock-kit/), porque retroalimentar la red puede matar a un técnico de línea
+- Un interruptor automático de transferencia/aislamiento que desconecta tu casa de la red durante un apagón — el mismo concepto de seguridad que un [transfer switch para generador](/es/articles/transfer-switch-vs-interlock-kit), porque retroalimentar la red puede matar a un técnico de línea
 
 Sin el hardware de aislamiento, V2H no arranca. La compañía eléctrica no va a dejar que tu camioneta energice líneas muertas. Toda instalación V2H legítima incluye esto, y es una parte grande del costo.
 
@@ -103,19 +103,19 @@ Esta es la parte divertida. La batería de una camioneta aplasta a cualquier bat
 
 El número honesto de planeación que le doy a la gente: **2–4 días de cargas esenciales** con una batería de camioneta llena. Esa es la zona realista — no vas a vivir la casa como si nada hubiera pasado, pero vas a tener refrigeración, calefacción (calefacción a gas), luces, comunicaciones y carga de dispositivos por días.
 
-Dos advertencias del campo. Primero, la camioneta de nadie está al 100% cuando llega el apagón — planea con un 70–80% de carga como tu punto de partida realista, lo que recorta cada número de arriba en una cuarta parte. Segundo, una vez que la camioneta está vacía, recargar requiere que vuelva la red o un cargador rápido público que funcione cerca — y después de un huracán, esos cargadores están caídos o con filas que dan la vuelta a la cuadra. Una [batería para casa emparejada con solar](/es/articles/home-battery-vs-generator/) se recarga sola a diario; una camioneta no. Ajusta tus expectativas en consecuencia.
+Dos advertencias del campo. Primero, la camioneta de nadie está al 100% cuando llega el apagón — planea con un 70–80% de carga como tu punto de partida realista, lo que recorta cada número de arriba en una cuarta parte. Segundo, una vez que la camioneta está vacía, recargar requiere que vuelva la red o un cargador rápido público que funcione cerca — y después de un huracán, esos cargadores están caídos o con filas que dan la vuelta a la cuadra. Una [batería para casa emparejada con solar](/es/articles/home-battery-vs-generator) se recarga sola a diario; una camioneta no. Ajusta tus expectativas en consecuencia.
 
 ## ¿El V2H es mejor que una batería para casa o un generador?
 
 Depende de lo que ya tengas. Así lo plantearía yo para un cliente:
 
-**Si ya tienes una camioneta capaz de V2H:** El V2H es el respaldo casi-toda-la-casa más barato que vas a comprar jamás, porque la batería de $50,000+ es un costo hundido — la compraste para manejar. Gastar $6,000–$7,000 en la integración para la casa para desbloquear 100+ kWh de respaldo le gana a comprar un [generador de reserva](/es/articles/whole-house-generator-cost/) de $10,000–$15,000 o dos Powerwalls. Las cuentas son genuinamente convincentes aquí.
+**Si ya tienes una camioneta capaz de V2H:** El V2H es el respaldo casi-toda-la-casa más barato que vas a comprar jamás, porque la batería de $50,000+ es un costo hundido — la compraste para manejar. Gastar $6,000–$7,000 en la integración para la casa para desbloquear 100+ kWh de respaldo le gana a comprar un [generador de reserva](/es/articles/whole-house-generator-cost) de $10,000–$15,000 o dos Powerwalls. Las cuentas son genuinamente convincentes aquí.
 
 **Si no tienes la camioneta:** NO compres una camioneta de $60,000–$80,000 como estrategia de energía de respaldo. Es la batería más cara jamás vendida. Compra el generador o la batería para casa por una décima parte del precio y elige tu próximo vehículo por sus méritos como vehículo.
 
 **V2H vs generador de reserva:** La camioneta gana en capacidad por dólar (si ya la tienes), silencio y cero mantenimiento. El generador gana en autonomía indefinida — el gas natural no se acaba, la batería de una camioneta sí — y en disponibilidad: la camioneta solo respalda tu casa cuando está estacionada en casa. Si el apagón llega mientras estás en el trabajo con la camioneta, no tienes nada.
 
-**V2H vs batería para casa:** La camioneta gana en capacidad bruta (131 kWh vs 13.5 kWh por Powerwall) y en costo por kWh. La batería para casa gana en madurez de automatización, emparejamiento solar (se recarga a diario de tus paneles), y en el hecho de que siempre está en casa. Para una casa con solar, yo seguiría especificando el Powerwall primero — mira el [desglose completo de batería para casa vs generador](/es/articles/home-battery-vs-generator/) para esas cuentas.
+**V2H vs batería para casa:** La camioneta gana en capacidad bruta (131 kWh vs 13.5 kWh por Powerwall) y en costo por kWh. La batería para casa gana en madurez de automatización, emparejamiento solar (se recarga a diario de tus paneles), y en el hecho de que siempre está en casa. Para una casa con solar, yo seguiría especificando el Powerwall primero — mira el [desglose completo de batería para casa vs generador](/es/articles/home-battery-vs-generator) para esas cuentas.
 
 ## Los límites que nadie pone en el folleto
 
@@ -141,4 +141,4 @@ Lo que SÍ puedes hacer tú: investigar los sistemas, conseguir tres cotizacione
 
 ¿Un auto eléctrico puede alimentar tu casa? Si es el auto eléctrico correcto — absolutamente, y es el mejor respaldo por dólar en el negocio para la gente que ya tiene la camioneta. Una batería de 100+ kWh sobre ruedas que cubre 2–4 días de esenciales por un costo de integración a la casa de $6,000–$7,000 es una oferta que ningún generador ni batería para casa puede tocar en capacidad.
 
-Pero es un sistema de respaldo que viaja al trabajo, con una base de instaladores de adopción temprana, y letra chica de garantía que vale la pena leer. Si de todos modos vas a comprar la camioneta, agrega la integración para la casa — es el dinero más inteligente en energía de respaldo ahora mismo. Si estás buscando energía de respaldo y no necesitas una camioneta nueva, un [generador bien dimensionado](/es/articles/what-size-generator-run-house/) o una batería para casa sigue siendo la compra más sensata. Compra la camioneta por la camioneta. Deja que la energía de respaldo sea el bono.
+Pero es un sistema de respaldo que viaja al trabajo, con una base de instaladores de adopción temprana, y letra chica de garantía que vale la pena leer. Si de todos modos vas a comprar la camioneta, agrega la integración para la casa — es el dinero más inteligente en energía de respaldo ahora mismo. Si estás buscando energía de respaldo y no necesitas una camioneta nueva, un [generador bien dimensionado](/es/articles/what-size-generator-run-house) o una batería para casa sigue siendo la compra más sensata. Compra la camioneta por la camioneta. Deja que la energía de respaldo sea el bono.

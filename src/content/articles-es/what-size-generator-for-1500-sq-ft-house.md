@@ -45,7 +45,7 @@ Aquí está el inventario de cargas realista para una casa de este tamaño. Son 
 | Calentador de agua eléctrico (elemento de 4.500 W) | 4.500 | 4.500 | El rompepresupuestos escondido |
 | Cocina/horno eléctrico | 3.000–8.000 | — | Rara vez se usa en apagones por decisión propia |
 
-Fíjate en lo que *no* es enorme: todo excepto el aire, el calentador de agua eléctrico y la calefacción eléctrica. La carga base de una casa así — refrigerador, luces, electrónica, soplador — se queda en **1.200–2.000 vatios** la mayor parte del tiempo. Por eso los niveles de abajo salen como salen. Para el método completo de sumar cargas en cualquier casa, mira [¿Qué tamaño de generador necesito para alimentar mi casa?](/es/articles/what-size-generator-run-house/).
+Fíjate en lo que *no* es enorme: todo excepto el aire, el calentador de agua eléctrico y la calefacción eléctrica. La carga base de una casa así — refrigerador, luces, electrónica, soplador — se queda en **1.200–2.000 vatios** la mayor parte del tiempo. Por eso los niveles de abajo salen como salen. Para el método completo de sumar cargas en cualquier casa, mira [¿Qué tamaño de generador necesito para alimentar mi casa?](/es/articles/what-size-generator-run-house).
 
 ## Nivel 1: ¿Qué alimentan 3.500–5.500 vatios?
 
@@ -70,7 +70,7 @@ La carga en marcha de un apagón cómodo en este tamaño suele ser de 3.500–5.
 
 Cuando el requisito es "el apagón ni se nota y nadie administra nada". Un generador de reserva automático de 14–18 kW con transfer switch para todo el panel mueve el aire de 3 toneladas sin arrancador suave, el calentador eléctrico, la secadora, la cocina — todo, con módulos de gestión de carga para el momento raro en que demasiadas cosas arrancan a la vez.
 
-Para una casa de 1.500 pies cuadrados, **14 kW es el tamaño de reserva correcto en casas con calefacción de gas, y 18 kW si tienes calentador de agua eléctrico, cocina eléctrica o bomba de calor con resistencias de apoyo.** Instalado, calcula unos **$11.000–14.500** por el de 14 kW y **$12.500–16.000** por el de 18 kW en la mayoría de los mercados: unidad, base, transfer switch, línea de gas, permisos y mi mano de obra. El desglose completo de costos de instalación está en [Costo de un generador para toda la casa: lo que realmente pagarás](/es/articles/whole-house-generator-cost/).
+Para una casa de 1.500 pies cuadrados, **14 kW es el tamaño de reserva correcto en casas con calefacción de gas, y 18 kW si tienes calentador de agua eléctrico, cocina eléctrica o bomba de calor con resistencias de apoyo.** Instalado, calcula unos **$11.000–14.500** por el de 14 kW y **$12.500–16.000** por el de 18 kW en la mayoría de los mercados: unidad, base, transfer switch, línea de gas, permisos y mi mano de obra. El desglose completo de costos de instalación está en [Costo de un generador para toda la casa: lo que realmente pagarás](/es/articles/whole-house-generator-cost).
 
 Por encima de 18 kW en una casa de este tamaño, estás comprando capacidad que jamás usarás. Lo que nos lleva al problema de ventas.
 
@@ -80,7 +80,7 @@ Porque las cuentas les salen a ellos, no a ti. La unidad en sí no es dramática
 
 Lo que no mencionan: los generadores de reserva son más felices trabajando al **50–75% de carga**. Un 22 kW holgazaneando a 5 kW en tu casa trabaja frío y sucio: en estas unidades (motores V-twin de gasolina, enfriados por aire), la carga ligera crónica significa combustión incompleta, carbón y dilución del aceite. Además quema unos **2,4–2,8 galones de propano por hora** con las cargas que una casa así pide, contra 1,8–2,2 de un 14 kW haciendo el mismo trabajo. En un apagón de tres días son unos 40 galones de diferencia — a veces, la diferencia entre que tu tanque de 250 galones aguante o no.
 
-Un generador sobredimensionado no es un margen de seguridad: es una factura de combustible recurrente disfrazada de uno. Si un presupuesto para tu casa dice 22 kW y el vendedor no puede mostrarte un cálculo de cargas que lo justifique, pide otra cotización. La física del pico de arranque está explicada a fondo en [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac/).
+Un generador sobredimensionado no es un margen de seguridad: es una factura de combustible recurrente disfrazada de uno. Si un presupuesto para tu casa dice 22 kW y el vendedor no puede mostrarte un cálculo de cargas que lo justifique, pide otra cotización. La física del pico de arranque está explicada a fondo en [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac).
 
 ## Un ejemplo real: la casa que más veo
 
@@ -109,7 +109,7 @@ Decide con estas tres preguntas, en orden:
 2. **¿Hay alguien en casa que no pueda montar un portátil?** Los de reserva existen para equipo médico, padres mayores y casas vacías. Si alguien depende de equipo médico con electricidad, salta al Nivel 3 y no te disculpes por ello.
 3. **¿Necesitas el aire funcionando sin nadie presente?** Enfriar para mascotas o un clóset de servidores mientras no estás significa automático: reserva.
 
-¿Una casa más grande con la misma decisión? Mi guía de dimensionado para el siguiente tamaño está en [¿Qué tamaño de generador para una casa de 2000 pies cuadrados?](/es/articles/what-size-generator-for-2000-sq-ft-house/); los niveles suben aproximadamente un escalón.
+¿Una casa más grande con la misma decisión? Mi guía de dimensionado para el siguiente tamaño está en [¿Qué tamaño de generador para una casa de 2000 pies cuadrados?](/es/articles/what-size-generator-for-2000-sq-ft-house); los niveles suben aproximadamente un escalón.
 
 ## Mi recomendación para la mayoría de las casas de 1500 pies cuadrados
 
@@ -119,7 +119,7 @@ Quédate con la regla que uso en cada trabajo: suma tus cargas realistas en marc
 
 ## Sigue leyendo
 
-- [¿Qué tamaño de generador necesito para alimentar mi casa?](/es/articles/what-size-generator-run-house/)
-- [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac/)
-- [¿Qué tamaño de generador para una casa de 2000 pies cuadrados?](/es/articles/what-size-generator-for-2000-sq-ft-house/)
-- [Costo de un generador para toda la casa: lo que realmente pagarás](/es/articles/whole-house-generator-cost/)
+- [¿Qué tamaño de generador necesito para alimentar mi casa?](/es/articles/what-size-generator-run-house)
+- [¿Qué tamaño de generador necesito para el aire acondicionado central?](/es/articles/what-size-generator-central-ac)
+- [¿Qué tamaño de generador para una casa de 2000 pies cuadrados?](/es/articles/what-size-generator-for-2000-sq-ft-house)
+- [Costo de un generador para toda la casa: lo que realmente pagarás](/es/articles/whole-house-generator-cost)

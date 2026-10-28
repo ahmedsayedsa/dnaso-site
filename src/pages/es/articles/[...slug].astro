@@ -29,11 +29,42 @@ const lede =
 const wordCount = rawBody.split(/\s+/).filter(Boolean).length;
 
 const all = await getCollection('articles-es');
-const related = all
+
+// Guías relacionadas por tema: puntúa cada artículo por frases/palabras
+// clave compartidas y palabras del slug (sin términos genéricos), top 3.
+// Solo si nada puntúa > 0 se usa el orden anterior (pilar primero).
+const STOP = new Set(['generador', 'generadores', 'casa', 'hogar', 'respaldo', 'energia', 'para', 'como', 'que', 'una', 'con', 'por', 'del', 'las', 'los', 'the', 'for', 'how', 'what', 'can', 'you', 'your', 'generator', 'generators', 'home', 'backup', 'power', 'and', 'with']);
+const kwPhrases = (arr?: string[]) => new Set((arr ?? []).map((k) => k.toLowerCase().trim()));
+const kwTokens = (arr?: string[]) =>
+  new Set(
+    (arr ?? [])
+      .join(' ')
+      .toLowerCase()
+      .replace(/[^a-z0-9áéíóúñü\s-]/g, ' ')
+      .split(/[\s-]+/)
+      .filter((w) => w.length > 2 && !STOP.has(w)),
+  );
+const slugTokens = (s: string) => new Set(s.split('-').filter((w) => w.length > 2 && !STOP.has(w)));
+
+const myPhrases = kwPhrases(entry.data.keywords);
+const myTokens = kwTokens(entry.data.keywords);
+const mySlug = slugTokens(entry.slug);
+
+const scored = all
   .filter((a) => a.slug !== entry.slug)
-  .sort((a, b) => (a.slug === 'complete-home-backup-power-guide' ? -1 : b.slug === 'complete-home-backup-power-guide' ? 1 : 0))
+  .map((a) => {
+    let score = 0;
+    for (const p of kwPhrases(a.data.keywords)) if (myPhrases.has(p)) score += 4;
+    for (const t of kwTokens(a.data.keywords)) if (myTokens.has(t)) score += 1;
+    for (const t of slugTokens(a.slug)) if (mySlug.has(t)) score += 1;
+    return { a, score };
+  })
+  .sort((x, y) => y.score - x.score || x.a.slug.localeCompare(y.a.slug));
+
+const topical = scored.filter((s) => s.score > 0);
+const related = (topical.length >= 3 ? topical : scored)
   .slice(0, 3)
-  .map((a) => ({
+  .map(({ a }) => ({
     slug: a.slug,
     title: a.data.title,
     description: a.data.description,

@@ -36,7 +36,7 @@ Two patterns worth noting, because they point in different directions:
 - **1501 during cranking, engine sounds slow and labored** — electrical: battery, terminals, or starter. The most common pattern by a wide margin.
 - **1501 after the engine starts, runs rough for 10–30 seconds, then dies** — fuel or air: gas pressure, a clogged air filter, a drowned spark plug. It reached speed, then couldn't hold it.
 
-If your unit won't crank at all — no noise, dead controller — that's a different problem; start with my [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting/) instead.
+If your unit won't crank at all — no noise, dead controller — that's a different problem; start with my [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting) instead.
 
 ## Could it just be a weak battery? (Cause #1 — check this first)
 
@@ -86,7 +86,7 @@ Those numbers aren't trivia: a unit that idles fine at low pressure can still sa
 
 An engine that can't breathe or spark cleanly can't hold RPM. A clogged air filter chokes airflow — the engine starts, goes rich, stumbles. Fouled plugs (Generac twins have two) give weak, intermittent spark, with the same result.
 
-These are the cheapest parts on the list. Plugs run **$4–8 each** — gap them to spec (commonly **0.030 in** on air-cooled twins; check your manual) — and the air filter is **$10–20**. Generac's maintenance kits bundle oil filter, air filter, and plugs for **$30–60**. If you can't remember the last full service, do the service before anything exotic; I've "fixed" more than one 1501 with a $40 kit and twenty minutes. The [generator maintenance checklist](/articles/generator-maintenance-checklist/) covers the annual routine that prevents most of this page.
+These are the cheapest parts on the list. Plugs run **$4–8 each** — gap them to spec (commonly **0.030 in** on air-cooled twins; check your manual) — and the air filter is **$10–20**. Generac's maintenance kits bundle oil filter, air filter, and plugs for **$30–60**. If you can't remember the last full service, do the service before anything exotic; I've "fixed" more than one 1501 with a $40 kit and twenty minutes. The [generator maintenance checklist](/articles/generator-maintenance-checklist) covers the annual routine that prevents most of this page.
 
 ## Is the starter motor failing? (Cause #6)
 
@@ -112,7 +112,7 @@ Clearing the code without fixing the cause is the one thing not to do — it wil
 4. **Prove it:** press MANUAL and let it run 5–10 minutes — under house load if your setup allows a test transfer. Then back to AUTO.
 5. Let the next scheduled **exercise run** complete before closing the ticket. Two clean exercises in a row means fixed; a re-alarm means the diagnosis isn't done.
 
-If the engine shuts down mid-run rather than failing to start, work through [generator keeps shutting off](/articles/generator-keeps-shutting-off/) next. And for how Generac stacks up against the other big standby brands, see [Generac vs Kohler vs Cummins](/articles/generac-vs-kohler-vs-cummins/).
+If the engine shuts down mid-run rather than failing to start, work through [generator keeps shutting off](/articles/generator-keeps-shutting-off) next. And for how Generac stacks up against the other big standby brands, see [Generac vs Kohler vs Cummins](/articles/generac-vs-kohler-vs-cummins).
 
 ## What does a dealer visit for 1501 cost?
 
@@ -139,7 +139,7 @@ Do those three and the next message from your generator will be the boring one: 
 
 ## Keep reading
 
-- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting/)
-- [Generac vs Kohler vs Cummins: Standby Brands Compared](/articles/generac-vs-kohler-vs-cummins/)
-- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist/)
-- [Generator Keeps Shutting Off? Diagnose It by When It Dies](/articles/generator-keeps-shutting-off/)
+- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting)
+- [Generac vs Kohler vs Cummins: Standby Brands Compared](/articles/generac-vs-kohler-vs-cummins)
+- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist)
+- [Generator Keeps Shutting Off? Diagnose It by When It Dies](/articles/generator-keeps-shutting-off)

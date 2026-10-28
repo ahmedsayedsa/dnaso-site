@@ -69,7 +69,7 @@ Si tu unidad tiene modo de prueba silenciosa, úsalo — se ejercita a RPM más 
 
 ## Hábitos de mantenimiento que agregan años
 
-La rutina completa está en nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/). La versión corta que cubre el 90%:
+La rutina completa está en nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist). La versión corta que cubre el 90%:
 
 - **Aceite y filtro:** anual o según el intervalo de horas del manual — lo que ocurra primero. Usa el peso especificado (típicamente sintético 5W-30 para enfriados por aire).
 - **Filtro de aire y bujías:** inspección anual, reemplazo según programa (bujías típicamente cada 200–400 horas o 2 años).
@@ -115,4 +115,4 @@ Un matiz: un reserva enfriado por aire de 20 años bien mantenido con pocas hora
 
 Espera **2,000–3,000 horas (20–30 años de uso normal)** de un reserva enfriado por aire, **10,000+ horas** de uno enfriado por líquido, y **1,000–2,000 horas** de un portátil. La clasificación en horas es generosa para uso residencial — lo que realmente decide la vida útil son los cambios de aceite, las baterías y si el ciclo de ejercicio corre. Dale mantenimiento y estará ahí cuando se apaguen las luces; descúdalo y no lo estará.
 
-Próximos pasos: nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/) para la rutina completa, precios instalados en [Costo de un generador para toda la casa en 2026](/es/articles/whole-house-generator-cost/), y el panorama general en nuestra [Guía completa de respaldo eléctrico para el hogar](/es/articles/complete-home-backup-power-guide/).
+Próximos pasos: nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist) para la rutina completa, precios instalados en [Costo de un generador para toda la casa en 2026](/es/articles/whole-house-generator-cost), y el panorama general en nuestra [Guía completa de respaldo eléctrico para el hogar](/es/articles/complete-home-backup-power-guide).

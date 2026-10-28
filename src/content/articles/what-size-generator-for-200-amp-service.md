@@ -55,7 +55,7 @@ Completely — it's the single biggest lever in the whole decision. There are th
 
 **2. Whole-service transfer with load management.** Same whole-panel feed, but with load-shed modules on the heavy circuits. Generac's Smart Management Modules (SMMs) are the common version — wireless or wired modules, roughly **$150–250 each installed**, that watch generator frequency and drop a load (an AC, the dryer, the range, the water heater, an EV charger) the moment the generator approaches overload, then restore it when there's headroom. NEC 702.4(B) explicitly allows this: an automatic load management system means the generator no longer has to carry the full load alone. With two to four SMMs managing the big stuff, a **10–14kW** generator runs that same 2,000 sq ft house above without the homeowner noticing anything. This is what I install most often now.
 
-**3. Critical-loads subpanel.** The generator feeds only a subpanel of chosen circuits — fridge, furnace blower, well pump, a few lights and outlets, garage door, sump pump. A **7.5–12kW** unit covers it easily. Cheapest install, but the rest of the house is dark, and there's no AC unless you deliberately include it (and size for its startup surge). I walk through the hardware trade-offs in my [transfer switch vs interlock kit comparison](/articles/transfer-switch-vs-interlock-kit/).
+**3. Critical-loads subpanel.** The generator feeds only a subpanel of chosen circuits — fridge, furnace blower, well pump, a few lights and outlets, garage door, sump pump. A **7.5–12kW** unit covers it easily. Cheapest install, but the rest of the house is dark, and there's no AC unless you deliberately include it (and size for its startup surge). I walk through the hardware trade-offs in my [transfer switch vs interlock kit comparison](/articles/transfer-switch-vs-interlock-kit).
 
 One hard truth about load management: it manages *running* watts beautifully, but **motor starting surge still matters**. A 4-ton AC can pull 70–100 locked-rotor amps for a fraction of a second. Good load-shed systems handle this by shedding the AC itself first; soft-start kits on the AC (about $300–400 installed) cut that surge by roughly two-thirds and make small-generator installs dramatically better behaved. If a quote for a small generator on a big house doesn't mention soft start, ask why.
 
@@ -69,14 +69,14 @@ After the load calc and the management decision, nearly every 200-amp house fall
 | Whole house, everything available, one AC system, average 1,800–3,000 sq ft home | **18–24kW** |
 | All-electric everything, two AC systems, EV charging during outages, well + pool + hot tub | **26kW and up** |
 
-The **22–24kW air-cooled class** (Generac Guardian 22/24kW, Kohler 20–24kW, Cummins QuietConnect 20kW) is the best-selling whole-house size in America precisely because it's the no-compromises answer for the median 200-amp home. My [Generac vs Kohler vs Cummins comparison](/articles/generac-vs-kohler-vs-cummins/) covers how those brands differ at this size. But "best-selling" isn't the same as "right for you" — if your calc says 14kW with load management, the 24kW is $2,000–3,000 of extra hardware plus higher fuel burn and exercise wear for the rest of its life, buying you headroom you'll never use.
+The **22–24kW air-cooled class** (Generac Guardian 22/24kW, Kohler 20–24kW, Cummins QuietConnect 20kW) is the best-selling whole-house size in America precisely because it's the no-compromises answer for the median 200-amp home. My [Generac vs Kohler vs Cummins comparison](/articles/generac-vs-kohler-vs-cummins) covers how those brands differ at this size. But "best-selling" isn't the same as "right for you" — if your calc says 14kW with load management, the 24kW is $2,000–3,000 of extra hardware plus higher fuel burn and exercise wear for the rest of its life, buying you headroom you'll never use.
 
 Two derating traps that shrink your generator after you buy it:
 
 - **Natural gas vs propane ratings.** Air-cooled standbys are rated on propane. The same "22kW" unit typically makes about **19.5kW on natural gas**. If your calc says 20kW and you're on natural gas, a 22kW nameplate is *undersized*. Size using the rating for the fuel you'll actually burn.
 - **Altitude and heat.** Naturally aspirated engines lose roughly 3.5% of output per 1,000 ft of elevation. At 5,000 ft in Colorado, your 24kW is a ~20kW. Manufacturers publish the derate; make sure your installer applies it.
 
-If you want the room-by-room version of this math before you even think about service size, my [whole-house sizing guide](/articles/what-size-generator-run-house/) walks the appliance-by-appliance method in full.
+If you want the room-by-room version of this math before you even think about service size, my [whole-house sizing guide](/articles/what-size-generator-run-house) walks the appliance-by-appliance method in full.
 
 ## Can a portable generator feed a 200-amp panel?
 
@@ -86,9 +86,9 @@ What it takes to live with it:
 
 - **You are the load management.** The generator can't run the electric range, dryer, water heater, and AC at once. You sequence: cook *or* dry *or* shower-heavy hot water use, one big load at a time. Fridge, furnace, well pump, lights, and internet ride along under all of it without thinking.
 - **AC is the tightest fit.** A 3-ton AC with a soft-start kit starts around 30–40 amps of surge instead of 70+; on a 12kW portable that's very doable. Without the soft start, it's marginal and you'll learn what a stalled compressor sounds like.
-- **It's manual, every time.** Roll it out, plug in, flip the interlock, start it. Ten minutes in the rain at 2 a.m. There's no automatic weekly exercise either — keeping it ready is on you (my [generator maintenance checklist](/articles/generator-maintenance-checklist/) covers the routine).
+- **It's manual, every time.** Roll it out, plug in, flip the interlock, start it. Ten minutes in the rain at 2 a.m. There's no automatic weekly exercise either — keeping it ready is on you (my [generator maintenance checklist](/articles/generator-maintenance-checklist) covers the routine).
 
-Cost reality: inlet box, interlock, and cord run about **$500–1,000 installed**, plus $900–1,400 for the portable itself. Compare that to the installed prices in my [whole-house generator cost breakdown](/articles/whole-house-generator-cost/) — a permanently installed 22kW with a service-entrance transfer switch typically lands at **$12,000–15,000** all-in. The portable route gives up automation and some capacity; it does not give up the house.
+Cost reality: inlet box, interlock, and cord run about **$500–1,000 installed**, plus $900–1,400 for the portable itself. Compare that to the installed prices in my [whole-house generator cost breakdown](/articles/whole-house-generator-cost) — a permanently installed 22kW with a service-entrance transfer switch typically lands at **$12,000–15,000** all-in. The portable route gives up automation and some capacity; it does not give up the house.
 
 ## So what's the answer for your 200 amp service?
 
@@ -102,8 +102,8 @@ If your number comes out at 18–24kW with no management, buy that tier with con
 
 ## Keep reading
 
-- [Transfer Switch vs Interlock Kit: Which Is Right for Your Home?](/articles/transfer-switch-vs-interlock-kit/)
-- [What Size Generator Do You Need to Run a Whole House?](/articles/what-size-generator-run-house/)
-- [Whole House Generator Cost: What You'll Actually Pay](/articles/whole-house-generator-cost/)
-- [Generac vs Kohler vs Cummins: Standby Brands Compared](/articles/generac-vs-kohler-vs-cummins/)
-- [Complete Home Backup Power Guide: Generators, Batteries & Sizing](/articles/complete-home-backup-power-guide/)
+- [Transfer Switch vs Interlock Kit: Which Is Right for Your Home?](/articles/transfer-switch-vs-interlock-kit)
+- [What Size Generator Do You Need to Run a Whole House?](/articles/what-size-generator-run-house)
+- [Whole House Generator Cost: What You'll Actually Pay](/articles/whole-house-generator-cost)
+- [Generac vs Kohler vs Cummins: Standby Brands Compared](/articles/generac-vs-kohler-vs-cummins)
+- [Complete Home Backup Power Guide: Generators, Batteries & Sizing](/articles/complete-home-backup-power-guide)

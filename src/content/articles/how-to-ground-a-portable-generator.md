@@ -30,7 +30,7 @@ If your generator only powers things plugged into its own receptacles, the metal
 
 This isn't a gray area. Both the National Electrical Code (NEC 250.34) and OSHA's rules for portable generators accept the frame-as-ground arrangement when the generator supplies only equipment mounted on it or cord-and-plug equipment through its own receptacles, as long as the non-current-carrying metal parts are bonded to the frame. That's essentially every modern portable generator sold in the US.
 
-So if your outage routine is "wheel it out, plug in the fridge and a couple of cords," stop worrying. No rod, no wire to a water pipe, and definitely no $40 "generator grounding kit" the internet keeps pushing. Spend that money on fresh fuel and a carbon monoxide detector instead — and keep the machine at least 20 feet from the house, which matters far more than grounding does, as our guide to [how far a generator should be from your house](/articles/how-far-should-generator-be-from-house/) covers.
+So if your outage routine is "wheel it out, plug in the fridge and a couple of cords," stop worrying. No rod, no wire to a water pipe, and definitely no $40 "generator grounding kit" the internet keeps pushing. Spend that money on fresh fuel and a carbon monoxide detector instead — and keep the machine at least 20 feet from the house, which matters far more than grounding does, as our guide to [how far a generator should be from your house](/articles/how-far-should-generator-be-from-house) covers.
 
 One caveat: this assumes the generator is in decent shape. A quick continuity check between an outlet's ground pin and a clean metal spot on the frame should beep on your multimeter. If it doesn't, that's a repair, not a grounding problem.
 
@@ -40,7 +40,7 @@ When a portable generator connects to your panel through a transfer switch or in
 
 Driving a separate rod at the generator in this setup ranges from pointless to actively wrong. A second earth connection at a different point can create different ground potentials during a fault or a nearby lightning event, and it's one more connection to corrode. When customers tell me they added a rod "just to be safe," my honest answer is that in a transfer-switch setup, safe was already handled — by the house.
 
-The connection method matters far more than the rod question here. If you haven't decided between the two legal ways to feed a panel, our comparison of [transfer switch vs interlock kit](/articles/transfer-switch-vs-interlock-kit/) covers cost, code, and safety for both. And never connect a generator with a male-to-male "suicide cord" into a dryer outlet — that bypasses every protection we're discussing and endangers line workers.
+The connection method matters far more than the rod question here. If you haven't decided between the two legal ways to feed a panel, our comparison of [transfer switch vs interlock kit](/articles/transfer-switch-vs-interlock-kit) covers cost, code, and safety for both. And never connect a generator with a male-to-male "suicide cord" into a dryer outlet — that bypasses every protection we're discussing and endangers line workers.
 
 ## What is a bonded neutral, and why does everyone argue about it?
 
@@ -70,7 +70,7 @@ Two ways, and I recommend both, because labels lie.
 
 Two minutes, no guessing. Write the result on a piece of tape on the frame, because you will not remember it during an outage at 11 p.m. in the rain. Ask me how I know.
 
-Worth knowing: if your engine runs perfectly but the outlets deliver nothing, that's not a grounding issue — work through our guide to a [generator that runs but has no power output](/articles/generator-no-power-output/) instead. Grounding problems almost never present as "no power."
+Worth knowing: if your engine runs perfectly but the outlets deliver nothing, that's not a grounding issue — work through our guide to a [generator that runs but has no power output](/articles/generator-no-power-output) instead. Grounding problems almost never present as "no power."
 
 ## When is a ground rod actually required?
 
@@ -109,7 +109,7 @@ A correctly installed rod is a fine thing. A decorative rod with a loose clamp a
 
 No. This is the myth that sells the most rods, so let's be blunt:
 
-- **A ground rod does not stop surges.** A surge is a voltage spike looking for any path, and 8 feet of rod in resistive soil is a mediocre one. What protects electronics is layered surge protection — a whole-house surge device at the panel plus point-of-use strips — and not running sensitive electronics off a cheap conventional generator with lousy voltage regulation. Our [complete home backup power guide](/articles/complete-home-backup-power-guide/) covers the options for loads that care about clean power.
+- **A ground rod does not stop surges.** A surge is a voltage spike looking for any path, and 8 feet of rod in resistive soil is a mediocre one. What protects electronics is layered surge protection — a whole-house surge device at the panel plus point-of-use strips — and not running sensitive electronics off a cheap conventional generator with lousy voltage regulation. Our [complete home backup power guide](/articles/complete-home-backup-power-guide) covers the options for loads that care about clean power.
 - **A ground rod does not make an unbonded frame safe.** Frame safety comes from bonding metal parts together and back to the source, not from touching dirt. Current returning through soil takes a high-resistance path and does not reliably trip breakers.
 - **A ground rod does not replace GFCI protection.** Different tools. Grounding gives fault current a path so breakers trip. A GFCI watches for current leaking where it shouldn't — like through you — and cuts power in about 1/40th of a second, long before a breaker notices. For wet, outdoor, cord-and-plug use, the GFCI is the device standing between you and a very bad day. Most modern portables include GFCI outlets; if yours doesn't, a GFCI adapter is a good $25 purchase — unlike the grounding kit.
 
@@ -124,7 +124,7 @@ If the neutral question has you stuck mid-install, bring in an electrician for a
 
 ## Keep reading
 
-- [Transfer Switch vs Interlock Kit: Cost, Code, and Safety](/articles/transfer-switch-vs-interlock-kit/)
-- [Generator Runs But No Power Output? Fix It in Order](/articles/generator-no-power-output/)
-- [Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
-- [How Far Should a Generator Be From Your House?](/articles/how-far-should-generator-be-from-house/)
+- [Transfer Switch vs Interlock Kit: Cost, Code, and Safety](/articles/transfer-switch-vs-interlock-kit)
+- [Generator Runs But No Power Output? Fix It in Order](/articles/generator-no-power-output)
+- [Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide)
+- [How Far Should a Generator Be From Your House?](/articles/how-far-should-generator-be-from-house)

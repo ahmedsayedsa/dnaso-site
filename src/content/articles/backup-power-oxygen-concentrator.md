@@ -59,7 +59,7 @@ Read that table soberly: a popular 1 kWh station buys you **less than three hour
 
 Portable concentrators change the picture completely. At 40–100 W, that same 1 kWh station runs 8–20 hours. If your prescription allows a portable unit, it's by far the easiest machine to keep alive in an outage.
 
-For a deeper comparison of station sizes and brands, see our guide to [portable power stations for home backup](/articles/portable-power-stations-home-backup/).
+For a deeper comparison of station sizes and brands, see our guide to [portable power stations for home backup](/articles/portable-power-stations-home-backup).
 
 ## Can You Run an Oxygen Concentrator on a Generator?
 
@@ -67,9 +67,9 @@ Yes — and for long outages, a generator is the workhorse. One gallon of gasoli
 
 **Why I steer medical loads to inverter generators:**
 
-- **Clean power.** Inverter generators produce a true sine wave with low harmonic distortion, close to what the utility delivers. Concentrators have electronic controls and compressor motors that run cooler and last longer on clean power. This is the same reason I recommend them for anything with a circuit board — see the generator types in our [complete home backup power guide](/articles/complete-home-backup-power-guide/).
+- **Clean power.** Inverter generators produce a true sine wave with low harmonic distortion, close to what the utility delivers. Concentrators have electronic controls and compressor motors that run cooler and last longer on clean power. This is the same reason I recommend them for anything with a circuit board — see the generator types in our [complete home backup power guide](/articles/complete-home-backup-power-guide).
 - **Quiet.** A good inverter generator at light load hums at conversation level. During a disaster, not advertising that you have power and fuel has real value.
-- **Sipping fuel.** At a 350 W load — under 20% of a 2,000 W unit's capacity — fuel consumption drops to roughly 0.1–0.15 gallons per hour. Our [generator fuel consumption guide](/articles/generator-fuel-consumption/) has the full numbers by load level.
+- **Sipping fuel.** At a 350 W load — under 20% of a 2,000 W unit's capacity — fuel consumption drops to roughly 0.1–0.15 gallons per hour. Our [generator fuel consumption guide](/articles/generator-fuel-consumption) has the full numbers by load level.
 
 **Sizing:** a 2,000–2,500 W inverter generator covers a 350 W concentrator plus a refrigerator, lights, and chargers with room to spare. There is no prize for oversizing; a bigger engine burns more fuel just idling itself.
 
@@ -86,7 +86,7 @@ Each option wins at a different outage length, which is why the honest answer is
 | 2,000 W inverter generator | 8–15 hours per gallon | No — outdoors only | $450–1,100 | Multi-day outages |
 | Whole-home battery (13.5 kWh) | ~30 hours (concentrator only) | Yes | $11,000–15,000 installed | Automatic, whole-house, zero-effort backup |
 
-The home battery deserves a fair word: it is the only option that switches over instantly, silently, and automatically at 3 a.m. without anyone waking up. If the person on oxygen lives alone or has limited mobility, that automation has value beyond the math. Our [home battery vs generator comparison](/articles/home-battery-vs-generator/) digs into when the five-figure option actually pencils out.
+The home battery deserves a fair word: it is the only option that switches over instantly, silently, and automatically at 3 a.m. without anyone waking up. If the person on oxygen lives alone or has limited mobility, that automation has value beyond the math. Our [home battery vs generator comparison](/articles/home-battery-vs-generator) digs into when the five-figure option actually pencils out.
 
 ## What Backup Setup Do I Recommend for Oxygen Users?
 
@@ -108,11 +108,11 @@ Backup hardware is only half the plan. These steps cost little or nothing and ma
 - **Register with your utility.** Most utilities keep a medical-priority or life-support registry. It does not guarantee instant restoration, but it does flag your account for priority reconnection and advance notice of planned outages. Some states also protect registered medical customers from shutoffs. One phone call, worth making.
 - **Get a power-failure alarm.** A plug-in alarm ($15–30) screams when the circuit dies, so a sleeping household member knows the concentrator just switched to battery — or, if someone forgot the layered setup, that it stopped entirely.
 - **Do a live test.** Unplug the concentrator from the wall (with the supplier's guidance if you're unsure) and time how your setup actually performs. Discovering your runtime is half the estimate is much better on a calm Tuesday than during a hurricane. Repeat the test every few months.
-- **Put the outage kit together now** — extension cord rated for the load, headlamp, printed phone numbers for the supplier and utility. Our [storm power outage checklist](/articles/storm-preparedness-checklist/) covers the household side of this in detail.
+- **Put the outage kit together now** — extension cord rated for the load, headlamp, printed phone numbers for the supplier and utility. Our [storm power outage checklist](/articles/storm-preparedness-checklist) covers the household side of this in detail.
 
 ## What About Someone Who Also Uses a CPAP?
 
-Plenty of households have both machines, and the CPAP is far easier to feed — it draws a tenth of the power. The catch is that its heated humidifier quietly triples the draw, which is where most people's battery plans fall apart. I covered that math in our companion guide to [backup power for a CPAP machine](/articles/backup-power-cpap-machine/).
+Plenty of households have both machines, and the CPAP is far easier to feed — it draws a tenth of the power. The catch is that its heated humidifier quietly triples the draw, which is where most people's battery plans fall apart. I covered that math in our companion guide to [backup power for a CPAP machine](/articles/backup-power-cpap-machine).
 
 ## The Bottom Line
 

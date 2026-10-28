@@ -137,4 +137,4 @@ When a storm is 48 hours out, run this:
 
 **Both:** keep fuel fresh and stored safely, keep the unit clean and clear, test before storm season — not during it.
 
-A generator's lifespan is directly tied to this schedule. A maintained standby runs 20–30 years; a neglected one dies at 8. For the full picture on how long each type lasts and what kills them early, see our [generator lifespan guide](/articles/how-long-do-generators-last/), and for the broader backup-power decision, the pillar: [home backup power explained](/articles/complete-home-backup-power-guide/).
+A generator's lifespan is directly tied to this schedule. A maintained standby runs 20–30 years; a neglected one dies at 8. For the full picture on how long each type lasts and what kills them early, see our [generator lifespan guide](/articles/how-long-do-generators-last), and for the broader backup-power decision, the pillar: [home backup power explained](/articles/complete-home-backup-power-guide).

@@ -81,23 +81,23 @@ Porque no es portátil. Un generador de reserva (de casa completa) es un aparato
 Dos cosas que entender de esa diferencia:
 
 1. **La cercanía viene de la ingeniería, no de la suerte.** El gabinete, la ruta del escape y la ubicación se probaron como sistema, y una instalación con permiso se inspecciona contra el código. Tu portátil en el patio no tiene nada de eso.
-2. **«Puede estar cerca» no es «la distancia no importa».** Los instaladores tampoco pueden estacionar una unidad de reserva bajo la ventana de tu dormitorio: la regla de los 5 pies desde las aberturas, el código local y el manual limitan dónde va la base. Si estás planeando una instalación de reserva, la [guía completa de energía de respaldo](/es/articles/complete-home-backup-power-guide/) cubre cómo la ubicación encaja en el proyecto entero, y la [guía de interruptor de transferencia contra interlock](/es/articles/transfer-switch-vs-interlock-kit/) cubre la parte eléctrica.
+2. **«Puede estar cerca» no es «la distancia no importa».** Los instaladores tampoco pueden estacionar una unidad de reserva bajo la ventana de tu dormitorio: la regla de los 5 pies desde las aberturas, el código local y el manual limitan dónde va la base. Si estás planeando una instalación de reserva, la [guía completa de energía de respaldo](/es/articles/complete-home-backup-power-guide) cubre cómo la ubicación encaja en el proyecto entero, y la [guía de interruptor de transferencia contra interlock](/es/articles/transfer-switch-vs-interlock-kit) cubre la parte eléctrica.
 
 ## ¿Y tus vecinos?
 
 El CO no respeta líneas de propiedad. Si tu generador está a 20 pies de *tu* casa pero a 8 pies de la ventana abierta de tu vecino, exportaste el problema. En barrios densos esto toma treinta segundos de pensamiento: apunta el escape a lo largo de tu propio lote, lejos de las ventanas de ambas casas, y si comparten pared (adosados, dúplex), coordina: la ventana de «aire fresco» de tu vecino puede estar justo donde tu escape quiere ir.
 
-Residentes de apartamentos y condominios, escuchen con atención: **un balcón cuenta como adentro para estos fines.** Los generadores en balcones han matado a personas en la unidad y en las unidades vecinas. Si tu edificio pierde la luz, un generador portátil simplemente no es una opción para ti: una [estación de energía portátil](/es/articles/portable-power-stations-home-backup/) es la herramienta interior segura para mantener vivo lo esencial.
+Residentes de apartamentos y condominios, escuchen con atención: **un balcón cuenta como adentro para estos fines.** Los generadores en balcones han matado a personas en la unidad y en las unidades vecinas. Si tu edificio pierde la luz, un generador portátil simplemente no es una opción para ti: una [estación de energía portátil](/es/articles/portable-power-stations-home-backup) es la herramienta interior segura para mantener vivo lo esencial.
 
 ## ¿Cómo alimentas la casa desde 20 pies de distancia?
 
 La objeción legítima son los cables. Veinte pies de distancia significan tramos de 25–40 pies para cuando rodean una puerta, y la calidad del cable deja de ser opcional:
 
-- **Usa cables de extensión gruesos para exteriores.** Para un tramo de 30–50 pies con cargas reales, el calibre 12 es el piso y el 10 es mejor. Un cable barato de calibre 16 convierte el voltaje en calor a lo largo de todo su recorrido, mata de hambre a los motores (tu [bomba de sumidero](/es/articles/generator-for-sump-pump/) no perdona esto) y se vuelve un peligro en sí mismo.
-- **Mejor: una caja de entrada.** Una entrada de energía instalada de forma permanente en la pared exterior, cableada a un interruptor de transferencia o interlock en tu panel, permite que un solo cable grueso de generador reemplace el nido de extensiones por una puerta entreabierta. Es la instalación que más hago, y mantiene la puerta cerrada, lo cual también mantiene el CO fuera. La [comparativa de interruptor de transferencia contra interlock](/es/articles/transfer-switch-vs-interlock-kit/) explica cómo difieren ambos enfoques.
+- **Usa cables de extensión gruesos para exteriores.** Para un tramo de 30–50 pies con cargas reales, el calibre 12 es el piso y el 10 es mejor. Un cable barato de calibre 16 convierte el voltaje en calor a lo largo de todo su recorrido, mata de hambre a los motores (tu [bomba de sumidero](/es/articles/generator-for-sump-pump) no perdona esto) y se vuelve un peligro en sí mismo.
+- **Mejor: una caja de entrada.** Una entrada de energía instalada de forma permanente en la pared exterior, cableada a un interruptor de transferencia o interlock en tu panel, permite que un solo cable grueso de generador reemplace el nido de extensiones por una puerta entreabierta. Es la instalación que más hago, y mantiene la puerta cerrada, lo cual también mantiene el CO fuera. La [comparativa de interruptor de transferencia contra interlock](/es/articles/transfer-switch-vs-interlock-kit) explica cómo difieren ambos enfoques.
 - **Cuida los puntos de tropiezo y aplastamiento.** Los cables que cruzan entradas de autos se pisan con el auto; los de las puertas se pellizcan. Téndelos con intención, no con esperanza.
 
-Si vas a usar el generador durante un apagón de varios días, la disciplina de ubicación se acompaña de disciplina de combustible: la [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist/) cubre ambas, y la [guía de consumo de combustible](/es/articles/generator-fuel-consumption/) te ayuda a calcular cuánta gasolina beberá en realidad ese generador distante.
+Si vas a usar el generador durante un apagón de varios días, la disciplina de ubicación se acompaña de disciplina de combustible: la [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist) cubre ambas, y la [guía de consumo de combustible](/es/articles/generator-fuel-consumption) te ayuda a calcular cuánta gasolina beberá en realidad ese generador distante.
 
 ## La lista de ubicación de Mike
 
@@ -113,4 +113,4 @@ Grábate esto en la cabeza:
 
 El generador es la herramienta peligrosa más útil que la mayoría de los propietarios poseen. Veinte pies y un escape apuntando en la dirección correcta son casi toda la diferencia entre «la máquina que nos salvó la semana» y el otro tipo de historia. Mantén la distancia.
 
-*Nota práctica: si vas a colocar un generador para usarlo con mal tiempo una vez que llegue a su sitio, la guía complementaria sobre [usar un generador con seguridad bajo la lluvia](/es/articles/can-you-run-generator-in-rain/) cubre cubiertas, cables y reglas para clima húmedo.*
+*Nota práctica: si vas a colocar un generador para usarlo con mal tiempo una vez que llegue a su sitio, la guía complementaria sobre [usar un generador con seguridad bajo la lluvia](/es/articles/can-you-run-generator-in-rain) cubre cubiertas, cables y reglas para clima húmedo.*

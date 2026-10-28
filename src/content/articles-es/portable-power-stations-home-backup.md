@@ -98,7 +98,7 @@ Las autonomías de abajo usan la regla del 0.85 de capacidad utilizable sobre la
 | 4 lámparas LED (40W) | ~87 hrs | ~82 hrs | ~59 hrs | ~130 hrs |
 | Bomba de pozo (240V, 1 hp) | Sí — en modo 240V | Sí — fase dividida nativa | **No** — solo 120V, una unidad | Sí — salida completa de 240V |
 
-La fila de la bomba de pozo merece una nota al pie — es la especificación más malentendida aquí. Una bomba sumergible típica de 1 hp funciona a 1,000–1,500W y *cicla*, consumiendo quizá 100–300 Wh en un día. La energía no es el problema; el pico de arranque de 3,000–6,000W y el requisito de 240V sí lo son. Por eso la AC500 sola falla en esta fila a pesar de tener vatios-hora de sobra: para cargas de motor, el pico importa más que la capacidad. El dimensionamiento completo: nuestra guía sobre si un [generador solar puede alimentar una casa completa](/es/articles/can-a-solar-generator-power-a-whole-house/) cubre las bombas y otras cargas de 240V en profundidad.
+La fila de la bomba de pozo merece una nota al pie — es la especificación más malentendida aquí. Una bomba sumergible típica de 1 hp funciona a 1,000–1,500W y *cicla*, consumiendo quizá 100–300 Wh en un día. La energía no es el problema; el pico de arranque de 3,000–6,000W y el requisito de 240V sí lo son. Por eso la AC500 sola falla en esta fila a pesar de tener vatios-hora de sobra: para cargas de motor, el pico importa más que la capacidad. El dimensionamiento completo: nuestra guía sobre si un [generador solar puede alimentar una casa completa](/es/articles/can-a-solar-generator-power-a-whole-house) cubre las bombas y otras cargas de 240V en profundidad.
 
 ## Carga solar y expansión de baterías
 
@@ -127,14 +127,14 @@ Donde difieren las opciones:
 - Operas **cargas pesadas sostenidas**: aire acondicionado central por días, calentamiento eléctrico de agua, una secadora. Solo las baterías clase Ultra juegan aquí, y a varias veces el precio.
 - Los apagones duran **una semana**: la gasolina se recarga en cinco minutos, indefinidamente. Una batería sin sol serio es un dispositivo de 1–3 días.
 
-**El punto medio que la mayoría de los hogares debería considerar:** un generador de gasolina mediano ($800–$1,200) para las cargas pesadas del día más una estación de energía mediana ($1,000–$2,000) para lo esencial nocturno silencioso. El generador maneja el refrigerador y la cocina de día; en la noche se apaga y la estación opera el CPAP, los teléfonos, una lámpara y el Wi-Fi hasta la mañana — unos $2,000–$3,000 en total, menos que una sola estación insignia, y mejor que cualquiera de los dos dispositivos solo en ambos trabajos. Dónde encaja una estación en una estrategia por capas para toda la casa se cubre en nuestra [guía completa de respaldo eléctrico para el hogar](/es/articles/complete-home-backup-power-guide/).
+**El punto medio que la mayoría de los hogares debería considerar:** un generador de gasolina mediano ($800–$1,200) para las cargas pesadas del día más una estación de energía mediana ($1,000–$2,000) para lo esencial nocturno silencioso. El generador maneja el refrigerador y la cocina de día; en la noche se apaga y la estación opera el CPAP, los teléfonos, una lámpara y el Wi-Fi hasta la mañana — unos $2,000–$3,000 en total, menos que una sola estación insignia, y mejor que cualquiera de los dos dispositivos solo en ambos trabajos. Dónde encaja una estación en una estrategia por capas para toda la casa se cubre en nuestra [guía completa de respaldo eléctrico para el hogar](/es/articles/complete-home-backup-power-guide).
 
 ## La conclusión
 
-Para la mayoría de los hogares, la compra es la **EcoFlow Delta Pro 3**: capacidad real de 240V, un día de lo esencial, el mejor ecosistema. La **Anker Solix F3800** es la opción cuando una bomba de pozo u otra carga de 240V no es negociable. La **Bluetti AC500** es el inicio modular amable con el presupuesto — solo no la compres esperando 240V. La **Delta Pro Ultra** es el sistema para toda la casa, con precio acorde. Y si tus apagones pasan de tres días o tu presupuesto es justo, mantén un generador de gasolina en el plan — nuestra [comparación de batería doméstica vs. generador](/es/articles/home-battery-vs-generator/) recorre esa decisión carga por carga.
+Para la mayoría de los hogares, la compra es la **EcoFlow Delta Pro 3**: capacidad real de 240V, un día de lo esencial, el mejor ecosistema. La **Anker Solix F3800** es la opción cuando una bomba de pozo u otra carga de 240V no es negociable. La **Bluetti AC500** es el inicio modular amable con el presupuesto — solo no la compres esperando 240V. La **Delta Pro Ultra** es el sistema para toda la casa, con precio acorde. Y si tus apagones pasan de tres días o tu presupuesto es justo, mantén un generador de gasolina en el plan — nuestra [comparación de batería doméstica vs. generador](/es/articles/home-battery-vs-generator) recorre esa decisión carga por carga.
 
 ## Sigue leyendo
 
-- [Guía completa de respaldo eléctrico para el hogar: generadores vs baterías](/es/articles/complete-home-backup-power-guide/)
-- [¿Puede un generador solar alimentar una casa completa?](/es/articles/can-a-solar-generator-power-a-whole-house/)
-- [Batería doméstica vs generador: ¿cuál respaldo te conviene?](/es/articles/home-battery-vs-generator/)
+- [Guía completa de respaldo eléctrico para el hogar: generadores vs baterías](/es/articles/complete-home-backup-power-guide)
+- [¿Puede un generador solar alimentar una casa completa?](/es/articles/can-a-solar-generator-power-a-whole-house)
+- [Batería doméstica vs generador: ¿cuál respaldo te conviene?](/es/articles/home-battery-vs-generator)

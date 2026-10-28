@@ -134,7 +134,7 @@ Example: fridge (200 running / 1,200 starting) + 6 LED lights (60) + Wi-Fi + pho
 
 So a 5,500-watt portable covers this comfortably. That's the method — it works for any house.
 
-For the full walkthrough with appliance tables and worked examples for 1,500–3,000 sq ft homes, see [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/). If central AC is on your list, read [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/) — AC sizing has its own traps.
+For the full walkthrough with appliance tables and worked examples for 1,500–3,000 sq ft homes, see [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house). If central AC is on your list, read [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac) — AC sizing has its own traps.
 
 <div class="safety"><strong>Safety note:</strong> Never run a generator in a garage, basement, or any enclosed space — carbon monoxide kills within minutes and you cannot smell it. Keep portables at least 20 feet from the house with the exhaust pointed away from windows and doors.</div>
 
@@ -194,27 +194,27 @@ Don't forget the ongoing costs: fuel, annual maintenance, and for portables, the
 ## Where to go next
 
 **Sizing:**
-- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/) — the full sizing walkthrough: running vs. starting watts, appliance tables, worked examples.
-- [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/) — AC is the hardest load to size for. Tonnage tables, the starting-watt trap, and how soft starters change the math.
-- [What Can a 7500 Watt Generator Run?](/articles/what-can-7500-watt-generator-run/) — the sweet spot for essentials-only backup, with real load combinations.
+- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house) — the full sizing walkthrough: running vs. starting watts, appliance tables, worked examples.
+- [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac) — AC is the hardest load to size for. Tonnage tables, the starting-watt trap, and how soft starters change the math.
+- [What Can a 7500 Watt Generator Run?](/articles/what-can-7500-watt-generator-run) — the sweet spot for essentials-only backup, with real load combinations.
 
 **Costs & types:**
-- [Whole House Generator Cost in 2026](/articles/whole-house-generator-cost/) — installed price ranges, what drives the cost up, and the budget alternative.
-- [Portable vs Standby vs Inverter Generator](/articles/portable-vs-standby-vs-inverter-generator/) — the three types compared honestly, with who each one is for.
-- [Home Battery vs Generator](/articles/home-battery-vs-generator/) — when batteries win, when they don't, and the hybrid approach.
-- [Generac vs Kohler vs Cummins](/articles/generac-vs-kohler-vs-cummins/) — the big three standby brands compared.
+- [Whole House Generator Cost in 2026](/articles/whole-house-generator-cost) — installed price ranges, what drives the cost up, and the budget alternative.
+- [Portable vs Standby vs Inverter Generator](/articles/portable-vs-standby-vs-inverter-generator) — the three types compared honestly, with who each one is for.
+- [Home Battery vs Generator](/articles/home-battery-vs-generator) — when batteries win, when they don't, and the hybrid approach.
+- [Generac vs Kohler vs Cummins](/articles/generac-vs-kohler-vs-cummins) — the big three standby brands compared.
 
 **Fuel & installation:**
-- [Dual-Fuel vs Gasoline vs Propane](/articles/dual-fuel-vs-gas-vs-propane-generator/) — running costs compared, storage life, and what to pick.
-- [Transfer Switch vs Interlock Kit](/articles/transfer-switch-vs-interlock-kit/) — how to connect it safely and legally.
+- [Dual-Fuel vs Gasoline vs Propane](/articles/dual-fuel-vs-gas-vs-propane-generator) — running costs compared, storage life, and what to pick.
+- [Transfer Switch vs Interlock Kit](/articles/transfer-switch-vs-interlock-kit) — how to connect it safely and legally.
 
 **Ownership:**
-- [Generator Maintenance Checklist](/articles/generator-maintenance-checklist/) — the routine that decides whether it works when you need it.
-- [How Long Do Generators Last?](/articles/how-long-do-generators-last/) — realistic lifespans by type and what kills them early.
-- [Generator Won't Start? Troubleshooting Guide](/articles/generator-wont-start-troubleshooting/) — the fixes for the most common no-start causes.
+- [Generator Maintenance Checklist](/articles/generator-maintenance-checklist) — the routine that decides whether it works when you need it.
+- [How Long Do Generators Last?](/articles/how-long-do-generators-last) — realistic lifespans by type and what kills them early.
+- [Generator Won't Start? Troubleshooting Guide](/articles/generator-wont-start-troubleshooting) — the fixes for the most common no-start causes.
 
 **EV charging & backup power:**
-- [Can an EV Power Your House? V2H Explained](/articles/can-ev-power-house-v2h/) — bidirectional charging: which trucks can back up a house, what the hardware costs, and the honest limits.
-- [Charging an EV During a Power Outage](/articles/charging-ev-during-outage/) — what actually works: generator charging, clean-power requirements, and real miles-per-gallon math.
+- [Can an EV Power Your House? V2H Explained](/articles/can-ev-power-house-v2h) — bidirectional charging: which trucks can back up a house, what the hardware costs, and the honest limits.
+- [Charging an EV During a Power Outage](/articles/charging-ev-during-outage) — what actually works: generator charging, clean-power requirements, and real miles-per-gallon math.
 
 Measure twice, buy once. A generator that's sized right and maintained is a boring appliance that saves your week once every couple of years. That's exactly what you want.

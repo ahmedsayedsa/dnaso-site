@@ -24,7 +24,7 @@ The key point: **the two sources can never be connected together.** That mechani
 
 **Manual transfer switches** ($400–$800 for the switch itself) power a selected set of circuits — typically 6 to 10. When the power goes out, you start your portable generator, walk to the switch, and flip it. Cost with professional installation typically runs **$800–$1,500 all-in**.
 
-**Automatic transfer switches (ATS)** ($1,000–$2,500+ for the switch alone) monitor the utility line themselves. When they detect an outage, they signal the standby generator to start, wait for it to stabilize (about 10–30 seconds), then switch the whole panel — or a managed subset — to generator power. When utility power returns and stays stable for a few minutes, they switch back and shut the generator down. You do nothing. The ATS is almost always **bundled with the standby generator** in the installed price (see our [cost breakdown](/articles/whole-house-generator-cost/)).
+**Automatic transfer switches (ATS)** ($1,000–$2,500+ for the switch alone) monitor the utility line themselves. When they detect an outage, they signal the standby generator to start, wait for it to stabilize (about 10–30 seconds), then switch the whole panel — or a managed subset — to generator power. When utility power returns and stays stable for a few minutes, they switch back and shut the generator down. You do nothing. The ATS is almost always **bundled with the standby generator** in the installed price (see our [cost breakdown](/articles/whole-house-generator-cost)).
 
 Service-rated ATS units (200-amp, whole-panel) sit at the top of that price range; smaller 100-amp or subpanel-fed units cost less.
 
@@ -91,4 +91,4 @@ An interlock kit is the smart, legal, budget answer for portable generators — 
 
 Whichever you choose, the non-negotiable parts are the same: listed equipment, licensed electrician, permit, inspection. The device that keeps lineworkers alive is worth doing right.
 
-For the full backup-power picture — generator sizing, fuel choices, and battery alternatives — see our [Complete Home Backup Power Guide](/articles/complete-home-backup-power-guide/). For installed pricing on standby systems, read [Whole House Generator Cost in 2026](/articles/whole-house-generator-cost/).
+For the full backup-power picture — generator sizing, fuel choices, and battery alternatives — see our [Complete Home Backup Power Guide](/articles/complete-home-backup-power-guide). For installed pricing on standby systems, read [Whole House Generator Cost in 2026](/articles/whole-house-generator-cost).

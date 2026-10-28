@@ -94,10 +94,10 @@ Yes — with the soft starter fitted, and with discipline. Here's the realistic 
 - **Generator class:** 12,000–14,000-watt dual-fuel portables — the Predator 13,000 and the Westinghouse and DuroMax machines in that class. On propane expect roughly **10–15% less** than the gasoline rating, which is why you buy at the top of the class if propane is your plan.
 - **The surge check:** a soft-started surge of 8,000–10,000 W against 12,000+ running watts and a surge rating a few thousand above that — workable, with headroom for the fridge and lights already on board.
 - **The discipline part:** stagger everything else — if the water heater (4,500 W) and the well pump (3,000+ W starting) hit the same second as the compressor start, you'll trip. Water heater breaker off during outages, or accept the occasional trip and reset.
-- **Connection:** a 50-amp inlet box and interlock kit, proper cord, no suicide cords, ever. Our [whole-house sizing guide](/articles/what-size-generator-run-house/) walks the connection side in detail.
+- **Connection:** a 50-amp inlet box and interlock kit, proper cord, no suicide cords, ever. Our [whole-house sizing guide](/articles/what-size-generator-run-house) walks the connection side in detail.
 - **Fuel reality:** under a 6,500-watt AC load, a portable that size drinks roughly 1–1.5 gallons an hour. Three days of that is a *lot* of fuel runs — a 100-lb propane tank is how people actually live with it.
 
-Without the soft starter, my answer doesn't change no matter how the question gets rephrased: no portable runs a stock 5-ton. The broader tonnage picture is in our guide to [generator sizing for central AC](/articles/what-size-generator-central-ac/) — the 5-ton is simply where the surge problem goes from "difficult" to "physics says no."
+Without the soft starter, my answer doesn't change no matter how the question gets rephrased: no portable runs a stock 5-ton. The broader tonnage picture is in our guide to [generator sizing for central AC](/articles/what-size-generator-central-ac) — the 5-ton is simply where the surge problem goes from "difficult" to "physics says no."
 
 ## What size standby generator handles a 5-ton house?
 
@@ -105,7 +105,7 @@ If you're done with cords and fuel cans, this is where most 5-ton homes end up: 
 
 A standby has to start that compressor *while the house is already living on it* — fridge, lights, blower, maybe a well pump. Even with the soft starter fitted (I spec one on every 5-ton standby install), the load-management modules in a modern Generac or Kohler shed the water heater and dryer during the start window, then hand them back. A 22 kW air-cooled unit does all that without the homeowner thinking about it. An 18 kW does it too, with tighter margins if the house has electric cooking or a pool pump. Below that — 14 to 16 kW — it's active compromise: soft starter mandatory, load shedding aggressive, and in a long outage you'll periodically choose between cooling and something else.
 
-Could a 14 kW run just the AC and essentials? On paper, with the soft start, yes. In a real house during a three-day July outage it becomes a part-time job — the trade the price gap between 14 and 22 kW buys you out of. For what those installs cost all-in, see our [whole-house generator cost breakdown](/articles/whole-house-generator-cost/). Homes of 2,500–3,000 sq ft carrying a 5-ton system reach the same answer via square footage — our [generator size for a 2,000 sq ft house](/articles/what-size-generator-for-2000-sq-ft-house/) covers the neighboring bracket, and the method transfers directly.
+Could a 14 kW run just the AC and essentials? On paper, with the soft start, yes. In a real house during a three-day July outage it becomes a part-time job — the trade the price gap between 14 and 22 kW buys you out of. For what those installs cost all-in, see our [whole-house generator cost breakdown](/articles/whole-house-generator-cost). Homes of 2,500–3,000 sq ft carrying a 5-ton system reach the same answer via square footage — our [generator size for a 2,000 sq ft house](/articles/what-size-generator-for-2000-sq-ft-house) covers the neighboring bracket, and the method transfers directly.
 
 ## Is there a cheaper way to stay cool in an outage?
 

@@ -44,7 +44,7 @@ A CO detector is a last-resort alarm, not a permission slip. Near a running gene
 
 As for ventilation: no amount of open windows makes an indoor or balcony generator safe. Wind direction changes; CO doesn't politely exit, it mixes. Every safety agency that has studied actual deaths lands in the same place: **outdoors, 20 feet, exhaust away, or not at all.** If your living situation can't provide that, the fuel generator is simply not your tool.
 
-For the full picture on distances, symptoms, and detector placement, see our guide to [generator carbon monoxide safety](/articles/generator-carbon-monoxide-safety/) — it will cure any remaining temptation.
+For the full picture on distances, symptoms, and detector placement, see our guide to [generator carbon monoxide safety](/articles/generator-carbon-monoxide-safety) — it will cure any remaining temptation.
 
 ## What do your lease and the fire code say?
 
@@ -62,7 +62,7 @@ The honest summary: apartment living is incompatible with fuel storage, and a ge
 
 ## So what is the apartment version of a generator?
 
-A **battery power station** — sold as a "solar generator," though the solar part is optional. It's a big lithium battery, an inverter, and outlets in a box with a handle. No exhaust, no CO, no noise beyond a cooling fan, legal in a bedroom, and it recharges from a wall outlet when power returns. Our [portable power stations home backup guide](/articles/portable-power-stations-home-backup/) covers the category in depth; what follows is the apartment-specific version.
+A **battery power station** — sold as a "solar generator," though the solar part is optional. It's a big lithium battery, an inverter, and outlets in a box with a handle. No exhaust, no CO, no noise beyond a cooling fan, legal in a bedroom, and it recharges from a wall outlet when power returns. Our [portable power stations home backup guide](/articles/portable-power-stations-home-backup) covers the category in depth; what follows is the apartment-specific version.
 
 The mental shift: a gas generator is sized in **watts** (how much it can run at once) and runs as long as it has fuel. A power station is sized in **watt-hours (Wh)** — the total energy in the tank. Your outage plan is an energy budget:
 
@@ -73,7 +73,7 @@ The mental shift: a gas generator is sized in **watts** (how much it can run at 
 - **Window air conditioner:** 450–1.500 W, running hard. The budget-killer — see below.
 - **Microwave or coffee maker:** 1.000–1.500 W, but only for minutes. Fine in short bursts; it's *sustained* loads that drain you.
 
-So a typical outage day — fridge cycling, router on, lights, phones, laptop, CPAP at night — adds up to roughly 1,3–1,6 kWh of demand. A **1 kWh station** covers most of that day; a **2 kWh station** covers it comfortably, with margin for a second night. The fridge math in detail is in [can a solar generator run a refrigerator](/articles/can-a-solar-generator-run-a-refrigerator/).
+So a typical outage day — fridge cycling, router on, lights, phones, laptop, CPAP at night — adds up to roughly 1,3–1,6 kWh of demand. A **1 kWh station** covers most of that day; a **2 kWh station** covers it comfortably, with margin for a second night. The fridge math in detail is in [can a solar generator run a refrigerator](/articles/can-a-solar-generator-run-a-refrigerator).
 
 ## Can a power station run air conditioning?
 
@@ -111,7 +111,7 @@ Yes, completely. If you rent a single-family house with a yard, a fuel generator
 
 Then this is not about comfort for you, and I'd plan a level more seriously than the tiers above:
 
-- **Dedicate capacity.** A CPAP user's station is not the household's phone charger. Size a battery for the medical load first — our [CPAP backup power guide](/articles/backup-power-cpap-machine/) walks the watt-hour math with the humidifier on and off — and treat everything else as a bonus.
+- **Dedicate capacity.** A CPAP user's station is not the household's phone charger. Size a battery for the medical load first — our [CPAP backup power guide](/articles/backup-power-cpap-machine) walks the watt-hour math with the humidifier on and off — and treat everything else as a bonus.
 - **Register with your utility.** Most utilities keep a medical/critical-care registry: advance notice of planned outages and, in many areas, priority restoration consideration, plus medical baseline rates at some. Registration is free and takes ten minutes, but it has to be done *before* the storm, usually with a doctor's note.
 - **Tell your building.** Larger buildings often keep a list of residents who need elevator access or wellness checks during long outages. Get on it.
 - **Have a leave plan.** A battery buys hours to a day or two. For multi-day outages with a ventilator, oxygen concentrator, or refrigerated medication, the plan has to end at a powered location — family, hospital, shelter — and the battery's job is to get you there safely.
@@ -124,7 +124,7 @@ But the renter's version of backup power is arguably better than the homeowner's
 
 ## Keep reading
 
-- [Portable Power Stations for Home Backup: What They Can Actually Run](/articles/portable-power-stations-home-backup/)
-- [Generator Carbon Monoxide Safety: Distances, Detectors, and the Mistakes That Kill](/articles/generator-carbon-monoxide-safety/)
-- [Backup Power for a CPAP Machine: Sizing a Battery That Lasts All Night](/articles/backup-power-cpap-machine/)
-- [Can a Solar Generator Run a Refrigerator? Duty Cycles and Real Runtimes](/articles/can-a-solar-generator-run-a-refrigerator/)
+- [Portable Power Stations for Home Backup: What They Can Actually Run](/articles/portable-power-stations-home-backup)
+- [Generator Carbon Monoxide Safety: Distances, Detectors, and the Mistakes That Kill](/articles/generator-carbon-monoxide-safety)
+- [Backup Power for a CPAP Machine: Sizing a Battery That Lasts All Night](/articles/backup-power-cpap-machine)
+- [Can a Solar Generator Run a Refrigerator? Duty Cycles and Real Runtimes](/articles/can-a-solar-generator-run-a-refrigerator)

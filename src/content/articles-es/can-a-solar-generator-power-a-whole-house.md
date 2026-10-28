@@ -43,7 +43,7 @@ Sumemos un día de apagón con disciplina:
 
 **Total: unos 5–8 kWh al día.** Ese es el número que importa. Una estación grande de la clase de 3,6 kWh — una EcoFlow DELTA Pro, un sistema Bluetti AC300, una Anker Solix F3800 de 3,84 kWh — cubre la mayor parte de un día por sí sola. Agrega una o dos baterías de expansión (la DELTA Pro se expande hasta 10,8 kWh, la F3800 hasta casi 27 kWh) y quedas en un cómodo día y medio a tres días antes de necesitar sol o una recarga.
 
-Mi regla de campo: si tu plan de apagón cabe en 8 kWh al día, un generador solar no es una concesión. Es la *mejor* herramienta — silencioso, seguro adentro, cero viajes por combustible a medianoche. Nuestra [guía de estaciones de energía portátiles](/es/articles/portable-power-stations-home-backup/) cubre el dimensionado a fondo, y la pregunta del refrigerador sola tiene su propio desglose en [puede un generador solar hacer funcionar un refrigerador](/es/articles/can-a-solar-generator-run-a-refrigerator/).
+Mi regla de campo: si tu plan de apagón cabe en 8 kWh al día, un generador solar no es una concesión. Es la *mejor* herramienta — silencioso, seguro adentro, cero viajes por combustible a medianoche. Nuestra [guía de estaciones de energía portátiles](/es/articles/portable-power-stations-home-backup) cubre el dimensionado a fondo, y la pregunta del refrigerador sola tiene su propio desglose en [puede un generador solar hacer funcionar un refrigerador](/es/articles/can-a-solar-generator-run-a-refrigerator).
 
 ## ¿Y por qué no puede con todo?
 
@@ -80,7 +80,7 @@ Hay dos relojes corriendo:
 
 **Vida por ciclos.** Las estaciones viejas de litio NMC se califican en unos 500–800 ciclos completos hasta el 80% de capacidad. Las estaciones modernas de LiFePO4 (LFP) — que son la mayoría de las unidades grandes actuales — se califican en **3.000–4.000 ciclos o más** hasta el 80%. Si ciclaras una por completo cada día, son 8–10 años. En servicio de solo apagones, unas pocas docenas de ciclos al año, los ciclos nunca van a ser lo que la mate.
 
-**Vida por calendario.** Toda batería de litio envejece guardada en el estante, como un 2–3% de capacidad al año, más rápido si se guarda al 100% de carga en un garage caliente. Guarda la tuya al 50–80% en un cuarto fresco y te irá mejor. Expectativa realista: **unos 10 años de servicio útil**, después de los cuales la estación sigue funcionando — solo guarda menos. No hay motor que se desgaste, ni aceite, ni carburador; el desgaste de la batería es toda la historia. La comparativa completa de estación contra combustible está en [batería doméstica vs generador](/es/articles/home-battery-vs-generator/).
+**Vida por calendario.** Toda batería de litio envejece guardada en el estante, como un 2–3% de capacidad al año, más rápido si se guarda al 100% de carga en un garage caliente. Guarda la tuya al 50–80% en un cuarto fresco y te irá mejor. Expectativa realista: **unos 10 años de servicio útil**, después de los cuales la estación sigue funcionando — solo guarda menos. No hay motor que se desgaste, ni aceite, ni carburador; el desgaste de la batería es toda la historia. La comparativa completa de estación contra combustible está en [batería doméstica vs generador](/es/articles/home-battery-vs-generator).
 
 ## ¿Cuánto cuesta contra un generador de reserva?
 
@@ -94,7 +94,7 @@ Hay dos relojes corriendo:
 | Ruido / uso en interiores | silencioso, seguro adentro | ruidoso, solo afuera |
 | Si te mudas | lo desconectas y te lo llevas | se queda con la casa |
 
-Nuestra [guía de costos de generadores para toda la casa](/es/articles/whole-house-generator-cost/) desglosa el lado de la reserva línea por línea. La versión corta: a escala de casa completa los precios se juntan, y lo que realmente estás eligiendo es *capacidad y autonomía* (reserva) contra *silencio, portabilidad y cero mantenimiento* (solar).
+Nuestra [guía de costos de generadores para toda la casa](/es/articles/whole-house-generator-cost) desglosa el lado de la reserva línea por línea. La versión corta: a escala de casa completa los precios se juntan, y lo que realmente estás eligiendo es *capacidad y autonomía* (reserva) contra *silencio, portabilidad y cero mantenimiento* (solar).
 
 ## ¿Cómo conectas la estación a tu casa en la práctica?
 
@@ -116,13 +116,13 @@ Después de 18 años viendo apagones, el sistema que pondría en la casa de mi p
 2. **Un generador de combustible hace el trabajo pesado unas horas al día.** Bomba de pozo, aire por un rato, lavandería, calentador de agua — y mientras trabaja, recarga la estación a granel por su entrada de CA a 1.800–3.000 W. Dos o tres horas de ruido compran 24 horas de silencio.
 3. **Los paneles sobre la estación estiran el combustible todavía más.** Con buen sol puede que haya días en que ni enciendas el generador.
 
-Cada máquina hace el trabajo para el que es buena. La estación cubre las cargas que trabajan todo el día; el generador cubre las cargas demasiado grandes o demasiado hambrientas para las baterías. El marco completo para decidir tu mezcla está en nuestra [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide/).
+Cada máquina hace el trabajo para el que es buena. La estación cubre las cargas que trabajan todo el día; el generador cubre las cargas demasiado grandes o demasiado hambrientas para las baterías. El marco completo para decidir tu mezcla está en nuestra [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide).
 
 Entonces, ¿puede un generador solar alimentar toda una casa? La casa en la que realmente vives durante un apagón — el refrigerador frío, la calefacción funcionando, el CPAP en la noche — sí, y lo hace de maravilla. ¿La casa con el aire a todo, la secadora girando y el horno encendido, todo desde una sola caja de baterías? No. Y cualquiera que te diga lo contrario te está vendiendo algo.
 
 ## Sigue leyendo
 
-- [Estaciones de energía portátiles para respaldo del hogar: tamaños, autonomías y qué mueven](/es/articles/portable-power-stations-home-backup/)
-- [Batería doméstica vs generador: ¿qué respaldo te conviene?](/es/articles/home-battery-vs-generator/)
-- [¿Puede un generador solar hacer funcionar un refrigerador?](/es/articles/can-a-solar-generator-run-a-refrigerator/)
-- [Costo de un generador para toda la casa: lo que vas a pagar en realidad](/es/articles/whole-house-generator-cost/)
+- [Estaciones de energía portátiles para respaldo del hogar: tamaños, autonomías y qué mueven](/es/articles/portable-power-stations-home-backup)
+- [Batería doméstica vs generador: ¿qué respaldo te conviene?](/es/articles/home-battery-vs-generator)
+- [¿Puede un generador solar hacer funcionar un refrigerador?](/es/articles/can-a-solar-generator-run-a-refrigerator)
+- [Costo de un generador para toda la casa: lo que vas a pagar en realidad](/es/articles/whole-house-generator-cost)

@@ -50,7 +50,7 @@ Esto es lo que compra ese sobreprecio, en concreto:
 
 **Un ejercicio semanal más silencioso.** El 26RCA se ejercita a 56 dB(A) nominales frente a 67 dB(A) a plena velocidad; el 20RCA opera a unos 69 dB(A) a plena carga. Ninguna marca es silenciosa a todo pulmón, pero el modo de ejercicio a baja velocidad de Kohler es el que los vecinos notan menos.
 
-**Un contrapeso honesto:** la red de distribuidores y repuestos de Generac es varias veces más grande. En un apagón regional, la marca con un técnico en tu calle le gana a la marca con la mejor carcasa. Revisa qué distribuidores atienden realmente tu código postal antes de que la marca decida nada. Comparamos las dos marcas especificación por especificación en [Generac vs Kohler vs Cummins](/es/articles/generac-vs-kohler-vs-cummins/).
+**Un contrapeso honesto:** la red de distribuidores y repuestos de Generac es varias veces más grande. En un apagón regional, la marca con un técnico en tu calle le gana a la marca con la mejor carcasa. Revisa qué distribuidores atienden realmente tu código postal antes de que la marca decida nada. Comparamos las dos marcas especificación por especificación en [Generac vs Kohler vs Cummins](/es/articles/generac-vs-kohler-vs-cummins).
 
 ## ¿Qué incluye la instalación? Los conceptos
 

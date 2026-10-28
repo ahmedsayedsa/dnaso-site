@@ -19,7 +19,7 @@ keywords: ["generac generator oil type", "what oil does a generac generator use"
 
 **Quick answer:** A modern Generac home standby generator runs **conventional 5W-30 for its first 25 break-in hours**, then **Generac's full synthetic 5W-20 Gaseous Engine Oil (GEO)** at every change after that — that's Generac's current official spec, and it applies to both air-cooled and liquid-cooled home standby models. If the GEO oil isn't on the shelf, Generac accepts **full synthetic 5W-30** as the year-round alternative. The SAE 30 / 10W-30 temperature chart you'll find in older owner's manuals is legacy guidance — still printed in manuals in circulation, no longer the headline recommendation. Oil must meet **API service class SJ, SL, or better**.
 
-If you've researched this question before, you've probably found three contradictory answers — and all three were correct at some point. This guide lays out the current spec, the legacy chart, and which one governs your machine, because Generac changed its recommendation and the internet hasn't caught up. For *when* to change it, see the companion guide: [how often to change Generac generator oil](/articles/how-often-change-generac-generator-oil/).
+If you've researched this question before, you've probably found three contradictory answers — and all three were correct at some point. This guide lays out the current spec, the legacy chart, and which one governs your machine, because Generac changed its recommendation and the internet hasn't caught up. For *when* to change it, see the companion guide: [how often to change Generac generator oil](/articles/how-often-change-generac-generator-oil).
 
 ## What oil does Generac officially recommend now?
 
@@ -35,7 +35,7 @@ Generac's current support documentation ("What type of oil should I use in my ho
 
 Three details from that spec deserve emphasis:
 
-**The generator ships with conventional 5W-30 on purpose.** Generac says not to switch to synthetic until after the initial 25-hour oil change — the conventional fill is the break-in oil, and the first change (covered in our [Generac oil change interval guide](/articles/how-often-change-generac-generator-oil/)) is when the 5W-20 GEO goes in.
+**The generator ships with conventional 5W-30 on purpose.** Generac says not to switch to synthetic until after the initial 25-hour oil change — the conventional fill is the break-in oil, and the first change (covered in our [Generac oil change interval guide](/articles/how-often-change-generac-generator-oil)) is when the 5W-20 GEO goes in.
 
 **The alternatives are emergencies, not equivalents.** Generac's framing is that synthetic 5W-30, 10W-30, and SAE 30 are for when the GEO oil is unavailable. In practice, full synthetic 5W-30 is what most owners and many dealers actually run — it meets the API requirement (SJ/SL or better), covers the full temperature range, and sits on every auto-parts shelf in America. The 10W-30 and SAE 30 entries are narrow-temperature fallbacks; I wouldn't choose them deliberately when a synthetic is available.
 
@@ -80,11 +80,11 @@ Decision logic, in order:
 1. **Still in the first 25 hours?** Leave the factory conventional 5W-30 in until the break-in change. Don't early-switch to synthetic — Generac is explicit about this.
 2. **After break-in, want the book answer?** Generac full synthetic **5W-20 GEO**, sold through dealers and online in Generac packaging.
 3. **Can't get GEO, or maintaining it yourself on a budget?** Any name-brand **full synthetic 5W-30** meeting API SJ/SL or newer. This is the pragmatic default for most owners.
-4. **Never:** conventional oil beyond break-in as a permanent fill, mystery-brand oil of any weight, or anything below API SJ. The savings are a few dollars a year against a five-figure machine (see what these cost installed in our [standby generator cost guide](/articles/standby-generator-cost/) and [Generac generator cost guide](/articles/generac-generator-cost/)).
+4. **Never:** conventional oil beyond break-in as a permanent fill, mystery-brand oil of any weight, or anything below API SJ. The savings are a few dollars a year against a five-figure machine (see what these cost installed in our [standby generator cost guide](/articles/standby-generator-cost) and [Generac generator cost guide](/articles/generac-generator-cost)).
 
-One more storage note: oil doesn't expire on your shelf the way gasoline does, but an opened jug in a damp garage for three years isn't what I'd pour into a standby engine. Date the jug when you open it, and fold oil into the annual maintenance rhythm in our [generator maintenance checklist](/articles/generator-maintenance-checklist/).
+One more storage note: oil doesn't expire on your shelf the way gasoline does, but an opened jug in a damp garage for three years isn't what I'd pour into a standby engine. Date the jug when you open it, and fold oil into the annual maintenance rhythm in our [generator maintenance checklist](/articles/generator-maintenance-checklist).
 
 ## The bottom line
 
-Generac's oil story is simpler than the forums make it: conventional 5W-30 comes out at 25 hours, and full synthetic goes in — Generac's 5W-20 GEO by the book, or 5W-30 synthetic by the widely accepted alternative — and stays the answer in every temperature your house will ever see. The legacy temperature charts aren't wrong, just retired. Pick one synthetic, write it on the inside of the enclosure door with a paint pen, and the only oil question left is the interval — which is exactly what the companion guide answers: [how often to change Generac generator oil](/articles/how-often-change-generac-generator-oil/).
+Generac's oil story is simpler than the forums make it: conventional 5W-30 comes out at 25 hours, and full synthetic goes in — Generac's 5W-20 GEO by the book, or 5W-30 synthetic by the widely accepted alternative — and stays the answer in every temperature your house will ever see. The legacy temperature charts aren't wrong, just retired. Pick one synthetic, write it on the inside of the enclosure door with a paint pen, and the only oil question left is the interval — which is exactly what the companion guide answers: [how often to change Generac generator oil](/articles/how-often-change-generac-generator-oil).
 

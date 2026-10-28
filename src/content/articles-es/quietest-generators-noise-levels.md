@@ -48,7 +48,7 @@ Westinghouse clasifica el iGen2200 en **52 dBA** — apenas 4 dB detrás del Hon
 
 ### Champion 2500 Dual Fuel — la forma más silenciosa de usar propano
 
-Champion clasifica el modelo 200962 en **53 dBA desde 7 metros**, y es el único de esta lista que trabaja con gasolina o propano desde la caja: 2,500 vatios de arranque con cualquiera de los dos, 1,850 vatios de uso con gasolina, 1,665 con propano, con hasta 11.5 horas con un galón de gasolina o unas 34 horas con un tanque de propano de 20 lb a un cuarto de carga. Con 39 lb también es el generador más ligero de esta tabla — de verdad se carga con una mano. El propano se almacena indefinidamente y quema más limpio, lo que lo hace la opción natural para respaldo en apartamentos y junto a balcones, uso en RV y cualquiera que odie la gasolina vieja. (Si estás sopesando los combustibles más a fondo, nuestra guía del [generador para un apartamento](/es/articles/generator-for-an-apartment/) cubre las reglas de almacenamiento que vienen con ellos.)
+Champion clasifica el modelo 200962 en **53 dBA desde 7 metros**, y es el único de esta lista que trabaja con gasolina o propano desde la caja: 2,500 vatios de arranque con cualquiera de los dos, 1,850 vatios de uso con gasolina, 1,665 con propano, con hasta 11.5 horas con un galón de gasolina o unas 34 horas con un tanque de propano de 20 lb a un cuarto de carga. Con 39 lb también es el generador más ligero de esta tabla — de verdad se carga con una mano. El propano se almacena indefinidamente y quema más limpio, lo que lo hace la opción natural para respaldo en apartamentos y junto a balcones, uso en RV y cualquiera que odie la gasolina vieja. (Si estás sopesando los combustibles más a fondo, nuestra guía del [generador para un apartamento](/es/articles/generator-for-an-apartment) cubre las reglas de almacenamiento que vienen con ellos.)
 
 ### Yamaha EF2200iS — la opción de autonomía
 
@@ -64,7 +64,7 @@ Con **60 dB a 25% de carga**, el GP2500i es el generador más ruidoso de esta li
 
 ## Por qué los generadores inverter son mucho más silenciosos
 
-Tres diferencias de ingeniería se suman. Primero, **la velocidad del motor**: un generador convencional gira a 3,600 RPM fijas sin importar la carga, mientras un inverter baja las revoluciones — a veces hasta ~2,000 RPM — cuando la demanda es ligera, y el ruido del motor sigue de cerca a las RPM. Segundo, **el gabinete**: los portátiles inverter vienen envueltos en carcasas con aislamiento; los convencionales de marco abierto irradian ruido en todas direcciones. El gabinete solo vale unos 5–10 dB. Tercero, **la afinación del escape**: los inverter traen silenciadores más grandes y mejor adaptados, y las RPM bajas suavizan cada pulso del escape. La contraparte es el costo por vatio y un techo de unos 7,500W en tamaños inverter portátiles. El desglose completo de tres vías está en nuestra comparación [generador inverter vs generador convencional](/es/articles/portable-vs-standby-vs-inverter-generator/).
+Tres diferencias de ingeniería se suman. Primero, **la velocidad del motor**: un generador convencional gira a 3,600 RPM fijas sin importar la carga, mientras un inverter baja las revoluciones — a veces hasta ~2,000 RPM — cuando la demanda es ligera, y el ruido del motor sigue de cerca a las RPM. Segundo, **el gabinete**: los portátiles inverter vienen envueltos en carcasas con aislamiento; los convencionales de marco abierto irradian ruido en todas direcciones. El gabinete solo vale unos 5–10 dB. Tercero, **la afinación del escape**: los inverter traen silenciadores más grandes y mejor adaptados, y las RPM bajas suavizan cada pulso del escape. La contraparte es el costo por vatio y un techo de unos 7,500W en tamaños inverter portátiles. El desglose completo de tres vías está en nuestra comparación [generador inverter vs generador convencional](/es/articles/portable-vs-standby-vs-inverter-generator).
 
 ## La escala de decibeles, en 30 segundos
 
@@ -88,7 +88,7 @@ El sonido baja unos **6 dB cada vez que duplicas la distancia** a la fuente. Eso
 | 28 m | −12 dB | ~48 dB |
 | 56 m | −18 dB | ~42 dB |
 
-Este truco tiene dos límites. Uno es la seguridad: las reglas del monóxido de carbono van primero, así que el generador se queda **a por lo menos 6 metros (20 pies) de la casa** con el escape apuntando lejos — nuestra guía de ubicación sobre [a qué distancia debe estar un generador de la casa](/es/articles/how-far-should-generator-be-from-house/) tiene todo el razonamiento y las cuentas de calibre de cable (la caída de voltaje es real; usa calibre 10 para tramos de más de 15 metros a 30 amperios). El otro es la física: la regla de los 6 dB supone espacio abierto. Entre casas, los reflejos en las paredes pueden devolver 2–3 dB. Mide en el límite de tu propiedad con una app de dB en el teléfono en vez de confiar en la aritmética.
+Este truco tiene dos límites. Uno es la seguridad: las reglas del monóxido de carbono van primero, así que el generador se queda **a por lo menos 6 metros (20 pies) de la casa** con el escape apuntando lejos — nuestra guía de ubicación sobre [a qué distancia debe estar un generador de la casa](/es/articles/how-far-should-generator-be-from-house) tiene todo el razonamiento y las cuentas de calibre de cable (la caída de voltaje es real; usa calibre 10 para tramos de más de 15 metros a 30 amperios). El otro es la física: la regla de los 6 dB supone espacio abierto. Entre casas, los reflejos en las paredes pueden devolver 2–3 dB. Mide en el límite de tu propiedad con una app de dB en el teléfono en vez de confiar en la aritmética.
 
 ## Reglas de campamentos, condominios y ordenanzas que sí muerden
 
@@ -103,8 +103,8 @@ Primero la distancia (la regla de los 6 dB de arriba es gratis), luego: pon la u
 
 ## Sigue leyendo
 
-- [Generador inverter vs generador convencional (y vs de reserva): ¿cuál necesitas?](/es/articles/portable-vs-standby-vs-inverter-generator/)
-- [¿A qué distancia debe estar un generador de la casa?](/es/articles/how-far-should-generator-be-from-house/)
-- [El mejor generador para un apartamento](/es/articles/generator-for-an-apartment/)
-- [Guía completa de energía de respaldo para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide/)
-- [¿Qué tamaño de generador necesito? Tabla completa de cálculo por tamaño de casa](/es/articles/what-size-generator-run-house/)
+- [Generador inverter vs generador convencional (y vs de reserva): ¿cuál necesitas?](/es/articles/portable-vs-standby-vs-inverter-generator)
+- [¿A qué distancia debe estar un generador de la casa?](/es/articles/how-far-should-generator-be-from-house)
+- [El mejor generador para un apartamento](/es/articles/generator-for-an-apartment)
+- [Guía completa de energía de respaldo para el hogar 2026: generadores vs baterías](/es/articles/complete-home-backup-power-guide)
+- [¿Qué tamaño de generador necesito? Tabla completa de cálculo por tamaño de casa](/es/articles/what-size-generator-run-house)

@@ -24,14 +24,14 @@ lang: "es"
 
 ## ¿Esos 4.000 vatios son continuos o de arranque?
 
-Lee la caja con cuidado, porque los fabricantes juegan con los números en toda esta categoría. Un generador de 4.000 W verdadero entrega **4.000 vatios continuos** y unos **5.000 vatios de arranque (pico)**. Pero muchas máquinas anunciadas como «4000 vatios» en realidad son 4.000 vatios *de arranque* y solo 3.200–3.500 continuos — muchos modelos inverter se clasifican así. Son buenas máquinas, pero no son la misma máquina. Todo en este artículo trata de la clase verdadera de 4.000 vatios continuos. Si la unidad que estás viendo es de 3.200 continuos, en realidad estás comprando el [artículo de 3.500 vatios](/es/articles/what-can-3500-watt-generator-run/) — ajusta en consecuencia.
+Lee la caja con cuidado, porque los fabricantes juegan con los números en toda esta categoría. Un generador de 4.000 W verdadero entrega **4.000 vatios continuos** y unos **5.000 vatios de arranque (pico)**. Pero muchas máquinas anunciadas como «4000 vatios» en realidad son 4.000 vatios *de arranque* y solo 3.200–3.500 continuos — muchos modelos inverter se clasifican así. Son buenas máquinas, pero no son la misma máquina. Todo en este artículo trata de la clase verdadera de 4.000 vatios continuos. Si la unidad que estás viendo es de 3.200 continuos, en realidad estás comprando el [artículo de 3.500 vatios](/es/articles/what-can-3500-watt-generator-run) — ajusta en consecuencia.
 
 Los dos números, rápido:
 
 - **Vatios continuos (4.000):** lo que produce sin parar, todo el día. Este es tu presupuesto.
 - **Vatios de arranque (~5.000):** unos segundos de pico para los arranques de motores. Este es tu fondo de emergencia.
 
-Y la regla que le doy a cada cliente: **planea tu carga constante como máximo al 80% de los vatios continuos — 3.200 vatios en este tamaño.** Un motor trabajando tranquilo al 60–75% de carga funciona más fresco, más silencioso y gasta menos. Un motor forzado al 98% toda la noche se está desgastando solo y quemando aceite para demostrarlo. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/).
+Y la regla que le doy a cada cliente: **planea tu carga constante como máximo al 80% de los vatios continuos — 3.200 vatios en este tamaño.** Un motor trabajando tranquilo al 60–75% de carga funciona más fresco, más silencioso y gasta menos. Un motor forzado al 98% toda la noche se está desgastando solo y quemando aceite para demostrarlo. Para el método completo de dimensionado, ver [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house).
 
 ## ¿Cuántos vatios consume cada cosa de tu casa en realidad?
 
@@ -97,7 +97,7 @@ El apagón que la mayoría de la gente vive de verdad: comida a salvo, sótano s
 | Carga de teléfono y laptop | 70 |
 | **Carga constante total** | **~2.150** |
 
-Eso es el 54% de la capacidad. El peor momento — la bomba de sumidero arrancando (2.000 W de pico) con el soplador y el refrigerador en marcha — llega a unos 4.150 vatios, cómodamente dentro del techo de 5.000 donde la clase de 3.500 ya sudaba. Con esta carga el generador quema unos 1,3–1,7 litros por hora y funciona 11–14 horas con un tanque típico. Los detalles de la bomba están en [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump/).
+Eso es el 54% de la capacidad. El peor momento — la bomba de sumidero arrancando (2.000 W de pico) con el soplador y el refrigerador en marcha — llega a unos 4.150 vatios, cómodamente dentro del techo de 5.000 donde la clase de 3.500 ya sudaba. Con esta carga el generador quema unos 1,3–1,7 litros por hora y funciona 11–14 horas con un tanque típico. Los detalles de la bomba están en [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump).
 
 ## Combinación 2: esenciales más confort de verdad (~3.150 vatios)
 
@@ -135,7 +135,7 @@ Siendo directo, porque estas son las devoluciones y las reseñas enojadas:
 
 - **Calentador de agua eléctrico:** 4.500 vatios él solo superan la capacidad continua. A diferencia de la clase de 5.000 vatios — donde un ciclo de recuperación en solitario de 45 minutos es un truco legítimo — aquí no hay ninguna versión de esto que funcione. El agua caliente de gas es un prerrequisito para este tamaño.
 - **Secadora eléctrica:** 4.500–5.500 vatios. La misma respuesta. Tiende la ropa dos días; sobrevivirás.
-- **Aire central de 3 toneladas:** el consumo continuo (~3.500 W) tienta en el papel, pero el compresor necesita 9.000–12.000 vatios para arrancar y este generador pica en unos 5.000. El voltaje se hunde, el compresor sufre, y estás arriesgando un compresor de cuatro cifras para no ahorrar nada. El desglose completo está en [¿Qué tamaño de generador necesito para aire acondicionado central?](/es/articles/what-size-generator-central-ac/).
+- **Aire central de 3 toneladas:** el consumo continuo (~3.500 W) tienta en el papel, pero el compresor necesita 9.000–12.000 vatios para arrancar y este generador pica en unos 5.000. El voltaje se hunde, el compresor sufre, y estás arriesgando un compresor de cuatro cifras para no ahorrar nada. El desglose completo está en [¿Qué tamaño de generador necesito para aire acondicionado central?](/es/articles/what-size-generator-central-ac).
 - **Bomba de pozo de 1 HP con cualquier otra cosa:** el rango de pico de la bomba llega a 6.000 W — más allá del pico nominal antes de que el refrigerador consuma un vatio. Algunas bombas de 1 HP del extremo suave de ese rango arrancarán con este generador con todo lo demás apagado; «a veces, si nada más está en marcha» no es un plan de respaldo. La bomba de 1/2 HP es el techo honesto de esta clase.
 - **Cocina/horno eléctrico:** una hornilla (1.200–2.500 W) está bien en rotación. El elemento del horno más las hornillas, no.
 
@@ -143,7 +143,7 @@ Fíjate en el patrón: todo lo de la lista de «no puede» es una carga grande d
 
 ## ¿Cuánta gasolina va a quemar haciendo todo esto?
 
-Con la carga de la Combinación 2 (~3.150 W, alrededor del 75–80%), espera unos 1,7–2,1 litros por hora; con solo esenciales, más cerca de 1,3–1,5. Un apagón de tres días a carga de confort son unos 115–150 litros — planea tus garrafas y tu estabilizante en consecuencia. Las tablas de consumo de las clases vecinas están en [¿Cuánta gasolina consume un generador de 5.500 W?](/es/articles/how-much-gas-does-5500w-generator-use/) y en la guía general de [consumo de combustible](/es/articles/generator-fuel-consumption/).
+Con la carga de la Combinación 2 (~3.150 W, alrededor del 75–80%), espera unos 1,7–2,1 litros por hora; con solo esenciales, más cerca de 1,3–1,5. Un apagón de tres días a carga de confort son unos 115–150 litros — planea tus garrafas y tu estabilizante en consecuencia. Las tablas de consumo de las clases vecinas están en [¿Cuánta gasolina consume un generador de 5.500 W?](/es/articles/how-much-gas-does-5500w-generator-use) y en la guía general de [consumo de combustible](/es/articles/generator-fuel-consumption).
 
 ## ¿Qué generadores de 4000 vatios deberías mirar en serio?
 
@@ -159,14 +159,14 @@ Evita cualquier unidad «4000W» con menos de 3.500 vatios continuos a menos que
 
 Para la casa pequeña o mediana donde **la calefacción, el agua caliente y la cocina son de gas**, y donde dos aires de ventana — o un aire más una oficina en casa funcional — son el requisito de verano. Casas con pozo y séptico con bomba de 1/2 HP. Inquilinos que llevan cables a los esenciales (no hace falta tocar el panel en esta escala). Cualquiera cuyo plan de apagón sea «cómodo, con un poco de coreografía».
 
-Sube de tamaño si: tu calentador o secadora es eléctrico e innegociable, tu bomba de pozo es de 1 HP, o quieres la Combinación 2 más el microondas sin escalonar — la [clase de 5.000 vatios](/es/articles/what-can-5000w-generator-run/) es ese paso. Baja si es refrigerador, luces y un solo aire; la [clase de 3.500 vatios](/es/articles/what-can-3500-watt-generator-run/) lo hace más barato.
+Sube de tamaño si: tu calentador o secadora es eléctrico e innegociable, tu bomba de pozo es de 1 HP, o quieres la Combinación 2 más el microondas sin escalonar — la [clase de 5.000 vatios](/es/articles/what-can-5000w-generator-run) es ese paso. Baja si es refrigerador, luces y un solo aire; la [clase de 3.500 vatios](/es/articles/what-can-3500-watt-generator-run) lo hace más barato.
 
 Y las dos reglas que están por encima de cada combinación de este artículo: cables a los aparatos, o un interruptor de transferencia o kit de enclavamiento instalado por alguien con licencia — nunca un enchufe en una toma de secadora. Nunca. Y el generador vive a 6 metros o más de la casa, al aire libre, con el escape apuntando lejos. Esa regla tampoco tiene excepciones.
 
 ## Sigue leyendo
 
-- [¿Qué puede alimentar un generador de 3500 vatios? Guía real](/es/articles/what-can-3500-watt-generator-run/)
-- [¿Qué puede alimentar un generador de 5000 vatios? Cargas reales](/es/articles/what-can-5000w-generator-run/)
-- [¿Qué puede alimentar un generador de 7500 vatios? Ejemplos reales](/es/articles/what-can-7500-watt-generator-run/)
-- [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump/)
-- [¿Cuánto combustible consume un generador? Números reales](/es/articles/generator-fuel-consumption/)
+- [¿Qué puede alimentar un generador de 3500 vatios? Guía real](/es/articles/what-can-3500-watt-generator-run)
+- [¿Qué puede alimentar un generador de 5000 vatios? Cargas reales](/es/articles/what-can-5000w-generator-run)
+- [¿Qué puede alimentar un generador de 7500 vatios? Ejemplos reales](/es/articles/what-can-7500-watt-generator-run)
+- [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump)
+- [¿Cuánto combustible consume un generador? Números reales](/es/articles/generator-fuel-consumption)

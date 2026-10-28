@@ -25,7 +25,7 @@ Everything after the first check involves testing a machine that is *trying* to 
 
 - **Test your meter before and after (live-dead-live).** Check it on a known live outlet, make your readings, then check the known outlet again. A meter with a blown fuse reads 0V on everything.
 - **One hand in your pocket** when probing a running generator, and work only on **dry ground, with dry hands and no jewelry**. No testing in the rain.
-- **Never backfeed.** Work with the generator disconnected from the house, or connected only through a proper [transfer switch or interlock](/articles/transfer-switch-vs-interlock-kit/).
+- **Never backfeed.** Work with the generator disconnected from the house, or connected only through a proper [transfer switch or interlock](/articles/transfer-switch-vs-interlock-kit).
 - **Capacitors hold a charge after shutdown.** The discharge step is in the capacitor section. Don't skip it.
 - **Know your stop point.** If anything here makes you uneasy, stop. A shop charges $75–150 to diagnose this fault. Cheap.
 
@@ -44,7 +44,7 @@ Breaker settled, start the generator with nothing plugged in. Set the multimeter
 - **Voltage swinging wildly** — 60, then 180, then 90. If the needle dances in rhythm with a hunting engine, that's engine speed; a steady engine with dancing voltage is an AVR until proven otherwise.
 - **Full 120/240V at the panel, but a dead outlet.** The alternator is fine: breakers, a failed receptacle, or wiring. On a standby, full voltage at the machine and nothing in the house means the transfer switch isn't transferring (below).
 
-If your generator instead dies outright under load, that's a different fault — work through [why a generator keeps shutting off](/articles/generator-keeps-shutting-off/). **Cost:** $0. **DIY:** yes.
+If your generator instead dies outright under load, that's a different fault — work through [why a generator keeps shutting off](/articles/generator-keeps-shutting-off). **Cost:** $0. **DIY:** yes.
 
 ## Is it an inverter generator that tripped its overload?
 
@@ -64,7 +64,7 @@ A conventional alternator head needs a small amount of *residual magnetism* in t
 
 **The drill method (no disassembly).** Plug a *corded* drill — it must be corded — into the outlet, direction switch forward. Start the generator, hold the trigger, and spin the chuck sharply by hand in the forward direction. The spinning drill motor back-feeds a pulse that excites the field. Keep a firm two-handed grip; when the field catches, the drill tries to take off in your hand.
 
-**Cost:** $0. **DIY:** yes, if you're comfortable identifying field wires and working around a running engine with the cover off; otherwise a shop's $75–150 is well spent. If the field dies again after every storage period, prevent it with a monthly loaded run — the routine in the [generator maintenance checklist](/articles/generator-maintenance-checklist/).
+**Cost:** $0. **DIY:** yes, if you're comfortable identifying field wires and working around a running engine with the cover off; otherwise a shop's $75–150 is well spent. If the field dies again after every storage period, prevent it with a monthly loaded run — the routine in the [generator maintenance checklist](/articles/generator-maintenance-checklist).
 
 ## Is the AVR dead?
 
@@ -80,7 +80,7 @@ The automatic voltage regulator is a small sealed electronics board inside the e
 
 Not every head has brushes — brushless designs excite through rotating rectifiers — but most conventional portables and older standbys feed the rotor through carbon brushes riding on slip rings. Carbon wears by design; when it's gone, field current stops.
 
-**Symptoms:** Output that faded or went intermittent before dying, sometimes visible sparking at the brush holder. Prime candidates are high-hour units: brushes last 300–500 hours, so a 600-hour portable with dead output is telling a wear story — see [how long generators actually last](/articles/how-long-do-generators-last/).
+**Symptoms:** Output that faded or went intermittent before dying, sometimes visible sparking at the brush holder. Prime candidates are high-hour units: brushes last 300–500 hours, so a 600-hour portable with dead output is telling a wear story — see [how long generators actually last](/articles/how-long-do-generators-last).
 
 **Check and fix:** Engine off, end cover off, pop the spring caps at the brush holder near the rotor's bearing end. New brushes run 12–18mm long; under about 6mm (roughly 1/4 inch) left, cracked, or with a soft spring, they're done — replace the matched pair, **$10–25**. New brushes must slide freely in their guides; a binding brush is a future no-output fault. Inspect the slip rings too: smooth and coppery is good; deep grooves or black burned patches mean resurfacing — where DIY ends.
 
@@ -134,8 +134,8 @@ An engine that runs with no output is not a dead generator. It's a good engine w
 
 ## Keep reading
 
-- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting/)
-- [Generator Keeps Shutting Off? Causes and Fixes](/articles/generator-keeps-shutting-off/)
-- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist/)
-- [Transfer Switch vs Interlock Kit: Which Is Safer and Legal?](/articles/transfer-switch-vs-interlock-kit/)
-- [How Long Do Generators Last? Real Lifespans by Type](/articles/how-long-do-generators-last/)
+- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting)
+- [Generator Keeps Shutting Off? Causes and Fixes](/articles/generator-keeps-shutting-off)
+- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist)
+- [Transfer Switch vs Interlock Kit: Which Is Safer and Legal?](/articles/transfer-switch-vs-interlock-kit)
+- [How Long Do Generators Last? Real Lifespans by Type](/articles/how-long-do-generators-last)

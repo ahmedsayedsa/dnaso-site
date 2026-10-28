@@ -31,9 +31,9 @@ Estas son cifras de planeación para un portátil convencional típico de 7.500 
 | 75% de carga | ~5.625 W | 0,9–1,05 gal/hora | 1,0 gal/hora |
 | 100% de carga | 7.500 W | 1,1–1,3 gal/hora | 1,2 gal/hora |
 
-Tres cosas que notar. Primero, el consumo nunca baja a cero con carga ligera. Un generador convencional gira a 3.600 RPM reguladas, esté alimentando una casa o un cargador de teléfono, así que aun al 25% de carga quema la mitad de su ritmo de media carga solo por mantener el motor girando. Segundo, el salto de media a plena carga es menor de lo que la gente espera — de 0,75 a 1,2 galones, más o menos — porque buena parte del consumo base es el propio motor. Tercero, la plena carga sostenida no es un lugar donde convenga vivir. A mis clientes les digo que planeen las cargas continuas a no más del 80% de la capacidad nominal, y la [guía de qué puede alimentar un generador de 7.500 vatios](/es/articles/what-can-7500-watt-generator-run/) llega a lo mismo trabajando desde el lado de la carga.
+Tres cosas que notar. Primero, el consumo nunca baja a cero con carga ligera. Un generador convencional gira a 3.600 RPM reguladas, esté alimentando una casa o un cargador de teléfono, así que aun al 25% de carga quema la mitad de su ritmo de media carga solo por mantener el motor girando. Segundo, el salto de media a plena carga es menor de lo que la gente espera — de 0,75 a 1,2 galones, más o menos — porque buena parte del consumo base es el propio motor. Tercero, la plena carga sostenida no es un lugar donde convenga vivir. A mis clientes les digo que planeen las cargas continuas a no más del 80% de la capacidad nominal, y la [guía de qué puede alimentar un generador de 7.500 vatios](/es/articles/what-can-7500-watt-generator-run) llega a lo mismo trabajando desde el lado de la carga.
 
-Para la misma tabla en todos los tamaños, desde 2.000 vatios hacia arriba, la [guía de consumo de combustible de generadores](/es/articles/generator-fuel-consumption/) trae la cuadrícula completa: gasolina, propano y gas natural lado a lado.
+Para la misma tabla en todos los tamaños, desde 2.000 vatios hacia arriba, la [guía de consumo de combustible de generadores](/es/articles/generator-fuel-consumption) trae la cuadrícula completa: gasolina, propano y gas natural lado a lado.
 
 ## ¿Por qué los fabricantes no dan una sola cifra?
 
@@ -69,7 +69,7 @@ Ahora multiplica. Con los precios de gasolina que ha visto casi todo EE. UU. úl
 
 Quédate un segundo con la fila del medio. **Dieciocho galones al día.** Un apagón de tres días a carga normal de crucero quema unos 54 galones: es el tanque del generador más diez llenados de bidón de 5 galones, unos $175–$195 en combustible. Vi a un cliente aprender esto en tiempo real durante una tormenta de hielo, haciendo las cuentas sobre un recibo de gasolinera con la cara que normalmente solo veo cuando doy cotizaciones de cambio de panel. El generador le costó $850. El hábito de la gasolina es la parte que nadie presupuesta.
 
-Por eso el almacenamiento importa. Cincuenta galones de gasolina es mucho líquido inflamable para guardar, se echa a perder en 3–6 meses sin estabilizador, y rotarla pasándola por tu auto cada par de meses es la única forma honesta de mantener fresca la reserva. La [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/) trae la rutina de almacenamiento y estabilizador que les doy a mis propios clientes: síguela y la gasolina de la semana de tormenta es un problema resuelto en vez de una carrera.
+Por eso el almacenamiento importa. Cincuenta galones de gasolina es mucho líquido inflamable para guardar, se echa a perder en 3–6 meses sin estabilizador, y rotarla pasándola por tu auto cada par de meses es la única forma honesta de mantener fresca la reserva. La [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist) trae la rutina de almacenamiento y estabilizador que les doy a mis propios clientes: síguela y la gasolina de la semana de tormenta es un problema resuelto en vez de una carrera.
 
 
 ## ¿Un generador inverter de 7.500 vatios quema menos?
@@ -84,7 +84,7 @@ Un detalle: compara siempre vatios de operación contra vatios de operación, y 
 
 Si tu unidad de 7.500 vatios es bicombustible, el propano cambia dos cifras a la vez. El propano guarda unos 91.500 BTU por galón contra los aproximadamente 114.000–120.000 de la gasolina, así que el motor quema más galones para hacer los mismos vatios: calcula **1,1–1,3 galones de propano por hora a media carga**, contra 0,75 con gasolina. Además hay una reducción de potencia: la mayoría de los motores bicombustible entrega alrededor de un 10% menos de vatios pico con propano, así que tu máquina «de 7.500 vatios» es en realidad una de ~6.750 vatios con gas LP.
 
-Pasa eso por un tanque y el intercambio se vuelve claro. Un tanque de parrilla de 20 lb guarda 4,6 galones de propano, que son unas **3,5–4 horas a media carga** en un generador de este tamaño. La [guía de autonomía del tanque de propano de 20 lb](/es/articles/how-long-will-20-lb-propane-tank-run-generator/) desarrolla las cuentas y las opciones de tanques más grandes. Mi opinión para esta clase de tamaño: el propano es un combustible de *almacenamiento* soberbio — nunca se echa a perder — y un combustible de *resistencia* pobre en tanques de parrilla. Si el propano es tu plan para un 7.500, quieres un cilindro de 100 lb o un tanque conectado, no una pila de botellas de parrilla. Gasolina para los días pesados, propano como la reserva que nunca caduca: esa es la combinación que más instalo.
+Pasa eso por un tanque y el intercambio se vuelve claro. Un tanque de parrilla de 20 lb guarda 4,6 galones de propano, que son unas **3,5–4 horas a media carga** en un generador de este tamaño. La [guía de autonomía del tanque de propano de 20 lb](/es/articles/how-long-will-20-lb-propane-tank-run-generator) desarrolla las cuentas y las opciones de tanques más grandes. Mi opinión para esta clase de tamaño: el propano es un combustible de *almacenamiento* soberbio — nunca se echa a perder — y un combustible de *resistencia* pobre en tanques de parrilla. Si el propano es tu plan para un 7.500, quieres un cilindro de 100 lb o un tanque conectado, no una pila de botellas de parrilla. Gasolina para los días pesados, propano como la reserva que nunca caduca: esa es la combinación que más instalo.
 
 ## ¿Cómo quemar menos sin comprar nada?
 
@@ -104,7 +104,7 @@ Normalmente no, y esta es la opinión que defiendo en cualquier mostrador de ref
 
 La solución de dos generadores suena extravagante hasta que cotizas el combustible: un inverter chico de 2.000–2.500 vatios en servicio nocturno quema unos **0,15–0,2 galones por hora** con esas cargas — unos 1,4 galones para toda la noche contra los 4 de la unidad grande. En un apagón de cuatro noches, son 10 galones ahorrados, además del sueño. He visto a más de un cliente comprar el inverter chico *durante* el apagón, al segundo día, solo para las noches. Si solo tienes el 7.500, usa el método de agrupar y apagar de arriba y deja que la casa flote mientras duermes.
 
-Y si todavía estás comprando y dimensionando el trabajo, la pregunta compañera va primero: [cuánta gasolina consume un generador de 5.500 vatios](/es/articles/how-much-gas-does-5500w-generator-use/) — porque muchas casas descubren que su carga real de crucero cabe en la máquina más chica y ahorradora, y la tabla de combustible es donde esa decisión paga por años.
+Y si todavía estás comprando y dimensionando el trabajo, la pregunta compañera va primero: [cuánta gasolina consume un generador de 5.500 vatios](/es/articles/how-much-gas-does-5500w-generator-use) — porque muchas casas descubren que su carga real de crucero cabe en la máquina más chica y ahorradora, y la tabla de combustible es donde esa decisión paga por años.
 
 ## En resumen
 
@@ -112,7 +112,7 @@ Un generador de 7.500 vatios consume unos **0,5 galones por hora al cuarto de ca
 
 ## Sigue leyendo
 
-- [¿Cuánto combustible usa un generador? Cifras reales de consumo](/es/articles/generator-fuel-consumption/)
-- [¿Qué puede alimentar un generador de 7.500 vatios? (Con ejemplos reales)](/es/articles/what-can-7500-watt-generator-run/)
-- [¿Cuánto dura un tanque de propano de 20 lb en un generador?](/es/articles/how-long-will-20-lb-propane-tank-run-generator/)
-- [¿Cuánta gasolina consume un generador de 5.500 W?](/es/articles/how-much-gas-does-5500w-generator-use/)
+- [¿Cuánto combustible usa un generador? Cifras reales de consumo](/es/articles/generator-fuel-consumption)
+- [¿Qué puede alimentar un generador de 7.500 vatios? (Con ejemplos reales)](/es/articles/what-can-7500-watt-generator-run)
+- [¿Cuánto dura un tanque de propano de 20 lb en un generador?](/es/articles/how-long-will-20-lb-propane-tank-run-generator)
+- [¿Cuánta gasolina consume un generador de 5.500 W?](/es/articles/how-much-gas-does-5500w-generator-use)

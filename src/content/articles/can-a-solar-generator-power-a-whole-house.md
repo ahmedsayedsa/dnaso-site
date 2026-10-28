@@ -42,7 +42,7 @@ Let's add up a disciplined outage day:
 
 **Total: roughly 5–8 kWh per day.** That's the number that matters. A large station in the 3.6 kWh class — an EcoFlow DELTA Pro, a Bluetti AC300 setup, an Anker Solix F3800 at 3.84 kWh — covers most of one day by itself. Add one or two expansion batteries (the DELTA Pro expands to 10.8 kWh, the F3800 to nearly 27 kWh) and you're at a comfortable day and a half to three days before you need sun or a recharge.
 
-My field rule: if your outage plan fits in 8 kWh a day, a solar generator isn't a compromise. It's the *best* tool — silent, safe indoors, zero fuel runs at midnight. Our [portable power stations guide](/articles/portable-power-stations-home-backup/) covers the sizing in more depth, and the fridge question alone gets its own breakdown in [can a solar generator run a refrigerator](/articles/can-a-solar-generator-run-a-refrigerator/).
+My field rule: if your outage plan fits in 8 kWh a day, a solar generator isn't a compromise. It's the *best* tool — silent, safe indoors, zero fuel runs at midnight. Our [portable power stations guide](/articles/portable-power-stations-home-backup) covers the sizing in more depth, and the fridge question alone gets its own breakdown in [can a solar generator run a refrigerator](/articles/can-a-solar-generator-run-a-refrigerator).
 
 ## So why can't it run everything?
 
@@ -79,7 +79,7 @@ Two different clocks are ticking:
 
 **Cycle life.** Older NMC lithium stations are rated around 500–800 full cycles to 80% capacity. Modern LiFePO4 (LFP) stations — which is most of the current big units — are rated **3,000–4,000+ cycles** to 80%. If you cycled one fully every single day, that's 8–10 years. In outage-only service, a few dozen cycles a year, the cycles will never be what kills it.
 
-**Calendar life.** All lithium batteries age sitting on the shelf, roughly 2–3% capacity a year, faster if stored at 100% charge in a hot garage. Store yours at 50–80% in a cool room and you'll do better. Realistic expectation: **about 10 years of useful service**, after which the station still works — it just holds less. There's no engine to wear out, no oil, no carburetor; the battery fade is the whole story. I run the station-versus-fuel comparison in full in [home battery vs generator](/articles/home-battery-vs-generator/).
+**Calendar life.** All lithium batteries age sitting on the shelf, roughly 2–3% capacity a year, faster if stored at 100% charge in a hot garage. Store yours at 50–80% in a cool room and you'll do better. Realistic expectation: **about 10 years of useful service**, after which the station still works — it just holds less. There's no engine to wear out, no oil, no carburetor; the battery fade is the whole story. I run the station-versus-fuel comparison in full in [home battery vs generator](/articles/home-battery-vs-generator).
 
 ## What does it cost versus a standby generator?
 
@@ -93,7 +93,7 @@ Two different clocks are ticking:
 | Noise / indoor use | silent, safe indoors | loud, outdoor only |
 | Moving house | unplug it and take it | it stays with the house |
 
-Our [whole-house generator cost guide](/articles/whole-house-generator-cost/) breaks down the standby side line by line. The short version: at whole-house scale the prices converge, and what you're really choosing is *capacity and runtime* (standby) versus *silence, portability, and zero upkeep* (solar).
+Our [whole-house generator cost guide](/articles/whole-house-generator-cost) breaks down the standby side line by line. The short version: at whole-house scale the prices converge, and what you're really choosing is *capacity and runtime* (standby) versus *silence, portability, and zero upkeep* (solar).
 
 ## How do you actually connect a station to your house?
 
@@ -115,13 +115,13 @@ After 18 years of watching outages, the setup I'd put in my own family's house �
 2. **A fuel generator handles the bulk work a few hours a day.** Well pump, AC for a stretch, laundry, water heater — and while it runs, it bulk-recharges the station through its AC input at 1,800–3,000W. Two or three hours of noise buys 24 hours of quiet.
 3. **Panels on the station stretch the fuel further.** In good sun you may skip the generator entirely some days.
 
-Each machine does the job it's good at. The station covers the loads that run all day; the generator covers the loads that are too big or too hungry for batteries. The full framework for deciding your mix is in our [complete home backup power guide](/articles/complete-home-backup-power-guide/).
+Each machine does the job it's good at. The station covers the loads that run all day; the generator covers the loads that are too big or too hungry for batteries. The full framework for deciding your mix is in our [complete home backup power guide](/articles/complete-home-backup-power-guide).
 
 So, can a solar generator power a whole house? The house you actually live in during an outage — the cold fridge, the working furnace, the CPAP at night — yes, and it does it beautifully. The house with the AC cranking, the dryer tumbling, and the oven on, all from one battery box? No. And anyone who tells you otherwise is selling something.
 
 ## Keep reading
 
-- [Portable Power Stations for Home Backup: Sizes, Runtimes, and What They Run](/articles/portable-power-stations-home-backup/)
-- [Home Battery vs Generator: Which Backup Is Right for You?](/articles/home-battery-vs-generator/)
-- [Can a Solar Generator Run a Refrigerator?](/articles/can-a-solar-generator-run-a-refrigerator/)
-- [Whole-House Generator Cost: What You'll Actually Pay](/articles/whole-house-generator-cost/)
+- [Portable Power Stations for Home Backup: Sizes, Runtimes, and What They Run](/articles/portable-power-stations-home-backup)
+- [Home Battery vs Generator: Which Backup Is Right for You?](/articles/home-battery-vs-generator)
+- [Can a Solar Generator Run a Refrigerator?](/articles/can-a-solar-generator-run-a-refrigerator)
+- [Whole-House Generator Cost: What You'll Actually Pay](/articles/whole-house-generator-cost)

@@ -33,7 +33,7 @@ A Firman that won't start is almost never a dead Firman. These are simple single
 | 8 | Battery (electric start) | Click or silence on the button; recoil works | Charge, clean terminals, or replace the battery | 15 min |
 | 9 | Fuel filter / lines | Starts, starves, and dies under load | Clean or replace the inline filter; check line kinks | 15 min |
 
-This guide covers gasoline and dual-fuel Firman portables. If your unit starts and then dies within a few minutes, that's a related but different fault tree — see our [generator starts then dies guide](/articles/generator-starts-then-dies/), and for brand-neutral theory, our [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting/).
+This guide covers gasoline and dual-fuel Firman portables. If your unit starts and then dies within a few minutes, that's a related but different fault tree — see our [generator starts then dies guide](/articles/generator-starts-then-dies), and for brand-neutral theory, our [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting).
 
 <div class="safety"><strong>Safety note:</strong> Do all of this outdoors, never in a garage — a generator that suddenly catches while you're cranking it produces carbon monoxide immediately. Let the engine cool before draining fuel, keep gasoline away from the hot muffler, and remove and ground the spark plug wire before working near the flywheel or recoil starter.</div>
 
@@ -49,7 +49,7 @@ Firman specifies **clean, fresh, unleaded gasoline, minimum 87 octane (87 AKI / 
 
 The test is simple: if it fires on a short shot of starting fluid (or a teaspoon of fresh gas down the carb throat) and dies, fuel delivery or fuel quality is your problem. Firman's own correction for stale gasoline is to **drain the fuel tank and the carburetor and refill with fresh gasoline** — not to add fresh on top of old, which just dilutes the varnish. While you're there, drain the carburetor bowl through its drain screw and catch what comes out: cloudy, dark, or water-beaded fuel confirms the diagnosis.
 
-Prevention lives in our [generator maintenance checklist](/articles/generator-maintenance-checklist/): stabilizer in every tank you won't burn within a month, or drain the system for storage.
+Prevention lives in our [generator maintenance checklist](/articles/generator-maintenance-checklist): stabilizer in every tank you won't burn within a month, or drain the system for storage.
 
 ## Is the low-oil sensor stopping you?
 
@@ -77,7 +77,7 @@ Pull the plug — Firman includes the wrench in the tool kit. You're looking for
 - **Gap:** **0.028–0.031 inches (0.7–0.8 mm)** per Firman's maintenance section. Check with a feeler gauge; a gap that's closed up from a dropped plug is a classic no-spark cause.
 - **Spark test:** Reconnect the boot, hold the plug's threads against a bare metal engine surface, and pull the starter (or crank electric start). You want a fat blue spark. No spark with a known-good plug points at the ignition coil or the low-oil switch circuit — go back and re-verify the oil level first, because the sensor kills spark by design.
 
-Replacement plugs are specified by name in the manual: **Torch F6RTC, NGK BPR6ES, or Champion RN9YC** — all equivalents, all cheap, all stocked at any auto parts store. Thread by hand until seated to avoid cross-threading, then snug with the wrench. (Our [Predator generator won't start guide](/articles/predator-generator-wont-start/) covers the same plug-first method on Harbor Freight's engines — the engines are cousins, and so are their faults.)
+Replacement plugs are specified by name in the manual: **Torch F6RTC, NGK BPR6ES, or Champion RN9YC** — all equivalents, all cheap, all stocked at any auto parts store. Thread by hand until seated to avoid cross-threading, then snug with the wrench. (Our [Predator generator won't start guide](/articles/predator-generator-wont-start) covers the same plug-first method on Harbor Freight's engines — the engines are cousins, and so are their faults.)
 
 ## Is the carburetor gummed up?
 

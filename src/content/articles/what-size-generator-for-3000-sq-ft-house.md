@@ -28,7 +28,7 @@ Here's the proof. Take two 3000 sq ft houses:
 - **House A (mostly gas):** Gas furnace, gas tank water heater, gas stove and dryer, one 4-ton AC. Its biggest electric draws are the AC (about 4,200W running) and the furnace blower (800W). A bad-moment peak — AC running, fridge cycling, lights, TV, microwave — is around **13–15 kW**.
 - **House B (all-electric):** Two heat pumps with auxiliary heat strips, an electric water heater, electric range and dryer, and a pool. When it's 25°F out and both heat pumps call for aux heat (10 kW of strips *each* is common), that house can demand **35 kW or more** without anyone doing anything unusual.
 
-Same square footage. One needs a generator less than half the size of the other. This is why I tell people to read my general method in [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/) and then apply the 3000 sq ft specifics below — the fuel split between gas and electric is the single biggest variable in this entire calculation, bigger than the house itself.
+Same square footage. One needs a generator less than half the size of the other. This is why I tell people to read my general method in [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house) and then apply the 3000 sq ft specifics below — the fuel split between gas and electric is the single biggest variable in this entire calculation, bigger than the house itself.
 
 Square footage does predict *some* things, though. A 3000 sq ft house almost always has a bigger AC load, more bathrooms, and more "house systems" than a 1500 sq ft house. Let's inventory what that actually looks like.
 
@@ -66,7 +66,7 @@ Notice the pattern: two loads dominate everything — **air conditioning and ele
 
 A big dual-fuel portable on a 50-amp inlet with an interlock kit will run a 3000 sq ft house *selectively*: fridge, lights, devices, gas furnace blower, one AC system **if** it has a soft starter (more on that below), and the pool pump — just not all at once, and not the upstairs AC at the same time as the downstairs one. You're the load manager, walking to the panel and choosing.
 
-This tier works because most outages are about comfort and food, not about living like the grid never failed. Installed cost with the inlet and interlock: roughly **$1,500–3,000 all-in** including the generator. For the full cost picture by approach, see [Whole-House Generator Cost: Standby, Portable & Battery Compared](/articles/whole-house-generator-cost/).
+This tier works because most outages are about comfort and food, not about living like the grid never failed. Installed cost with the inlet and interlock: roughly **$1,500–3,000 all-in** including the generator. For the full cost picture by approach, see [Whole-House Generator Cost: Standby, Portable & Battery Compared](/articles/whole-house-generator-cost).
 
 ### Tier 2: Whole-house standby — 22–26 kW (the common install)
 
@@ -84,7 +84,7 @@ Your 4-ton downstairs unit wants up to **14,000 surge watts** for the second it 
 
 There are three fixes, in the order I recommend them:
 
-1. **Soft starters on both units.** A MicroAir EasyStart (about **$300–400 installed per unit**) cuts compressor inrush by 65–75%. Your 14,000W surge becomes roughly 4,500W. This one change does more for a dual-AC house than jumping a full generator size. I go deep on this in [What Size Generator to Run a 5-Ton AC Unit](/articles/what-size-generator-to-run-5-ton-ac-unit/) — the tonnage math is the same logic, scaled.
+1. **Soft starters on both units.** A MicroAir EasyStart (about **$300–400 installed per unit**) cuts compressor inrush by 65–75%. Your 14,000W surge becomes roughly 4,500W. This one change does more for a dual-AC house than jumping a full generator size. I go deep on this in [What Size Generator to Run a 5-Ton AC Unit](/articles/what-size-generator-to-run-5-ton-ac-unit) — the tonnage math is the same logic, scaled.
 2. **Load-shed modules.** Standby load management modules (Generac's are about **$150–250 each**) monitor generator load and temporarily drop an AC, the dryer, or the pool pump for the seconds a compressor is starting, then restore it. From inside the house, you notice nothing.
 3. **A delay/stagger timer.** The upstairs thermostat gets a 5-minute start delay after power transfer. Crude, cheap, effective.
 
@@ -100,7 +100,7 @@ Let me run the numbers on a composite of a house I quote about twice a month —
 
 **The same house, managed:** Soft starters on both ACs (surges now 4,500W and 3,000W), load-shed module pauses the pool pump and water heater during compressor starts. Worst second is now roughly **21–22 kW for a fraction of a second** — inside what a 26 kW delivers without breaking a sweat, and even the 22 kW survives it in practice. That's the whole game at this house size: *manage the seconds, and the hours take care of themselves.*
 
-If you're stepping down from this profile rather than up, my [guide to sizing for a 2000 sq ft house](/articles/what-size-generator-for-2000-sq-ft-house/) covers the single-system version of the same math.
+If you're stepping down from this profile rather than up, my [guide to sizing for a 2000 sq ft house](/articles/what-size-generator-for-2000-sq-ft-house) covers the single-system version of the same math.
 
 ## Isn't the pool pump just one more load? No — it's the forgotten one
 
@@ -118,7 +118,7 @@ And the hot tub, since someone always asks: a spa heater is typically **5,500W**
 
 Sizing doesn't end at watts — a 26 kW that empties its tank in a day and a half is a problem wearing a solution's clothes. At a realistic 50–75% load, a 26 kW propane standby burns roughly **2.5–3 gallons an hour**. Run the math on a standard 250-gallon tank: about 200 usable gallons (tanks fill to 80%) gets you **65–80 hours** — three solid days of continuous running, or a week or more if you shut down overnight and during mild stretches, which you should; generators don't need to run 24/7 to keep a house safe.
 
-If your house lands in this tier, tank size is part of the generator decision, not an afterthought. I worked the runtime numbers for common tank sizes in [How Long Will a Generator Run on a 250-Gallon Propane Tank?](/articles/how-long-generator-run-on-250-gallon-propane-tank/) — on natural gas, of course, none of this applies and runtime is effectively unlimited, which is one reason gas-line homes have an easier time at this scale.
+If your house lands in this tier, tank size is part of the generator decision, not an afterthought. I worked the runtime numbers for common tank sizes in [How Long Will a Generator Run on a 250-Gallon Propane Tank?](/articles/how-long-generator-run-on-250-gallon-propane-tank) — on natural gas, of course, none of this applies and runtime is effectively unlimited, which is one reason gas-line homes have an easier time at this scale.
 
 ## So what's the bottom line for 3000 sq ft?
 
@@ -131,8 +131,8 @@ The pattern across 18 years of these installs: the homeowners who are happy duri
 
 ## Keep reading
 
-- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)
-- [What Size Generator for a 2000 Sq Ft House?](/articles/what-size-generator-for-2000-sq-ft-house/)
-- [What Size Generator to Run a 5-Ton AC Unit](/articles/what-size-generator-to-run-5-ton-ac-unit/)
-- [Whole-House Generator Cost: Standby, Portable & Battery Compared](/articles/whole-house-generator-cost/)
-- [How Long Will a Generator Run on a 250-Gallon Propane Tank?](/articles/how-long-generator-run-on-250-gallon-propane-tank/)
+- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house)
+- [What Size Generator for a 2000 Sq Ft House?](/articles/what-size-generator-for-2000-sq-ft-house)
+- [What Size Generator to Run a 5-Ton AC Unit](/articles/what-size-generator-to-run-5-ton-ac-unit)
+- [Whole-House Generator Cost: Standby, Portable & Battery Compared](/articles/whole-house-generator-cost)
+- [How Long Will a Generator Run on a 250-Gallon Propane Tank?](/articles/how-long-generator-run-on-250-gallon-propane-tank)

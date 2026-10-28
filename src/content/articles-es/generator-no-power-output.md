@@ -26,7 +26,7 @@ Todo lo que sigue a la primera revisión implica probar una máquina que está *
 
 - **Prueba tu medidor antes y después (vivo-muerto-vivo).** Revísalo en un contacto que sepas vivo, haz tus lecturas y vuelve a revisarlo. Un medidor con el fusible fundido lee 0V en todo.
 - **Una mano en el bolsillo** al medir en un generador trabajando, y trabaja solo en **suelo seco, con las manos secas y sin joyería**. Nada de pruebas bajo la lluvia.
-- **Nunca retroalimentes (backfeed).** Trabaja con el generador desconectado de la casa, o conectado solo mediante un [transfer switch o kit de interlock](/es/articles/transfer-switch-vs-interlock-kit/) adecuado.
+- **Nunca retroalimentes (backfeed).** Trabaja con el generador desconectado de la casa, o conectado solo mediante un [transfer switch o kit de interlock](/es/articles/transfer-switch-vs-interlock-kit) adecuado.
 - **Los capacitores guardan carga después del apagado.** El paso de descarga está en la sección del capacitor. No te lo saltes.
 - **Conoce tu punto de parada.** Si algo aquí te incomoda, detente. Un taller cobra $75–150 por diagnosticar esta falla. Barato.
 
@@ -45,7 +45,7 @@ Con el breaker descartado, arranca el generador sin nada conectado. Pon el mult�
 - **Voltaje que oscila salvajemente** — 60, luego 180, luego 90. Si la aguja baila al ritmo de un motor que oscila, eso es velocidad del motor; un motor estable con voltaje bailando es un AVR hasta demostrar lo contrario.
 - **120/240V completos en el panel, pero un contacto muerto.** El alternador está bien: breakers, un contacto dañado o cableado. En una unidad de reserva, voltaje completo en la máquina y nada en la casa significa que el transfer switch no transfirió (abajo).
 
-Si tu generador más bien muere por completo bajo carga, esa es otra falla: recorre [por qué un generador se apaga solo](/es/articles/generator-keeps-shutting-off/). **Costo:** $0. **Hazlo tú mismo:** sí.
+Si tu generador más bien muere por completo bajo carga, esa es otra falla: recorre [por qué un generador se apaga solo](/es/articles/generator-keeps-shutting-off). **Costo:** $0. **Hazlo tú mismo:** sí.
 
 ## ¿Es un generador inverter que disparó su sobrecarga?
 
@@ -65,7 +65,7 @@ Un cabezal de alternador convencional necesita una pequeña cantidad de *magneti
 
 **El método del taladro (sin desarmar).** Conecta un taladro *con cable* — tiene que ser con cable — a un contacto, con el selector de dirección hacia adelante. Arranca el generador, aprieta y mantén el gatillo, y gira el mandril con fuerza y rapidez con la mano en el sentido de avance. El motor del taladro girando retroalimenta un pulso que excita el campo. Agárralo firme con las dos manos; cuando el campo se activa, el taladro intenta arrancar en tu mano.
 
-**Costo:** $0. **Hazlo tú mismo:** sí, si te sientes cómodo identificando los cables del campo y trabajando junto a un motor en marcha con la tapa quitada; si no, los $75–150 del taller están bien gastados. Si el campo muere otra vez tras cada guardado, prevénlo con una corrida mensual con carga: la rutina de la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/).
+**Costo:** $0. **Hazlo tú mismo:** sí, si te sientes cómodo identificando los cables del campo y trabajando junto a un motor en marcha con la tapa quitada; si no, los $75–150 del taller están bien gastados. Si el campo muere otra vez tras cada guardado, prevénlo con una corrida mensual con carga: la rutina de la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist).
 
 ## ¿Está muerto el AVR?
 
@@ -81,7 +81,7 @@ El regulador automático de voltaje es una tarjetita electrónica sellada dentro
 
 No todos los cabezales tienen escobillas — los diseños sin escobillas excitan mediante rectificadores rotativos — pero la mayoría de los portátiles convencionales y las reservas viejas alimentan el rotor a través de escobillas de carbón que rozan sobre anillos colectores. El carbón se gasta por diseño; cuando se acaba, la corriente de campo se detiene.
 
-**Síntomas:** Salida que se fue debilitando o se volvió intermitente antes de morir, a veces con chisporroteo visible en el portaescobillas. Las candidatas principales son las unidades de muchas horas: las escobillas duran 300–500 horas, así que un portátil de 600 horas sin salida está contando una historia de desgaste — mira [cuánto duran realmente los generadores](/es/articles/how-long-do-generators-last/).
+**Síntomas:** Salida que se fue debilitando o se volvió intermitente antes de morir, a veces con chisporroteo visible en el portaescobillas. Las candidatas principales son las unidades de muchas horas: las escobillas duran 300–500 horas, así que un portátil de 600 horas sin salida está contando una historia de desgaste — mira [cuánto duran realmente los generadores](/es/articles/how-long-do-generators-last).
 
 **Revisión y solución:** Motor apagado, tapa final fuera, abre las tapas de resorte del portaescobillas junto al rodamiento del rotor. Las escobillas nuevas miden 12–18 mm; con menos de unos 6 mm (más o menos 1/4 de pulgada), agrietadas o con un resorte blando, están acabadas: cambia el par completo, **$10–25**. Las nuevas deben deslizarse libres en sus guías; una que se atora es una futura falla de cero salida. Revisa los anillos colectores: lisos y cobrizos está bien; ranuras profundas o manchas quemadas significan rectificado — ahí termina el hazlo-tú-mismo.
 
@@ -135,8 +135,8 @@ Un motor que trabaja sin generar no es un generador muerto. Es un buen motor esp
 
 ## Sigue leyendo
 
-- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting/)
-- [El generador se apaga solo: causas y soluciones](/es/articles/generator-keeps-shutting-off/)
-- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist/)
-- [Transfer switch vs kit de interlock: cuál es más seguro y legal](/es/articles/transfer-switch-vs-interlock-kit/)
-- [¿Cuánto duran los generadores? Vida útil real por tipo](/es/articles/how-long-do-generators-last/)
+- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting)
+- [El generador se apaga solo: causas y soluciones](/es/articles/generator-keeps-shutting-off)
+- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist)
+- [Transfer switch vs kit de interlock: cuál es más seguro y legal](/es/articles/transfer-switch-vs-interlock-kit)
+- [¿Cuánto duran los generadores? Vida útil real por tipo](/es/articles/how-long-do-generators-last)

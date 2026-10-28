@@ -29,7 +29,7 @@ Aquí está la prueba. Toma dos casas de 3000 pies cuadrados:
 - **Casa A (casi todo a gas):** Calefacción a gas, calentador de tanque a gas, estufa y secadora a gas, un solo aire de 4 toneladas. Sus consumos eléctricos grandes son el aire (unos 4.200 W en marcha) y el ventilador de la calefacción (800 W). Un pico en un mal momento — aire trabajando, refrigerador en ciclo, luces, TV, microondas — anda por los **13–15 kW**.
 - **Casa B (totalmente eléctrica):** Dos bombas de calor con resistencias eléctricas auxiliares, calentador de agua eléctrico, cocina y secadora eléctricas, y una piscina. Cuando afuera hay -4 °C y las dos bombas de calor piden calor auxiliar (10 kW de resistencias *cada una* es común), esa casa puede demandar **35 kW o más** sin que nadie haga nada raro.
 
-Mismos pies cuadrados. Una necesita un generador de menos de la mitad que la otra. Por eso le digo a la gente que lea mi método general en [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/) y luego aplique los detalles de los 3000 pies cuadrados de abajo: la división entre gas y electricidad es la variable más grande de todo este cálculo, más grande que la casa misma.
+Mismos pies cuadrados. Una necesita un generador de menos de la mitad que la otra. Por eso le digo a la gente que lea mi método general en [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house) y luego aplique los detalles de los 3000 pies cuadrados de abajo: la división entre gas y electricidad es la variable más grande de todo este cálculo, más grande que la casa misma.
 
 Dicho eso, los pies cuadrados sí predicen algunas cosas. Una casa de 3000 pies cuadrados casi siempre tiene más carga de aire acondicionado, más baños y más "sistemas de la casa" que una de 1500. Vamos a inventariar cómo se ve eso en la práctica.
 
@@ -67,7 +67,7 @@ Fíjate en el patrón: dos cargas dominan todo — **el aire acondicionado y el 
 
 Un portátil grande dual fuel en una toma de 50 amperios con kit de interlock va a manejar una casa de 3000 pies cuadrados *de forma selectiva*: refrigerador, luces, aparatos, ventilador de la calefacción a gas, un sistema de aire **si** tiene arranque suave (más de eso abajo), y la bomba de la piscina — solo que no todo a la vez, y no el aire de arriba al mismo tiempo que el de abajo. Tú eres el gestor de cargas, caminando al panel y eligiendo.
 
-Este nivel funciona porque la mayoría de los apagones son cosa de comodidad y comida, no de vivir como si la red nunca hubiera fallado. Costo instalado: más o menos **$1.500–3.000 en total**, generador incluido. Para el panorama completo de costos, mira [Costo de un generador para toda la casa](/es/articles/whole-house-generator-cost/).
+Este nivel funciona porque la mayoría de los apagones son cosa de comodidad y comida, no de vivir como si la red nunca hubiera fallado. Costo instalado: más o menos **$1.500–3.000 en total**, generador incluido. Para el panorama completo de costos, mira [Costo de un generador para toda la casa](/es/articles/whole-house-generator-cost).
 
 ### Nivel 2: Reserva para toda la casa — 22–26 kW (la instalación común)
 
@@ -85,7 +85,7 @@ Tu unidad de abajo de 4 toneladas quiere hasta **14.000 vatios de arranque** dur
 
 Hay tres soluciones, en el orden en que las recomiendo:
 
-1. **Arranques suaves en las dos unidades.** Un MicroAir EasyStart (como **$300–400 instalado por unidad**) recorta la corriente de arranque del compresor un 65–75%. Tu picotazo de 14.000 W se vuelve de unos 4.500 W. Este único cambio hace más por una casa de doble aire que brincar un tamaño completo de generador. Profundizo en esto en [¿Qué tamaño de generador para un aire de 5 toneladas?](/es/articles/what-size-generator-to-run-5-ton-ac-unit/) — las cuentas por tonelaje son la misma lógica, a escala.
+1. **Arranques suaves en las dos unidades.** Un MicroAir EasyStart (como **$300–400 instalado por unidad**) recorta la corriente de arranque del compresor un 65–75%. Tu picotazo de 14.000 W se vuelve de unos 4.500 W. Este único cambio hace más por una casa de doble aire que brincar un tamaño completo de generador. Profundizo en esto en [¿Qué tamaño de generador para un aire de 5 toneladas?](/es/articles/what-size-generator-to-run-5-ton-ac-unit) — las cuentas por tonelaje son la misma lógica, a escala.
 2. **Módulos de desconexión de cargas.** Los módulos de gestión de los generadores de reserva (los de Generac cuestan como **$150–250 cada uno**) vigilan la carga del generador y sueltan temporalmente un aire, la secadora o la bomba de la piscina por los segundos en que un compresor está arrancando, y luego lo restablecen. Desde adentro de la casa, no notas nada.
 3. **Un temporizador de retraso/escalonamiento.** El termostato de arriba recibe un retraso de 5 minutos después de la transferencia de energía. Crudo, barato, efectivo.
 
@@ -101,7 +101,7 @@ Vamos a correr los números de una casa compuesta que presupuesto como dos veces
 
 **La misma casa, gestionada:** Arranques suaves en los dos aires (los picotazos ahora son 4.500 W y 3.000 W) y un módulo que pausa la bomba y el calentador durante los arranques. El peor segundo baja a unos **21–22 kW por una fracción de segundo** — dentro de lo que un 26 kW entrega sin despeinarse. Ese es todo el juego en este tamaño de casa: *gestiona los segundos, y las horas se cuidan solas.*
 
-Si vienes bajando desde este perfil, mi [guía para una casa de 2000 pies cuadrados](/es/articles/what-size-generator-for-2000-sq-ft-house/) cubre la versión de un solo sistema de las mismas cuentas.
+Si vienes bajando desde este perfil, mi [guía para una casa de 2000 pies cuadrados](/es/articles/what-size-generator-for-2000-sq-ft-house) cubre la versión de un solo sistema de las mismas cuentas.
 
 ## ¿La bomba de la piscina no es solo una carga más? No — es la olvidada
 
@@ -119,7 +119,7 @@ Y el jacuzzi, porque alguien siempre pregunta: el calentador de un spa típicame
 
 El dimensionado no termina en los vatios — un 26 kW que vacía su tanque en día y medio es un problema con disfraz de solución. A una carga realista del 50–75%, un reserva de 26 kW a propano quema aproximadamente **2,5–3 galones por hora**. Corre las cuentas con un tanque estándar de 250 galones: unos 200 galones útiles (los tanques se llenan al 80%) te dan **65–80 horas** — tres días sólidos de funcionamiento continuo, o una semana o más si apagas de noche y en los ratos templados, que deberías hacerlo; los generadores no necesitan trabajar 24/7 para mantener una casa segura.
 
-Si tu casa cae en este nivel, el tamaño del tanque es parte de la decisión del generador, no un detalle posterior. Trabajé los números de autonomía para los tamaños de tanque comunes en [¿Cuánto dura un generador con un tanque de propano de 250 galones?](/es/articles/how-long-generator-run-on-250-gallon-propane-tank/) — con gas natural, claro, nada de esto aplica y la autonomía es en la práctica ilimitada, que es una razón por la que las casas con línea de gas la tienen más fácil a esta escala.
+Si tu casa cae en este nivel, el tamaño del tanque es parte de la decisión del generador, no un detalle posterior. Trabajé los números de autonomía para los tamaños de tanque comunes en [¿Cuánto dura un generador con un tanque de propano de 250 galones?](/es/articles/how-long-generator-run-on-250-gallon-propane-tank) — con gas natural, claro, nada de esto aplica y la autonomía es en la práctica ilimitada, que es una razón por la que las casas con línea de gas la tienen más fácil a esta escala.
 
 ## Entonces, ¿cuál es la conclusión para 3000 pies cuadrados?
 
@@ -132,8 +132,8 @@ El patrón en 18 años de instalaciones: los dueños contentos durante los apago
 
 ## Sigue leyendo
 
-- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house/)
-- [¿Qué tamaño de generador para una casa de 2000 pies cuadrados?](/es/articles/what-size-generator-for-2000-sq-ft-house/)
-- [¿Qué tamaño de generador para un aire de 5 toneladas?](/es/articles/what-size-generator-to-run-5-ton-ac-unit/)
-- [Costo de un generador para toda la casa: reserva, portátil y batería comparados](/es/articles/whole-house-generator-cost/)
-- [¿Cuánto dura un generador con un tanque de propano de 250 galones?](/es/articles/how-long-generator-run-on-250-gallon-propane-tank/)
+- [¿Qué tamaño de generador necesito para mi casa?](/es/articles/what-size-generator-run-house)
+- [¿Qué tamaño de generador para una casa de 2000 pies cuadrados?](/es/articles/what-size-generator-for-2000-sq-ft-house)
+- [¿Qué tamaño de generador para un aire de 5 toneladas?](/es/articles/what-size-generator-to-run-5-ton-ac-unit)
+- [Costo de un generador para toda la casa: reserva, portátil y batería comparados](/es/articles/whole-house-generator-cost)
+- [¿Cuánto dura un generador con un tanque de propano de 250 galones?](/es/articles/how-long-generator-run-on-250-gallon-propane-tank)

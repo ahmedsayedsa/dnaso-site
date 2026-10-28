@@ -34,7 +34,7 @@ Sanity-check that against what manufacturers print: a 5500 with a 6–7 gallon t
 
 One thing that surprises people: the engine doesn't sip proportionally at light load. Drop from half load to quarter load and you save maybe a third of the fuel, not half. A conventional generator's engine turns 3,600 RPM whether it's making 5,000 watts or 500, and a good chunk of every gallon goes to spinning the engine itself, not your house. That's the physics you can't shop your way around in this class of machine. (Inverters are the exception — they throttle down at light load — which is why the comparison further down isn't flattering to the big conventional units.)
 
-If you want the same tables for every size and fuel type, our full [generator fuel consumption guide](/articles/generator-fuel-consumption/) has them.
+If you want the same tables for every size and fuel type, our full [generator fuel consumption guide](/articles/generator-fuel-consumption) has them.
 
 ## How long will a tank actually last during an outage?
 
@@ -62,7 +62,7 @@ Because of where a real house's load actually sits. Add up honest outage loads:
 - Router, TV, chargers, laptop: 150–250 W
 - Sump pump: 800–1,050 W when it's actually pumping, which is minutes per hour
 
-Steady-state, most homes idle along at **1,500–2,500 watts** — that's 27–45% of a 5500. The machine spends its life loafing in the efficient-enough zone, burning about half a gallon an hour, with surge headroom left over for the fridge compressor, the pump, and a microwave (1,000–1,200 W) all kicking at once. Go smaller and you're tripping breakers at breakfast. Go bigger and you're feeding a bigger engine to make the same 2,000 watts. We walk through the surge math appliance-by-appliance in [what a 7500-watt generator can run](/articles/what-can-7500-watt-generator-run/) — the same logic applies, just scaled down.
+Steady-state, most homes idle along at **1,500–2,500 watts** — that's 27–45% of a 5500. The machine spends its life loafing in the efficient-enough zone, burning about half a gallon an hour, with surge headroom left over for the fridge compressor, the pump, and a microwave (1,000–1,200 W) all kicking at once. Go smaller and you're tripping breakers at breakfast. Go bigger and you're feeding a bigger engine to make the same 2,000 watts. We walk through the surge math appliance-by-appliance in [what a 7500-watt generator can run](/articles/what-can-7500-watt-generator-run) — the same logic applies, just scaled down.
 
 My honest opinion, and I tell customers this even when they came in wanting the big one: for a house on city water with gas heat, a 5500 is the largest generator that still makes economic sense, and fuel burn is exactly why.
 
@@ -76,9 +76,9 @@ The fair comparison isn't each machine at its own 50% — it's all three feeding
 | 5,500 W conventional | ~0.35–0.40 gal/hr | ~0.60 gal/hr |
 | 7,500 W conventional | ~0.45 gal/hr | ~0.75 gal/hr |
 
-Two lessons. First, the 7500's bigger engine (typically 420cc+) costs you roughly **0.15 gal/hr extra at the same load** — over a 72-hour outage that's about 10 gallons, two extra gas cans, for capacity most homes never use. Our by-the-hour breakdown for the big unit is in [how much gas a 7500W generator uses](/articles/how-much-gas-does-7500w-generator-use/).
+Two lessons. First, the 7500's bigger engine (typically 420cc+) costs you roughly **0.15 gal/hr extra at the same load** — over a 72-hour outage that's about 10 gallons, two extra gas cans, for capacity most homes never use. Our by-the-hour breakdown for the big unit is in [how much gas a 7500W generator uses](/articles/how-much-gas-does-7500w-generator-use).
 
-Second, look at the inverter at light load. An inverter like a 2,000-watt unit throttles its engine down when demand drops, so sipping along at 1,000 watts it burns half what the 5500 does — and its little 1-gallon tank still lasts 4–5 hours. If your outage plan is fridge, lights, and internet and nothing with a motor bigger than a box fan, the inverter wins on fuel and it isn't close; [our 2000W consumption numbers](/articles/how-much-gas-does-2000w-generator-use/) show a full day on under 5 gallons. The 5500 earns its fuel bill the moment a furnace blower, well pump, or sump pump enters the picture — those starting surges are what the small machines can't swallow.
+Second, look at the inverter at light load. An inverter like a 2,000-watt unit throttles its engine down when demand drops, so sipping along at 1,000 watts it burns half what the 5500 does — and its little 1-gallon tank still lasts 4–5 hours. If your outage plan is fridge, lights, and internet and nothing with a motor bigger than a box fan, the inverter wins on fuel and it isn't close; [our 2000W consumption numbers](/articles/how-much-gas-does-2000w-generator-use) show a full day on under 5 gallons. The 5500 earns its fuel bill the moment a furnace blower, well pump, or sump pump enters the picture — those starting surges are what the small machines can't swallow.
 
 ## What if yours is dual fuel — how much propane does it burn?
 
@@ -87,7 +87,7 @@ Propane carries less energy per gallon than gasoline — about 91,500 BTU versus
 - At 50% load on propane: roughly **0.75–0.85 gal/hr**
 - A standard 20-lb grill tank holds about 4.6 gallons of propane, so you're looking at **5–6.5 hours** at half load per tank — versus 10–12 hours from the gasoline tank the machine came with.
 
-That sounds like a loss, and on runtime it is. But propane doesn't go stale, doesn't gum a carburetor, and a spare tank stores forever in the corner of the garage. My usual advice: run gasoline as the primary fuel during an outage, keep propane as the reserve you never have to worry about, and start the machine on propane every few months so the regulator and hoses stay honest. The full fuel-by-fuel comparison is in the [fuel consumption guide](/articles/generator-fuel-consumption/).
+That sounds like a loss, and on runtime it is. But propane doesn't go stale, doesn't gum a carburetor, and a spare tank stores forever in the corner of the garage. My usual advice: run gasoline as the primary fuel during an outage, keep propane as the reserve you never have to worry about, and start the machine on propane every few months so the regulator and hoses stay honest. The full fuel-by-fuel comparison is in the [fuel consumption guide](/articles/generator-fuel-consumption).
 
 ## How can you measure what *your* 5500 actually burns?
 
@@ -106,7 +106,7 @@ A few things that genuinely work, in order of payoff:
 
 1. **Cut the load, not the hours.** Every sustained 500 watts you remove saves roughly 0.05–0.08 gal/hr. The electric water heater and the dryer are the two loads that quietly eat a fuel can; skip both during an outage.
 2. **Cycle it.** As above — the fridge doesn't need the compressor fed 24/7 to stay cold. This is the single biggest saver.
-3. **Keep the air filter clean and the oil fresh.** A clogged filter richens the mixture and I regularly see 5–10% worse consumption on neglected machines. It's a two-minute check in our [generator maintenance checklist](/articles/generator-maintenance-checklist/).
+3. **Keep the air filter clean and the oil fresh.** A clogged filter richens the mixture and I regularly see 5–10% worse consumption on neglected machines. It's a two-minute check in our [generator maintenance checklist](/articles/generator-maintenance-checklist).
 4. **Don't chase an inverter's numbers.** If you find yourself consistently under 1,000 watts, the right answer is a smaller second machine for light duty, not tricks to make a 5500 sip.
 
 What doesn't work: fuel additives promising big efficiency gains, and "economy" throttle switches on conventional units that mostly just lower your voltage headroom. Spend that money on another gas can instead — stored with stabilizer, rotated into your car every six months so it never goes stale.
@@ -115,7 +115,7 @@ What doesn't work: fuel additives promising big efficiency gains, and "economy" 
 
 ## Keep reading
 
-- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption/)
-- [How Much Gas Does a 7500W Generator Use?](/articles/how-much-gas-does-7500w-generator-use/)
-- [How Much Gas Does a 2000W Generator Use?](/articles/how-much-gas-does-2000w-generator-use/)
-- [What Can a 7500-Watt Generator Run?](/articles/what-can-7500-watt-generator-run/)
+- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption)
+- [How Much Gas Does a 7500W Generator Use?](/articles/how-much-gas-does-7500w-generator-use)
+- [How Much Gas Does a 2000W Generator Use?](/articles/how-much-gas-does-2000w-generator-use)
+- [What Can a 7500-Watt Generator Run?](/articles/what-can-7500-watt-generator-run)

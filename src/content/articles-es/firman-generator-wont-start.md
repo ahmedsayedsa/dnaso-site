@@ -34,7 +34,7 @@ Un Firman que no arranca casi nunca es un Firman muerto. Son motores sencillos d
 | 8 | Batería (arranque eléctrico) | Clic o silencio al botón; la cuerda sí funciona | Cargar, limpiar terminales o cambiar la batería | 15 min |
 | 9 | Filtro / líneas de combustible | Arranca, se queda sin combustible y se apaga con carga | Limpiar o cambiar el filtro en línea; revisar dobleces | 15 min |
 
-Esta guía cubre los portátiles Firman de gasolina y dual-fuel. Si tu equipo arranca y se apaga a los pocos minutos, ese es un árbol de fallos relacionado pero distinto — consulta nuestra [guía de generador que arranca y se apaga](/es/articles/generator-starts-then-dies/), y para la teoría neutral por marca, nuestra [guía de solución de problemas de arranque](/es/articles/generator-wont-start-troubleshooting/).
+Esta guía cubre los portátiles Firman de gasolina y dual-fuel. Si tu equipo arranca y se apaga a los pocos minutos, ese es un árbol de fallos relacionado pero distinto — consulta nuestra [guía de generador que arranca y se apaga](/es/articles/generator-starts-then-dies), y para la teoría neutral por marca, nuestra [guía de solución de problemas de arranque](/es/articles/generator-wont-start-troubleshooting).
 
 <div class="safety"><strong>Nota de seguridad:</strong> Haz todo esto al aire libre, nunca en un garaje — un generador que enciende de golpe mientras le das arranque produce monóxido de carbono de inmediato. Deja enfriar el motor antes de drenar combustible, mantén la gasolina lejos del escape caliente, y retira y conecta a tierra el cable de la bujía antes de trabajar cerca del volante o del arranque de cuerda.</div>
 
@@ -50,7 +50,7 @@ Firman especifica **gasolina sin plomo limpia y fresca, mínimo 87 octanos (87 A
 
 La prueba es simple: si enciende con un toque de líquido de arranque y se apaga, tu problema es el suministro o la calidad del combustible. La corrección propia de Firman es **drenar el tanque y el carburador y rellenar con gasolina fresca** — no añadir fresca sobre la vieja, que solo diluye el barniz. Ya que estás, drena la taza del carburador por su tornillo y observa lo que sale: combustible turbio, oscuro o con gotas de agua confirma el diagnóstico.
 
-La prevención vive en nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/): estabilizador en cada tanque que no vayas a quemar en un mes, o drenar el sistema para almacenarlo.
+La prevención vive en nuestra [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist): estabilizador en cada tanque que no vayas a quemar en un mes, o drenar el sistema para almacenarlo.
 
 ## ¿El sensor de bajo aceite te está deteniendo?
 
@@ -78,7 +78,7 @@ Saca la bujía — Firman incluye la llave en el kit de herramientas. Buscas tre
 - **Calibración:** **0.028–0.031 pulgadas (0.7–0.8 mm)** según la sección de mantenimiento de Firman. Verifica con un calibrador de láminas; una calibración cerrada por una bujía que se cayó es una causa clásica de no tener chispa.
 - **Prueba de chispa:** Reconecta el capuchón, apoya la rosca contra una superficie metálica desnuda del motor y tira de la cuerda. Quieres una chispa azul y gruesa. Sin chispa con una bujía buena, el problema apunta a la bobina o al circuito del interruptor de bajo aceite — reverifica primero el nivel de aceite, porque el sensor corta la chispa por diseño.
 
-Las bujías de reemplazo están especificadas por nombre en el manual: **Torch F6RTC, NGK BPR6ES o Champion RN9YC** — todas equivalentes, todas baratas, todas disponibles en cualquier tienda de repuestos. Enróscala a mano hasta asentarla para evitar trasroscar, luego aprieta con la llave. (Nuestra [guía del generador Predator que no arranca](/es/articles/predator-generator-wont-start/) cubre el mismo método «bujía primero» en los motores de Harbor Freight — los motores son primos, y sus fallos también.)
+Las bujías de reemplazo están especificadas por nombre en el manual: **Torch F6RTC, NGK BPR6ES o Champion RN9YC** — todas equivalentes, todas baratas, todas disponibles en cualquier tienda de repuestos. Enróscala a mano hasta asentarla para evitar trasroscar, luego aprieta con la llave. (Nuestra [guía del generador Predator que no arranca](/es/articles/predator-generator-wont-start) cubre el mismo método «bujía primero» en los motores de Harbor Freight — los motores son primos, y sus fallos también.)
 
 ## ¿El carburador está tapado de barniz?
 

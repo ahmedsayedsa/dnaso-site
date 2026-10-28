@@ -40,7 +40,7 @@ Heat, fuel flow, and electrical faults fail on different clocks. Overheating and
 | Almost immediately | Dies in seconds to a minute | Different fault — see the starts-then-dies guide |
 | Standby, minutes into a run | Controller logs a fault, locks out | Coolant, oil pressure, overspeed/underspeed code |
 
-Dying in the first minute instead? That's a different fault — closed fuel valve, flooded carburetor, stale fuel — covered in [Generator Starts Then Dies](/articles/generator-starts-then-dies/) and [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting/). Mid-run shutdowns happen to engines running *well*, which makes the timing so diagnostic.
+Dying in the first minute instead? That's a different fault — closed fuel valve, flooded carburetor, stale fuel — covered in [Generator Starts Then Dies](/articles/generator-starts-then-dies) and [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting). Mid-run shutdowns happen to engines running *well*, which makes the timing so diagnostic.
 
 ## Why does it die after 10 to 20 minutes?
 
@@ -60,7 +60,7 @@ Inside the coil, thousands of turns of fine wire expand with heat. A winding wit
 
 **Fix:** replace the coil. The part runs **$25–60** for most portables (Predator, Generac GP, Westinghouse); it's a 20–30 minute job — shroud off, two bolts, set the air gap with a business card (0.010–0.014 in, check your manual). A shop charges **$150–250**. My opinion: with 500+ hours and the hot-die/cool-restart dance, don't pay for diagnosis — just replace the coil.
 
-**The other 30–60 minute cause: slow fuel starvation.** This one sounds different: the engine *fades* — RPM sags, it may surge or hunt (see [Generator Surging](/articles/generator-surging/)), then it quits. A partly clogged fuel filter, a fuel line softening and collapsing, or a tired vacuum fuel pump can pass a trickle but not full flow. Check by pulling the fuel line at the carburetor into a jar: you want a strong, steady stream, not a drip that slows to nothing. Filters are **$5–10**, a pump **$20–40**. Carburetor icing — cool, damp weather around 35–50 °F — can ice the carb throat over 30–45 minutes, but it's rare on home backup units; the giveaway is a restart after a short sit, once the ice melts.
+**The other 30–60 minute cause: slow fuel starvation.** This one sounds different: the engine *fades* — RPM sags, it may surge or hunt (see [Generator Surging](/articles/generator-surging)), then it quits. A partly clogged fuel filter, a fuel line softening and collapsing, or a tired vacuum fuel pump can pass a trickle but not full flow. Check by pulling the fuel line at the carburetor into a jar: you want a strong, steady stream, not a drip that slows to nothing. Filters are **$5–10**, a pump **$20–40**. Carburetor icing — cool, damp weather around 35–50 °F — can ice the carb throat over 30–45 minutes, but it's rare on home backup units; the giveaway is a restart after a short sit, once the ice melts.
 
 ## Why does it shut off randomly — but only under load?
 
@@ -76,7 +76,7 @@ Modern portables — Champion's CO SHIELD, Predator's CO-SENSE models, most big 
 
 Here's the scenario I keep hearing: the generator is "outside" — but in an open garage doorway, under a deck, in a carport, or on the still, downwind side of the house where exhaust pools instead of dispersing. CO builds in that pocket, the sensor does its job, and the generator shuts off after 10 minutes, or 40, or whenever the pocket fills. The owner restarts it, it shuts off again, and he goes looking for a bypass.
 
-**Do not.** Carbon monoxide is colorless, odorless, and kills people in their sleep every storm season — frequently people whose generator was "basically outside." A sensor that keeps tripping is evidence the exhaust isn't dispersing. **The fix is free: put the generator fully outdoors, at least 20 feet from the house, exhaust pointed away from windows and doors** — full placement rules are in [How Far Should a Generator Be From a House?](/articles/how-far-should-generator-be-from-house/). In most 'defective sensor' calls I've run, moving the unit into open yard ended the shutdowns permanently. If it still trips in genuinely open air, *then* suspect the sensor module — a warranty or dealer part, not a DIY bypass. There is no safe version of disabling it, full stop.
+**Do not.** Carbon monoxide is colorless, odorless, and kills people in their sleep every storm season — frequently people whose generator was "basically outside." A sensor that keeps tripping is evidence the exhaust isn't dispersing. **The fix is free: put the generator fully outdoors, at least 20 feet from the house, exhaust pointed away from windows and doors** — full placement rules are in [How Far Should a Generator Be From a House?](/articles/how-far-should-generator-be-from-house). In most 'defective sensor' calls I've run, moving the unit into open yard ended the shutdowns permanently. If it still trips in genuinely open air, *then* suspect the sensor module — a warranty or dealer part, not a DIY bypass. There is no safe version of disabling it, full stop.
 
 ## What if it's a standby generator shutting off mid-outage?
 
@@ -87,13 +87,13 @@ Standby units (Generac, Kohler, Cummins) rarely die silently — the controller 
 - **Overspeed / underspeed (RPM loss):** engine speed left its window — anything from a clogged fuel filter to a governor problem. Underspeed under heavy load with a sputtering engine points back to fuel delivery; overspeed is not a DIY repair.
 - **Exercise vs. outage behavior:** a unit that finishes its weekly exercise but dies 20 minutes into a real outage fails under *load and heat* — fuel delivery, cooling, the hot-coil pattern above. One that fails exercise at the same minute weekly has a clockwork fault; give the tech the code and the runtime.
 
-Battery and controller basics live in my [maintenance checklist](/articles/generator-maintenance-checklist/). **Don't** open the transfer switch or touch gas plumbing; a dealer diagnosis runs **$150–300** in most US markets.
+Battery and controller basics live in my [maintenance checklist](/articles/generator-maintenance-checklist). **Don't** open the transfer switch or touch gas plumbing; a dealer diagnosis runs **$150–300** in most US markets.
 
 ## How should you run the timing test?
 
 Don't guess — measure, on a day when the power is *on*. Set up exactly as in an outage — same spot, same cords, realistic loads — start a stopwatch, and log the shutdown: minutes run, loads on, weather and wind. The second it dies, run the hot checks (cap hiss, spark while hot, tripped breaker, standby fault code), then try an immediate restart. Starts and runs another cycle? Vent, overload, or CO placement. Dead until it cools? The coil.
 
-One honest test afternoon beats three outage-night panics. Prevention is boring: fresh fuel, oil on schedule, a clean filter, a monthly loaded run — the routine in the [storm preparedness checklist](/articles/storm-preparedness-checklist/).
+One honest test afternoon beats three outage-night panics. Prevention is boring: fresh fuel, oil on schedule, a clean filter, a monthly loaded run — the routine in the [storm preparedness checklist](/articles/storm-preparedness-checklist).
 
 ## When should you stop and call a pro?
 
@@ -111,9 +111,9 @@ Expect **$100–175** for a diagnostic visit, with common mid-run fixes — coil
 
 ## Keep reading
 
-- [Generator Starts Then Dies: Causes in the First Minute](/articles/generator-starts-then-dies/)
-- [Generator Surging: Why RPM Hunts Up and Down](/articles/generator-surging/)
-- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting/)
-- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist/)
-- [How Far Should a Generator Be From a House?](/articles/how-far-should-generator-be-from-house/)
-- [Storm Preparedness Checklist: Before, During & After](/articles/storm-preparedness-checklist/)
+- [Generator Starts Then Dies: Causes in the First Minute](/articles/generator-starts-then-dies)
+- [Generator Surging: Why RPM Hunts Up and Down](/articles/generator-surging)
+- [Generator Won't Start? Troubleshooting in Order](/articles/generator-wont-start-troubleshooting)
+- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist)
+- [How Far Should a Generator Be From a House?](/articles/how-far-should-generator-be-from-house)
+- [Storm Preparedness Checklist: Before, During & After](/articles/storm-preparedness-checklist)

@@ -45,7 +45,7 @@ Un detector de CO es una alarma de último recurso, no un permiso. Cerca de un g
 
 Y de ventilación: ninguna cantidad de ventanas abiertas hace seguro un generador en interiores o en un balcón. La dirección del viento cambia; el CO no sale cortésmente, se mezcla. Todas las agencias de seguridad que han estudiado las muertes reales llegan al mismo lugar: **al aire libre, a 20 pies, escape lejos, o no se usa.** Si tu vivienda no puede dar eso, el generador de combustible simplemente no es tu herramienta.
 
-Para el panorama completo de distancias, síntomas y dónde poner los detectores, mira nuestra guía de [seguridad con monóxido de carbono en generadores](/es/articles/generator-carbon-monoxide-safety/): curará cualquier tentación que quede.
+Para el panorama completo de distancias, síntomas y dónde poner los detectores, mira nuestra guía de [seguridad con monóxido de carbono en generadores](/es/articles/generator-carbon-monoxide-safety): curará cualquier tentación que quede.
 
 ## ¿Qué dicen tu contrato de renta y el código de incendios?
 
@@ -63,7 +63,7 @@ El resumen honesto: vivir en apartamento es incompatible con guardar combustible
 
 ## ¿Cuál es entonces la versión de apartamento de un generador?
 
-Una **estación de energía de batería** — lo que se vende como «generador solar», aunque lo solar es opcional. Es una batería grande de litio, un inversor y contactos en una caja con asa. Sin escape, sin CO, sin ruido más allá de un ventilador, legal en un dormitorio, y se recarga en un enchufe cuando vuelve la luz. Nuestra [guía de estaciones de energía portátiles para respaldo en casa](/es/articles/portable-power-stations-home-backup/) cubre la categoría a fondo; lo que sigue es la versión específica para apartamentos.
+Una **estación de energía de batería** — lo que se vende como «generador solar», aunque lo solar es opcional. Es una batería grande de litio, un inversor y contactos en una caja con asa. Sin escape, sin CO, sin ruido más allá de un ventilador, legal en un dormitorio, y se recarga en un enchufe cuando vuelve la luz. Nuestra [guía de estaciones de energía portátiles para respaldo en casa](/es/articles/portable-power-stations-home-backup) cubre la categoría a fondo; lo que sigue es la versión específica para apartamentos.
 
 El cambio mental: un generador de gasolina se dimensiona en **vatios** (cuánto puede correr a la vez) y trabaja mientras tenga combustible. Una estación se dimensiona en **vatios-hora (Wh)**: la energía total en el tanque. Tu plan de apagón es un presupuesto de energía:
 
@@ -74,7 +74,7 @@ El cambio mental: un generador de gasolina se dimensiona en **vatios** (cuánto 
 - **Aire acondicionado de ventana:** 450–1.500 W, trabajando duro. El devorador de presupuesto — ver abajo.
 - **Microondas o cafetera:** 1.000–1.500 W, pero solo por minutos. Sin problema en ráfagas cortas; lo que te drena son las cargas *sostenidas*.
 
-Así que un día típico de apagón — refrigerador ciclando, router encendido, luces, teléfonos, laptop, CPAP en la noche — suma unos 1,3–1,6 kWh de demanda. Una estación de **1 kWh** cubre casi todo ese día; una de **2 kWh** lo cubre con comodidad, con margen para una segunda noche. Las cuentas del refrigerador a detalle están en [¿puede un generador solar mantener un refrigerador?](/es/articles/can-a-solar-generator-run-a-refrigerator/).
+Así que un día típico de apagón — refrigerador ciclando, router encendido, luces, teléfonos, laptop, CPAP en la noche — suma unos 1,3–1,6 kWh de demanda. Una estación de **1 kWh** cubre casi todo ese día; una de **2 kWh** lo cubre con comodidad, con margen para una segunda noche. Las cuentas del refrigerador a detalle están en [¿puede un generador solar mantener un refrigerador?](/es/articles/can-a-solar-generator-run-a-refrigerator).
 
 ## ¿Una estación de energía puede con el aire acondicionado?
 
@@ -112,7 +112,7 @@ Sí, por completo. Si rentas una casa unifamiliar con patio, un generador de com
 
 Entonces esto no es un tema de comodidad para ti, y yo lo planearía un nivel más en serio que los niveles de arriba:
 
-- **Dedica capacidad.** La estación de quien usa CPAP no es el cargador de teléfonos de la casa. Dimensiona una batería primero para la carga médica — nuestra [guía de energía de respaldo para CPAP](/es/articles/backup-power-cpap-machine/) hace las cuentas de vatios-hora con el humidificador encendido y apagado — y trata todo lo demás como extra.
+- **Dedica capacidad.** La estación de quien usa CPAP no es el cargador de teléfonos de la casa. Dimensiona una batería primero para la carga médica — nuestra [guía de energía de respaldo para CPAP](/es/articles/backup-power-cpap-machine) hace las cuentas de vatios-hora con el humidificador encendido y apagado — y trata todo lo demás como extra.
 - **Regístrate con tu compañía eléctrica.** La mayoría mantiene un registro médico/de cuidado crítico: aviso anticipado de apagones programados y, en muchas zonas, consideración de restauración prioritaria, además de tarifas médicas base en algunas. Registrarse es gratis y toma diez minutos, pero hay que hacerlo *antes* de la tormenta, normalmente con una nota del médico.
 - **Avísale a la administración.** Los edificios grandes suelen llevar una lista de residentes que necesitan acceso al elevador o visitas de bienestar en apagones largos. Entra en ella.
 - **Ten un plan de salida.** Una batería compra horas, o un día o dos. En apagones de varios días con un ventilador mecánico, un concentrador de oxígeno o medicamentos refrigerados, el plan tiene que terminar en un lugar con energía — familia, hospital, refugio — y el trabajo de la batería es llevarte ahí a salvo.
@@ -125,7 +125,7 @@ Pero la versión de energía de respaldo del inquilino es, en cierto modo, mejor
 
 ## Sigue leyendo
 
-- [Estaciones de energía portátiles para respaldo en casa: qué pueden correr de verdad](/es/articles/portable-power-stations-home-backup/)
-- [Seguridad con monóxido de carbono en generadores: distancias, detectores y los errores que matan](/es/articles/generator-carbon-monoxide-safety/)
-- [Energía de respaldo para una máquina CPAP: cómo dimensionar una batería que dure toda la noche](/es/articles/backup-power-cpap-machine/)
-- [¿Puede un generador solar mantener un refrigerador? Ciclos de trabajo y autonomías reales](/es/articles/can-a-solar-generator-run-a-refrigerator/)
+- [Estaciones de energía portátiles para respaldo en casa: qué pueden correr de verdad](/es/articles/portable-power-stations-home-backup)
+- [Seguridad con monóxido de carbono en generadores: distancias, detectores y los errores que matan](/es/articles/generator-carbon-monoxide-safety)
+- [Energía de respaldo para una máquina CPAP: cómo dimensionar una batería que dure toda la noche](/es/articles/backup-power-cpap-machine)
+- [¿Puede un generador solar mantener un refrigerador? Ciclos de trabajo y autonomías reales](/es/articles/can-a-solar-generator-run-a-refrigerator)

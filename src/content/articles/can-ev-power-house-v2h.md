@@ -30,7 +30,7 @@ The key word is *bidirectional*. A normal EV charger is a one-way street — pow
 
 - An EV with bidirectional-capable onboard hardware (most EVs don't have this)
 - A bidirectional charger or gateway device (different from a standard Level 2 charger)
-- An automatic transfer/islanding switch that disconnects your house from the grid during an outage — same safety concept as a [generator transfer switch](/articles/transfer-switch-vs-interlock-kit/), because backfeeding the grid can kill a lineworker
+- An automatic transfer/islanding switch that disconnects your house from the grid during an outage — same safety concept as a [generator transfer switch](/articles/transfer-switch-vs-interlock-kit), because backfeeding the grid can kill a lineworker
 
 Without the islanding hardware, V2H is a non-starter. The utility will not let your truck energize dead lines. Every legitimate V2H install includes this, and it's a big chunk of the cost.
 
@@ -102,19 +102,19 @@ This is the fun part. A truck battery dwarfs every home battery on the market. A
 
 The honest planning number I give people: **2–4 days of essential loads** from a full truck battery. That's the realistic zone — you won't run the house like nothing happened, but you'll have refrigeration, heat (gas furnace), lights, communications, and device charging for days.
 
-Two caveats from the field. First, nobody's truck sits at 100% when the outage hits — plan on 70–80% state of charge as your realistic starting point, which cuts every number above by a quarter. Second, once the truck is empty, recharging requires the grid to come back or a working public fast charger nearby — and after a hurricane, those chargers are either down or have lines around the block. A [home battery paired with solar](/articles/home-battery-vs-generator/) recharges itself daily; a truck doesn't. Size your expectations accordingly.
+Two caveats from the field. First, nobody's truck sits at 100% when the outage hits — plan on 70–80% state of charge as your realistic starting point, which cuts every number above by a quarter. Second, once the truck is empty, recharging requires the grid to come back or a working public fast charger nearby — and after a hurricane, those chargers are either down or have lines around the block. A [home battery paired with solar](/articles/home-battery-vs-generator) recharges itself daily; a truck doesn't. Size your expectations accordingly.
 
 ## Is V2H Better Than a Home Battery or Generator?
 
 Depends what you already own. Here's how I'd frame it for a customer:
 
-**If you already own a V2H-capable truck:** V2H is the cheapest whole-house-ish backup you'll ever buy, because the $50,000+ battery is a sunk cost — you bought it for driving. Spending $6,000–$7,000 on the home integration to unlock 100+ kWh of backup beats buying a $10,000–$15,000 [standby generator](/articles/whole-house-generator-cost/) or two Powerwalls. The math is genuinely compelling here.
+**If you already own a V2H-capable truck:** V2H is the cheapest whole-house-ish backup you'll ever buy, because the $50,000+ battery is a sunk cost — you bought it for driving. Spending $6,000–$7,000 on the home integration to unlock 100+ kWh of backup beats buying a $10,000–$15,000 [standby generator](/articles/whole-house-generator-cost) or two Powerwalls. The math is genuinely compelling here.
 
 **If you don't own the truck:** Do NOT buy a $60,000–$80,000 truck as a backup power strategy. That's the most expensive battery ever sold. Buy the generator or the home battery for a tenth of the price and pick your next vehicle on its merits as a vehicle.
 
 **V2H vs standby generator:** The truck wins on capacity-per-dollar (if you own it), silence, and zero maintenance. The generator wins on indefinite runtime — natural gas doesn't run out, a truck battery does — and on availability: the truck only backs up your house when it's parked at home. If the outage hits while you're at work with the truck, you've got nothing.
 
-**V2H vs home battery:** The truck wins on raw capacity (131 kWh vs 13.5 kWh per Powerwall) and cost-per-kWh. The home battery wins on automation maturity, solar pairing (it recharges daily from your panels), and the fact that it's always home. For a solar household, I'd still spec the Powerwall first — see the full [home battery vs generator breakdown](/articles/home-battery-vs-generator/) for that math.
+**V2H vs home battery:** The truck wins on raw capacity (131 kWh vs 13.5 kWh per Powerwall) and cost-per-kWh. The home battery wins on automation maturity, solar pairing (it recharges daily from your panels), and the fact that it's always home. For a solar household, I'd still spec the Powerwall first — see the full [home battery vs generator breakdown](/articles/home-battery-vs-generator) for that math.
 
 ## The Limits Nobody Puts in the Brochure
 
@@ -140,4 +140,4 @@ What you CAN do yourself: research the systems, get three quotes, check your pan
 
 Can an EV power your house? If it's the right EV — absolutely, and it's the best backup-per-dollar in the business for people who already own the truck. A 100+ kWh battery on wheels covering 2–4 days of essentials for a $6,000–$7,000 home integration cost is a deal no generator or home battery can touch on capacity.
 
-But it's a backup system with a commute, an early-adopter installer base, and warranty fine print worth reading. If you're buying the truck anyway, add the home integration — it's the smartest money in backup power right now. If you're shopping for backup power and don't need a new truck, a [properly sized generator](/articles/what-size-generator-run-house/) or a home battery remains the saner purchase. Buy the truck for the truck. Let the backup power be the bonus.
+But it's a backup system with a commute, an early-adopter installer base, and warranty fine print worth reading. If you're buying the truck anyway, add the home integration — it's the smartest money in backup power right now. If you're shopping for backup power and don't need a new truck, a [properly sized generator](/articles/what-size-generator-run-house) or a home battery remains the saner purchase. Buy the truck for the truck. Let the backup power be the bonus.

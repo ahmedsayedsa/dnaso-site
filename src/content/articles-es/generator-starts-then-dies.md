@@ -18,7 +18,7 @@ lang: "es"
 
 Que el generador arranca y se apaga enseguida es más frustrante que cuando no arranca nada. Prende, se acelera, crees que ya volviste a tener luz — y tres segundos después, silencio otra vez. Soy electricista licenciado desde hace 18 años, y recibo esta llamada después de casi cada tormenta: «Mike, arranca, así que no puede ser grave, ¿verdad?». Normalmente no lo es. Pero la solución depende por completo de *cuándo* se apaga, así que fíjate en el tiempo antes de tocar una llave.
 
-Buenas noticias: un generador que arranca ya probó que tiene chispa, compresión y algo de gasolina — la mitad de los problemas de mi [guía de solución cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting/) ya quedaron descartados. Lo que queda es una lista corta de causas que dejan prender el motor pero no seguir trabajando.
+Buenas noticias: un generador que arranca ya probó que tiene chispa, compresión y algo de gasolina — la mitad de los problemas de mi [guía de solución cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting) ya quedaron descartados. Lo que queda es una lista corta de causas que dejan prender el motor pero no seguir trabajando.
 
 Antes de tocar nada, tres reglas de seguridad:
 
@@ -48,13 +48,13 @@ Esto es lo que pasa: la mayoría de los generadores modernos tienen un **sensor 
 
 **La revisión:** Pon el generador en terreno realmente nivelado — no en tu pasto, no en una entrada inclinada. Saca la varilla o el tapón de llenado; en la mayoría de los portátiles el aceite debe estar en o cerca de la **parte alta del cuello de llenado**. Revisa dos veces: limpia, reinserta, vuelve a leer.
 
-**La solución:** Rellena con el peso de aceite de tu manual, típicamente **SAE 10W-30**, por unos **$5–7** el cuarto (la mayoría de los motores chicos llevan de 0,6 a 1,1 cuartos en total). No sobrellenes: el aceite hasta las roscas hace espuma y puede disparar el mismo sensor. Por eso la revisión de aceite es el paso uno de la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/) que le doy a cada cliente: cinco segundos con la varilla le ganan a una hora con el carburador.
+**La solución:** Rellena con el peso de aceite de tu manual, típicamente **SAE 10W-30**, por unos **$5–7** el cuarto (la mayoría de los motores chicos llevan de 0,6 a 1,1 cuartos en total). No sobrellenes: el aceite hasta las roscas hace espuma y puede disparar el mismo sensor. Por eso la revisión de aceite es el paso uno de la [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist) que le doy a cada cliente: cinco segundos con la varilla le ganan a una hora con el carburador.
 
 Una advertencia: si el aceite está lleno y aun así muere en segundos, no desconectes el sensor y lo trabajes así. Los sensores sí fallan (cambiarlo cuesta **$10–25**), pero un sensor que dice la verdad es lo único entre tú y un motor amarrado.
 
 ## ¿El motor se está quedando sin gasolina?
 
-Si trabaja de 30 segundos a un par de minutos y luego se desvanece — bajan las revoluciones, oscila un poco y silencio — el motor se está tomando el tazón del carburador más rápido de lo que la gasolina puede rellenarlo. (Es distinto de mi guía de [el generador se apaga solo](/es/articles/generator-keeps-shutting-off/), que cubre motores que se apagan después de trabajar bien un rato.) Aquí el suministro está restringido desde el inicio. Tres sospechosos de siempre:
+Si trabaja de 30 segundos a un par de minutos y luego se desvanece — bajan las revoluciones, oscila un poco y silencio — el motor se está tomando el tazón del carburador más rápido de lo que la gasolina puede rellenarlo. (Es distinto de mi guía de [el generador se apaga solo](/es/articles/generator-keeps-shutting-off), que cubre motores que se apagan después de trabajar bien un rato.) Aquí el suministro está restringido desde el inicio. Tres sospechosos de siempre:
 
 ### ¿Podría estar tapado el filtro de gasolina?
 
@@ -78,13 +78,13 @@ Este es mi diagnóstico favorito: gratis y toma treinta segundos. Los tanques se
 
 **La prueba:** Arráncalo con la tapa floja — solo entreabierta, no quitada, para que no salpique gasolina. Si ahora trabaja sin parar, la ventilación de la tapa está bloqueada.
 
-**La solución:** Algunas tapas se pueden limpiar (destapa la ventilación y sóplala); la mayoría simplemente cambia la tapa por **$10–20**. Vale la pena: un motor con vacío trabaja pobre y caliente, y descontrola tus [números de consumo de gasolina y autonomía](/es/articles/generator-fuel-consumption/).
+**La solución:** Algunas tapas se pueden limpiar (destapa la ventilación y sóplala); la mayoría simplemente cambia la tapa por **$10–20**. Vale la pena: un motor con vacío trabaja pobre y caliente, y descontrola tus [números de consumo de gasolina y autonomía](/es/articles/generator-fuel-consumption).
 
 ## ¿Trabaja con el choke pero muere al abrirlo?
 
 Si el motor trabaja — tosco — con el choke puesto, y muere en el momento en que lo pasas a RUN, deja de adivinar. Es un **surtidor principal del carburador parcialmente tapado**, casi siempre por gasolina vieja.
 
-La lógica: el choke enriquece la mezcla restringiendo el aire. Si el surtidor está medio tapado de barniz, el motor se queda sin gasolina en los ajustes normales, y la riqueza extra del choke compensa justo para mantenerlo vivo. Abres el choke, se queda pobre y muere. Lo veo constantemente en generadores guardados con gasolina sin tratar: se degrada en tan solo 30 días y el etanol deja goma al evaporarse del tazón. Otras pistas: gasolina vieja con olor agrio, y oscilaciones — si la oscilación es lo principal, mira también mi [guía de generador que oscila](/es/articles/generator-surging/).
+La lógica: el choke enriquece la mezcla restringiendo el aire. Si el surtidor está medio tapado de barniz, el motor se queda sin gasolina en los ajustes normales, y la riqueza extra del choke compensa justo para mantenerlo vivo. Abres el choke, se queda pobre y muere. Lo veo constantemente en generadores guardados con gasolina sin tratar: se degrada en tan solo 30 días y el etanol deja goma al evaporarse del tazón. Otras pistas: gasolina vieja con olor agrio, y oscilaciones — si la oscilación es lo principal, mira también mi [guía de generador que oscila](/es/articles/generator-surging).
 
 **La revisión:** Drena un poco de gasolina del tazón del carburador a un frasco transparente. La gasolina fresca es pálida y de olor limpio. Gasolina amarilla, oscura o con olor a barniz — o cualquier arenilla o grumos gelatinosos — confirma que todo el sistema de gasolina necesita atención, no solo el surtidor.
 
@@ -104,7 +104,7 @@ Una bujía sucia o gastada puede dar chispa suficiente para arrancar en frío y 
 
 **La revisión:** Saca la bujía: cinco minutos con un dado. La calibración especificada en la mayoría de los portátiles es de **0,028–0,031 pulgadas**. Lee lo que encuentres: negra y hollinada, mezcla rica o uso crónico del choke; aceitosa, pasa aceite por anillos o sellos; electrodo gastado y redondeado, simplemente ya se acabó. Una bujía dice la verdad sobre lo que el motor ha estado quemando.
 
-**La solución:** Cámbiala. Cuesta **$3–8**; limpiar una sucia es una economía falsa. Si la *nueva* se ensucia en pocas horas, era un síntoma, no la causa: vuelve al choke y al carburador. Guarda una de repuesto; su vida es parte del panorama de [cuánto duran los generadores](/es/articles/how-long-do-generators-last/).
+**La solución:** Cámbiala. Cuesta **$3–8**; limpiar una sucia es una economía falsa. Si la *nueva* se ensucia en pocas horas, era un síntoma, no la causa: vuelve al choke y al carburador. Guarda una de repuesto; su vida es parte del panorama de [cuánto duran los generadores](/es/articles/how-long-do-generators-last).
 
 ## ¿El filtro de aire lo está ahogando?
 

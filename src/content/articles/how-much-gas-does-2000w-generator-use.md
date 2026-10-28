@@ -31,7 +31,7 @@ A conventional generator has to spin at exactly 3,600 RPM all the time, because 
 
 An inverter generator breaks that link. The engine makes raw power, electronics clean it up and convert it to stable AC, and that means the engine only has to spin as fast as the current load demands. Plug in a phone charger and the engine settles into a low, quiet putter. Start a fridge compressor and it revs up for the surge, then settles back down. Fuel consumption follows engine speed almost linearly, so a light load genuinely means light fuel use.
 
-This is also why the 2000-watt class is *almost all* inverters now. There are a few cheap conventional 2000-watt units floating around, and they burn noticeably more — figure 0.3–0.4 gph even at light loads, because they can't slow down. If you're shopping and fuel use matters, the inverter premium (often $100–200) pays for itself faster than people expect. It's also why these machines top our [quietest generators rankings](/articles/quietest-generators-noise-levels/) — slow engine, little noise, little fuel. One trade follows the other.
+This is also why the 2000-watt class is *almost all* inverters now. There are a few cheap conventional 2000-watt units floating around, and they burn noticeably more — figure 0.3–0.4 gph even at light loads, because they can't slow down. If you're shopping and fuel use matters, the inverter premium (often $100–200) pays for itself faster than people expect. It's also why these machines top our [quietest generators rankings](/articles/quietest-generators-noise-levels) — slow engine, little noise, little fuel. One trade follows the other.
 
 ## How long will a 2000 watt generator run on a tank of gas?
 
@@ -53,7 +53,7 @@ One warning from experience: the loads in the left column are *running* watts, a
 
 Let's translate gallons into the scenarios people actually buy these for. I'm using **$3.50/gallon**, the rough national average — adjust for your local price; the gallons don't change.
 
-**The CPAP night (my most common recommendation).** A CPAP without heated humidity draws 40–90 watts. Add a phone charger and an LED light and you're at maybe 150 watts total. On eco mode that's about 0.1 gph, so an 8-hour night of sleep costs you **roughly 0.8 gallons — under $3** — and the tank usually makes it through the night without a 3 a.m. refuel. This is exactly why I steer medical users to this size class in our [CPAP backup power guide](/articles/backup-power-cpap-machine/): the machine is quiet enough not to wreck your sleep and cheap enough to run every night of a long outage.
+**The CPAP night (my most common recommendation).** A CPAP without heated humidity draws 40–90 watts. Add a phone charger and an LED light and you're at maybe 150 watts total. On eco mode that's about 0.1 gph, so an 8-hour night of sleep costs you **roughly 0.8 gallons — under $3** — and the tank usually makes it through the night without a 3 a.m. refuel. This is exactly why I steer medical users to this size class in our [CPAP backup power guide](/articles/backup-power-cpap-machine): the machine is quiet enough not to wreck your sleep and cheap enough to run every night of a long outage.
 
 **The camping weekend.** Fridge or electric cooler cycling, lights, phones, maybe a small fan: call it 300–500 watts average. Expect **0.12–0.18 gph**, so a 10-hour evening-and-night stretch is 1.2–1.8 gallons. A 5-gallon can — about $17 — covers most people for a three-day weekend with gas to spare. RVers discover this class and never go back to the big frame generator they used to haul.
 
@@ -70,7 +70,7 @@ My honest take, after seeing a few installed badly: use them, but respect the fa
 - **Vacuum leaks kill the siphon.** The system works on a gentle vacuum pulse from the fuel pump. A cheap cap with a poor seal will run the generator dry at 2 a.m. while the external tank sits full. Test any setup for a full day at home before you depend on it during an outage.
 - **Buy the cap that vents correctly for your model.** EU2200i caps and EU2000i caps are not the same part, and a cap that can't vent properly can collapse a plastic external tank or starve the engine.
 - **No hot refueling, ever.** Whatever system you use, shut the generator down and let the exhaust cool before swapping tanks. Pouring gasoline next to a muffler that's been running for three hours is how garage fires start. This matters more with external systems because people get casual about them.
-- **Run the generator dry for storage anyway.** Extended caps don't change the storage rules in our [generator maintenance checklist](/articles/generator-maintenance-checklist/) — stale fuel in a tiny inverter carburetor is still the #1 cause of the no-starts I get called about.
+- **Run the generator dry for storage anyway.** Extended caps don't change the storage rules in our [generator maintenance checklist](/articles/generator-maintenance-checklist) — stale fuel in a tiny inverter carburetor is still the #1 cause of the no-starts I get called about.
 
 ## How does a 2000 watt inverter compare to a 5,500 watt conventional generator?
 
@@ -83,7 +83,7 @@ This is the comparison that sells small inverters, and it's not marketing — it
 | Cost per night at $3.50/gal | ~$3.50 | $11–14 |
 | Cost for a 5-day outage, nights only | ~$18 | $56–70 |
 
-The big conventional machine burns most of that fuel just spinning its own larger engine at 3,600 RPM — you're paying to rotate mass, not to power your fridge. I see this mistake constantly: someone buys the biggest generator the budget allows "to be safe," then discovers a three-day outage costs them $150 in gasoline they had to hunt for at stations with lines around the block. If your realistic loads are light — and for most apartments, campers, and medical-needs households they are — the small inverter isn't the compromise option. It's the right tool. Our full [generator fuel consumption guide](/articles/generator-fuel-consumption/) runs this same math across every size class if you're between sizes.
+The big conventional machine burns most of that fuel just spinning its own larger engine at 3,600 RPM — you're paying to rotate mass, not to power your fridge. I see this mistake constantly: someone buys the biggest generator the budget allows "to be safe," then discovers a three-day outage costs them $150 in gasoline they had to hunt for at stations with lines around the block. If your realistic loads are light — and for most apartments, campers, and medical-needs households they are — the small inverter isn't the compromise option. It's the right tool. Our full [generator fuel consumption guide](/articles/generator-fuel-consumption) runs this same math across every size class if you're between sizes.
 
 The flip side, to be fair: a 2000-watt unit will never start a central AC, run a well pump and a fridge together, or power an electric water heater. It's a light-load specialist. Plenty of my customers end up owning both — the big conventional for daytime heavy loads during an outage, the little inverter for the night shift. That pairing isn't extravagance; run the fuel math above for a week-long outage and it pays for itself.
 
@@ -93,7 +93,7 @@ A few habits that consistently show up in the lowest fuel bills I hear about:
 
 1. **Leave eco mode on** unless a motor load struggles to start. Eco off at light load is the single most common way people double their fuel use without knowing it.
 2. **Stagger your big loads.** Run the microwave *or* the coffee maker, not both. Every minute near full load costs four minutes' worth of eco-mode fuel.
-3. **Charge batteries in batches.** Charge the phones, laptop, and tool batteries while the fridge is already making the engine rev — the marginal fuel cost of charging during a surge you'd pay for anyway is nearly zero. This is the same logic behind pairing a small generator with one of the units in our [portable power stations guide](/articles/portable-power-stations-home-backup/): let the generator charge the station fast at an efficient load, then shut it off and run the night on silent battery.
+3. **Charge batteries in batches.** Charge the phones, laptop, and tool batteries while the fridge is already making the engine rev — the marginal fuel cost of charging during a surge you'd pay for anyway is nearly zero. This is the same logic behind pairing a small generator with one of the units in our [portable power stations guide](/articles/portable-power-stations-home-backup): let the generator charge the station fast at an efficient load, then shut it off and run the night on silent battery.
 4. **Keep the air filter clean and the oil fresh.** A choked filter on a small engine enriches the mixture and wastes fuel. These engines hold almost no oil — 0.42 quarts in an EU2200i — so a $6 oil change is cheap insurance for both fuel economy and engine life.
 5. **Don't idle it "just in case."** If nothing's drawing power for an hour, shut it down. A generator at zero load on eco still sips 0.08 gph doing literally nothing for you.
 
@@ -103,8 +103,8 @@ A 2000 watt inverter generator uses **about 0.1 gallons per hour doing the light
 
 ## Keep reading
 
-- [Generator Fuel Consumption: Gallons Per Hour by Size & Load](/articles/generator-fuel-consumption/)
-- [How Much Gas Does a 5500W Generator Use?](/articles/how-much-gas-does-5500w-generator-use/)
-- [Backup Power for a CPAP Machine: Watts, Batteries & Runtime](/articles/backup-power-cpap-machine/)
-- [Quietest Generators: Real Noise Levels Compared](/articles/quietest-generators-noise-levels/)
-- [Portable Power Stations for Home Backup: An Honest Assessment](/articles/portable-power-stations-home-backup/)
+- [Generator Fuel Consumption: Gallons Per Hour by Size & Load](/articles/generator-fuel-consumption)
+- [How Much Gas Does a 5500W Generator Use?](/articles/how-much-gas-does-5500w-generator-use)
+- [Backup Power for a CPAP Machine: Watts, Batteries & Runtime](/articles/backup-power-cpap-machine)
+- [Quietest Generators: Real Noise Levels Compared](/articles/quietest-generators-noise-levels)
+- [Portable Power Stations for Home Backup: An Honest Assessment](/articles/portable-power-stations-home-backup)

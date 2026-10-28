@@ -41,7 +41,7 @@ El calor, el flujo de gasolina y las fallas eléctricas fracasan con relojes dis
 | Casi de inmediato | Muere en segundos o en un minuto | Otra falla — ve la guía de arranca y muere |
 | Reserva, a minutos de arrancar | El controlador registra una falla y se bloquea | Refrigerante, presión de aceite, código de sobre/baja velocidad |
 
-¿Muere en el primer minuto? Esa es otra falla — válvula de gasolina cerrada, carburador inundado, gasolina vieja — cubierta en [El generador arranca y luego muere](/es/articles/generator-starts-then-dies/) y en [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting/). Los apagados a mitad de uso le pasan a motores que estaban trabajando *bien*, y por eso el tiempo es tan diagnóstico.
+¿Muere en el primer minuto? Esa es otra falla — válvula de gasolina cerrada, carburador inundado, gasolina vieja — cubierta en [El generador arranca y luego muere](/es/articles/generator-starts-then-dies) y en [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting). Los apagados a mitad de uso le pasan a motores que estaban trabajando *bien*, y por eso el tiempo es tan diagnóstico.
 
 ## ¿Por qué se apaga a los 10 o 20 minutos?
 
@@ -61,7 +61,7 @@ Dentro de la bobina, miles de vueltas de alambre fino se expanden con el calor. 
 
 **Solución:** cambia la bobina. La pieza cuesta **$25–60** en la mayoría de los portátiles (Predator, Generac GP, Westinghouse); es un trabajo de 20–30 minutos: fuera la cubierta, dos tornillos, calibra el entrehierro con una tarjeta (0.010–0.014 pulgadas, revisa tu manual). Un taller cobra **$150–250**. Mi opinión: con 500+ horas y el baile de muere-caliente/rearranca-frío, no pagues diagnóstico — cambia la bobina directamente.
 
-**La otra causa de 30–60 minutos: hambre lenta de gasolina.** Esta suena distinto: el motor *se desvanece* — bajan las RPM, puede oscilar o cazar (ve [El generador oscila: por qué las RPM suben y bajan](/es/articles/generator-surging/)) y luego muere. Un filtro medio tapado, una manguera que se ablanda y colapsa, o una bomba de vacío cansada pasan un hilito pero no el flujo completo. Revisa sacando la manguera en el carburador hacia un frasco: quieres un chorro fuerte y constante, no un goteo que se apaga. Los filtros cuestan **$5–10**, una bomba **$20–40**. El hielo en el carburador — clima fresco y húmedo, 35–50 °F — puede congelar la garganta en 30–45 minutos, pero es raro en unidades caseras; la pista es que rearranca tras una pausa corta, al derretirse el hielo.
+**La otra causa de 30–60 minutos: hambre lenta de gasolina.** Esta suena distinto: el motor *se desvanece* — bajan las RPM, puede oscilar o cazar (ve [El generador oscila: por qué las RPM suben y bajan](/es/articles/generator-surging)) y luego muere. Un filtro medio tapado, una manguera que se ablanda y colapsa, o una bomba de vacío cansada pasan un hilito pero no el flujo completo. Revisa sacando la manguera en el carburador hacia un frasco: quieres un chorro fuerte y constante, no un goteo que se apaga. Los filtros cuestan **$5–10**, una bomba **$20–40**. El hielo en el carburador — clima fresco y húmedo, 35–50 °F — puede congelar la garganta en 30–45 minutos, pero es raro en unidades caseras; la pista es que rearranca tras una pausa corta, al derretirse el hielo.
 
 ## ¿Por qué se apaga de forma aleatoria, pero solo con carga?
 
@@ -77,7 +77,7 @@ Los portátiles modernos — el CO SHIELD de Champion, los modelos CO-SENSE de P
 
 Este es el escenario que escucho siempre: el generador está "afuera" — pero en la puerta abierta de un garage, bajo una terraza o del lado protegido del viento de la casa, donde el escape se estanca en vez de dispersarse. El CO se junta en ese bolsillo, el sensor hace su trabajo y el generador se apaga a los 10 minutos, o a los 40. El dueño lo rearranca, se apaga otra vez, y va a buscar cómo puentearlo.
 
-**No lo hagas.** El monóxido de carbono no tiene color ni olor y mata gente dormida cada temporada de tormentas — con frecuencia gente cuyo generador estaba "prácticamente afuera". Un sensor que se dispara seguido es evidencia de que el escape no se dispersa. **La solución es gratis: pon el generador completamente al aire libre, a por lo menos 20 pies de la casa, con el escape apuntando lejos de ventanas y puertas** — las reglas completas están en [¿A qué distancia debe estar un generador de la casa?](/es/articles/how-far-should-generator-be-from-house/). En la mayoría de las llamadas por 'sensor defectuoso' que he atendido, mover la unidad a patio abierto terminó los apagados para siempre. Si aún se dispara en aire genuinamente abierto, *entonces* sospecha del módulo — pieza de garantía o distribuidor, no un puenteo casero. No existe una versión segura de desactivarlo, punto.
+**No lo hagas.** El monóxido de carbono no tiene color ni olor y mata gente dormida cada temporada de tormentas — con frecuencia gente cuyo generador estaba "prácticamente afuera". Un sensor que se dispara seguido es evidencia de que el escape no se dispersa. **La solución es gratis: pon el generador completamente al aire libre, a por lo menos 20 pies de la casa, con el escape apuntando lejos de ventanas y puertas** — las reglas completas están en [¿A qué distancia debe estar un generador de la casa?](/es/articles/how-far-should-generator-be-from-house). En la mayoría de las llamadas por 'sensor defectuoso' que he atendido, mover la unidad a patio abierto terminó los apagados para siempre. Si aún se dispara en aire genuinamente abierto, *entonces* sospecha del módulo — pieza de garantía o distribuidor, no un puenteo casero. No existe una versión segura de desactivarlo, punto.
 
 ## ¿Y si es un generador de reserva que se apaga a mitad de un apagón?
 
@@ -88,13 +88,13 @@ Las unidades de reserva (Generac, Kohler, Cummins) rara vez mueren en silencio: 
 - **Sobrevelocidad / baja velocidad (pérdida de RPM):** la velocidad del motor salió de su ventana — desde un filtro de gasolina tapado hasta un problema del gobernador. Baja velocidad con carga pesada y un motor tosiqueando apunta de vuelta a la entrega de gasolina; la sobrevelocidad no es reparación casera.
 - **Ejercicio vs. apagón real:** una unidad que completa su ejercicio semanal pero muere a los 20 minutos de un apagón real falla bajo *carga y calor*: entrega de gasolina, enfriamiento, la bobina caliente de arriba. Una que falla el ejercicio en el mismo minuto cada semana tiene una falla de reloj; dale al técnico el código y el tiempo.
 
-Los básicos de batería y controlador viven en mi [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist/). **No** abras el transfer switch ni toques la plomería de gas; un diagnóstico de distribuidor cuesta **$150–300** en la mayoría de los mercados de EE. UU.
+Los básicos de batería y controlador viven en mi [lista de mantenimiento del generador](/es/articles/generator-maintenance-checklist). **No** abras el transfer switch ni toques la plomería de gas; un diagnóstico de distribuidor cuesta **$150–300** en la mayoría de los mercados de EE. UU.
 
 ## ¿Cómo debes hacer la prueba de tiempo?
 
 No adivines: mide, en un día en que la luz *esté* puesta. Arma todo igual que en un apagón — mismo lugar, mismos cables, cargas realistas — arranca un cronómetro y registra el apagado: minutos trabajados, cargas encendidas, clima y viento. En cuanto muera, haz las revisiones en caliente (el siseo de la tapa, la chispa *ahora*, el breaker, el código de falla) e intenta rearrancar de inmediato. ¿Arranca y completa otro ciclo? Ventilación, sobrecarga o colocación por CO. ¿Muerto hasta que se enfría? La bobina sube al primer lugar.
 
-Una tarde honesta de prueba gana contra tres pánicos nocturnos en apagón. La prevención es aburrida: gasolina fresca, aceite en su fecha, filtro limpio y una corrida mensual con carga — la rutina de la [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist/).
+Una tarde honesta de prueba gana contra tres pánicos nocturnos en apagón. La prevención es aburrida: gasolina fresca, aceite en su fecha, filtro limpio y una corrida mensual con carga — la rutina de la [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist).
 
 ## ¿Cuándo debes parar y llamar a un profesional?
 
@@ -112,9 +112,9 @@ Calcula **$100–175** por una visita de diagnóstico, con las reparaciones comu
 
 ## Sigue leyendo
 
-- [El generador arranca y luego muere: causas en el primer minuto](/es/articles/generator-starts-then-dies/)
-- [El generador oscila: por qué las RPM suben y bajan](/es/articles/generator-surging/)
-- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting/)
-- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist/)
-- [¿A qué distancia debe estar un generador de la casa?](/es/articles/how-far-should-generator-be-from-house/)
-- [Lista de preparación para tormentas: antes, durante y después](/es/articles/storm-preparedness-checklist/)
+- [El generador arranca y luego muere: causas en el primer minuto](/es/articles/generator-starts-then-dies)
+- [El generador oscila: por qué las RPM suben y bajan](/es/articles/generator-surging)
+- [El generador no arranca: solución de problemas en orden](/es/articles/generator-wont-start-troubleshooting)
+- [Lista de mantenimiento del generador: tareas mensuales, de temporada y anuales](/es/articles/generator-maintenance-checklist)
+- [¿A qué distancia debe estar un generador de la casa?](/es/articles/how-far-should-generator-be-from-house)
+- [Lista de preparación para tormentas: antes, durante y después](/es/articles/storm-preparedness-checklist)

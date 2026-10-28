@@ -30,7 +30,7 @@ Si solo quieres los números para planear, aquí están. Suponen gasolina, un mo
 
 Un detalle importante en la fila del inverter chico: el tanque de un inverter de 2.000 W solo guarda como un galón. «Cinco galones» para esa máquina significa el combustible del tanque más tu bidón, con rellenos en el camino — un Honda EU2200i trabaja unas 8 horas por tanque al cuarto de carga y unas 3,2 horas por tanque a tope. Lo diminuto es el consumo; el tanque también. Los portátiles medianos y grandes, con tanques de 4 a 7 galones, sí se acercan a tragarse los 5 galones de una sola llenada.
 
-Para el desglose completo de consumo por tamaño, consulta nuestra [guía de consumo de combustible de generadores](/es/articles/generator-fuel-consumption/) — y si tienes un tamaño específico, las páginas dedicadas profundizan más: [cuánta gasolina usa un generador de 2.000 W](/es/articles/how-much-gas-does-2000w-generator-use/), [las cifras del de 5.500 W](/es/articles/how-much-gas-does-5500w-generator-use/) y [las del de 7.500 W](/es/articles/how-much-gas-does-7500w-generator-use/).
+Para el desglose completo de consumo por tamaño, consulta nuestra [guía de consumo de combustible de generadores](/es/articles/generator-fuel-consumption) — y si tienes un tamaño específico, las páginas dedicadas profundizan más: [cuánta gasolina usa un generador de 2.000 W](/es/articles/how-much-gas-does-2000w-generator-use), [las cifras del de 5.500 W](/es/articles/how-much-gas-does-5500w-generator-use) y [las del de 7.500 W](/es/articles/how-much-gas-does-7500w-generator-use).
 
 ## ¿Cómo calculas el tiempo de funcionamiento de tu propio generador?
 
@@ -73,7 +73,7 @@ Aquí va el número de planificación que doy a los clientes con un portátil me
 
 ¿Cuánto cuesta eso? A unos $3,00–3,50 el galón, un día de energía con generador mediano te sale en **$15–18 de combustible** — barato comparado con un refrigerador lleno de comida echada a perder ($200–400, fácil) o una tubería reventada. Trabajar una unidad de 7.500 W duro todo el día es otra historia: a 0,65–1,0 gph las 24 horas, quemas de 15 a 24 galones al día, o $45–80.
 
-Y una palabra sobre los generadores de reserva: las unidades fijas de casa completa no juegan el juego de los 5 galones — trabajan con gas natural o propano. Una de reserva de 22 kW a propano quema más o menos 2 galones por hora a media carga y cerca de 4 a plena carga, así que el equivalente a un tanque de 5 galones se va en hora y media o dos horas y media. Por eso se conectan a tanques de 250 o 500 galones, no a botellas de asador. Nuestra [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist/) cubre cómo dimensionar tu combustible almacenado antes de que cambie el clima, que es cuando esta planificación de verdad tiene que hacerse.
+Y una palabra sobre los generadores de reserva: las unidades fijas de casa completa no juegan el juego de los 5 galones — trabajan con gas natural o propano. Una de reserva de 22 kW a propano quema más o menos 2 galones por hora a media carga y cerca de 4 a plena carga, así que el equivalente a un tanque de 5 galones se va en hora y media o dos horas y media. Por eso se conectan a tanques de 250 o 500 galones, no a botellas de asador. Nuestra [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist) cubre cómo dimensionar tu combustible almacenado antes de que cambie el clima, que es cuando esta planificación de verdad tiene que hacerse.
 
 ## ¿Cómo estirar 5 galones cuando es todo lo que tienes?
 
@@ -89,7 +89,7 @@ Aquí es donde la experiencia en apagones paga. Cuando la gasolina es el límite
 
 ## ¿Cómo guardar 5 galones sin peligro — y rellenar sin quemar el garage?
 
-Dos reglas en las que no cedo. Primera: **la gasolina tiene vida útil.** La gasolina normal de bomba empieza a degradarse en 30–90 días y está genuinamente vieja a los seis meses. Agrega estabilizador el mismo día que llenas el bidón — una botella cuesta $8–12 y trata 40–80 galones — y la gasolina estabilizada dura de 12 a 24 meses. Rota tus bidones guardados hacia tu coche cada seis meses y rellena con gasolina fresca y estabilizada. El generador que no arranca el día del apagón casi siempre está bebiendo gasolina del año pasado; si ese es tu caso, nuestra [guía de solución de problemas cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting/) recorre el arreglo en orden.
+Dos reglas en las que no cedo. Primera: **la gasolina tiene vida útil.** La gasolina normal de bomba empieza a degradarse en 30–90 días y está genuinamente vieja a los seis meses. Agrega estabilizador el mismo día que llenas el bidón — una botella cuesta $8–12 y trata 40–80 galones — y la gasolina estabilizada dura de 12 a 24 meses. Rota tus bidones guardados hacia tu coche cada seis meses y rellena con gasolina fresca y estabilizada. El generador que no arranca el día del apagón casi siempre está bebiendo gasolina del año pasado; si ese es tu caso, nuestra [guía de solución de problemas cuando el generador no arranca](/es/articles/generator-wont-start-troubleshooting) recorre el arreglo en orden.
 
 Segunda: **jamás rellenes un generador encendido o caliente.** Apágalo y espera por lo menos de 5 a 10 minutos — los mofles se calientan lo suficiente para encender el vapor de gasolina al contacto, y un «relleno rápido» con el motor trabajando es el escenario de incendio de generador más común del que oigo hablar. Rellena afuera, sobre el suelo (nunca en la caja de una camioneta, donde se acumula estática), y deja enfriar la máquina antes de rearrancar. Sí, esperar molesta a medianoche bajo la lluvia. Hazlo de todos modos.
 
@@ -99,8 +99,8 @@ Haz la cuenta al revés, desde tu carga, no hacia adelante desde el bidón. Un i
 
 ## Sigue leyendo
 
-- [Consumo de combustible de generadores: galones por hora por tamaño y carga](/es/articles/generator-fuel-consumption/)
-- [¿Cuánta gasolina usa un generador de 7.500 W?](/es/articles/how-much-gas-does-7500w-generator-use/)
-- [¿Cuánta gasolina usa un generador de 5.500 W?](/es/articles/how-much-gas-does-5500w-generator-use/)
-- [¿Cuánta gasolina usa un generador de 2.000 W?](/es/articles/how-much-gas-does-2000w-generator-use/)
-- [Lista de preparación para tormentas: antes, durante y después](/es/articles/storm-preparedness-checklist/)
+- [Consumo de combustible de generadores: galones por hora por tamaño y carga](/es/articles/generator-fuel-consumption)
+- [¿Cuánta gasolina usa un generador de 7.500 W?](/es/articles/how-much-gas-does-7500w-generator-use)
+- [¿Cuánta gasolina usa un generador de 5.500 W?](/es/articles/how-much-gas-does-5500w-generator-use)
+- [¿Cuánta gasolina usa un generador de 2.000 W?](/es/articles/how-much-gas-does-2000w-generator-use)
+- [Lista de preparación para tormentas: antes, durante y después](/es/articles/storm-preparedness-checklist)

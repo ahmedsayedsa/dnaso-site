@@ -23,14 +23,14 @@ keywords: ["what can a 4000 watt generator run", "4000 watt generator", "4000w g
 
 ## Is that 4,000 watts running or starting?
 
-Read the box carefully, because manufacturers play the shell game across this whole category. A true 4,000W generator delivers **4,000 running watts** and around **5,000 starting (peak) watts**. But plenty of machines advertised as "4000 watt" are actually 4,000 *starting* watts and only 3,200–3,500 running — many inverter models are rated this way. Those are fine machines, but they're not the same machine. Everything in this article is about the true 4,000-running-watt class. If the unit you're eyeing is 3,200 running, you're really shopping the [3,500-watt article](/articles/what-can-3500-watt-generator-run/) — scale accordingly.
+Read the box carefully, because manufacturers play the shell game across this whole category. A true 4,000W generator delivers **4,000 running watts** and around **5,000 starting (peak) watts**. But plenty of machines advertised as "4000 watt" are actually 4,000 *starting* watts and only 3,200–3,500 running — many inverter models are rated this way. Those are fine machines, but they're not the same machine. Everything in this article is about the true 4,000-running-watt class. If the unit you're eyeing is 3,200 running, you're really shopping the [3,500-watt article](/articles/what-can-3500-watt-generator-run) — scale accordingly.
 
 The two numbers, quickly:
 
 - **Running watts (4,000):** what it produces continuously, all day. This is your budget.
 - **Starting watts (~5,000):** a few seconds of surge for motor startups. This is your emergency fund.
 
-And the rule I give every customer: **plan your steady load at no more than 80% of running watts — 3,200 watts on this size.** An engine loafing at 60–75% load runs cooler, quieter, and sips fuel. An engine pinned at 98% all night is wearing itself out and burning oil to prove it. For the full sizing method, see [What Size Generator Do I Need?](/articles/what-size-generator-run-house/).
+And the rule I give every customer: **plan your steady load at no more than 80% of running watts — 3,200 watts on this size.** An engine loafing at 60–75% load runs cooler, quieter, and sips fuel. An engine pinned at 98% all night is wearing itself out and burning oil to prove it. For the full sizing method, see [What Size Generator Do I Need?](/articles/what-size-generator-run-house).
 
 ## How many watts does everything in your house actually use?
 
@@ -96,7 +96,7 @@ This is the outage most people actually live through: keep the food safe, the ba
 | Phone and laptop charging | 70 |
 | **Total steady load** | **~2,150** |
 
-That's 54% of capacity. The worst moment — sump pump starting (2,000W surge) while the furnace blower and fridge are both running — peaks around 4,150 watts, comfortably inside the 5,000-watt ceiling where the 3,500-watt class was sweating. At this load the generator burns roughly 0.35–0.45 gal/hr and will run 11–14 hours on a typical tank. Sump sizing details live in [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump/).
+That's 54% of capacity. The worst moment — sump pump starting (2,000W surge) while the furnace blower and fridge are both running — peaks around 4,150 watts, comfortably inside the 5,000-watt ceiling where the 3,500-watt class was sweating. At this load the generator burns roughly 0.35–0.45 gal/hr and will run 11–14 hours on a typical tank. Sump sizing details live in [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump).
 
 ## Combo 2: Essentials plus real comfort (~3,150 watts)
 
@@ -134,7 +134,7 @@ Let me be blunt about the failures, because these are the returns and angry revi
 
 - **Electric water heater:** 4,500 watts alone exceeds the running rating. Unlike the 5,000-watt class — where a solo 45-minute recovery cycle is a legitimate trick — there is no version of this that works here. Gas water heating is a prerequisite for this size.
 - **Electric dryer:** 4,500–5,500 watts. Same answer. Line-dry for two days; you'll survive.
-- **Central AC, 3-ton:** running draw (~3,500W) looks tempting on paper, but the compressor needs 9,000–12,000 watts to start and this generator peaks at about 5,000. Voltage collapses, the compressor strains, and you're risking a four-figure compressor to save nothing. The full breakdown is in [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac/).
+- **Central AC, 3-ton:** running draw (~3,500W) looks tempting on paper, but the compressor needs 9,000–12,000 watts to start and this generator peaks at about 5,000. Voltage collapses, the compressor strains, and you're risking a four-figure compressor to save nothing. The full breakdown is in [What Size Generator Do I Need to Run Central AC?](/articles/what-size-generator-central-ac).
 - **1 HP well pump with anything else:** the pump's surge range tops out at 6,000W — beyond the peak rating before the fridge draws a watt. Some 1 HP pumps at the gentle end of that range will start on this generator with everything else off; "sometimes, if nothing else is running" is not a backup plan. The 1/2 HP pump is this class's honest ceiling.
 - **Electric range/oven:** one burner (1,200–2,500W) is fine in rotation. The oven element plus burners is not.
 
@@ -142,7 +142,7 @@ Notice the pattern: everything on the "can't" list is a big electric *heating* l
 
 ## How much gas will it burn while doing all this?
 
-At the Combo 2 load (~3,150W, roughly 75–80%), expect about 0.45–0.55 gal/hr; at essentials-only, closer to 0.35–0.4. A three-day outage at comfort load is roughly 30–40 gallons — plan your cans and your stabilizer accordingly. The per-size burn tables for the neighboring classes are in [How Much Gas Does a 5,500W Generator Use?](/articles/how-much-gas-does-5500w-generator-use/) and the broader [generator fuel consumption guide](/articles/generator-fuel-consumption/).
+At the Combo 2 load (~3,150W, roughly 75–80%), expect about 0.45–0.55 gal/hr; at essentials-only, closer to 0.35–0.4. A three-day outage at comfort load is roughly 30–40 gallons — plan your cans and your stabilizer accordingly. The per-size burn tables for the neighboring classes are in [How Much Gas Does a 5,500W Generator Use?](/articles/how-much-gas-does-5500w-generator-use) and the broader [generator fuel consumption guide](/articles/generator-fuel-consumption).
 
 ## Which 4000 watt generators should you actually look at?
 
@@ -158,14 +158,14 @@ Skip any "4000W" unit whose running watts are under 3,500 unless the price refle
 
 The small-to-medium home where **heat, hot water, and cooking are gas**, and where two window ACs — or one AC plus a working home office — are the summer requirement. Well-and-septic homes with a 1/2 HP pump. Renters running cords to the essentials (no panel work needed at this scale). Anyone whose outage plan is "comfortable, with a little choreography."
 
-Size up if: your water heater or dryer is electric and non-negotiable, your well pump is 1 HP, or you want Combo 2 plus the microwave with zero staggering — the [5,000-watt class](/articles/what-can-5000w-generator-run/) is exactly that step. Size down if it's fridge, lights, and one AC only; the [3,500-watt class](/articles/what-can-3500-watt-generator-run/) does it cheaper.
+Size up if: your water heater or dryer is electric and non-negotiable, your well pump is 1 HP, or you want Combo 2 plus the microwave with zero staggering — the [5,000-watt class](/articles/what-can-5000w-generator-run) is exactly that step. Size down if it's fridge, lights, and one AC only; the [3,500-watt class](/articles/what-can-3500-watt-generator-run) does it cheaper.
 
 And the two rules that outrank every combo in this article: cords to appliances, or a proper interlock/transfer switch installed by someone licensed — never a plug into a dryer outlet. Ever. And the generator lives 20 feet from the house, outdoors, exhaust away. That rule has no exceptions either.
 
 ## Keep reading
 
-- [What Can a 3500 Watt Generator Run? Loads and Limits](/articles/what-can-3500-watt-generator-run/)
-- [What Can a 5000 Watt Generator Run? Real Loads, Real Math](/articles/what-can-5000w-generator-run/)
-- [What Can a 7,500-Watt Generator Run? (With Real Examples)](/articles/what-can-7500-watt-generator-run/)
-- [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump/)
-- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption/)
+- [What Can a 3500 Watt Generator Run? Loads and Limits](/articles/what-can-3500-watt-generator-run)
+- [What Can a 5000 Watt Generator Run? Real Loads, Real Math](/articles/what-can-5000w-generator-run)
+- [What Can a 7,500-Watt Generator Run? (With Real Examples)](/articles/what-can-7500-watt-generator-run)
+- [What Size Generator Do You Need for a Sump Pump?](/articles/generator-for-sump-pump)
+- [How Much Fuel Does a Generator Use? Real Consumption Numbers](/articles/generator-fuel-consumption)

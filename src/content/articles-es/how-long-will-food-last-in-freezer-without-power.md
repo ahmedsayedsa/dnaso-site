@@ -104,7 +104,7 @@ Sí, y es la parte que casi ningún consejo de apagones menciona. Un refrigerado
 
 Mejor aún: no tiene que trabajar sin parar. La estrategia que dejo instalada es el **ciclo de trabajo**: enciende el generador o la estación **1 hora, deja que las cajas frías naveguen solas, puerta cerrada, 2 a 3 horas**, y repite. Recortas la gasolina en dos tercios manteniendo la comida bajo 4 °C: con un inverter chico, un día de protección cuesta menos de un galón. Compáralo con los $200 a $400 de comida que la casa promedio guarda en el congelador.
 
-Una nota de prioridades: si hay que escoger qué se lleva el generador, piensa en orden de consecuencias. Una bomba de sumidero que protege un sótano terminado manda sobre todo — nuestra guía de [qué tamaño de generador necesitas para una bomba de sumidero](/es/articles/generator-for-sump-pump/) trae esas cuentas — pero el refrigerador y el congelador van justo detrás y piden tan poco que casi nunca hay conflicto. El desglose de [qué puede alimentar un generador de 7.500 vatios](/es/articles/what-can-7500-watt-generator-run/) muestra el margen de un equipo mediano, la [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist/) cubre la rutina previa, y un equipo modesto de los de nuestra guía de [estaciones de energía portátiles para respaldo en casa](/es/articles/portable-power-stations-home-backup/) alcanza de verdad si la comida es tu preocupación principal.
+Una nota de prioridades: si hay que escoger qué se lleva el generador, piensa en orden de consecuencias. Una bomba de sumidero que protege un sótano terminado manda sobre todo — nuestra guía de [qué tamaño de generador necesitas para una bomba de sumidero](/es/articles/generator-for-sump-pump) trae esas cuentas — pero el refrigerador y el congelador van justo detrás y piden tan poco que casi nunca hay conflicto. El desglose de [qué puede alimentar un generador de 7.500 vatios](/es/articles/what-can-7500-watt-generator-run) muestra el margen de un equipo mediano, la [lista de preparación para tormentas](/es/articles/storm-preparedness-checklist) cubre la rutina previa, y un equipo modesto de los de nuestra guía de [estaciones de energía portátiles para respaldo en casa](/es/articles/portable-power-stations-home-backup) alcanza de verdad si la comida es tu preocupación principal.
 
 ## ¿El seguro paga la comida echada a perder?
 
@@ -116,7 +116,7 @@ Con la puerta cerrada, un congelador lleno te da 48 horas, uno a la mitad 24, y 
 
 ## Sigue leyendo
 
-- [Lista de preparación para tormentas: antes, durante y después](/es/articles/storm-preparedness-checklist/)
-- [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump/)
-- [Estaciones de energía portátiles para respaldo en casa: qué pueden alimentar](/es/articles/portable-power-stations-home-backup/)
-- [¿Qué puede alimentar un generador de 7.500 vatios?](/es/articles/what-can-7500-watt-generator-run/)
+- [Lista de preparación para tormentas: antes, durante y después](/es/articles/storm-preparedness-checklist)
+- [¿Qué tamaño de generador necesitas para una bomba de sumidero?](/es/articles/generator-for-sump-pump)
+- [Estaciones de energía portátiles para respaldo en casa: qué pueden alimentar](/es/articles/portable-power-stations-home-backup)
+- [¿Qué puede alimentar un generador de 7.500 vatios?](/es/articles/what-can-7500-watt-generator-run)

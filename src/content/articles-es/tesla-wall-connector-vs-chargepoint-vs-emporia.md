@@ -44,7 +44,7 @@ Dentro de un error de redondeo uno del otro. A 48 amperios en un circuito de 60 
 
 Eso es lo que nadie te dice en el pasillo de cargadores: **el cargador rara vez fija la velocidad. El cargador a bordo de tu auto sí.** Un Chevy Bolt llega máximo a 11.5 kW. Un Model 3 llega máximo a 11.5 kW. Conecta cualquiera de estas tres unidades a cualquiera de esos autos y obtienes el mismo número en el tablero en la mañana: lleno.
 
-Si todavía estás decidiendo si siquiera necesitas velocidades de nivel 2, haz primero esa matemática — la explico honestamente en [Carga de nivel 1 vs nivel 2](/es/articles/level-1-vs-level-2-charging/), incluyendo los casos donde el cable gratis que vino con tu auto es genuinamente suficiente.
+Si todavía estás decidiendo si siquiera necesitas velocidades de nivel 2, haz primero esa matemática — la explico honestamente en [Carga de nivel 1 vs nivel 2](/es/articles/level-1-vs-level-2-charging), incluyendo los casos donde el cable gratis que vino con tu auto es genuinamente suficiente.
 
 ## El Tesla Universal Wall Connector: La Opción Segura por Defecto
 
@@ -95,4 +95,4 @@ No todos quieren un cargador inteligente. Si tu actitud es "solo carga el auto,"
 - **Estás cuidando el presupuesto o tu panel está casi lleno:** Emporia Pro, idealmente con el monitor Vue. Misma velocidad de carga que el Tesla por $100 menos, y el manejo de carga puede ahorrarte miles en trabajo eléctrico.
 - **Odias todo lo anterior:** Grizzl-E. Conéctalo, carga el auto, piensa en otra cosa.
 
-Una última nota de instalador: elige el cargador segundo y el circuito primero. El cargador es $400–$650 de un proyecto que normalmente totaliza $1,200–$2,500 con instalación — desgloso a dónde va ese dinero en la [guía de costos de instalación de cargador EV de nivel 2](/es/articles/level-2-ev-charger-installation-cost/). Y si tu casa también tiene batería o solar — o lo estás pensando — la conversación de manejo de carga aquí conecta directo con [respaldo de batería casera vs generador](/es/articles/home-battery-vs-generator/), porque un cargador de 48 amperios es una de las cargas más grandes que tu panel verá jamás. Haz bien la matemática del panel una vez, y cualquiera de estos tres cargadores te servirá por una década.
+Una última nota de instalador: elige el cargador segundo y el circuito primero. El cargador es $400–$650 de un proyecto que normalmente totaliza $1,200–$2,500 con instalación — desgloso a dónde va ese dinero en la [guía de costos de instalación de cargador EV de nivel 2](/es/articles/level-2-ev-charger-installation-cost). Y si tu casa también tiene batería o solar — o lo estás pensando — la conversación de manejo de carga aquí conecta directo con [respaldo de batería casera vs generador](/es/articles/home-battery-vs-generator), porque un cargador de 48 amperios es una de las cargas más grandes que tu panel verá jamás. Haz bien la matemática del panel una vez, y cualquiera de estos tres cargadores te servirá por una década.

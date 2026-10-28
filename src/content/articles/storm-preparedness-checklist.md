@@ -142,8 +142,8 @@ Buy the generator first — they sell out first. Everything else can be found at
 
 ## Keep reading
 
-- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide/)
-- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house/)
-- [Generator Maintenance Checklist: Keep It Running When It Matters](/articles/generator-maintenance-checklist/)
-- [Portable vs Standby vs Inverter Generator: Which Type Is Right for You?](/articles/portable-vs-standby-vs-inverter-generator/)
-- [Dual-Fuel vs Gas vs Propane Generators](/articles/dual-fuel-vs-gas-vs-propane-generator/)
+- [Complete Home Backup Power Guide 2026: Generators vs Batteries](/articles/complete-home-backup-power-guide)
+- [What Size Generator Do I Need to Run My House?](/articles/what-size-generator-run-house)
+- [Generator Maintenance Checklist: Keep It Running When It Matters](/articles/generator-maintenance-checklist)
+- [Portable vs Standby vs Inverter Generator: Which Type Is Right for You?](/articles/portable-vs-standby-vs-inverter-generator)
+- [Dual-Fuel vs Gas vs Propane Generators](/articles/dual-fuel-vs-gas-vs-propane-generator)

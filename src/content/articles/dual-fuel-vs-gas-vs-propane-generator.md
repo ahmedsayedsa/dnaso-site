@@ -105,10 +105,10 @@ One more practical note: **buy fuel containers before the storm, not during.** G
 - **Occasional short outages (a few hours, few times a year):** dual-fuel portable, kept on propane. Zero fuel-maintenance headaches, gasoline available as the backup option.
 - **Frequent or seasonal outages (storm country, hurricane/ice season):** dual-fuel portable with a real propane stockpile (multiple 20-lb tanks or a 100-lb cylinder) plus stabilized gasoline. Or a standby on natural gas if the budget allows.
 - **Multi-day outage risk:** standby on natural gas is the gold standard for runtime. If that's out of budget, a large dual-fuel portable with 40+ gallons of propane equivalent is the practical answer.
-- **Whole-home, set-and-forget:** standby on natural gas (or propane with a large tank if no gas line). This is the [standby generator](/articles/portable-vs-standby-vs-inverter-generator/) use case.
+- **Whole-home, set-and-forget:** standby on natural gas (or propane with a large tank if no gas line). This is the [standby generator](/articles/portable-vs-standby-vs-inverter-generator) use case.
 
 ## The Bottom Line
 
 For most portable-generator buyers, **dual-fuel is the right call** — the small upfront premium buys you out of gasoline's two worst problems (stale fuel and outage availability). For standby buyers with a gas line, **natural gas** wins on running cost and convenience. Propane-only makes sense when you have no gas line but want a standby's permanence with a fuel that stores forever.
 
-Whichever fuel you choose, the generator still needs maintenance — fuel system care is half the battle. See the [generator maintenance checklist](/articles/generator-maintenance-checklist/) for the schedule, and if you're still deciding on the machine itself, start with the pillar guide: [home backup power explained](/articles/complete-home-backup-power-guide/).
+Whichever fuel you choose, the generator still needs maintenance — fuel system care is half the battle. See the [generator maintenance checklist](/articles/generator-maintenance-checklist) for the schedule, and if you're still deciding on the machine itself, start with the pillar guide: [home backup power explained](/articles/complete-home-backup-power-guide).

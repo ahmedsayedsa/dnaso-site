@@ -38,7 +38,7 @@ Gather this before the engine ever fires:
 - **A magnetic drain plug** (roughly $12–18, optional but smart). See the oil-change section.
 - **Your manual.** Honda, Champion, Westinghouse, and Generac all print a break-in or first-service note. If your manual's numbers differ from mine, the manual wins — it's their engine and their warranty.
 
-Safety, same as always: run it outdoors, at least 20 feet from the house with the exhaust pointed away, and let it cool before you touch the drain plug. Our full [storm preparedness checklist](/articles/storm-preparedness-checklist/) covers placement and CO safety if you want the longer version.
+Safety, same as always: run it outdoors, at least 20 feet from the house with the exhaust pointed away, and let it cool before you touch the drain plug. Our full [storm preparedness checklist](/articles/storm-preparedness-checklist) covers placement and CO safety if you want the longer version.
 
 ## How do you break in a generator, step by step?
 
@@ -66,7 +66,7 @@ Work up to about 75% of rated watts (~3,750W on the example). In the last hour, 
 
 - **Hours of idling or near-zero load.** This is the classic mistake — "I ran it all afternoon with nothing plugged in to break it in." Low load means low cylinder pressure, weak ring contact, and cool combustion that lays down glaze. Idling is the one pattern that can genuinely un-break-in an engine.
 - **Sustained full load.** A full bank of space heaters for three straight hours on a green engine overheats rings that haven't found their shape yet.
-- **Lugging it.** Repeatedly stalling or nearly stalling the engine with motor-start surges it can't handle. Size your loads to the machine (our [generator fuel consumption guide](/articles/generator-fuel-consumption/) has realistic per-load numbers if you're planning a load bank).
+- **Lugging it.** Repeatedly stalling or nearly stalling the engine with motor-start surges it can't handle. Size your loads to the machine (our [generator fuel consumption guide](/articles/generator-fuel-consumption) has realistic per-load numbers if you're planning a load bank).
 
 ## When do you change the oil during break-in?
 
@@ -82,7 +82,7 @@ Drain it warm, not hot — run the engine two minutes, shut it off, wait a coupl
 
 The nerdy-but-worth-it touches: a **magnetic drain plug** installed at the first change will show you a fine gray fur of ferrous particles at the second change — proof the process is working, and it keeps that metal out of circulation in between. And if you want a real answer instead of folklore, a mail-in **oil analysis** (about $30–40 from Blackstone or a NAPA kit) at the second change will tell you exactly how much wear metal your engine made and whether it's trending down like it should. I do this on standby installs I maintain; the second report almost always shows wear metals falling off a cliff, which is the signature of rings that seated.
 
-If your engine burns a little oil during break-in, don't panic — a few ounces across the first 20 hours while rings seat is normal. Oil consumption that *continues* past 25 hours is not. Persistent consumption on a young engine is exactly what a proper break-in prevents; our [generator maintenance checklist](/articles/generator-maintenance-checklist/) has the consumption and inspection routine for life after break-in.
+If your engine burns a little oil during break-in, don't panic — a few ounces across the first 20 hours while rings seat is normal. Oil consumption that *continues* past 25 hours is not. Persistent consumption on a young engine is exactly what a proper break-in prevents; our [generator maintenance checklist](/articles/generator-maintenance-checklist) has the consumption and inspection routine for life after break-in.
 
 ## Is break-in different for inverter generators?
 
@@ -109,7 +109,7 @@ Fresh regular 87-octane gasoline, bought this week. Two warnings:
 - **Never E15 or E85** in a small engine not rated for it (most aren't) — the extra ethanol runs lean and eats fuel-system parts. Check the pump; E15 is showing up at ordinary stations now.
 - **Ethanol-free fuel is a nice upgrade** if it's sold near you, mainly because break-in stretches across several days and E10 starts absorbing moisture the moment it sits. It's optional, not required.
 
-Skip the additive aisle. Break-in oils with zinc boosters, fuel catalysts, and "engine treatment" shots are solutions to problems your warranty-covered new engine doesn't have. Add stabilizer only if the generator is going into storage afterward — and if storage is next, the [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting/) shows what happens to engines that sat with untreated fuel.
+Skip the additive aisle. Break-in oils with zinc boosters, fuel catalysts, and "engine treatment" shots are solutions to problems your warranty-covered new engine doesn't have. Add stabilizer only if the generator is going into storage afterward — and if storage is next, the [generator won't start troubleshooting guide](/articles/generator-wont-start-troubleshooting) shows what happens to engines that sat with untreated fuel.
 
 ## What does skipping break-in actually cost you?
 
@@ -119,7 +119,7 @@ Honest answer: not a catastrophe. Modern machining is good, and a generator that
 - **Blow-by and fouled plugs** — combustion gas slipping past the rings pressurizes the crankcase and contaminates oil faster, shortening every oil change interval after.
 - **A few percent of power and compression**, forever. You can't re-break-in an engine at 500 hours; the crosshatch is gone.
 
-Break-in is a one-afternoon insurance policy on an engine you're expecting to last a decade or more — the math is easy. (Our piece on [how long generators last](/articles/how-long-do-generators-last/) covers what separates the 500-hour engines from the 3,000-hour ones.)
+Break-in is a one-afternoon insurance policy on an engine you're expecting to last a decade or more — the math is easy. (Our piece on [how long generators last](/articles/how-long-do-generators-last) covers what separates the 500-hour engines from the 3,000-hour ones.)
 
 ## Break-in myths I hear constantly
 
@@ -131,7 +131,7 @@ Break-in is a one-afternoon insurance policy on an engine you're expecting to la
 
 ## Keep reading
 
-- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist/)
-- [Generator Won't Start? Troubleshooting in Order (15-Minute Fix)](/articles/generator-wont-start-troubleshooting/)
-- [How Long Do Generators Last? Real Lifespans by Type](/articles/how-long-do-generators-last/)
-- [Generator Fuel Consumption: Gallons Per Hour by Size and Load](/articles/generator-fuel-consumption/)
+- [Generator Maintenance Checklist: Monthly, Seasonal & Annual Tasks](/articles/generator-maintenance-checklist)
+- [Generator Won't Start? Troubleshooting in Order (15-Minute Fix)](/articles/generator-wont-start-troubleshooting)
+- [How Long Do Generators Last? Real Lifespans by Type](/articles/how-long-do-generators-last)
+- [Generator Fuel Consumption: Gallons Per Hour by Size and Load](/articles/generator-fuel-consumption)

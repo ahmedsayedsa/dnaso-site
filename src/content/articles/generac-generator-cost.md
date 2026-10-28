@@ -36,7 +36,7 @@ Generac's air-cooled Guardian and Next Generation lines run from 10kW to 26kW. T
 
 For reference, Generac's own current catalog lists the newer cellular models with transfer switch at starting MSRPs of $4,619 (10kW), $5,949 (14kW), $6,769 (18kW), $7,369 (22kW), $7,789 (24kW), and $8,219 (26kW). Dealer street prices typically land a few hundred under MSRP; the previous-generation Guardian models still on shelves run a bit less (a Guardian 22kW with switch lists around $6,979).
 
-Two things stand out in the table. First, the installed range is wide — a $5,000 spread on the same 22kW — because installation depends on your house, not the generator (more on that below). Second, stepping up a size costs surprisingly little once you're paying for installation anyway: the jump from 18kW to 22kW is often only $500–$1,000 on the total project. That tempts people to oversize. Don't buy capacity you don't need — an oversized generator costs more to fuel and maintain forever — but do get a real load calculation so you don't undersize either. Our [sizing guide](/articles/what-size-generator-run-house/) walks through the math.
+Two things stand out in the table. First, the installed range is wide — a $5,000 spread on the same 22kW — because installation depends on your house, not the generator (more on that below). Second, stepping up a size costs surprisingly little once you're paying for installation anyway: the jump from 18kW to 22kW is often only $500–$1,000 on the total project. That tempts people to oversize. Don't buy capacity you don't need — an oversized generator costs more to fuel and maintain forever — but do get a real load calculation so you don't undersize either. Our [sizing guide](/articles/what-size-generator-run-house) walks through the math.
 
 ## Why is the installed price nearly double the unit price?
 
@@ -50,7 +50,7 @@ Three reasons, and understanding them will save you from both overpaying and mis
 
 ## What does the installation actually include? A line-item breakdown
 
-Here's where the money goes on a typical 22kW install — the same breakdown we'd want to see on any quote. (For the brand-neutral version across all standby generators, see our [whole house generator cost breakdown](/articles/whole-house-generator-cost/).)
+Here's where the money goes on a typical 22kW install — the same breakdown we'd want to see on any quote. (For the brand-neutral version across all standby generators, see our [whole house generator cost breakdown](/articles/whole-house-generator-cost).)
 
 | Line item | Typical cost |
 |---|---|
@@ -102,12 +102,12 @@ Add it up over a decade at moderate outage exposure (~50 hours/year): roughly $1
 
 Generac is the value pick of the three premium brands, but the gap is smaller than the marketing suggests. At the same size, a **Kohler** (say, the 20–22kW class) typically installs for a few hundred to roughly $1,500 more than a comparable Generac; **Cummins** prices in the same premium band as Kohler. What the premium buys is mainly a heavier-duty engine reputation, somewhat quieter operation, and corrosion-resistant enclosures — not a different installation, because the electrician, gas line, pad, and permit costs are identical regardless of the badge on the box.
 
-Where Generac claws the advantage back: the largest dealer network in the country, the cheapest and most available parts, and the deepest bench of technicians who know the product. In a widespread outage, service availability matters more than a decibel. We break the three brands down spec by spec in [Generac vs Kohler vs Cummins](/articles/generac-vs-kohler-vs-cummins/).
+Where Generac claws the advantage back: the largest dealer network in the country, the cheapest and most available parts, and the deepest bench of technicians who know the product. In a widespread outage, service availability matters more than a decibel. We break the three brands down spec by spec in [Generac vs Kohler vs Cummins](/articles/generac-vs-kohler-vs-cummins).
 
 ## Is a Generac generator worth the money? The honest verdict
 
 **Yes, if** you lose power several times a year or for long stretches, you have a sump pump or well pump (a single flooded basement runs $5,000–$10,000), someone in the house depends on powered medical equipment, or you work from home and outages cost you income. In those cases the 22kW at roughly $11,000–$13,000 installed is the sweet spot of the whole standby market — it's the best-selling size for a reason — and it will typically return 50–70% of its cost in resale value in outage-prone areas.
 
-**No, if** your outages are rare and short. Then the honest recommendation is a large portable generator plus an electrician-installed interlock kit or manual transfer switch: $2,000–$4,000 all-in, no permits saga, no annual service contract. You give up automatic start and you have to be home to set it up — read our [whole house generator cost guide](/articles/whole-house-generator-cost/) for that comparison — but spending $12,000 to solve a $200 problem is how people end up resenting a perfectly good generator.
+**No, if** your outages are rare and short. Then the honest recommendation is a large portable generator plus an electrician-installed interlock kit or manual transfer switch: $2,000–$4,000 all-in, no permits saga, no annual service contract. You give up automatic start and you have to be home to set it up — read our [whole house generator cost guide](/articles/whole-house-generator-cost) for that comparison — but spending $12,000 to solve a $200 problem is how people end up resenting a perfectly good generator.
 
 And if you do buy the Generac: get three itemized quotes, insist on a site visit and a written load calculation before the final number, and confirm the quote includes the transfer switch, gas work, pad, and permits. The generator is the easy part — it's the installation you're really buying.
