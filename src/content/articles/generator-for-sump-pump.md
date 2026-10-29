@@ -51,7 +51,7 @@ A few notes before you take the table shopping:
 
 If you don't own one yet, here's how I'd steer you:
 
-**2,000-watt inverter — only for a 1/3 HP pump, alone.** It starts the small pump and sips fuel doing it, which matters in a long outage. But there's no headroom for a fridge, and if you ever replace the pump with a 1/2 HP, you're shopping again.
+**2,000-watt inverter — only for a 1/3 HP pump, alone.** It starts the small pump and sips fuel doing it, which matters in a long outage. But there's no headroom for a fridge, and if you ever replace the pump with a 1/2 HP, you're shopping again — when that day comes, the [sump pump installation cost guide](https://www.getmeaplumber.com/articles/sump-pump-installation-cost/) on our sister site breaks down what the pump, a battery backup, and the labour actually run.
 
 **3,500 watts — the sweet spot for most homes.** Starts a 1/2 HP pump with the fridge already running, handles lights, a furnace blower, and device charging, and it's still a one-person carry. This is the size I recommend when a customer says "sump pump plus the basics."
 
