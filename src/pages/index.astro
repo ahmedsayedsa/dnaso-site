@@ -14,20 +14,47 @@ const rest = sorted.filter((a) => a.slug !== 'complete-home-backup-power-guide')
 
 const wordsFor = (body: string | undefined) => (body ?? '').split(/\s+/).filter(Boolean).length;
 const totalWords = sorted.reduce((n, a) => n + wordsFor(a.body), 0);
+
+// Homepage-only schema (WebSite + Organization). Articles carry their own
+// Article/FAQ/Breadcrumb schema via Article.astro — do not move this to Base.
+const homeSchema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': 'https://www.dnaso.com/#website',
+      url: 'https://www.dnaso.com',
+      name: 'Dnaso',
+      inLanguage: ['en', 'es'],
+      publisher: { '@id': 'https://www.dnaso.com/#organization' },
+    },
+    {
+      '@type': 'Organization',
+      '@id': 'https://www.dnaso.com/#organization',
+      name: 'Dnaso',
+      url: 'https://www.dnaso.com',
+      logo: 'https://www.dnaso.com/favicon.svg',
+    },
+  ],
+};
 ---
 
 <Base
   title="Dnaso"
   description="Practical, no-fluff guides to home backup power: generator sizing, standby costs, batteries vs generators, maintenance, and outage preparedness for US homeowners."
   keywords={['home backup power', 'generator sizing', 'standby generator cost', 'home battery backup']}
+  canonical="https://www.dnaso.com"
 >
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(homeSchema)} />
+  </Fragment>
   <section class="hero">
     <div class="wrap-wide">
       <span class="eyebrow">Independent guides &middot; No sales pitches</span>
       <h1>Home backup power, <span class="hl">explained plainly.</span></h1>
       <p class="lede">Generators, home batteries, sizing math, real installed costs — researched from manufacturer specs and electrician guidance, written so a homeowner can actually use it.</p>
       <div class="hero-cta">
-        {pillar && <a class="btn btn-primary" href={`/articles/${pillar.slug}/`}>Start with the complete guide →</a>}
+        {pillar && <a class="btn btn-primary" href={`/articles/${pillar.slug}`}>Start with the complete guide →</a>}
         <a class="btn btn-ghost" href="#guides">Browse all guides</a>
       </div>
       <div class="hero-stats">
@@ -40,7 +67,7 @@ const totalWords = sorted.reduce((n, a) => n + wordsFor(a.body), 0);
 
   <div class="wrap-wide">
     {pillar && (
-      <a class="featured" href={`/articles/${pillar.slug}/`} aria-label={`Read: ${pillar.data.title}`}>
+      <a class="featured" href={`/articles/${pillar.slug}`} aria-label={`Read: ${pillar.data.title}`}>
         <div class="featured-body">
           <span class="tag">Start here</span>
           <h2>{pillar.data.title}</h2>
@@ -57,7 +84,7 @@ const totalWords = sorted.reduce((n, a) => n + wordsFor(a.body), 0);
       </div>
       <div class="grid">
         {rest.map((a) => (
-          <a class="card" href={`/articles/${a.slug}/`}>
+          <a class="card" href={`/articles/${a.slug}`}>
             <span class="tag">{categoryFor(a.slug)}</span>
             <h3>{a.data.title}</h3>
             <p>{a.data.description}</p>
