@@ -112,7 +112,7 @@ Llama a un taller o a un técnico cuando:
 
 Calcula **$100–175** por una visita de diagnóstico, con las reparaciones comunes — bobina, tapa, filtro, bomba — en **$150–350** en total. Por eso importa el registro de tiempo: "muere a los 40 minutos, rearranca frío, sin chispa en caliente" convierte medio día de adivinanzas en un cambio de bobina de una hora.
 
-**La versión corta:** un generador que se apaga solo te está diciendo *cuándo*, y el cuándo es casi toda la respuesta. De diez a veinte minutos es calor, vacío o aceite. De treinta a sesenta, muriendo caliente y reviviendo frío, es la bobina. Aleatorio con carga son vatios. Aleatorio en un lugar protegido es el sensor de CO: mueve el generador, jamás desactives el sensor.
+**La versión corta:** un generador que se apaga solo te está diciendo *cuándo*, y el cuándo es casi toda la respuesta. De diez a veinte minutos es calor, vacío o aceite. De treinta a sesenta, muriendo caliente y reviviendo frío, es la bobina. Aleatorio con carga son vatios. Aleatorio en un lugar protegido es el sensor de CO: mueve el generador, jamás desactives el sensor. Si los apagones de la máquina terminan empujándote a reemplazarla, dos salidas evitan toda esta clase de fallas: un generador de reserva automático con contrato de servicio, o una [batería de respaldo para el hogar](/es/articles/home-battery-vs-generator) sin motor que se apague. La [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide) compara ambas contra comprar otro portátil.
 
 ## Sigue leyendo
 

@@ -186,7 +186,7 @@ There's no shame in stopping. Call a small-engine shop or generator service tech
 - **The generator is under warranty.** DIY repairs can void it. Generac residential standbys typically carry a **5-year limited warranty**; most portables carry 2–3 years. Check before you wrench.
 - **It's a standby unit with repeated fault codes you can't clear.** Modern controllers log faults, and a tech with the dealer software can pull history that tells the real story.
 
-**What a service call costs:** Expect **$100–175** for a diagnostic visit in most US markets, with common repairs (carburetor replacement, battery swap, tune-up) landing in the **$150–350** range including parts and labor. A full portable tune-up (oil, plug, filter, carburetor service) typically runs **$150–250**. Standby annual maintenance contracts run **$300–500/year** and include the exercise-cycle monitoring, battery test, oil and filter change, and a full load test.
+**What a service call costs:** Expect **$100–175** for a diagnostic visit in most US markets, with common repairs (carburetor replacement, battery swap, tune-up) landing in the **$150–350** range including parts and labor. And if the quote comes back ugly on an old machine, run the replacement math before you pay it: a [home battery backup](/articles/home-battery-vs-generator) has no carburetor, no pull cord, and no service call — which is why some owners switch instead of repairing. A full portable tune-up (oil, plug, filter, carburetor service) typically runs **$150–250**. Standby annual maintenance contracts run **$300–500/year** and include the exercise-cycle monitoring, battery test, oil and filter change, and a full load test.
 
 ## Keep reading
 

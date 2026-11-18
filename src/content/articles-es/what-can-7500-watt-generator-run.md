@@ -165,6 +165,8 @@ Un **arrancador suave** (MicroAir EasyStart es la marca conocida, ~$300–400 m�
 - **AC central de 5 toneladas** — aun con arrancador suave, la carga de trabajo (~5,500W) más todo lo demás no deja margen en una unidad de 7,500W.
 - **Calefacción eléctrica de toda la casa** — solo la resistencia eléctrica de 10kW ya excede el generador.
 
+Cuando la lista de lo que no puede mover *es* tu lista de todos los días, ya superaste a los portátiles — eso es territorio de generador de reserva, y los [costos de un generador para toda la casa](/es/articles/whole-house-generator-cost) son los siguientes números que vale la pena mirar.
+
 ## Modelos populares de 7,500W comparados
 
 | Modelo | Vatios continuos / pico | Combustible | Ruido (dB) | Autonomía al 50% | Precio aprox. |

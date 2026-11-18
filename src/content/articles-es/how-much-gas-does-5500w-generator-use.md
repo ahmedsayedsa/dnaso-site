@@ -116,7 +116,7 @@ Algunas cosas que sí funcionan, en orden de beneficio:
 
 Lo que no funciona: aditivos que prometen grandes ganancias de eficiencia, e interruptores de "economía" en unidades convencionales que en su mayoría solo bajan tu margen de voltaje. Mejor gasta ese dinero en otro bidón: guardado con estabilizador y rotado a tu carro cada seis meses para que nunca se ponga viejo.
 
-**En resumen:** planea un 5.500 a 0,5 galones por hora, 12–15 galones al día si lo trabajas sin parar y 8–10 si lo ciclas como hace la gente sensata. Dimensiona tu almacenamiento para la cifra de tres días — unos 30–40 galones — y la pregunta del combustible deja de ser la parte estresante del apagón.
+**En resumen:** planea un 5.500 a 0,5 galones por hora, 12–15 galones al día si lo trabajas sin parar y 8–10 si lo ciclas como hace la gente sensata. Dimensiona tu almacenamiento para la cifra de tres días — unos 30–40 galones — y la pregunta del combustible deja de ser la parte estresante del apagón. Con 30–40 galones por tormenta, también es justo preguntar cuánto cuesta la ruta sin combustible: el precio instalado de un generador de reserva está en nuestra [guía de costos de generador para toda la casa](/es/articles/whole-house-generator-cost), y la [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide) pone las opciones de combustible y de batería en una sola página.
 
 ## Sigue leyendo
 

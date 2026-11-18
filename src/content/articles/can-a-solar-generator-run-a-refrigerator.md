@@ -130,7 +130,7 @@ Here's my honest verdict, by scenario:
 - **One-to-three-day outages:** 2 kWh minimum, 3.6 kWh comfortable — plus 400W of panels if the sun cooperates. Or accept duty-cycling as your way of life.
 - **Frequent multi-day outages (hurricane country, unreliable rural grid):** A battery alone is the wrong primary tool. A gas or dual-fuel generator for bulk energy, with the station as the quiet overnight fridge keeper, beats either one alone — station silent at night, generator recharging everything in a few loud morning hours. I install that hybrid more than any other setup now.
 
-Can a solar generator run a refrigerator? Yes. Just buy for the surge, size for the day, shave 15% off every promise on the box, and you'll be the house on the street eating cold leftovers while everyone else is throwing food away.
+Can a solar generator run a refrigerator? Yes. Just buy for the surge, size for the day, shave 15% off every promise on the box, and you'll be the house on the street eating cold leftovers while everyone else is throwing food away. When the fridge plan grows into a whole-house plan, the [complete home backup power guide](/articles/complete-home-backup-power-guide) maps the next steps — sizing, transfer switches, and when a generator should take over from the battery.
 
 ## Keep reading
 

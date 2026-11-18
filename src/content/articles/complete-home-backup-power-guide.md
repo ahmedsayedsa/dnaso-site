@@ -181,6 +181,8 @@ A generator that sits for two years and then gets started in a storm has about a
 - **Standby:** runs a weekly 5–10 minute self-test automatically. Still needs annual oil, filter, and spark plug service — DIY for ~$60 in parts or $200–$400 for a service contract. Budget this. A dead standby is a $12,000 lawn ornament.
 - **Batteries:** almost nothing. Check the app occasionally, keep the firmware updated.
 
+And when a maintained machine still lets you down on the day, the failure is almost always one of four: it [won't start at all](/articles/generator-wont-start-troubleshooting), it [starts and then dies](/articles/generator-starts-then-dies), it [only runs with the choke on](/articles/honda-generator-only-runs-with-choke), or it [runs but produces no power](/articles/generator-no-power-output). Each has an ordered fix list — work it before you price a replacement.
+
 ## What does it actually cost? (2026 ranges)
 
 | Setup | Equipment | Install / extras | Total |
@@ -198,7 +200,7 @@ Don't forget the ongoing costs: fuel, annual maintenance, and for portables, the
 
 ## The decision framework: if X, get Y
 
-- **Outages are rare and short, budget under $1,500:** Portable generator (Generac GP6500, Champion 100520) + heavy-duty extension cords. Start here; add a manual transfer switch later.
+- **Outages are rare and short, budget under $1,500:** Portable generator (Generac GP6500, Champion 100520) + heavy-duty extension cords. Start here; add a manual transfer switch later. Not sure what that class actually covers? [What a 4000 watt generator can run](/articles/what-can-4000-watt-generator-run) is the realistic load list.
 - **You need quiet and mainly cover essentials:** Inverter generator. A 2,200-watt Honda or Yamaha handles fridge + lights + electronics. Step up to a 7,500+ watt inverter if you want more headroom.
 - **Frequent or multi-day outages, medical equipment, you travel, sump pump, or you just want it automatic:** Standby generator, 14–22 kW depending on your sizing math. Natural gas if you have it.
 - **Short outages, solar on the roof, noise/HOA restrictions, or you hate maintenance:** Home battery. Size for your essentials, not the whole house — that keeps the price sane.

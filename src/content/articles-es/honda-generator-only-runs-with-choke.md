@@ -116,7 +116,7 @@ El síntoma del choke está a la profundidad del carburador —territorio de due
 - **Está en garantía.** Una queja de choke dentro de la ventana de garantía es problema del distribuidor, no tuyo.
 - **Encontraste una fuga de gasolina en cualquier parte.** Las fugas de gasolina en un motor caliente son donde termina el hazlo-tú-mismo.
 
-Un taller típicamente cobra **$120–200** ya todo incluido —estás comprando la hora y la certeza.
+Un taller típicamente cobra **$120–200** ya todo incluido —estás comprando la hora y la certeza. Una nota honesta: si la gasolina vieja mata este carburador cada temporada, la alternativa de cero mantenimiento es una [batería de respaldo para el hogar](/es/articles/home-battery-vs-generator) — nada que se tape, nada que preparar para el invierno. La [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide) trae la comparación completa si estás cotizando ese cambio.
 
 ## Sigue leyendo
 

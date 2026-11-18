@@ -115,7 +115,7 @@ A few things that genuinely work, in order of payoff:
 
 What doesn't work: fuel additives promising big efficiency gains, and "economy" throttle switches on conventional units that mostly just lower your voltage headroom. Spend that money on another gas can instead — stored with stabilizer, rotated into your car every six months so it never goes stale.
 
-**The bottom line:** plan a 5500 at half a gallon an hour, 12–15 gallons a day if you run it flat out, and 8–10 if you cycle it like most sensible people do. Size your fuel storage to the three-day number — about 30–40 gallons — and the fuel question stops being the stressful part of an outage.
+**The bottom line:** plan a 5500 at half a gallon an hour, 12–15 gallons a day if you run it flat out, and 8–10 if you cycle it like most sensible people do. Size your fuel storage to the three-day number — about 30–40 gallons — and the fuel question stops being the stressful part of an outage. At 30–40 gallons a storm, it's also fair to ask what the no-fuel route costs: a standby's installed price is in our [whole-house generator cost guide](/articles/whole-house-generator-cost), and the [complete home backup power guide](/articles/complete-home-backup-power-guide) puts fuel-burning and battery options on one page.
 
 ## Keep reading
 

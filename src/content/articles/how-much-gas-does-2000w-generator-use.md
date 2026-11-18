@@ -103,7 +103,7 @@ A few habits that consistently show up in the lowest fuel bills I hear about:
 
 ## The bottom line
 
-A 2000 watt inverter generator uses **about 0.1 gallons per hour doing the light work it's built for, 0.25–0.3 gph at half load, and up to 0.55 gph flat out** — which is why the same machine gets 9 hours from a tank one night and barely 3 the next. Know your load, leave eco mode on, and this class will carry you through nights, weekends, and outages for a few dollars a day in fuel. Judge it by your actual watts, not the number on the box.
+A 2000 watt inverter generator uses **about 0.1 gallons per hour doing the light work it's built for, 0.25–0.3 gph at half load, and up to 0.55 gph flat out** — which is why the same machine gets 9 hours from a tank one night and barely 3 the next. Know your load, leave eco mode on, and this class will carry you through nights, weekends, and outages for a few dollars a day in fuel. Judge it by your actual watts, not the number on the box. Fuel math is also what settles the bigger question: over a multi-day outage, gallons per day are exactly why some owners end up pricing [a whole-house generator installation](/articles/whole-house-generator-cost) instead of feeding a portable — and the [complete home backup power guide](/articles/complete-home-backup-power-guide) walks through that decision with real numbers.
 
 ## Keep reading
 

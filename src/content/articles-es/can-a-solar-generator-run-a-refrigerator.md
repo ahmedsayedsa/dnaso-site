@@ -133,7 +133,7 @@ Mi veredicto honesto, por escenario:
 - **Apagones de uno a tres días:** 2 kWh como mínimo, 3,6 kWh cómodo — más 400 W de paneles si el sol coopera. O acepta vivir ciclando el refrigerador.
 - **Apagones largos y frecuentes (zona de huracanes, red rural poco fiable):** una batería sola es la herramienta primaria equivocada. Un generador de gasolina o dual-fuel para la energía gruesa, con la estación como guardiana silenciosa del refrigerador por la noche, le gana a cualquiera de los dos por separado: la estación trabaja en silencio de noche y el generador recarga todo en unas horas ruidosas por la mañana. Hoy instalo ese híbrido más que cualquier otra combinación.
 
-¿Puede un generador solar alimentar un refrigerador? Sí. Compra pensando en el pico, dimensiona pensando en el día, recorta un 15 % de cada promesa de la caja, y serás la casa de la calle comiendo sobras frías mientras todos los demás tiran comida a la basura.
+¿Puede un generador solar alimentar un refrigerador? Sí. Compra pensando en el pico, dimensiona pensando en el día, recorta un 15 % de cada promesa de la caja, y serás la casa de la calle comiendo sobras frías mientras todos los demás tiran comida a la basura. Cuando el plan del refrigerador crece a plan de casa completa, la [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide) marca los siguientes pasos: dimensionado, interruptores de transferencia y cuándo un generador debe tomar el relevo de la batería.
 
 ## Seguir leyendo
 

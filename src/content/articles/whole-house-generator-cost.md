@@ -150,6 +150,6 @@ Every line comes from the ranges earlier in this guide — what changed is the s
 
 ## The bottom line
 
-Budget **$10,000–$13,000** for a typical whole-house install, get three itemized quotes, and pay the most attention to the gas and electrical line items — that's where the real money moves. A well-installed 22kW air-cooled unit will run your home for decades of normal outage use.
+Budget **$10,000–$13,000** for a typical whole-house install, get three itemized quotes, and pay the most attention to the gas and electrical line items — that's where the real money moves. A well-installed 22kW air-cooled unit will run your home for decades of normal outage use. Still torn between that install and a battery wall? [Home battery vs generator](/articles/home-battery-vs-generator) runs the same house both ways — runtime, noise, and maintenance — before you sign.
 
 For the full picture — sizing, fuel choice, batteries vs. generators, and maintenance — start with our [Complete Home Backup Power Guide](/articles/complete-home-backup-power-guide). And if you're weighing how the generator connects to your panel, read [Transfer Switch vs Interlock Kit: Cost, Code, and Safety](/articles/transfer-switch-vs-interlock-kit) before you sign anything.

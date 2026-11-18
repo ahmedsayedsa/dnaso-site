@@ -116,3 +116,5 @@ Grábate esto en la cabeza:
 El generador es la herramienta peligrosa más útil que la mayoría de los propietarios poseen. Veinte pies y un escape apuntando en la dirección correcta son casi toda la diferencia entre «la máquina que nos salvó la semana» y el otro tipo de historia. Mantén la distancia.
 
 *Nota práctica: si vas a colocar un generador para usarlo con mal tiempo una vez que llegue a su sitio, la guía complementaria sobre [usar un generador con seguridad bajo la lluvia](/es/articles/can-you-run-generator-in-rain) cubre cubiertas, cables y reglas para clima húmedo.*
+
+*Una realidad más de colocación: si estás ubicando un generador de reserva permanente y no un portátil, la regla de los 20 pies es solo el inicio — la base, la línea de gas y los permisos moldean la factura final en nuestro [desglose de costos de generador para toda la casa](/es/articles/whole-house-generator-cost).*

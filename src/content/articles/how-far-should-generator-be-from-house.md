@@ -123,3 +123,5 @@ Print this on the inside of your head:
 The generator is the most useful dangerous tool most homeowners own. Twenty feet and an exhaust pointed the right way is nearly the whole difference between "the machine that saved our week" and the other kind of story. Keep the distance.
 
 *Practical note: if you're placing a generator to run in bad weather once it reaches its spot, the companion guide on [running a generator safely in the rain](/articles/can-you-run-generator-in-rain) covers covers, cords, and wet-weather rules.*
+
+*One more placement reality: if you're siting a permanent standby rather than a portable, the 20-foot rule is only the start — pad, gas line, and permits all shape the final bill in our [whole-house generator cost breakdown](/articles/whole-house-generator-cost).*

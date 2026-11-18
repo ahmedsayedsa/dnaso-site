@@ -112,7 +112,7 @@ Y si todavía estás comprando y dimensionando el trabajo, la pregunta compañer
 
 ## En resumen
 
-Un generador de 7.500 vatios consume unos **0,5 galones por hora al cuarto de carga, 0,75 a media, 1,0 a tres cuartos y 1,2 a toda máquina**. Un tanque lleno compra unas 10 horas de crucero realista de casa completa. Un día completo cuesta de 12 a 29 galones y de $40 a $100 según la disciplina de tus cargas. Planea el combustible con la cifra de media carga, ten dos bidones de repuesto, mata los calefactores y deja que una máquina más chica — o un horario de apagado — cargue la noche. Haz eso y las cuentas de la gasolinera nunca te van a sorprender otra vez.
+Un generador de 7.500 vatios consume unos **0,5 galones por hora al cuarto de carga, 0,75 a media, 1,0 a tres cuartos y 1,2 a toda máquina**. Un tanque lleno compra unas 10 horas de crucero realista de casa completa. Un día completo cuesta de 12 a 29 galones y de $40 a $100 según la disciplina de tus cargas. Planea el combustible con la cifra de media carga, ten dos bidones de repuesto, mata los calefactores y deja que una máquina más chica — o un horario de apagado — cargue la noche. Haz eso y las cuentas de la gasolinera nunca te van a sorprender otra vez. Cuando la cuenta diaria de combustible empieza a parecerse a un pago de coche, es tu señal para cotizar la alternativa — [cuánto cuesta un generador de reserva instalado](/es/articles/whole-house-generator-cost) — o recorrer la [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide) y decidir de qué lado de esa línea está tu casa.
 
 ## Sigue leyendo
 

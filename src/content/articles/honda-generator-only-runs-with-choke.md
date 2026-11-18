@@ -115,7 +115,7 @@ The choke symptom is carburetor-deep — homeowner territory with basic tools. H
 - **It's under warranty.** A choke complaint inside the warranty window is the dealer's problem, not yours.
 - **You found fuel leaking anywhere.** Fuel leaks on a hot engine are where DIY ends.
 
-A shop typically charges **$120–200** all-in — you're buying the hour and the certainty.
+A shop typically charges **$120–200** all-in — you're buying the hour and the certainty. One honest footnote: if stale fuel kills this carburetor every season, the zero-maintenance alternative is a [home battery backup](/articles/home-battery-vs-generator) — nothing to clog, nothing to winterize. The [complete home backup power guide](/articles/complete-home-backup-power-guide) runs the full comparison if you're pricing that switch.
 
 ## Keep reading
 

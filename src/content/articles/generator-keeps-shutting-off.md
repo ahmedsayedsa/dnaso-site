@@ -111,7 +111,7 @@ Call a shop or generator tech when:
 
 Expect **$100–175** for a diagnostic visit, with common mid-run fixes — coil, cap, filter, pump — at **$150–350** total. That's why the timing log matters: "dies at 40 minutes, restarts cold, no spark hot" turns a half-day of guessing into a one-hour coil swap.
 
-**The short version:** a generator that keeps shutting off is telling you *when*, and when is most of the answer. Ten to twenty minutes is heat, vacuum, or oil. Thirty to sixty, dying hot and reviving cold, is the coil. Random under load is watts. Random in a sheltered spot is the CO sensor — move the generator, never defeat the sensor.
+**The short version:** a generator that keeps shutting off is telling you *when*, and when is most of the answer. Ten to twenty minutes is heat, vacuum, or oil. Thirty to sixty, dying hot and reviving cold, is the coil. Random under load is watts. Random in a sheltered spot is the CO sensor — move the generator, never defeat the sensor. If the shutdowns finally push you toward replacing the machine, two exits avoid this entire failure class: an automatic standby on a service contract, or a [home battery backup](/articles/home-battery-vs-generator) with no engine to shut off. The [complete home backup power guide](/articles/complete-home-backup-power-guide) compares both against buying another portable.
 
 ## Keep reading
 

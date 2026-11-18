@@ -135,6 +135,6 @@ La mayoría de los distribuidores ofrecen financiamiento a través de socios com
 
 ## El punto final
 
-Presupuesta **$10,000–$13,000** para una instalación típica para toda la casa, pide tres cotizaciones detalladas, y presta la mayor atención a los conceptos de gas y electricidad — ahí es donde se mueve el dinero de verdad. Una unidad enfriada por aire de 22 kW bien instalada va a alimentar tu casa por décadas de uso normal en apagones.
+Presupuesta **$10,000–$13,000** para una instalación típica para toda la casa, pide tres cotizaciones detalladas, y presta la mayor atención a los conceptos de gas y electricidad — ahí es donde se mueve el dinero de verdad. Una unidad enfriada por aire de 22 kW bien instalada va a alimentar tu casa por décadas de uso normal en apagones. ¿Todavía entre esa instalación y una pared de baterías? [Batería doméstica vs generador](/es/articles/home-battery-vs-generator) corre la misma casa por ambos caminos — autonomía, ruido y mantenimiento — antes de que firmes.
 
 Para el panorama completo — cálculo de tamaño, elección de combustible, baterías vs. generadores, y mantenimiento — empieza con nuestra [Guía de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide). Y si estás evaluando cómo se conecta el generador a tu tablero, lee [Interruptor de transferencia vs kit de interbloqueo: costo, código y seguridad](/es/articles/transfer-switch-vs-interlock-kit) antes de firmar nada.

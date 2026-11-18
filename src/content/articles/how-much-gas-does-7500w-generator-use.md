@@ -111,7 +111,7 @@ And if you're still shopping and sizing the job, the companion question comes fi
 
 ## The bottom line
 
-A 7,500-watt generator uses about **0.5 gallons per hour at quarter load, 0.75 at half, 1.0 at three-quarter, and 1.2 flat-out**. A full tank buys roughly 10 hours of realistic whole-house cruising. A full day costs 12 to 29 gallons and $40 to $100 depending on how disciplined your loads are. Plan fuel at the half-load number, own two spare cans, kill the space heaters, and let a smaller machine — or a shutdown schedule — carry the night. Do that and the gas station math never surprises you again.
+A 7,500-watt generator uses about **0.5 gallons per hour at quarter load, 0.75 at half, 1.0 at three-quarter, and 1.2 flat-out**. A full tank buys roughly 10 hours of realistic whole-house cruising. A full day costs 12 to 29 gallons and $40 to $100 depending on how disciplined your loads are. Plan fuel at the half-load number, own two spare cans, kill the space heaters, and let a smaller machine — or a shutdown schedule — carry the night. Do that and the gas station math never surprises you again. When the daily fuel bill starts rivaling a car payment, that's your signal to price the alternative — [what a whole-house standby costs installed](/articles/whole-house-generator-cost) — or work through the [complete home backup power guide](/articles/complete-home-backup-power-guide) and decide which side of that line your house is on.
 
 ## Keep reading
 

@@ -134,7 +134,7 @@ The short version, worth taping inside the panel cover:
 6. **Capacitor head?** Discharge, test, replace like-for-like at $15–40.
 7. **Still nothing?** Connections, standby layers, then the shop.
 
-An engine that runs with no output is not a dead generator. It's a good engine waiting on one small electrical part — most cost less than the fuel in the tank.
+An engine that runs with no output is not a dead generator. It's a good engine waiting on one small electrical part — most cost less than the fuel in the tank. If the repair quotes start approaching replacement money, that's the moment to compare a new portable against a [home battery backup system](/articles/home-battery-vs-generator) or an automatic standby — the [complete home backup power guide](/articles/complete-home-backup-power-guide) prices all three routes side by side.
 
 ## Keep reading
 

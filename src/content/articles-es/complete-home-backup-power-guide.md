@@ -182,6 +182,8 @@ Un generador que estuvo guardado dos años y luego se arranca en una tormenta ti
 - **De reserva:** hace una autoprueba semanal de 5–10 minutos automáticamente. Igual necesita servicio anual de aceite, filtro y bujía — háztelo tú por ~$60 en partes o $200–$400 por un contrato de servicio. Presupuesta esto. Un generador de reserva muerto es un adorno de jardín de $12,000.
 - **Baterías:** casi nada. Revisa la app de vez en cuando, mantén el firmware actualizado.
 
+Y cuando una máquina bien mantenida aun así te falla el día que importa, la falla casi siempre es una de cuatro: [no arranca para nada](/es/articles/generator-wont-start-troubleshooting), [arranca y luego muere](/es/articles/generator-starts-then-dies), [solo trabaja con el ahogador puesto](/es/articles/honda-generator-only-runs-with-choke), o [trabaja pero no produce energía](/es/articles/generator-no-power-output). Cada una tiene su lista de arreglo en orden — recórrela antes de cotizar un reemplazo.
+
 ## ¿Cuánto cuesta realmente? (rangos 2026)
 
 | Configuración | Equipo | Instalación / extras | Total |
@@ -199,7 +201,7 @@ No olvides los costos continuos: combustible, mantenimiento anual, y en los port
 
 ## El marco de decisión: si X, compra Y
 
-- **Apagones raros y cortos, presupuesto bajo $1,500:** Generador portátil (Generac GP6500, Champion 100520) + cables de extensión de alta resistencia. Empieza aquí; agrega un interruptor de transferencia manual después.
+- **Apagones raros y cortos, presupuesto bajo $1,500:** Generador portátil (Generac GP6500, Champion 100520) + cables de extensión de alta resistencia. Empieza aquí; agrega un interruptor de transferencia manual después. ¿No sabes qué cubre realmente esa clase? [Lo que puede alimentar un generador de 4000 vatios](/es/articles/what-can-4000-watt-generator-run) es la lista realista de cargas.
 - **Necesitas silencio y cubrir lo esencial:** Generador inversor. Un Honda o Yamaha de 2,200 vatios maneja nevera + luces + electrónicos. Sube a un inversor de 7,500+ vatios si quieres más margen.
 - **Apagones frecuentes o de varios días, equipos médicos, viajas, bomba de achique, o simplemente quieres que sea automático:** Generador de reserva, 14–22 kW según tu cálculo. Gas natural si lo tienes.
 - **Apagones cortos, solar en el techo, restricciones de ruido/HOA, u odias el mantenimiento:** Batería doméstica. Dimensiónala para lo esencial, no para toda la casa — eso mantiene el precio razonable.

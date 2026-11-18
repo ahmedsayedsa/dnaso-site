@@ -104,7 +104,7 @@ Algunos hábitos que aparecen una y otra vez en las cuentas de gasolina más baj
 
 ## En resumen
 
-Un generador inverter de 2000 vatios consume **unos 0,1 galones por hora haciendo el trabajo ligero para el que fue hecho, 0,25–0,3 gal/h a media carga, y hasta 0,55 gal/h a fondo** — y por eso la misma máquina saca 9 horas de un tanque una noche y apenas 3 la siguiente. Conoce tu carga, deja el modo eco encendido, y esta clase te va a cargar las noches, los fines de semana y los apagones por unos pocos dólares diarios de gasolina. Júzgala por tus vatios reales, no por el número de la caja.
+Un generador inverter de 2000 vatios consume **unos 0,1 galones por hora haciendo el trabajo ligero para el que fue hecho, 0,25–0,3 gal/h a media carga, y hasta 0,55 gal/h a fondo** — y por eso la misma máquina saca 9 horas de un tanque una noche y apenas 3 la siguiente. Conoce tu carga, deja el modo eco encendido, y esta clase te va a cargar las noches, los fines de semana y los apagones por unos pocos dólares diarios de gasolina. Júzgala por tus vatios reales, no por el número de la caja. Las cuentas de combustible también resuelven la pregunta grande: en un apagón de varios días, los galones por día son justo la razón por la que algunos dueños terminan cotizando [una instalación de generador para toda la casa](/es/articles/whole-house-generator-cost) en vez de seguir alimentando un portátil — y la [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide) recorre esa decisión con números reales.
 
 ## Sigue leyendo
 

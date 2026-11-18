@@ -135,7 +135,7 @@ La versión corta, digna de pegarse dentro de la tapa del panel:
 6. **¿Cabezal de capacitor?** Descarga, prueba, cambia por uno idéntico a $15–40.
 7. **¿Sigue sin nada?** Conexiones, capas de la reserva, y luego el taller.
 
-Un motor que trabaja sin generar no es un generador muerto. Es un buen motor esperando una piecita eléctrica — la mayoría cuesta menos que la gasolina del tanque.
+Un motor que trabaja sin generar no es un generador muerto. Es un buen motor esperando una piecita eléctrica — la mayoría cuesta menos que la gasolina del tanque. Si las cotizaciones de reparación empiezan a acercarse al dinero de un reemplazo, ese es el momento de comparar un portátil nuevo contra un [sistema de batería de respaldo para el hogar](/es/articles/home-battery-vs-generator) o un generador de reserva automático — la [guía completa de energía de respaldo para el hogar](/es/articles/complete-home-backup-power-guide) cotiza las tres rutas lado a lado.
 
 ## Sigue leyendo
 

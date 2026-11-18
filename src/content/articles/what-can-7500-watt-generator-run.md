@@ -164,6 +164,8 @@ A **soft starter** (MicroAir EasyStart is the well-known brand, ~$300–400 plus
 - **5-ton central AC** — even with a soft starter, the running load (~5,500W) plus everything else leaves no margin on a 7,500W unit.
 - **Whole-house electric heat** — a 10kW electric furnace strip alone exceeds the generator.
 
+When the can't-run list *is* your everyday list, you've outgrown portables — that's standby territory, and [whole-house generator costs](/articles/whole-house-generator-cost) are the next numbers worth your evening.
+
 ## Popular 7,500W models compared
 
 | Model | Running / peak watts | Fuel | Noise (dB) | Runtime @ 50% | Approx. price |
