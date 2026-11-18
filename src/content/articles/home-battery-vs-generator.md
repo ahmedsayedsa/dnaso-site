@@ -19,6 +19,15 @@ keywords: ["home battery backup vs generator", "tesla powerwall vs generator", "
 
 **Quick answer:** For short outages and silent, maintenance-free backup, a home battery wins — one 13.5 kWh unit ($9,000–$11,000 installed, roughly 30% less after the federal tax credit) runs essentials for 13–20 hours. For multi-day outages or whole-home loads like central AC, a generator wins on runtime and cost per watt — a 22 kW standby is $10,000–$15,000 installed and runs indefinitely on natural gas. Solar owners tilt toward the battery; everyone else should start with how long their outages actually last.
 
+**At a glance:** One battery roughly matches a standby generator on price but not on runtime — the generator wins multi-day outages, the battery wins on silence and zero maintenance, and only the battery gets the 30% federal tax credit.
+
+| Option | Installed cost | Runtime in an outage |
+|---|---|---|
+| Tesla Powerwall 3 (13.5 kWh) | $9,000–$11,000 | 13–20 hours on essentials; 2.5–3.5 hours at whole-home draw |
+| Two Powerwall 3 units | $18,000–$22,000 | Roughly double the single-unit runtime |
+| Standby generator (22–26 kW) | $10,000–$15,000 | Unlimited on natural gas |
+| Portable (7,500–9,500W) + transfer switch | $1,500–$3,000 | As long as you keep refueling it |
+
 For decades, "backup power" meant a generator, full stop. Batteries were too expensive and too weak to be a real option. That's changed. A modern home battery can carry a house through an outage silently, with zero fuel and zero maintenance — but the math only works in certain situations. Here's the honest comparison, with real 2026 numbers.
 
 ## How Home Batteries Actually Work

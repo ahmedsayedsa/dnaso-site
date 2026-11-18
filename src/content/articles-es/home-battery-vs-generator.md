@@ -20,6 +20,15 @@ keywords: ["batería doméstica vs generador", "tesla powerwall vs generador", "
 
 **Respuesta rápida:** Para apagones cortos y un respaldo silencioso y sin mantenimiento, gana la batería doméstica — una unidad de 13.5 kWh ($9,000–$11,000 instalada, aproximadamente un 30% menos tras el crédito fiscal federal) alimenta lo esencial durante 13–20 horas. Para apagones de varios días o cargas de toda la casa como el aire acondicionado central, gana el generador en autonomía y costo por vatio — un generador de reserva de 22 kW cuesta $10,000–$15,000 instalado y funciona indefinidamente con gas natural. Los dueños de paneles solares se inclinan por la batería; todos los demás deberían empezar por cuánto duran realmente sus apagones.
 
+**En resumen:** Una batería cuesta casi lo mismo que un generador de reserva, pero no dura lo mismo — el generador gana en apagones de varios días, la batería gana en silencio y cero mantenimiento, y solo la batería recibe el crédito fiscal federal del 30%.
+
+| Opción | Costo instalado | Autonomía en un apagón |
+|---|---|---|
+| Tesla Powerwall 3 (13.5 kWh) | $9,000–$11,000 | 13–20 horas con lo esencial; 2.5–3.5 horas a consumo de toda la casa |
+| Dos unidades Powerwall 3 | $18,000–$22,000 | Aproximadamente el doble de una unidad |
+| Generador de reserva (22–26 kW) | $10,000–$15,000 | Ilimitada con gas natural |
+| Portátil (7,500–9,500W) + interruptor de transferencia | $1,500–$3,000 | Mientras sigas recargando combustible |
+
 Por décadas, "energía de respaldo" significó un generador, punto. Las baterías eran muy caras y muy débiles para ser una opción real. Eso cambió. Una batería doméstica moderna puede mantener una casa durante un apagón en silencio, con cero combustible y cero mantenimiento — pero el cálculo solo funciona en ciertas situaciones. Aquí está la comparación honesta, con números reales de 2026.
 
 ## Cómo funcionan realmente las baterías domésticas

@@ -19,6 +19,15 @@ keywords: ["whole house generator cost", "standby generator installed cost", "ge
 
 **Quick answer:** Most homes pay **$10,000–$13,000 installed** for a whole-house standby generator — a 14–22 kW air-cooled unit ($4,000–$6,500) plus $3,000–$6,000 of installation: electrical work ($1,500–$3,000), the gas line ($500–$2,000+), the transfer switch, pad, and permits. Small homes can land at $8,000–$10,500; large or all-electric homes run $16,000–$25,000+, and liquid-cooled systems start around $20,000 installed. The full line-by-line breakdown is below.
 
+**At a glance:** Budget **$10,000–$13,000 installed** for a typical whole-house standby — the generator itself is only about half the bill; installation is the other half.
+
+| Home | Typical size | Total installed |
+|---|---|---|
+| Small (1,200–1,800 sq ft), gas heat, no central AC | 10–14 kW | $8,000–$10,500 |
+| Average (1,800–2,800 sq ft), central AC | 14–20 kW | $10,000–$13,000 |
+| Large (2,800–4,000 sq ft), 4–5 ton AC | 22–26 kW | $12,500–$16,000 |
+| Large home, electric heat or pool/well pump | 26 kW+ or liquid-cooled | $16,000–$25,000+ |
+
 If you want one number: most American homes land between **$8,000 and $15,000 fully installed** for an air-cooled standby generator, and the most common quotes I see cluster around **$10,000 to $12,500**. The generator unit itself is roughly half the bill. The other half is electrician labor, the gas line, the transfer switch, the pad, and permits — and that half is where quotes vary the most.
 
 This guide breaks down every line of that bill so you can read a quote the way an electrician reads it: and spot the padding.

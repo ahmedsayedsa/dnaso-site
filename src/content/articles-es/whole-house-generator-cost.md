@@ -20,6 +20,15 @@ keywords: ["costo de generador para casa", "costo instalado de generador de rese
 
 **Respuesta rápida:** La mayoría de las casas paga **$10,000–$13,000 instalado** por un generador de reserva para toda la casa — una unidad enfriada por aire de 14–22 kW ($4,000–$6,500) más $3,000–$6,000 de instalación: trabajo eléctrico ($1,500–$3,000), la línea de gas ($500–$2,000+), el interruptor de transferencia, la base y los permisos. Las casas pequeñas pueden quedar en $8,000–$10,500; las grandes o totalmente eléctricas llegan a $16,000–$25,000+, y los sistemas enfriados por líquido empiezan alrededor de $20,000 instalados. Abajo está el desglose línea por línea.
 
+**En resumen:** Presupuesta **$10,000–$13,000 instalado** por un generador de reserva típico para toda la casa — la unidad en sí es solo la mitad de la factura; la instalación es la otra mitad.
+
+| Casa | Tamaño típico del generador | Rango total instalado |
+|---|---|---|
+| Pequeña (1,200–1,800 pies cuadrados), calefacción de gas, sin aire central | 10–14 kW | $8,000–$10,500 |
+| Promedio (1,800–2,800 pies cuadrados), aire central | 14–20 kW | $10,000–$13,000 |
+| Grande (2,800–4,000 pies cuadrados), AC de 4–5 toneladas | 22–26 kW | $12,500–$16,000 |
+| Grande, calefacción eléctrica o bomba de piscina/pozo | 26 kW+ o enfriado por líquido | $16,000–$25,000+ |
+
 Si quieres un solo número: la mayoría de las casas americanas quedan entre **$8,000 y $15,000 totalmente instalado** por un generador de reserva enfriado por aire, y las cotizaciones más comunes que veo se agrupan alrededor de **$10,000 a $12,500**. La unidad del generador en sí es más o menos la mitad de la factura. La otra mitad es la mano de obra del electricista, la línea de gas, el interruptor de transferencia, la base y los permisos — y esa mitad es donde las cotizaciones varían más.
 
 Esta guía desglosa cada línea de esa factura para que puedas leer una cotización como la lee un electricista: y detectar el relleno.

@@ -20,6 +20,15 @@ lang: "es"
 
 **Respuesta rápida:** Ninguna marca gana por goleada. **Generac** es el líder en precio y red de distribuidores (22 kW instalado $10,000–$14,000, ~67 dB(A)); **Kohler** es la opción premium silenciosa (~62 dB(A), normalmente 10–20% más cara); **Cummins** es la opción sobredimensionada con la gama residencial más corta; **Briggs & Stratton** es la opción económica, con hasta 10 años de garantía limitada en algunos modelos PowerProtect. Generac, Kohler y Cummins anuncian una garantía limitada de 5 años/2,000 horas. Los factores decisivos suelen estar fuera de la hoja de especificaciones: un instalador local sólido y el plan de mantenimiento de $300–$500 al año.
 
+**En resumen:** Ninguna marca gana por goleada — Generac gana en precio y red de distribuidores, Kohler en silencio, Cummins en construcción y Briggs & Stratton en valor; tu instalador importa más que la marca.
+
+| Marca | Instalado (clase 18–22 kW) | Ruido | Garantía anunciada |
+|---|---|---|---|
+| Generac | $10,000–$14,000 (22 kW) | ~67 dB(A) | 5 años / 2,000 horas |
+| Kohler | $11,000–$16,000 | ~62 dB(A) (14RCA) | 5 años / 2,000 horas |
+| Cummins | $11,000–$16,000 | Parte baja-media de los 60 dB(A) | 5 años / 2,000 horas |
+| Briggs & Stratton | $9,000–$13,000 (20 kW) | Parte alta de los 60 dB(A) | Hasta 10 años en algunos modelos PowerProtect |
+
 Si estás comprando un generador de reserva para toda la casa, te vas a topar con los mismos cuatro nombres en todas partes: Generac, Kohler, Cummins y Briggs & Stratton. Los distribuidores suenan seguros de cualquiera que sea la marca que venden. Las reseñas en línea son una mezcla de dueños felices, dueños furiosos y gente discutiendo sobre cosas que apenas importan.
 
 Aquí va un desglose honesto de por qué es conocida realmente cada marca — los términos de garantía por escrito, el posicionamiento real de precios, qué tan grande es la red de distribuidores y qué suelen reportar los electricistas y dueños de largo plazo. Ninguna marca me paga, ninguna marca me dio una unidad de prueba, y nadie se llevó el trofeo al "mejor". Elegir un generador de reserva es una decisión de $10,000–$16,000; merece algo mejor que un folleto de ventas.
