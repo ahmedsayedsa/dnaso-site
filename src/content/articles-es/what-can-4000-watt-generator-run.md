@@ -1,6 +1,6 @@
 ---
-title: "¿Qué puede alimentar un generador de 4000 vatios? Guía real"
-description: "¿Qué puede alimentar un generador de 4000 vatios? Esenciales más un aire de ventana y bomba de pozo: tablas, tres combinaciones y lo que no puede mover."
+title: "¿Qué puede alimentar un generador de 4000 vatios? Esenciales + bomba"
+description: "Un generador de 4000 vatios alimenta refrigerador, congelador, bomba de pozo o sumidero, luces y un aire de ventana. Tablas de vatios, 3 combinaciones y lo que no puede mover."
 heroImage: "/images/what-can-4000-watt-generator-run.webp"
 faq:
   - question: "¿Un generador de 4000 vatios puede alimentar una casa?"

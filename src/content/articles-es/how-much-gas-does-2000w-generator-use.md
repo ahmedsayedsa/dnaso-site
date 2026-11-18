@@ -1,6 +1,6 @@
 ---
-title: "¿Cuánta gasolina consume un generador de 2000 vatios? (Del modo eco a plena carga)"
-description: "¿Cuánta gasolina consume un generador de 2000 vatios? Unos 0,1 gal/h en modo eco, 0,25–0,3 a media carga y 0,45–0,55 a fondo. Tablas y costos por noche."
+title: "¿Cuánta gasolina consume un generador de 2000W? 0,1–0,55 gal/h"
+description: "Un generador de 2000 vatios consume 0,1 gal/h en modo eco, 0,25–0,3 a media carga y 0,45–0,55 a plena carga. Autonomía por tanque y costo por noche."
 heroImage: "/images/how-much-gas-does-2000w-generator-use.webp"
 faq:
   - question: "¿Cuánta gasolina consume un generador de 2000 vatios por hora?"
