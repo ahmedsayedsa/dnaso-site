@@ -103,7 +103,7 @@ const groups = [
 const fmt = (n: number) => n.toLocaleString('en-US');
 ---
 
-<Base title={title} description={description} keywords={keywords}>
+<Base title={title} description={description} keywords={keywords} noTwin>
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
   </Fragment>

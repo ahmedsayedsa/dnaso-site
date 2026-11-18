@@ -9,9 +9,12 @@ interface Props {
   publishedTime?: string;
   keywords?: string[];
   lang?: 'en' | 'es';
+  /** True when the page has no twin in the other locale (e.g. the EN-only calculator):
+      hreflang then points only at the page itself and the language switch is hidden. */
+  noTwin?: boolean;
 }
 
-const { title, description, canonical, ogType = 'website', publishedTime, keywords } = Astro.props;
+const { title, description, canonical, ogType = 'website', publishedTime, keywords, noTwin = false } = Astro.props;
 const siteUrl = 'https://www.dnaso.com';
 const canonicalUrl = canonical ?? `${siteUrl}${Astro.url.pathname}`;
 
@@ -119,10 +122,19 @@ const footerGuides = [
   <link rel="canonical" href={canonicalUrl} />
   <meta name="robots" content="index, follow" />
 
-  <!-- hreflang: EN ⇄ ES alternates -->
-  <link rel="alternate" hreflang="en" href={enUrl} />
-  <link rel="alternate" hreflang="es" href={esUrl} />
-  <link rel="alternate" hreflang="x-default" href={enUrl} />
+  <!-- hreflang: EN ⇄ ES alternates (self-only when the page has no locale twin) -->
+  {noTwin ? (
+    <>
+      <link rel="alternate" hreflang={lang} href={canonicalUrl} />
+      <link rel="alternate" hreflang="x-default" href={canonicalUrl} />
+    </>
+  ) : (
+    <>
+      <link rel="alternate" hreflang="en" href={enUrl} />
+      <link rel="alternate" hreflang="es" href={esUrl} />
+      <link rel="alternate" hreflang="x-default" href={enUrl} />
+    </>
+  )}
 
   <!-- Open Graph -->
   <meta property="og:type" content={ogType} />
@@ -597,7 +609,7 @@ const footerGuides = [
         <a href={`${lp}/#guides`} class={path === `${lp}/` || path === `${lp}/#guides` ? 'active' : ''}>{t.navGuides}</a>
         <a href={`${lp}/about/`} class={path === `${lp}/about/` ? 'active' : ''}>{t.navAbout}</a>
         <a href={`${lp}/contact/`} class={path === `${lp}/contact/` ? 'active' : ''}>{t.navContact}</a>
-        <a href={altUrl} class="nav-lang" title={t.langSwitch} style="border:1px solid rgba(255,255,255,0.22)">{t.langSwitch}</a>
+        {!noTwin && <a href={altUrl} class="nav-lang" title={t.langSwitch} style="border:1px solid rgba(255,255,255,0.22)">{t.langSwitch}</a>}
         <a href={`${lp}/#guides`} class="nav-cta">{t.navCta}</a>
       </nav>
       <button class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="mobile-nav" aria-label={t.openMenu}>
@@ -609,7 +621,7 @@ const footerGuides = [
       <a href={`${lp}/#guides`}>{t.navAllGuides}</a>
       <a href={`${lp}/about/`}>{t.navAbout}</a>
       <a href={`${lp}/contact/`}>{t.navContact}</a>
-      <a href={altUrl}>{t.langSwitch}</a>
+      {!noTwin && <a href={altUrl}>{t.langSwitch}</a>}
       <a href={`${lp}/#guides`} class="nav-cta">{t.navCta}</a>
     </nav>
   </header>
