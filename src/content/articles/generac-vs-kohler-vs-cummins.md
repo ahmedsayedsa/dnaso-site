@@ -19,6 +19,15 @@ keywords: ["Generac vs Kohler", "best standby generator brand", "Cummins standby
 
 **Quick answer:** No brand runs away with it. **Generac** is the price and dealer-network leader (22 kW installed $10,000–$14,000, ~67 dB(A)); **Kohler** is the quiet premium pick (~62 dB(A), typically 10–20% more); **Cummins** is the overbuilt option with the thinnest residential lineup; **Briggs & Stratton** is the value play, with up to a 10-year limited warranty on some PowerProtect models. Generac, Kohler, and Cummins all headline a 5-year/2,000-hour limited warranty. The deciding factors are usually the ones off the spec sheet: a strong local installer and the $300–$500/year maintenance schedule.
 
+**At a glance:** No brand runs away with it — Generac wins on price and dealer network, Kohler on quiet, Cummins on build, Briggs & Stratton on value; your installer matters more than the badge.
+
+| Brand | Installed (18–22 kW class) | Noise | Headline warranty |
+|---|---|---|---|
+| Generac | $10,000–$14,000 (22 kW) | ~67 dB(A) | 5 years / 2,000 hours |
+| Kohler | $11,000–$16,000 | ~62 dB(A) (14RCA) | 5 years / 2,000 hours |
+| Cummins | $11,000–$16,000 | Low-to-mid 60s dB(A) | 5 years / 2,000 hours |
+| Briggs & Stratton | $9,000–$13,000 (20 kW) | Upper 60s dB(A) | Up to 10 years on some PowerProtect models |
+
 If you're shopping for a whole-house standby generator, you're going to run into the same four names everywhere: Generac, Kohler, Cummins, and Briggs & Stratton. Dealers all sound confident about whichever brand they sell. Online reviews are a mix of happy owners, furious owners, and people arguing about things that barely matter.
 
 Here's an honest breakdown of what each brand is actually known for — the warranty terms in writing, the real price positioning, how big the dealer network is, and what electricians and long-term owners tend to report. No brand pays me, no brand gave me a test unit, and nobody got a trophy for "best." Picking a standby generator is a $10,000–$16,000 decision; it deserves better than a sales brochure.
@@ -44,7 +53,7 @@ Generac is the 800-pound gorilla. They sell more residential standby generators 
 
 **Warranty:** 5 years or 2,000 hours, whichever comes first, on the Guardian residential line — and that's a limited warranty, not bumper-to-bumper. It covers the engine and alternator; the battery, which you'll replace every 2–3 years anyway, isn't covered. Generac also sells an extended warranty (7 years) in some markets through dealers. Read the actual warranty PDF before you sign — "limited" means some components are prorated or excluded, and the warranty requires the unit to be installed by a certified dealer and maintained on schedule.
 
-**Noise:** Generac quotes around 67 dB(A) at 23 feet for the 22 kW Guardian at normal operation. In practice, owners describe it as "a loud lawnmower in a box." It's not silent. It passes most HOA and municipal noise ordinances, which typically set limits around 70–75 dB at the property line, but if the unit sits near a bedroom window or a neighbor's patio, you'll want to think about placement and possibly an acoustic enclosure.
+**Noise:** Generac quotes around 67 dB(A) at 23 feet for the 22 kW Guardian at normal operation. In practice, owners describe it as "a loud lawnmower in a box." It's not silent. It passes most HOA and municipal noise ordinances, which typically set limits around 70–75 dB at the property line, but if the unit sits near a bedroom window or a neighbor's patio, you'll want to think about placement and possibly an acoustic enclosure. Placement has a hard side as well as a noise side: NFPA 37 keeps a standby unit at least 5 feet from any window, door, or vent, and our guide to [how far a generator should be from the house](/articles/how-far-should-generator-be-from-house) walks through the full clearance table by brand.
 
 **Reliability reputation:** This is where Generac gets divisive. Because they sell so many units, you hear more complaints in absolute numbers — but you also hear from more happy owners than any other brand. Electricians' common complaints center on the smaller/older lines: controller board issues, stepper-motor (throttle) failures, and a pattern where units that sat unmaintained for years fail at the worst moment. Generac's own weekly self-test helps here — if the battery dies or an oil issue develops, you get a warning before the storm. The recurring advice from service techs: **the maintenance schedule is not optional on a Generac.** Oil, filter, air filter, spark plugs, and battery on time, every time.
 

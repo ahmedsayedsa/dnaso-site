@@ -65,7 +65,7 @@ Brand changes nothing here — the work is identical to a Generac install, item 
 | Battery, cold-weather kit, misc. materials | $150–$350 |
 | **Typical total** | **$10,500–$14,500** |
 
-The swing factors are the same three as always: gas-run distance and meter capacity, your panel's condition (a needed panel upgrade adds $2,000–$4,000), and propane instead of natural gas (a bought tank adds $1,000–$2,500). A quote that's $3,000 above another for the same Kohler is a quote about your house, not about the generator — get it itemized and the difference explains itself.
+The swing factors are the same three as always: gas-run distance and meter capacity, your panel's condition (a needed panel upgrade adds $2,000–$4,000), and propane instead of natural gas (a bought tank adds $1,000–$2,500). A quote that's $3,000 above another for the same Kohler is a quote about your house, not about the generator — get it itemized and the difference explains itself. And before any of it, the spot itself has to pass the clearance rules — 5 feet from openings under NFPA 37, with Kohler's own installation print stricter at combustible walls; our [generator placement and clearance guide](/articles/how-far-should-generator-be-from-house) has the full numbers.
 
 <div class="safety"><strong>Safety note:</strong> Gas connections must be installed by a licensed plumber or gas fitter and permitted/inspected in your jurisdiction. An undersized or leaking gas line is a carbon monoxide and fire hazard — this is never a DIY line item.</div>
 

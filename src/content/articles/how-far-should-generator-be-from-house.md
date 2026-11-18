@@ -84,6 +84,23 @@ Two things to understand about that difference:
 1. **The clearance comes from engineering, not luck.** The enclosure, exhaust routing, and placement were tested as a system, and a permitted installation gets inspected against code. Your portable on the patio has none of that.
 2. **"Closer is allowed" is not "distance doesn't matter."** Installers still can't park a standby unit under your bedroom window — the 5-feet-from-openings rule, local code, and the manual all constrain the pad location. If you're planning a standby install, the [complete home backup power guide](/articles/complete-home-backup-power-guide) covers how placement fits the bigger project, and the [transfer switch versus interlock guide](/articles/transfer-switch-vs-interlock-kit) covers the electrical side.
 
+## What are the exact clearance numbers, by generator type?
+
+Here are the two rule sets side by side, as the agencies, the standard, and the manufacturers actually print them:
+
+| Clearance | Portable generator | Standby generator (Generac air-cooled) |
+|---|---|---|
+| From openings (windows, doors, vents) | **More than 20 ft** from any window, door, or vent (CDC); exhaust pointed away from the home (CPSC) | No opening within **5 ft** of any point of the unit (NFPA 37 §4.1.4; Generac installation guidelines) |
+| From the wall itself | No closer tested distance exists — the 20 ft rule governs | **18 in minimum** at the back on fire-tested (SwRI-marked) models; without the fire test, NFPA 37's default is **5 ft from combustible walls** |
+| Front and ends | Keep clear for cooling and access | **3 ft** clear — shrubs, bushes, and fences included |
+| Overhead | Never under any roof, porch, deck, or awning | **5 ft minimum** above the top of the unit to any structure, overhang, or wall projection |
+
+The standby numbers trace back to one paragraph. NFPA 37, Section 4.1.4, states that engines installed outdoors "shall be located at least 5 ft from openings in walls and at least 5 ft from structures having combustible walls." The 18-inch figure exists because Generac had its enclosures fire-tested at Southwest Research Institute (SwRI), and the standard allows a tested enclosure to sit closer to the wall. Read that carefully, because it's the most misread number in standby placement: **the fire test reduces the wall distance only. It does not reduce the openings distance.** Generac says so itself — a window, door, or vent stays 5 feet from every point of the unit no matter how close the back sits to the siding.
+
+Brands also differ at the wall. Kohler's installation print for the 20RESC keeps the NFPA default — 5 ft from a combustible wall, 18 inches minimum (3 ft recommended) from a non-combustible one — and measures its openings clearance from the exhaust end of the unit: 5 ft to the nearest window, door, or vent, and 10 ft to furnace and similar air intakes. Same standard, stricter print. The lesson generalizes: the clearance table in *your model's* installation manual is the document that governs your pad, these figures are the common pattern, and local code can always add more — setbacks from property lines and gas meters are local rules, not national ones.
+
+*Sources for this section, checked November 2026: [CDC, Carbon Monoxide (CO) Poisoning Basics](https://www.cdc.gov/carbon-monoxide/about/index.html?CDC_AAref_Val=https://www.cdc.gov/co/es/faqs.htm); CPSC portable-generator guidance; NFPA 37 §4.1.4 as printed in Generac's Installation Guidelines for air-cooled generators; Kohler 20RESC installation print.*
+
 ## What about your neighbors?
 
 CO doesn't respect property lines. If your generator is 20 feet from *your* house but 8 feet from your neighbor's open window, you've exported the problem. In dense neighborhoods this takes thirty seconds of thought: aim the exhaust along your own lot, away from both homes' windows, and if you share a wall (townhomes, duplexes), coordinate — your neighbor's "fresh air" window may be right where your exhaust wants to go.

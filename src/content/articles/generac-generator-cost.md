@@ -71,7 +71,7 @@ A few notes on the line items that surprise people. The **transfer switch** is s
 
 Same generator, same street, wildly different quotes — it happens constantly, and these are the usual causes:
 
-**Gas run distance and meter capacity.** The biggest single swing factor. A generator placed near the meter with a short run might add $500 of pipe work. A 60-foot trenched run, a meter upgrade, and a second-stage regulator can add $2,500–$3,500. Placement is a cost decision: every foot from the meter and panel is pipe, wire, and labor.
+**Gas run distance and meter capacity.** The biggest single swing factor. A generator placed near the meter with a short run might add $500 of pipe work. A 60-foot trenched run, a meter upgrade, and a second-stage regulator can add $2,500–$3,500. Placement is a cost decision: every foot from the meter and panel is pipe, wire, and labor. It's also a code decision — the clearance rules (5 feet from any opening, per NFPA 37) can rule out the cheapest spot entirely, so check [how far a generator has to sit from the house](/articles/how-far-should-generator-be-from-house) before you fall in love with a location.
 
 **Your electrical panel.** A modern 200-amp panel with open space takes the transfer switch cleanly. A full panel, a 100-amp service, or an obsolete fuse box needs a panel upgrade first — $2,000–$4,000 on its own. This is the most common "surprise" line item, and a good installer flags it at the site visit, not mid-job.
 
