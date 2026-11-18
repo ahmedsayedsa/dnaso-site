@@ -1,6 +1,6 @@
 ---
-title: "What Can a 4000 Watt Generator Run? Combos With Math"
-description: "What can a 4000 watt generator run? Essentials plus a window AC and a well pump — wattage tables, three load combos with the math, and what it can't power."
+title: "What Can a 4000 Watt Generator Run? Fridge, AC & Well Pump"
+description: "A 4000 watt generator runs a fridge, freezer, well pump, lights and one window AC — but not central AC. Wattage tables, 3 load combos, and what to leave off."
 heroImage: "/images/what-can-4000-watt-generator-run.webp"
 faq:
   - question: "Can a 4000 watt generator run a house?"

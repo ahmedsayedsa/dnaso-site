@@ -1,6 +1,6 @@
 ---
-title: "Generator Runs But No Power Output? Fix It in Order"
-description: "Generator runs but no power output? Check the breaker, test voltage, flash the field, and test the AVR in order — with real costs and safety rules."
+title: "Generator Runs But No Power? Check the Breaker First"
+description: "Generator runs but no power output? The #1 cause is a tripped breaker or GFCI. Then, in order: flash the field, test the AVR, check the brushes — with real costs."
 heroImage: "/images/generator-no-power-output.webp"
 faq:
   - question: "Why does my generator run but produce no power?"

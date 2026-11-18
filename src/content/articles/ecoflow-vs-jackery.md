@@ -1,6 +1,6 @@
 ---
-title: "EcoFlow vs Jackery: Which Power Station Should You Buy?"
-description: "EcoFlow vs Jackery, head to head: Delta Pro 3 vs Explorer 2000 Plus on capacity, output, charging speed, expansion and price — with verdicts by use case."
+title: "EcoFlow vs Jackery: Faster Charging vs Lower Price"
+description: "EcoFlow vs Jackery head to head: Delta Pro 3 vs Explorer 2000 Plus on charging speed, capacity, expansion and price per kWh — with a verdict for home backup and camping."
 heroImage: "/images/ecoflow-vs-jackery.webp"
 faq:
   - question: "Which is better, EcoFlow or Jackery?"

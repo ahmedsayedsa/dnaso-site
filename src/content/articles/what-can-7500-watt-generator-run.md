@@ -1,6 +1,6 @@
 ---
-title: "What Can a 7,500-Watt Generator Run? (With Real Examples)"
-description: "What a 7,500-watt generator can run: room-by-room wattage tables, three worked scenarios, what it can't power, and the best 7500W models compared."
+title: "What Can a 7,500W Generator Run? Almost a Whole House"
+description: "A 7,500-watt generator runs essentials at 2,200–3,000W and a managed comfort load near 6,000W — room-by-room tables, worked scenarios, and what it can't power."
 heroImage: "/images/what-can-7500-watt-generator-run.webp"
 faq:
   - question: "Can a 7,500-watt generator run a whole house?"

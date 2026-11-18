@@ -1,6 +1,6 @@
 ---
-title: "Honda Generator Only Runs With Choke On: Causes and Fixes"
-description: "Honda generator only runs with choke on? It's starving for fuel. Find the clogged jet, stale gas, or air leak behind it and fix your EU2200i for good."
+title: "Honda Generator Only Runs on Choke? The Clogged-Jet Fix"
+description: "Honda generator only runs with choke on? It's starving for fuel: a clogged pilot jet, stale gas or an air leak. How to find it and fix your EU2200i for good."
 heroImage: "/images/honda-generator-only-runs-with-choke.webp"
 faq:
   - question: "Why does my Honda generator only run with the choke on?"

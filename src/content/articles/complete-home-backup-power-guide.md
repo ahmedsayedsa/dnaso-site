@@ -1,6 +1,6 @@
 ---
-title: "Home Backup Power Guide 2026: Generators vs Batteries"
-description: "Complete 2026 guide to home backup power: generator types, sizing math, installed costs, batteries vs generators, and what actually matters when the grid goes down."
+title: "Home Backup Power Guide 2026: Costs, Sizing, Batteries"
+description: "The complete 2026 home backup power guide: what systems really cost ($500 portable to $17,000 standby), sizing math that works, and generator vs battery verdicts."
 heroImage: "/images/complete-home-backup-power-guide.webp"
 faq:
   - question: "How do I size a generator for my house?"

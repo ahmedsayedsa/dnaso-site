@@ -1,6 +1,6 @@
 ---
-title: "How Much Gas Does a 2000 Watt Generator Use? (Eco to Full Load)"
-description: "How much gas does a 2000 watt generator use? About 0.1 gph on eco mode, 0.25–0.3 at half load, 0.45–0.55 flat out. Runtime tables and overnight costs."
+title: "How Much Gas Does a 2000W Generator Use? 0.1–0.55 Gal/Hr"
+description: "A 2000 watt generator burns about 0.1 gal/hr on eco mode, 0.25–0.3 at half load and 0.45–0.55 flat out. Runtime per tank and overnight fuel costs."
 heroImage: "/images/how-much-gas-does-2000w-generator-use.webp"
 faq:
   - question: "How much gas does a 2000 watt generator use per hour?"
